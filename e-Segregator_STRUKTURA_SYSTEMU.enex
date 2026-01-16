@@ -12,13 +12,144 @@
 <!--   Neonowy akcent: #00FFF7 (oszczednie)                              -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
+    <!-- NOTATKA 0: SPIS TRESCI -->
+    <note>
+        <title>SPIS TRESCI - Struktura e-Segregator HACCP</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="text-align:center; padding:30px 20px; background: linear-gradient(135deg, #004F5D 0%, #007380 100%); color:white; margin:-10px -10px 20px -10px;">
+                <h1 style="font-size:28px; margin-bottom:10px;">SPIS TRESCI</h1>
+                <p style="font-size:16px; color:#00FFF7;">e-Segregator HACCP - Struktura Systemu</p>
+                <p style="font-size:12px; color:#a0d4d4; margin-top:20px;">by INOVIT | www.inovit.com.pl</p>
+            </div>
+
+            <div style="background-color:#e6f3f5; padding:15px; border-left:5px solid #00FFF7; margin:20px 0;">
+                <p><b>Instrukcja:</b> Po zaimportowaniu do Evernote, kliknij prawym przyciskiem na tytul notatki w spisie ponizej i wybierz "Kopiuj lacze wewnetrzne", a nastepnie wklej jako lacze. Dzieki temu utworzysz aktywna nawigacje miedzy notatkami.</p>
+            </div>
+
+            <hr style="border-color:#007380;"/>
+
+            <h2 style="color:#004F5D;">Notatki w tym zbiorze:</h2>
+
+            <table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; border-color:#007380;">
+                <tr style="background-color:#004F5D; color:white;">
+                    <th style="width:50px;">Nr</th>
+                    <th>Tytul notatki</th>
+                    <th style="width:150px;">Kategoria</th>
+                </tr>
+                <tr>
+                    <td style="text-align:center;"><b>00</b></td>
+                    <td><span style="color:#007380; text-decoration:underline;">00. e-Segregator HACCP - Wprowadzenie do systemu</span></td>
+                    <td>Wprowadzenie</td>
+                </tr>
+                <tr style="background-color:#e6f3f5;">
+                    <td style="text-align:center;"><b>01</b></td>
+                    <td><span style="color:#007380; text-decoration:underline;">01. STACK 0: Strona tytulowa i dane zakladu</span></td>
+                    <td>Stack 0</td>
+                </tr>
+                <tr>
+                    <td style="text-align:center;"><b>02</b></td>
+                    <td><span style="color:#007380; text-decoration:underline;">02. STACK I: Warunki wstepne (GHP/GMP)</span></td>
+                    <td>Stack I</td>
+                </tr>
+                <tr style="background-color:#e6f3f5;">
+                    <td style="text-align:center;"><b>03</b></td>
+                    <td><span style="color:#007380; text-decoration:underline;">03. STACK II: System HACCP (12 krokow)</span></td>
+                    <td>Stack II</td>
+                </tr>
+                <tr>
+                    <td style="text-align:center;"><b>04</b></td>
+                    <td><span style="color:#007380; text-decoration:underline;">04. STACK III: Procedury i instrukcje</span></td>
+                    <td>Stack III</td>
+                </tr>
+                <tr style="background-color:#e6f3f5;">
+                    <td style="text-align:center;"><b>05</b></td>
+                    <td><span style="color:#007380; text-decoration:underline;">05. STACK IV: Formularze i zapisy biezace</span></td>
+                    <td>Stack IV</td>
+                </tr>
+                <tr>
+                    <td style="text-align:center;"><b>06</b></td>
+                    <td><span style="color:#007380; text-decoration:underline;">06. STACK V: Szkolenia i personel</span></td>
+                    <td>Stack V</td>
+                </tr>
+                <tr style="background-color:#e6f3f5;">
+                    <td style="text-align:center;"><b>07</b></td>
+                    <td><span style="color:#007380; text-decoration:underline;">07. STACK VI: Audyty i przeglady</span></td>
+                    <td>Stack VI</td>
+                </tr>
+                <tr>
+                    <td style="text-align:center;"><b>08</b></td>
+                    <td><span style="color:#007380; text-decoration:underline;">08. STACK VII: Dostawcy i klienci</span></td>
+                    <td>Stack VII</td>
+                </tr>
+                <tr style="background-color:#e6f3f5;">
+                    <td style="text-align:center;"><b>09</b></td>
+                    <td><span style="color:#007380; text-decoration:underline;">09. STACK VIII: Infrastruktura i urzadzenia</span></td>
+                    <td>Stack VIII</td>
+                </tr>
+                <tr>
+                    <td style="text-align:center;"><b>10</b></td>
+                    <td><span style="color:#007380; text-decoration:underline;">10. STACK IX: Aktualizacje prawne i baza wiedzy</span></td>
+                    <td>Stack IX</td>
+                </tr>
+                <tr style="background-color:#e6f3f5;">
+                    <td style="text-align:center;"><b>11</b></td>
+                    <td><span style="color:#007380; text-decoration:underline;">11. STACK X: Archiwum</span></td>
+                    <td>Stack X</td>
+                </tr>
+                <tr>
+                    <td style="text-align:center;"><b>12</b></td>
+                    <td><span style="color:#007380; text-decoration:underline;">12. System tagowania e-Segregator HACCP</span></td>
+                    <td>Instrukcja</td>
+                </tr>
+                <tr style="background-color:#e6f3f5;">
+                    <td style="text-align:center;"><b>13</b></td>
+                    <td><span style="color:#007380; text-decoration:underline;">13. PULPIT KONTROLNY - Dashboard</span></td>
+                    <td>Dashboard</td>
+                </tr>
+            </table>
+
+            <hr style="border-color:#007380;"/>
+
+            <h2 style="color:#004F5D;">Szybki przeglad struktury:</h2>
+
+            <div style="display:flex; flex-wrap:wrap; gap:10px;">
+                <div style="background-color:#004F5D; color:white; padding:10px 15px; border-radius:5px; margin:5px;"><b>Stack 0</b> - Dane zakladu</div>
+                <div style="background-color:#007380; color:white; padding:10px 15px; border-radius:5px; margin:5px;"><b>Stack I</b> - GHP/GMP</div>
+                <div style="background-color:#004F5D; color:white; padding:10px 15px; border-radius:5px; margin:5px;"><b>Stack II</b> - HACCP</div>
+                <div style="background-color:#007380; color:white; padding:10px 15px; border-radius:5px; margin:5px;"><b>Stack III</b> - Procedury</div>
+                <div style="background-color:#004F5D; color:white; padding:10px 15px; border-radius:5px; margin:5px;"><b>Stack IV</b> - Rejestry</div>
+                <div style="background-color:#007380; color:white; padding:10px 15px; border-radius:5px; margin:5px;"><b>Stack V</b> - Szkolenia</div>
+                <div style="background-color:#004F5D; color:white; padding:10px 15px; border-radius:5px; margin:5px;"><b>Stack VI</b> - Audyty</div>
+                <div style="background-color:#007380; color:white; padding:10px 15px; border-radius:5px; margin:5px;"><b>Stack VII</b> - Dostawcy</div>
+                <div style="background-color:#004F5D; color:white; padding:10px 15px; border-radius:5px; margin:5px;"><b>Stack VIII</b> - Infrastruktura</div>
+                <div style="background-color:#007380; color:white; padding:10px 15px; border-radius:5px; margin:5px;"><b>Stack IX</b> - Przepisy</div>
+                <div style="background-color:#004F5D; color:white; padding:10px 15px; border-radius:5px; margin:5px;"><b>Stack X</b> - Archiwum</div>
+            </div>
+
+            <p style="font-size:10px; color:#007380; margin-top:30px;"><i>Wersja dokumentu: 2.0 | Data: 2026-01-16 | INOVIT e-Segregator HACCP</i></p>
+        </en-note>]]>
+        </content>
+        <created>20260116T095900Z</created>
+        <updated>20260116T095900Z</updated>
+        <tag>00_Struktura_Systemu</tag>
+        <tag>Spis_Tresci</tag>
+        <tag>Nawigacja</tag>
+        <tag>e-Segregator</tag>
+    </note>
+
     <!-- NOTATKA 1: WPROWADZENIE DO SYSTEMU -->
     <note>
         <title>00. e-Segregator HACCP - Wprowadzenie do systemu</title>
         <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
         <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
         <en-note>
-            <div style="text-align:center; padding:30px 20px; background: linear-gradient(135deg, #004F5D 0%, #007380 100%); color:white; margin:-10px -10px 20px -10px;">
+            <div style="background-color:#e6f3f5; padding:8px 15px; margin:-10px -10px 0 -10px; border-bottom:2px solid #007380;">
+                <span style="color:#007380; text-decoration:underline; font-size:14px;">&#8592; SPIS TRESCI - Struktura e-Segregator HACCP</span>
+            </div>
+
+            <div style="text-align:center; padding:30px 20px; background: linear-gradient(135deg, #004F5D 0%, #007380 100%); color:white; margin:0 -10px 20px -10px;">
                 <h1 style="font-size:28px; margin-bottom:10px;">e-SEGREGATOR HACCP</h1>
                 <p style="font-size:16px; color:#00FFF7;">Cyfrowa Ksiega HACCP dla Evernote</p>
                 <p style="font-size:12px; color:#a0d4d4; margin-top:20px;">by INOVIT | www.inovit.com.pl</p>
@@ -101,7 +232,11 @@
         <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
         <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
         <en-note>
-            <div style="background-color:#004F5D; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+            <div style="background-color:#e6f3f5; padding:8px 15px; margin:-10px -10px 0 -10px; border-bottom:2px solid #007380;">
+                <span style="color:#007380; text-decoration:underline; font-size:14px;">&#8592; SPIS TRESCI - Struktura e-Segregator HACCP</span>
+            </div>
+
+            <div style="background-color:#004F5D; color:white; padding:15px; margin:0 -10px 20px -10px;">
                 <h1 style="margin:0;">STACK 0: STRONA TYTULOWA I DANE ZAKLADU</h1>
             </div>
 
@@ -160,7 +295,11 @@
         <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
         <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
         <en-note>
-            <div style="background-color:#004F5D; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+            <div style="background-color:#e6f3f5; padding:8px 15px; margin:-10px -10px 0 -10px; border-bottom:2px solid #007380;">
+                <span style="color:#007380; text-decoration:underline; font-size:14px;">&#8592; SPIS TRESCI - Struktura e-Segregator HACCP</span>
+            </div>
+
+            <div style="background-color:#004F5D; color:white; padding:15px; margin:0 -10px 20px -10px;">
                 <h1 style="margin:0;">STACK I: WARUNKI WSTEPNE (GHP/GMP)</h1>
             </div>
 
@@ -294,7 +433,11 @@
         <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
         <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
         <en-note>
-            <div style="background-color:#004F5D; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+            <div style="background-color:#e6f3f5; padding:8px 15px; margin:-10px -10px 0 -10px; border-bottom:2px solid #007380;">
+                <span style="color:#007380; text-decoration:underline; font-size:14px;">&#8592; SPIS TRESCI - Struktura e-Segregator HACCP</span>
+            </div>
+
+            <div style="background-color:#004F5D; color:white; padding:15px; margin:0 -10px 20px -10px;">
                 <h1 style="margin:0;">STACK II: SYSTEM HACCP (12 KROKOW)</h1>
                 <p style="margin:5px 0 0 0; font-size:14px; color:#00FFF7;">Serce systemu - Analiza zagrozen i CCP</p>
             </div>
@@ -413,7 +556,11 @@
         <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
         <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
         <en-note>
-            <div style="background-color:#007380; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+            <div style="background-color:#e6f3f5; padding:8px 15px; margin:-10px -10px 0 -10px; border-bottom:2px solid #007380;">
+                <span style="color:#007380; text-decoration:underline; font-size:14px;">&#8592; SPIS TRESCI - Struktura e-Segregator HACCP</span>
+            </div>
+
+            <div style="background-color:#007380; color:white; padding:15px; margin:0 -10px 20px -10px;">
                 <h1 style="margin:0;">STACK III: PROCEDURY I INSTRUKCJE</h1>
             </div>
 
@@ -471,7 +618,11 @@
         <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
         <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
         <en-note>
-            <div style="background-color:#004F5D; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+            <div style="background-color:#e6f3f5; padding:8px 15px; margin:-10px -10px 0 -10px; border-bottom:2px solid #007380;">
+                <span style="color:#007380; text-decoration:underline; font-size:14px;">&#8592; SPIS TRESCI - Struktura e-Segregator HACCP</span>
+            </div>
+
+            <div style="background-color:#004F5D; color:white; padding:15px; margin:0 -10px 20px -10px;">
                 <h1 style="margin:0;">STACK IV: FORMULARZE I ZAPISY BIEZACE</h1>
                 <p style="margin:5px 0 0 0; font-size:14px; color:#00FFF7;">Rejestry do codziennego wypelniania</p>
             </div>
@@ -586,7 +737,11 @@
         <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
         <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
         <en-note>
-            <div style="background-color:#007380; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+            <div style="background-color:#e6f3f5; padding:8px 15px; margin:-10px -10px 0 -10px; border-bottom:2px solid #007380;">
+                <span style="color:#007380; text-decoration:underline; font-size:14px;">&#8592; SPIS TRESCI - Struktura e-Segregator HACCP</span>
+            </div>
+
+            <div style="background-color:#007380; color:white; padding:15px; margin:0 -10px 20px -10px;">
                 <h1 style="margin:0;">STACK V: SZKOLENIA I PERSONEL</h1>
             </div>
 
@@ -655,7 +810,11 @@
         <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
         <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
         <en-note>
-            <div style="background-color:#004F5D; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+            <div style="background-color:#e6f3f5; padding:8px 15px; margin:-10px -10px 0 -10px; border-bottom:2px solid #007380;">
+                <span style="color:#007380; text-decoration:underline; font-size:14px;">&#8592; SPIS TRESCI - Struktura e-Segregator HACCP</span>
+            </div>
+
+            <div style="background-color:#004F5D; color:white; padding:15px; margin:0 -10px 20px -10px;">
                 <h1 style="margin:0;">STACK VI: AUDYTY I PRZEGLADY</h1>
             </div>
 
@@ -720,7 +879,11 @@
         <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
         <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
         <en-note>
-            <div style="background-color:#007380; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+            <div style="background-color:#e6f3f5; padding:8px 15px; margin:-10px -10px 0 -10px; border-bottom:2px solid #007380;">
+                <span style="color:#007380; text-decoration:underline; font-size:14px;">&#8592; SPIS TRESCI - Struktura e-Segregator HACCP</span>
+            </div>
+
+            <div style="background-color:#007380; color:white; padding:15px; margin:0 -10px 20px -10px;">
                 <h1 style="margin:0;">STACK VII: DOSTAWCY I KLIENCI</h1>
             </div>
 
@@ -782,7 +945,11 @@
         <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
         <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
         <en-note>
-            <div style="background-color:#004F5D; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+            <div style="background-color:#e6f3f5; padding:8px 15px; margin:-10px -10px 0 -10px; border-bottom:2px solid #007380;">
+                <span style="color:#007380; text-decoration:underline; font-size:14px;">&#8592; SPIS TRESCI - Struktura e-Segregator HACCP</span>
+            </div>
+
+            <div style="background-color:#004F5D; color:white; padding:15px; margin:0 -10px 20px -10px;">
                 <h1 style="margin:0;">STACK VIII: INFRASTRUKTURA I URZADZENIA</h1>
             </div>
 
@@ -842,7 +1009,11 @@
         <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
         <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
         <en-note>
-            <div style="background-color:#007380; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+            <div style="background-color:#e6f3f5; padding:8px 15px; margin:-10px -10px 0 -10px; border-bottom:2px solid #007380;">
+                <span style="color:#007380; text-decoration:underline; font-size:14px;">&#8592; SPIS TRESCI - Struktura e-Segregator HACCP</span>
+            </div>
+
+            <div style="background-color:#007380; color:white; padding:15px; margin:0 -10px 20px -10px;">
                 <h1 style="margin:0;">STACK IX: AKTUALIZACJE PRAWNE I BAZA WIEDZY</h1>
             </div>
 
@@ -910,7 +1081,11 @@
         <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
         <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
         <en-note>
-            <div style="background-color:#004F5D; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+            <div style="background-color:#e6f3f5; padding:8px 15px; margin:-10px -10px 0 -10px; border-bottom:2px solid #007380;">
+                <span style="color:#007380; text-decoration:underline; font-size:14px;">&#8592; SPIS TRESCI - Struktura e-Segregator HACCP</span>
+            </div>
+
+            <div style="background-color:#004F5D; color:white; padding:15px; margin:0 -10px 20px -10px;">
                 <h1 style="margin:0;">STACK X: ARCHIWUM</h1>
             </div>
 
@@ -969,7 +1144,11 @@
         <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
         <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
         <en-note>
-            <div style="background-color:#004F5D; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+            <div style="background-color:#e6f3f5; padding:8px 15px; margin:-10px -10px 0 -10px; border-bottom:2px solid #007380;">
+                <span style="color:#007380; text-decoration:underline; font-size:14px;">&#8592; SPIS TRESCI - Struktura e-Segregator HACCP</span>
+            </div>
+
+            <div style="background-color:#004F5D; color:white; padding:15px; margin:0 -10px 20px -10px;">
                 <h1 style="margin:0;">SYSTEM TAGOWANIA</h1>
                 <p style="margin:5px 0 0 0; font-size:14px; color:#00FFF7;">Szybkie wyszukiwanie i kategoryzacja</p>
             </div>
@@ -1039,7 +1218,11 @@
         <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
         <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
         <en-note>
-            <div style="background: linear-gradient(135deg, #004F5D 0%, #007380 100%); color:white; padding:20px; margin:-10px -10px 20px -10px; text-align:center;">
+            <div style="background-color:#e6f3f5; padding:8px 15px; margin:-10px -10px 0 -10px; border-bottom:2px solid #007380;">
+                <span style="color:#007380; text-decoration:underline; font-size:14px;">&#8592; SPIS TRESCI - Struktura e-Segregator HACCP</span>
+            </div>
+
+            <div style="background: linear-gradient(135deg, #004F5D 0%, #007380 100%); color:white; padding:20px; margin:0 -10px 20px -10px; text-align:center;">
                 <h1 style="margin:0; font-size:24px;">KSIEGA HACCP</h1>
                 <p style="margin:10px 0 0 0; font-size:16px; color:#00FFF7;">[Nazwa zakladu]</p>
             </div>
