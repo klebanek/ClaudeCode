@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export4.dtd">
+<en-export export-date="20251203T120000Z" application="Evernote" version="10.x">
+
+<!-- ================================================================== -->
+<!-- CZĘŚĆ 1: Procedury GHP-01 do GHP-04 -->
+<!-- ================================================================== -->
+
+<!-- Tutaj są pełne procedury GHP-01 i GHP-02 które już wygenerowałem -->
+<!-- Dodam je z poprzednich plików + nowe GHP-03 i GHP-04 -->
+
+<!-- GHP-01: Mycie i dezynfekcja - UWAGA: Pełna treść z poprzedniego pliku -->
+<note>
+<title>GHP-01 Mycie i dezynfekcja pomieszczeń i sprzętu</title>
+<created>20251203T100000Z</created>
+<updated>20251203T100000Z</updated>
+<tag>01_GHP</tag>
+<tag>Warunki_Wstępne</tag>
+<tag>Zakład_Mięsny</tag>
+<tag>✅_Zatwierdzone</tag>
+<note-attributes>
+<author>INOVIT e-Segregator</author>
+</note-attributes>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+<h1 style="color:#2c3e50; border-bottom:3px solid #3498db; padding-bottom:10px;">
+GHP-01: Mycie i dezynfekcja pomieszczeń i sprzętu
+</h1>
+<div style="background-color:#e8f4f8; padding:15px; border-left:4px solid #3498db; margin:20px 0;">
+<strong>Status:</strong> ✅ Zatwierdzone | <strong>Wersja:</strong> 1.0 | <strong>Data:</strong> 2025-12-03
+</div>
+
+<h2 style="color:#2c3e50;">1. CEL PROCEDURY</h2>
+<p style="line-height:1.6;">
+Zapewnienie odpowiedniego poziomu czystości pomieszczeń produkcyjnych, magazynowych oraz sprzętu kontaktującego się z żywnością.
+</p>
+
+<h2 style="color:#2c3e50;">2. ZAKRES STOSOWANIA</h2>
+<ul style="line-height:1.8;">
+<li>🏭 Hala produkcyjna (obróbka mięsa, przetwórstwo)</li>
+<li>📦 Magazyny surowców i produktów gotowych</li>
+<li>⚙️ Linie produkcyjne i narzędzia</li>
+<li>🧹 Pomieszczenia socjalne</li>
+</ul>
+
+<h2 style="color:#2c3e50;">3. PROCEDURA MYCIA (7 KROKÓW)</h2>
+
+<h3 style="background-color:#3498db; color:white; padding:10px;">KROK 1: Usunięcie zanieczyszczeń mechanicznych</h3>
+<p style="margin-left:20px;">Zgarnięcie resztek mięsa, tłuszczu, zeskrobanie przypalonych elementów. ⏱️ 10-15 min</p>
+
+<h3 style="background-color:#3498db; color:white; padding:10px;">KROK 2: Wstępne spłukanie wodą</h3>
+<p style="margin-left:20px;">Spłukanie wodą ciepłą 35-45°C (NIE gorącą - zbryla białko!). ⏱️ 5-10 min</p>
+
+<h3 style="background-color:#3498db; color:white; padding:10px;">KROK 3: Aplikacja detergentu</h3>
+<p style="margin-left:20px;">Nałożenie środka myjącego pianą, pozostawić 10-15 min. ⏱️ 15-20 min</p>
+
+<h3 style="background-color:#3498db; color:white; padding:10px;">KROK 4: Mechaniczne wyszorowanie</h3>
+<p style="margin-left:20px;">Szczotkami kolorowymi (CZERWONA-surówka, NIEBIESKA-gotówka, ŻÓŁTA-socjalne). ⏱️ 15-20 min</p>
+
+<h3 style="background-color:#3498db; color:white; padding:10px;">KROK 5: Dokładne spłukanie</h3>
+<p style="margin-left:20px;">Myjka ciśnieniowa 50-80 bar, spłukiwanie aż do usunięcia piany. ⏱️ 10-15 min</p>
+
+<h3 style="background-color:#27ae60; color:white; padding:10px;">KROK 6: Dezynfekcja</h3>
+<p style="margin-left:20px;">Aplikacja środka dezynfekcyjnego, czas działania min. 10 min. ⏱️ 15-20 min</p>
+
+<h3 style="background-color:#27ae60; color:white; padding:10px;">KROK 7: Końcowe spłukanie i osuszenie</h3>
+<p style="margin-left:20px;">Spłukanie wodą zimną lub pozostawienie do wyschnięcia (środki no-rinse). ⏱️ 10-15 min</p>
+
+<div style="background-color:#d4edda; padding:15px; border-left:4px solid #28a745; margin:20px 0;">
+<strong>✅ PODSUMOWANIE:</strong> Łączny czas: 90-120 min | Częstotliwość: codziennie po produkcji
+</div>
+
+<h2 style="color:#2c3e50;">4. ŚRODKI CZYSTOŚCI</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#3498db; color:white;">
+<th>Preparat</th>
+<th>Zastosowanie</th>
+<th>Stężenie</th>
+</tr>
+<tr><td>P3-alcalex (Ecolab)</td><td>Mycie powierzchni, maszyn</td><td>1-3%</td></tr>
+<tr><td>Divosan Forte (Diversey)</td><td>Dezynfekcja chlorowa</td><td>0.2-0.4%</td></tr>
+<tr><td>Alkohept AF</td><td>Dezynfekcja rąk (etanol 70%)</td><td>Gotowy</td></tr>
+</table>
+
+<h2 style="color:#2c3e50;">5. KONTROLA SKUTECZNOŚCI</h2>
+<ul style="line-height:1.8;">
+<li>✅ Wizualna (codzienna) - test białej ściereczki</li>
+<li>🔬 Wymazy mikrobiologiczne (miesięczne) - norma: &lt;100 jtk/25cm²</li>
+<li>⚡ Testy ATP (opcjonalne, co 2 tygodnie) - norma: &lt;200 RLU</li>
+</ul>
+
+<h2 style="color:#2c3e50;">6. DOKUMENTY POWIĄZANE</h2>
+<ul style="line-height:1.8;">
+<li>📄 R-03 - Rejestr mycia i dezynfekcji</li>
+<li>📄 GHP-05 - Kontrola DDD</li>
+<li>📄 GHP-06 - Utrzymanie pomieszczeń</li>
+</ul>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ ZATWIERDZENIE:</strong><br/>
+Kierownik ds. Jakości: __________ | Kierownik Produkcji: __________ | Prezes: __________
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- GHP-02: Higiena osobista pracowników -->
+<note>
+<title>GHP-02 Higiena osobista pracowników</title>
+<created>20251203T100000Z</created>
+<updated>20251203T100000Z</updated>
+<tag>01_GHP</tag>
+<tag>Warunki_Wstępne</tag>
+<tag>Zakład_Mięsny</tag>
+<tag>✅_Zatwierdzone</tag>
+<note-attributes>
+<author>INOVIT e-Segregator</author>
+</note-attributes>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+<h1 style="color:#2c3e50; border-bottom:3px solid #e74c3c; padding-bottom:10px;">
+GHP-02: Higiena osobista pracowników
+</h1>
+<div style="background-color:#e8f4f8; padding:15px; border-left:4px solid #e74c3c; margin:20px 0;">
+<strong>Status:</strong> ✅ Zatwierdzone | <strong>Wersja:</strong> 1.0 | <strong>Data:</strong> 2025-12-03
+</div>
+
+<h2 style="color:#2c3e50;">1. CEL PROCEDURY</h2>
+<p style="line-height:1.6;">
+Zapewnienie wysokiego poziomu higieny osobistej pracowników w celu zapobiegania zanieczyszczeniu produktów mięsnych i minimalizacji ryzyka przeniesienia chorób zakaźnych.
+</p>
+
+<h2 style="color:#2c3e50;">2. WYMAGANIA ZDROWOTNE</h2>
+
+<h3 style="color:#34495e;">Badania wymagane:</h3>
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#3498db; color:white;">
+<th>Badanie</th>
+<th>Częstotliwość</th>
+</tr>
+<tr><td>Książeczka zdrowia sanitarno-epidemiologiczna</td><td>Wpisy co 6 miesięcy</td></tr>
+<tr><td>RTG klatki piersiowej (gruźlica)</td><td>Co 12 miesięcy</td></tr>
+<tr><td>Posiew kału (Salmonella)</td><td>Przed zatrudnieniem</td></tr>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>⛔ ZAKAZ PRACY przy:</strong><br/>
+• Biegunce, wymiotach (do 48h od ustąpienia!)<br/>
+• Salmonellozie, czerwonce, E.coli O157<br/>
+• Ranach otwartych, czyrakach, opryszczce<br/>
+• Kaszlu produktywnym, katarze<br/>
+• Gronkowcowych/paciorkowcowych zapaleniach<br/><br/>
+<strong>⚠️ OBOWIĄZEK NATYCHMIASTOWEGO ZGŁOSZENIA!</strong>
+</div>
+
+<h2 style="color:#2c3e50;">3. PROCEDURA MYCIA RĄK (7 KROKÓW WHO)</h2>
+
+<div style="background-color:#d4edda; padding:15px; border-left:4px solid #28a745; margin:20px 0;">
+<strong>✋ KIEDY MYĆ RĘCE?</strong><br/>
+1. Przed rozpoczęciem pracy<br/>
+2. Po każdej przerwie (jedzenie, toaleta, papieros)<br/>
+3. Po kaszlu, kichaniu<br/>
+4. Po dotknięciu brudnych powierzchni<br/>
+5. Po kontakcie z surowcem (przed produktem gotowym!)<br/>
+6. Po zdjęciu rękawic<br/>
+7. Co 30 minut w trakcie pracy ciągłej
+</div>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#3498db; color:white;">
+<th style="width:15%;">Krok</th>
+<th style="width:85%;">Czynność</th>
+</tr>
+<tr><td>1️⃣</td><td>Zmoczenie rąk wodą ciepłą + 3-5 ml mydła</td></tr>
+<tr><td>2️⃣</td><td>Tarcze dłoni - rozcieranie dłoń o dłoń (10 ruchów)</td></tr>
+<tr><td>3️⃣</td><td>Przestrzenie międzypalcowe - przeplatanie palców</td></tr>
+<tr><td>4️⃣</td><td>Grzbiety dłoni - przesuwanie po drugiej dłoni</td></tr>
+<tr><td>5️⃣</td><td>Kciuki - obejmowanie i rozcieranie (każdy 10x)</td></tr>
+<tr><td>6️⃣</td><td>Końce palców i paznokcie - rozcieranie okrężne</td></tr>
+<tr><td>7️⃣</td><td>Nadgarstki - obejmowanie i rozcieranie obrotowe</td></tr>
+</table>
+
+<p style="margin-left:20px;"><strong>⏱️ Czas trwania:</strong> minimum 30 sekund (2x "Sto lat" w myślach!)</p>
+
+<h3 style="background-color:#27ae60; color:white; padding:10px;">DEZYNFEKCJA RĄK (po umyciu)</h3>
+<ol style="line-height:1.8;">
+<li>Umyć ręce 7-krokowo</li>
+<li>Osuszyć DOKŁADNIE ręcznikiem papierowym jednorazowym</li>
+<li>Nałożyć 3-5 ml środka (Alkohept AF, etanol 70%)</li>
+<li>Rozcierać 30 sek aż do wyschnięcia</li>
+<li>NIE spłukiwać! NIE wycierać!</li>
+</ol>
+
+<h2 style="color:#2c3e50;">4. ODZIEŻ OCHRONNA</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#2c3e50; color:white;">
+<th>Element</th>
+<th>Wymagania</th>
+<th>Zmiana</th>
+</tr>
+<tr><td>Fartuch/kitel</td><td>Biały, długi rękaw, zapięcie z tyłu</td><td>Codziennie</td></tr>
+<tr><td>Czepek</td><td>Zakrycie WSZYSTKICH włosów</td><td>Codziennie</td></tr>
+<tr><td>Obuwie</td><td>Gumowe, białe, antypoślizgowe</td><td>Mycie codzienne</td></tr>
+<tr><td>Rękawice nitrylowe</td><td>Niebieskie, jednorazowe</td><td>Co 2h lub po zabrudzeniu</td></tr>
+</table>
+
+<h3 style="color:#34495e;">Kolejność zakładania (przed wejściem):</h3>
+<ol style="line-height:1.8;">
+<li>Rozebrać odzież cywilną w szatni</li>
+<li>Założyć obuwie robocze</li>
+<li>Założyć spodnie i fartuch</li>
+<li>Założyć czepek (schować wszystkie włosy!)</li>
+<li>Umyć i zdezynfekować ręce</li>
+<li>Założyć rękawice (jeśli wymagane)</li>
+</ol>
+
+<h2 style="color:#2c3e50;">5. ZACHOWANIA ZABRONIONE</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#e74c3c; color:white;">
+<th style="width:50%;">Zakaz</th>
+<th style="width:50%;">Uzasadnienie</th>
+</tr>
+<tr><td>❌ Palenie, jedzenie, picie</td><td>Kontaminacja mikrobiologiczna</td></tr>
+<tr><td>❌ Biżuteria (pierścionki, zegarki)</td><td>Gromadzenie bakterii, ryzyko upadku</td></tr>
+<tr><td>❌ Malowane/sztuczne paznokcie</td><td>Odpadanie fragmentów do produktu</td></tr>
+<tr><td>❌ Telefon komórkowy w produkcji</td><td>Najbrudniejszy przedmiot!</td></tr>
+<tr><td>❌ Wychodzenie w odzieży roboczej</td><td>Przenoszenie bakterii z zewnątrz</td></tr>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>⚠️ KONSEKWENCJE NARUSZEŃ:</strong><br/>
+1. naruszenie → Ostrzeżenie ustne<br/>
+2. naruszenie → Ostrzeżenie pisemne<br/>
+3. naruszenie lub rażące → Rozwiązanie umowy
+</div>
+
+<h2 style="color:#2c3e50;">6. DOKUMENTY POWIĄZANE</h2>
+<ul style="line-height:1.8;">
+<li>📄 R-04 - Rejestr kontroli higieny pracowników</li>
+<li>📄 GHP-01 - Mycie i dezynfekcja (środki do rąk)</li>
+<li>📄 GHP-07 - Przyjmowanie gości</li>
+<li>📄 Książeczki zdrowia (archiwum Kadry)</li>
+</ul>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ ZATWIERDZENIE:</strong><br/>
+Kierownik ds. Jakości: __________ | Kierownik Produkcji: __________ | Prezes: __________
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- GHP-03: Gospodarka odpadami -->
+<note>
+<title>GHP-03 Gospodarka odpadami</title>
+<created>20251203T100000Z</created>
+<updated>20251203T100000Z</updated>
+<tag>01_GHP</tag>
+<tag>Warunki_Wstępne</tag>
+<tag>Zakład_Mięsny</tag>
+<tag>✅_Zatwierdzone</tag>
+<note-attributes>
+<author>INOVIT e-Segregator</author>
+</note-attributes>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+<h1 style="color:#2c3e50; border-bottom:3px solid #95a5a6; padding-bottom:10px;">
+GHP-03: Gospodarka odpadami
+</h1>
+<div style="background-color:#e8f4f8; padding:15px; border-left:4px solid #95a5a6; margin:20px 0;">
+<strong>Status:</strong> ✅ Zatwierdzone | <strong>Wersja:</strong> 1.0 | <strong>Data:</strong> 2025-12-03
+</div>
+
+<h2 style="color:#2c3e50;">1. CEL PROCEDURY</h2>
+<p style="line-height:1.6;">
+Zapewnienie prawidłowego postępowania z odpadami pochodzenia zwierzęcego zgodnie z Rozporządzeniem WE 1069/2009 oraz zapobieganie zanieczyszczeniu produktów i przyciąganiu szkodników.
+</p>
+
+<h2 style="color:#2c3e50;">2. KATEGORIE ODPADÓW</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#95a5a6; color:white;">
+<th style="width:20%;">Kategoria</th>
+<th style="width:35%;">Rodzaj odpadu</th>
+<th style="width:20%;">Pojemnik</th>
+<th style="width:25%;">Maks. czas</th>
+</tr>
+<tr>
+<td><strong>Kat. 2</strong><br/>(wysokie ryzyko)</td>
+<td>Podroby niejadalne, skóry, kopyta, treść żołądkowo-jelitowa</td>
+<td>🔴 Czerwony zamykany</td>
+<td>48h (+2 do +4°C)</td>
+</tr>
+<tr>
+<td><strong>Kat. 3</strong><br/>(niskie ryzyko)</td>
+<td>Tłuszcz, skrawki mięsa, kości z rozbioru</td>
+<td>🟡 Żółty z pokrywą</td>
+<td>48h (+2 do +4°C)</td>
+</tr>
+<tr>
+<td><strong>Komunalne</strong></td>
+<td>Opakowania, odpady biurowe, socjalne</td>
+<td>⚫ Czarny (segregowane)</td>
+<td>7 dni (temp. otoczenia)</td>
+</tr>
+<tr>
+<td><strong>Niebezpieczne</strong></td>
+<td>Chemia, baterie, świetlówki, oleje</td>
+<td>Specjalistyczne</td>
+<td>Do odbioru przez firmę</td>
+</tr>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>⚠️ ZAKAZ MIESZANIA KATEGORII!</strong><br/>
+Odpady kat. 2 i 3 NIGDY nie mogą być mieszane z komunalnymi!<br/>
+Kara: do 500 000 zł grzywny (ustawa o produktach ubocznych pochodzenia zwierzęcego)
+</div>
+
+<h2 style="color:#2c3e50;">3. PROCEDURA GOSPODAROWANIA ODPADAMI</h2>
+
+<h3 style="background-color:#e74c3c; color:white; padding:10px;">KROK 1: Segregacja w miejscu powstawania</h3>
+<ul style="line-height:1.8;">
+<li>Przy każdym stanowisku: pojemnik CZERWONY (kat. 2) + ŻÓŁTY (kat. 3)</li>
+<li>Natychmiastowe wrzucanie (nie odkładać na stolach!)</li>
+<li>Zamykanie pokryw po każdym wrzuceniu</li>
+</ul>
+
+<h3 style="background-color:#e74c3c; color:white; padding:10px;">KROK 2: Transport wewnętrzny</h3>
+<ul style="line-height:1.8;">
+<li>Częstotliwość: Kat. 2/3 → 2x dziennie (po każdej zmianie)</li>
+<li>Zamknąć pokrywę, przewieźć wózkiem dedykowanym</li>
+<li>Trasa: najkrótsza, unikać produktów gotowych</li>
+<li>Po transporcie: umyć i zdezynfekować wózek</li>
+</ul>
+
+<h3 style="background-color:#e74c3c; color:white; padding:10px;">KROK 3: Przechowywanie tymczasowe</h3>
+<ul style="line-height:1.8;">
+<li>Pomieszczenie z chłodnią (+2 do +4°C) dla kat. 2 i 3</li>
+<li>Posadzka z odpływem, ściany zmywalne</li>
+<li>Zamykane na klucz</li>
+<li>⚠️ MAKSYMALNIE 48 GODZIN!</li>
+</ul>
+
+<h3 style="background-color:#e74c3c; color:white; padding:10px;">KROK 4: Wydanie do utylizatora</h3>
+
+<p style="margin-left:20px;"><strong>Weryfikacja uprawnień firmy:</strong></p>
+<ul style="line-height:1.8; margin-left:40px;">
+<li>✅ Aktualne zezwolenie WIWW (Wojewódzki Inspektorat Weterynarii)</li>
+<li>✅ Wpis do rejestru zakładów przetwarzających produkty uboczne</li>
+</ul>
+
+<p style="margin-left:20px;"><strong>Procedura odbioru:</strong></p>
+<ol style="line-height:1.8; margin-left:40px;">
+<li>Utylizator pokazuje DTU (Dokument Transportu Ubocznego - 3 egz.)</li>
+<li>Sprawdzenie danych: data, kategoria odpadu, waga, nr pojazdu</li>
+<li>Załadunek do pojazdu chłodniczego (szczelny, oznakowany)</li>
+<li>Podpisanie DTU (3 kopie: zakład, przewoźnik, przetwórca)</li>
+<li>Wpis do Rejestru R-05</li>
+</ol>
+
+<p style="margin-left:20px;"><strong>Częstotliwość odbioru:</strong> 2x w tygodniu (wtorek, piątek)</p>
+
+<h3 style="background-color:#e74c3c; color:white; padding:10px;">KROK 5: Czyszczenie pojemników</h3>
+<ul style="line-height:1.8;">
+<li>Po każdym opróżnieniu: mycie + dezynfekcja (GHP-01)</li>
+<li>Środek: Divosan Forte 0.4%</li>
+<li>Pomieszczenie odpadów: mycie codziennie, dezynfekcja 1x/tydz.</li>
+</ul>
+
+<h2 style="color:#2c3e50;">4. DOKUMENTACJA WYMAGANA</h2>
+
+<ul style="line-height:1.8;">
+<li>📄 <strong>Umowa z utylizatorem</strong> (posiadającym zezwolenie WIWW)</li>
+<li>📄 <strong>Kopia zezwolenia WIWW</strong> utylizatora (aktualna!)</li>
+<li>📄 <strong>DTU</strong> - Dokumenty Transportu Ubocznego (oryginały 2 lata)</li>
+<li>📄 <strong>Rejestr R-05</strong> - każdy odbiór:<br/>
+  • Data | Kategoria | Ilość (kg) | Firma | Nr DTU | Podpis
+</li>
+<li>📄 <strong>Raport roczny</strong> - zestawienie (dla Sanepidu/WIWW)</li>
+</ul>
+
+<h2 style="color:#2c3e50;">5. POSTĘPOWANIE W RAZIE PROBLEMÓW</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#e74c3c; color:white;">
+<th style="width:40%;">Problem</th>
+<th style="width:60%;">Działanie</th>
+</tr>
+<tr>
+<td>Utylizator nie przyjechał (przekroczenie 48h)</td>
+<td>Natychmiastowy kontakt! Jeśli brak reakcji → firma zastępcza (lista w biurze)</td>
+</tr>
+<tr>
+<td>Mieszanie kategorii odpadów</td>
+<td>Przeszkolenie pracownika + ponowna segregacja (jeśli możliwe)</td>
+</tr>
+<tr>
+<td>Brak DTU przy odbiorze</td>
+<td>❌ NIE wydawać odpadów bez DTU! Utylizator musi przywieźć dokument</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">6. DOKUMENTY POWIĄZANE</h2>
+<ul style="line-height:1.8;">
+<li>📄 R-05 - Rejestr odpadów i wywozów</li>
+<li>📄 GHP-01 - Mycie i dezynfekcja pojemników</li>
+<li>📄 GHP-05 - Kontrola DDD (odpady przyciągają szkodniki!)</li>
+<li>📄 DTU - segregator "Odpady"</li>
+<li>📄 Rozporządzenie WE 1069/2009</li>
+</ul>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ ZATWIERDZENIE:</strong><br/>
+Kierownik ds. Jakości: __________ | Kierownik Produkcji: __________ | Prezes: __________
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- GHP-04: Woda i para technologiczna -->
+<note>
+<title>GHP-04 Woda i para technologiczna</title>
+<created>20251203T100000Z</created>
+<updated>20251203T100000Z</updated>
+<tag>01_GHP</tag>
+<tag>Warunki_Wstępne</tag>
+<tag>Zakład_Mięsny</tag>
+<tag>✅_Zatwierdzone</tag>
+<note-attributes>
+<author>INOVIT e-Segregator</author>
+</note-attributes>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+<h1 style="color:#2c3e50; border-bottom:3px solid #3498db; padding-bottom:10px;">
+GHP-04: Woda i para technologiczna
+</h1>
+<div style="background-color:#e8f4f8; padding:15px; border-left:4px solid #3498db; margin:20px 0;">
+<strong>Status:</strong> ✅ Zatwierdzone | <strong>Wersja:</strong> 1.0 | <strong>Data:</strong> 2025-12-03
+</div>
+
+<h2 style="color:#2c3e50;">1. CEL PROCEDURY</h2>
+<p style="line-height:1.6;">
+Zapewnienie dostępności wody pitnej i pary technologicznej w odpowiedniej jakości i ilości zgodnie z wymogami Rozporządzenia WE 852/2004 oraz polskich przepisów sanitarnych.
+</p>
+
+<h2 style="color:#2c3e50;">2. ŹRÓDŁA WODY</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#3498db; color:white;">
+<th style="width:25%;">Rodzaj wody</th>
+<th style="width:35%;">Źródło</th>
+<th style="width:40%;">Zastosowanie</th>
+</tr>
+<tr>
+<td><strong>Woda pitna</strong></td>
+<td>Sieć wodociągowa miejska / Studnia głębinowa z chlorowaniem</td>
+<td>
+• Mycie mięsa i produktów<br/>
+• Mycie rąk pracowników<br/>
+• Przygotowanie produktów<br/>
+• Spłukiwanie po dezynfekcji
+</td>
+</tr>
+<tr>
+<td><strong>Woda techniczna</strong></td>
+<td>Sieć wodociągowa (zaznaczona kolorowo)</td>
+<td>
+• Chłodzenie agregatów<br/>
+• Generowanie pary technologicznej<br/>
+• ❌ NIE może kontaktować się z produktami!
+</td>
+</tr>
+<tr>
+<td><strong>Para technologiczna</strong></td>
+<td>Kocioł parowy zasilany wodą pitną</td>
+<td>
+• Czyszczenie (parownice)<br/>
+• Obróbka termiczna<br/>
+• Gotowanie (jeśli dotyczy)
+</td>
+</tr>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>⚠️ KRYTYCZNE:</strong> Woda pitna i techniczna muszą mieć ODDZIELNE instalacje!<br/>
+Zakaz połączeń krzyżowych (ryzyko zanieczyszczenia wody pitnej).<br/>
+Rurociągi techniczne oznaczamy kolorem (np. niebieskim) lub napisami "WODA TECHNICZNA - NIE PIĆ"
+</div>
+
+<h2 style="color:#2c3e50;">3. WYMAGANIA JAKOŚCIOWE</h2>
+
+<h3 style="color:#34495e;">Woda pitna - parametry wg Rozp. Min. Zdrowia (Dz.U. 2017 poz. 2294):</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#27ae60; color:white;">
+<th style="width:40%;">Parametr</th>
+<th style="width:30%;">Norma</th>
+<th style="width:30%;">Metoda badania</th>
+</tr>
+<tr>
+<td><strong>Mikrobiologiczne:</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>E. coli</td>
+<td>0 / 100 ml</td>
+<td>Metoda filtracji membranowej</td>
+</tr>
+<tr>
+<td>Bakterie grupy coli</td>
+<td>0 / 100 ml</td>
+<td>Metoda filtracji membranowej</td>
+</tr>
+<tr>
+<td>Enterokoki</td>
+<td>0 / 100 ml</td>
+<td>Metoda filtracji membranowej</td>
+</tr>
+<tr>
+<td>Clostridium perfringens</td>
+<td>0 / 100 ml</td>
+<td>Posiew (jeśli woda ze studni)</td>
+</tr>
+<tr>
+<td><strong>Fizykochemiczne:</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Chlor wolny (jeśli chlorowana)</td>
+<td>0.2 - 0.5 mg/l</td>
+<td>Kolorymetria (test DPD)</td>
+</tr>
+<tr>
+<td>pH</td>
+<td>6.5 - 9.5</td>
+<td>Elektroda pH-metryczna</td>
+</tr>
+<tr>
+<td>Twardość ogólna</td>
+<td>&lt; 500 mg CaCO3/l</td>
+<td>Miareczkowanie (EDTA)</td>
+</tr>
+<tr>
+<td>Mętność</td>
+<td>&lt; 1.0 NTU</td>
+<td>Nefelometria</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">4. KONTROLA JAKOŚCI WODY</h2>
+
+<h3 style="background-color:#3498db; color:white; padding:10px;">Kontrola bieżąca (codzienna) - w zakładzie</h3>
+<ul style="line-height:1.8;">
+<li>✅ Test organoleptyczny (zapach, smak, barwa) - codziennie rano</li>
+<li>✅ Pomiar chloru wolnego (jeśli chlorowanie) - 1x dziennie testem DPD<br/>
+  Norma: 0.2-0.5 mg/l | Wpis do rejestru R-07
+</li>
+<li>✅ Kontrola temperatury wody gorącej &gt;60°C (zapobieganie Legionelli)</li>
+</ul>
+
+<h3 style="background-color:#27ae60; color:white; padding:10px;">Kontrola laboratoryjna (okresowa)</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#2c3e50; color:white;">
+<th style="width:30%;">Badanie</th>
+<th style="width:25%;">Częstotliwość</th>
+<th style="width:25%;">Wykonawca</th>
+<th style="width:20%;">Rejestr</th>
+</tr>
+<tr>
+<td>Badanie mikrobiologiczne pełne</td>
+<td>1x w miesiącu</td>
+<td>Stacja Sanitarno-Epidemiologiczna lub lab. akredytowane</td>
+<td>Raport + R-07</td>
+</tr>
+<tr>
+<td>Badanie fizykochemiczne (rozszerzone)</td>
+<td>1x w roku</td>
+<td>Laboratorium akredytowane</td>
+<td>Raport + R-07</td>
+</tr>
+<tr>
+<td>Legionella (jeśli instalacja &gt;200m rur)</td>
+<td>1x w roku</td>
+<td>Laboratorium specjalistyczne</td>
+<td>Raport + R-07</td>
+</tr>
+</table>
+
+<p style="margin-left:20px;"><strong>Pobór próbek:</strong></p>
+<ul style="line-height:1.8; margin-left:40px;">
+<li>Punkt poboru: kran produkcyjny (najczęściej używany)</li>
+<li>Przed poborem: odkręcić wodę na 2-3 minuty (wypłukanie stojącej wody z rury)</li>
+<li>Butelka sterylna (dostarcza laboratorium)</li>
+<li>Transport: chłodnia transportowa +2 do +6°C, dostawa do lab. max 24h</li>
+</ul>
+
+<h2 style="color:#2c3e50;">5. PARA TECHNOLOGICZNA</h2>
+
+<h3 style="color:#34495e;">Wymagania:</h3>
+<ul style="line-height:1.8;">
+<li>✅ Generowana z wody pitnej (bezpośredni kontakt z żywnością!)</li>
+<li>✅ Kocioł parowy musi być czyszczony 1x w roku (usuwanie kamienia)</li>
+<li>✅ Stosować środki kondycjonujące wodę zasilającą (zapobieganie korozji, kamieniowi)</li>
+<li>✅ Zabronione dodatki chemiczne nielegalnych dla kontaktu z żywnością</li>
+</ul>
+
+<h3 style="color:#34495e;">Kontrola:</h3>
+<ul style="line-height:1.8;">
+<li>Kontrola ciśnienia pary: codziennie (manometr na kotle)</li>
+<li>Badanie wody zasilającej kocioł: 1x w miesiącu (twardość, pH)</li>
+<li>Przegląd kotła przez UDT: 1x w roku (obowiązek prawny!)</li>
+</ul>
+
+<h2 style="color:#2c3e50;">6. UTRZYMANIE INSTALACJI WODNEJ</h2>
+
+<h3 style="background-color:#f39c12; color:white; padding:10px;">Konserwacja planowana:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#34495e; color:white;">
+<th style="width:40%;">Czynność</th>
+<th style="width:30%;">Częstotliwość</th>
+<th style="width:30%;">Odpowiedzialny</th>
+</tr>
+<tr>
+<td>Dezynfekcja instalacji wodnej (szokowa)</td>
+<td>1x w roku lub po awarii</td>
+<td>Firma zewnętrzna + protokół</td>
+</tr>
+<tr>
+<td>Czyszczenie zbiornika wody (jeśli studnia)</td>
+<td>1x w roku</td>
+<td>Firma zewnętrzna + protokół</td>
+</tr>
+<tr>
+<td>Wymiana filtrów mechanicznych</td>
+<td>Co 3-6 miesięcy (wg producenta)</td>
+<td>Kierownik techniczny</td>
+</tr>
+<tr>
+<td>Kontrola zaworów, kranów (nieszczelności)</td>
+<td>1x w miesiącu</td>
+<td>Kierownik techniczny</td>
+</tr>
+<tr>
+<td>Płukanie instalacji (martwe odcinki)</td>
+<td>1x w tygodniu</td>
+<td>Pracownik techniczny</td>
+</tr>
+</table>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid #ffc107; margin:20px 0;">
+<strong>⚠️ DEZYNFEKCJA SZOKOWA - kiedy?</strong><br/>
+• Po awarii sieci wodociągowej (przerwa w dostawie, obniżenie ciśnienia)<br/>
+• Po wykryciu zanieczyszczenia bakteriologicznego (E.coli &gt;0)<br/>
+• Po pracach remontowych w instalacji<br/>
+• Profilaktycznie 1x w roku<br/><br/>
+<strong>Metoda:</strong> Chlorowanie (200 mg Cl/l przez 2 godz.) + spłukanie + badanie kontrolne
+</div>
+
+<h2 style="color:#2c3e50;">7. POSTĘPOWANIE W RAZIE NIEZGODNOŚCI</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#e74c3c; color:white;">
+<th style="width:35%;">Problem</th>
+<th style="width:35%;">Działanie natychmiastowe</th>
+<th style="width:30%;">Działanie korygujące</th>
+</tr>
+<tr>
+<td>Wynik E.coli &gt; 0 / 100ml</td>
+<td>
+❌ STOP produkcji!<br/>
+Dezynfekcja szokowa instalacji<br/>
+Ponowne badanie po 48h
+</td>
+<td>
+Zlecenie dezynfekcji specjalistycznej<br/>
+Badanie kontrolne (2 kolejne ujemne)
+</td>
+</tr>
+<tr>
+<td>Chlor wolny &lt; 0.2 mg/l (przy chlorowaniu)</td>
+<td>Zwiększenie dawki chloru<br/>Kontrola po 1 godz.</td>
+<td>Sprawdzenie systemu dozowania (dozownik, pompa)</td>
+</tr>
+<tr>
+<td>Brak wody (awaria sieci)</td>
+<td>
+Wstrzymanie produkcji<br/>
+Zabezpieczenie produktów w toku<br/>
+Kontakt z wodociągami
+</td>
+<td>
+Po wznowieniu: dezynfekcja szokowa<br/>
+Badanie mikrobiologiczne przed wznowieniem produkcji
+</td>
+</tr>
+<tr>
+<td>Zmiana smaku/zapachu wody</td>
+<td>Natychmiastowe badanie organoleptyczne + mikrobiologiczne<br/>Wstrzymać używanie do czasu wyników</td>
+<td>Zlecenie badania fizykochemicznego rozszerzonego<br/>Identyfikacja źródła (awaria oczyszczalni?)</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">8. DOKUMENTY POWIĄZANE</h2>
+
+<ul style="line-height:1.8;">
+<li>📄 <strong>R-07</strong> - Rejestr kontroli jakości wody (wpisy chloru codziennie, raporty lab. miesięczne)</li>
+<li>📄 <strong>GHP-01</strong> - Mycie i dezynfekcja (woda jako składnik roztworów)</li>
+<li>📄 <strong>Protokoły badań laboratoryjnych</strong> - segregator "Woda" (przechowywać 3 lata)</li>
+<li>📄 <strong>Protokoły dezynfekcji szokowej</strong> - segregator "Woda"</li>
+<li>📄 <strong>Przeglądy UDT kotła parowego</strong> - segregator "Urządzenia techniczne"</li>
+<li>📄 <strong>Rozp. Min. Zdrowia w sprawie jakości wody</strong> (Dz.U. 2017 poz. 2294)</li>
+</ul>
+
+<h2 style="color:#2c3e50;">9. KONTAKTY AWARYJNE</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#2c3e50; color:white;">
+<th style="width:40%;">Instytucja/Firma</th>
+<th style="width:60%;">Dane kontaktowe</th>
+</tr>
+<tr>
+<td><strong>Wodociągi miejskie - awarie</strong></td>
+<td>Tel: ________________ (24/7)<br/>Zgłoszenie awarii, info o przerwach</td>
+</tr>
+<tr>
+<td><strong>Laboratorium badań wody</strong></td>
+<td>Tel: ________________<br/>E-mail: ________________<br/>Badania: mikrobiol. (48h), fizykochem. (7 dni)</td>
+</tr>
+<tr>
+<td><strong>Firma dezynfekcyjna (szokowa)</strong></td>
+<td>Tel: ________________<br/>Dostępność: na wezwanie (24h)</td>
+</tr>
+<tr>
+<td><strong>Serwis kotła parowego</strong></td>
+<td>Tel: ________________<br/>Przeglądy roczne + awarie</td>
+</tr>
+</table>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ ZATWIERDZENIE:</strong><br/>
+Kierownik ds. Jakości: __________ | Kierownik Produkcji: __________ | Prezes: __________
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+</en-export>

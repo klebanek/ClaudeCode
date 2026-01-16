@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export3.dtd">
+<en-export export-date="20251203T000000Z" application="INOVIT e-Segregator HACCP - Księga Pełna" version="2.0">
+
+<!-- ═══════════════════════════════════════════ -->
+<!-- STACK 0: STRONA TYTUŁOWA I DANE ZAKŁADU -->
+<!-- ═══════════════════════════════════════════ -->
+
+    <note>
+        <title>📘 STRONA TYTUŁOWA - Księga HACCP</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="text-align:center; padding:50px 20px;">
+                <h1 style="font-size:32px; color:#2c3e50; margin-bottom:10px;">KSIĘGA SYSTEMU HACCP</h1>
+                <h2 style="font-size:24px; color:#34495e; margin-bottom:30px;">Analiza Zagrożeń i Krytyczne Punkty Kontroli</h2>
+
+                <div style="border:3px solid #2c3e50; padding:40px; margin:30px auto; max-width:600px; background-color:#ecf0f1;">
+                    <p style="font-size:18px; margin:20px 0;"><b>Nazwa zakładu:</b></p>
+                    <p style="font-size:16px; border-bottom:2px solid #95a5a6; padding-bottom:10px;">_______________________________________________</p>
+
+                    <p style="font-size:18px; margin:20px 0;"><b>Adres:</b></p>
+                    <p style="font-size:16px; border-bottom:2px solid #95a5a6; padding-bottom:10px;">_______________________________________________</p>
+
+                    <p style="font-size:18px; margin:20px 0;"><b>Nr weterynaryjny:</b></p>
+                    <p style="font-size:16px; border-bottom:2px solid #95a5a6; padding-bottom:10px;">_______________________________________________</p>
+
+                    <p style="font-size:18px; margin:20px 0;"><b>Wersja Księgi:</b></p>
+                    <p style="font-size:16px; border-bottom:2px solid #95a5a6; padding-bottom:10px;">2.0</p>
+
+                    <p style="font-size:18px; margin:20px 0;"><b>Data zatwierdzenia:</b></p>
+                    <p style="font-size:16px; border-bottom:2px solid #95a5a6; padding-bottom:10px;">_______________________________________________</p>
+                </div>
+
+                <div style="margin-top:50px;">
+                    <p style="font-size:14px; color:#7f8c8d;"><i>Księga opracowana zgodnie z:</i></p>
+                    <ul style="list-style:none; padding:0; font-size:12px; color:#7f8c8d;">
+                        <li>• Rozporządzenie (WE) nr 852/2004</li>
+                        <li>• Rozporządzenie (WE) nr 853/2004</li>
+                        <li>• Kodeks Żywnościowy (Codex Alimentarius)</li>
+                    </ul>
+                </div>
+
+                <div style="margin-top:50px; padding:20px; background-color:#e8f4f8; border-left:5px solid #3498db;">
+                    <p style="font-size:12px; text-align:left;"><b>🔒 Informacja poufna:</b> Niniejszy dokument stanowi własność zakładu i zawiera informacje poufne. Zabrania się kopiowania, rozpowszechniania lub udostępniania osobom trzecim bez zgody kierownictwa.</p>
+                </div>
+            </div>
+
+            <hr/>
+
+            <h2>Zatwierdzenie Księgi HACCP:</h2>
+            <table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th>Funkcja</th>
+                    <th>Imię i nazwisko</th>
+                    <th>Data</th>
+                    <th>Podpis</th>
+                </tr>
+                <tr>
+                    <td><b>Opracował:</b><br/>(Zespół HACCP)</td>
+                    <td><br/><br/></td>
+                    <td><br/><br/></td>
+                    <td><br/><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><b>Zatwierdził:</b><br/>(Kierownik zakładu)</td>
+                    <td><br/><br/></td>
+                    <td><br/><br/></td>
+                    <td><br/><br/></td>
+                </tr>
+                <tr>
+                    <td><b>Konsultacja:</b><br/>(Konsultant zewnętrzny)</td>
+                    <td><br/><br/></td>
+                    <td><br/><br/></td>
+                    <td><br/><br/></td>
+                </tr>
+            </table>
+
+            <p style="margin-top:30px; font-size:10px; color:#95a5a6;"><i>Księga wygenerowana przez INOVIT e-Segregator HACCP</i></p>
+        </en-note>]]>
+        </content>
+        <created>20251203T110000Z</created>
+        <updated>20251203T110000Z</updated>
+        <tag>00_Dane_Zakładu</tag>
+        <tag>Strona_Tytułowa</tag>
+        <tag>Zakład_Mięsny</tag>
+    </note>
+
+    <note>
+        <title>📋 Dane zakładu - informacje podstawowe</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <h1>Dane zakładu produkcyjnego</h1>
+
+            <h2>1. Dane identyfikacyjne:</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr>
+                    <td style="width:35%; background-color:#e8f4f8;"><b>Pełna nazwa zakładu:</b></td>
+                    <td>_______________________________________________</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td style="background-color:#e8f4f8;"><b>Forma prawna:</b></td>
+                    <td>Sp. z o.o. / Sp. j. / Jednoosobowa działalność / Inne: _______</td>
+                </tr>
+                <tr>
+                    <td style="background-color:#e8f4f8;"><b>NIP:</b></td>
+                    <td>_______________________________________________</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td style="background-color:#e8f4f8;"><b>REGON:</b></td>
+                    <td>_______________________________________________</td>
+                </tr>
+                <tr>
+                    <td style="background-color:#e8f4f8;"><b>KRS / CEIDG:</b></td>
+                    <td>_______________________________________________</td>
+                </tr>
+            </table>
+
+            <h2>2. Adres zakładu:</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr>
+                    <td style="width:35%; background-color:#e8f4f8;"><b>Ulica i nr:</b></td>
+                    <td>_______________________________________________</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td style="background-color:#e8f4f8;"><b>Kod pocztowy:</b></td>
+                    <td>_______________________________________________</td>
+                </tr>
+                <tr>
+                    <td style="background-color:#e8f4f8;"><b>Miejscowość:</b></td>
+                    <td>_______________________________________________</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td style="background-color:#e8f4f8;"><b>Województwo:</b></td>
+                    <td>_______________________________________________</td>
+                </tr>
+                <tr>
+                    <td style="background-color:#e8f4f8;"><b>Powiat:</b></td>
+                    <td>_______________________________________________</td>
+                </tr>
+            </table>
+
+            <h2>3. Dane kontaktowe:</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr>
+                    <td style="width:35%; background-color:#e8f4f8;"><b>Telefon:</b></td>
+                    <td>_______________________________________________</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td style="background-color:#e8f4f8;"><b>E-mail:</b></td>
+                    <td>_______________________________________________</td>
+                </tr>
+                <tr>
+                    <td style="background-color:#e8f4f8;"><b>Strona www:</b></td>
+                    <td>_______________________________________________</td>
+                </tr>
+            </table>
+
+            <h2>4. Zezwolenia i uprawnienia:</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr>
+                    <td style="width:35%; background-color:#e8f4f8;"><b>Nr weterynaryjny zakładu:</b></td>
+                    <td>_______________________________________________</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td style="background-color:#e8f4f8;"><b>Data wydania zezwolenia:</b></td>
+                    <td>_______________________________________________</td>
+                </tr>
+                <tr>
+                    <td style="background-color:#e8f4f8;"><b>Organ nadzoru (WIWW):</b></td>
+                    <td>_______________________________________________</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td style="background-color:#e8f4f8;"><b>Certyfikaty posiadane:</b></td>
+                    <td>☐ IFS<br/>☐ BRC<br/>☐ ISO 22000<br/>☐ Halal<br/>☐ Kosher<br/>☐ Inne: _______</td>
+                </tr>
+            </table>
+
+            <h2>5. Profil działalności:</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr>
+                    <td style="width:35%; background-color:#e8f4f8;"><b>Rodzaj działalności:</b></td>
+                    <td>
+                        ☐ Produkcja mięsa i wyrobów mięsnych<br/>
+                        ☐ Przetwórstwo mięsa<br/>
+                        ☐ Ubój i rozbiór<br/>
+                        ☐ Wędzenie i dojrzewanie<br/>
+                        ☐ Pakowanie próżniowe<br/>
+                        ☐ Dystrybucja<br/>
+                        ☐ Inne: _______
+                    </td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td style="background-color:#e8f4f8;"><b>Główny asortyment:</b></td>
+                    <td>
+                        ☐ Kiełbasy<br/>
+                        ☐ Wędliny<br/>
+                        ☐ Mięso świeże<br/>
+                        ☐ Produkty mrożone<br/>
+                        ☐ Przetwory mięsne<br/>
+                        ☐ Inne: _______
+                    </td>
+                </tr>
+                <tr>
+                    <td style="background-color:#e8f4f8;"><b>Zdolność produkcyjna:</b></td>
+                    <td>_______ kg/dzień<br/>_______ ton/miesiąc</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td style="background-color:#e8f4f8;"><b>Liczba pracowników:</b></td>
+                    <td>_______ osób (w tym _______ w produkcji)</td>
+                </tr>
+                <tr>
+                    <td style="background-color:#e8f4f8;"><b>Liczba zmian:</b></td>
+                    <td>☐ 1 zmiana<br/>☐ 2 zmiany<br/>☐ 3 zmiany<br/>☐ Praca ciągła</td>
+                </tr>
+            </table>
+
+            <h2>6. Kierownictwo zakładu:</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th>Stanowisko</th>
+                    <th>Imię i nazwisko</th>
+                    <th>Telefon</th>
+                    <th>E-mail</th>
+                </tr>
+                <tr>
+                    <td>Właściciel / Prezes</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td>Kierownik zakładu</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td>Kierownik produkcji</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td>Kierownik ds. jakości</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td>Lider Zespołu HACCP</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <h2>7. Ważne kontakty:</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th>Instytucja / Firma</th>
+                    <th>Kontakt</th>
+                    <th>Telefon</th>
+                </tr>
+                <tr>
+                    <td><b>WIWW (Inspekcja Weterynaryjna)</b></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><b>Sanepid</b></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><b>Firma DDD</b></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><b>Serwis chłodniczy</b></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><b>Laboratorium badawcze</b></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><b>Konsultant HACCP</b></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <p style="margin-top:30px; padding:15px; background-color:#fff3cd; border-left:5px solid:#ffc107;">
+                <b>📌 Uwaga:</b> Dane zakładu należy aktualizować na bieżąco w przypadku jakichkolwiek zmian (adres, kierownictwo, certyfikaty, itp.).
+            </p>
+        </en-note>]]>
+        </content>
+        <created>20251203T110100Z</created>
+        <updated>20251203T110100Z</updated>
+        <tag>00_Dane_Zakładu</tag>
+        <tag>Zakład_Mięsny</tag>
+    </note>
+
+    <note>
+        <title>👥 Zespół HACCP - skład i odpowiedzialności</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <h1>Zespół HACCP - Skład i Zakres Odpowiedzialności</h1>
+
+            <p><i>Zgodnie z Kodeksem Żywnościowym (Codex Alimentarius), zakład powinien powołać multidyscyplinarny Zespół HACCP posiadający odpowiednią wiedzę o produkcie, procesie i zagrożeniach.</i></p>
+
+            <h2>1. Członkowie Zespołu HACCP:</h2>
+            <table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:25%;">Imię i nazwisko</th>
+                    <th style="width:20%;">Stanowisko</th>
+                    <th style="width:35%;">Zakres odpowiedzialności</th>
+                    <th style="width:20%;">Kontakt</th>
+                </tr>
+                <tr>
+                    <td><b>_______________</b><br/><i>(Lider Zespołu)</i></td>
+                    <td>Kierownik ds. jakości</td>
+                    <td>
+                        • Koordynacja prac Zespołu<br/>
+                        • Organizacja spotkań<br/>
+                        • Nadzór nad dokumentacją<br/>
+                        • Kontakt z organami nadzoru
+                    </td>
+                    <td>Tel: __________<br/>E-mail: __________</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><b>_______________</b></td>
+                    <td>Kierownik produkcji</td>
+                    <td>
+                        • Proces technologiczny<br/>
+                        • Nadzór nad CCP<br/>
+                        • Szkolenia pracowników produkcji<br/>
+                        • Działania korygujące
+                    </td>
+                    <td>Tel: __________<br/>E-mail: __________</td>
+                </tr>
+                <tr>
+                    <td><b>_______________</b></td>
+                    <td>Technolog żywności</td>
+                    <td>
+                        • Receptury i specyfikacje<br/>
+                        • Analiza zagrożeń<br/>
+                        • Weryfikacja schematu technologicznego<br/>
+                        • Parametry procesu
+                    </td>
+                    <td>Tel: __________<br/>E-mail: __________</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><b>_______________</b></td>
+                    <td>Magazynier / Logistyk</td>
+                    <td>
+                        • Przyjęcie surowców<br/>
+                        • Warunki magazynowania<br/>
+                        • FIFO/FEFO<br/>
+                        • Identyfikowalność partii
+                    </td>
+                    <td>Tel: __________<br/>E-mail: __________</td>
+                </tr>
+                <tr>
+                    <td><b>_______________</b></td>
+                    <td>Brygadzista / Mistrz produkcji</td>
+                    <td>
+                        • Monitorowanie CCP na linii<br/>
+                        • Higiena personelu<br/>
+                        • Mycie i dezynfekcja<br/>
+                        • Zgłaszanie niezgodności
+                    </td>
+                    <td>Tel: __________<br/>E-mail: __________</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><b>_______________</b></td>
+                    <td>Konsultant zewnętrzny<br/><i>(opcjonalnie)</i></td>
+                    <td>
+                        • Wsparcie merytoryczne<br/>
+                        • Szkolenia<br/>
+                        • Audyty wewnętrzne<br/>
+                        • Aktualizacje prawne
+                    </td>
+                    <td>Tel: __________<br/>E-mail: __________</td>
+                </tr>
+            </table>
+
+            <h2>2. Harmonogram spotkań Zespołu HACCP:</h2>
+            <ul>
+                <li><b>Spotkania planowane:</b> Co najmniej 1x na kwartał (4x w roku)</li>
+                <li><b>Spotkania ad hoc:</b> W przypadku:
+                    <ul>
+                        <li>Zmian w procesie produkcyjnym</li>
+                        <li>Wprowadzenia nowych produktów</li>
+                        <li>Wykrycia poważnych niezgodności</li>
+                        <li>Zmian w przepisach prawnych</li>
+                        <li>Po kontrolach WIWW/Sanepid</li>
+                        <li>Po audytach zewnętrznych</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <h2>3. Kompetencje członków Zespołu HACCP:</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th>Wymagana wiedza / Umiejętności</th>
+                    <th>Status</th>
+                    <th>Szkolenia planowane</th>
+                </tr>
+                <tr>
+                    <td>Podstawy systemu HACCP (7 zasad, 12 kroków)</td>
+                    <td>☐ Zrealizowane<br/>☐ Do uzupełnienia</td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td>GHP/GMP dla zakładów mięsnych</td>
+                    <td>☐ Zrealizowane<br/>☐ Do uzupełnienia</td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td>Mikrobiologia żywności (zagrożenia biologiczne)</td>
+                    <td>☐ Zrealizowane<br/>☐ Do uzupełnienia</td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td>Technologia produkcji mięsa i wyrobów mięsnych</td>
+                    <td>☐ Zrealizowane<br/>☐ Do uzupełnienia</td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td>Przepisy prawne (UE i krajowe)</td>
+                    <td>☐ Zrealizowane<br/>☐ Do uzupełnienia</td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td>Nadzór nad dokumentacją i zapisami</td>
+                    <td>☐ Zrealizowane<br/>☐ Do uzupełnienia</td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <h2>4. Zakres zadań Zespołu HACCP:</h2>
+            <ol>
+                <li><b>Opracowanie i wdrożenie systemu HACCP:</b>
+                    <ul>
+                        <li>Analiza zagrożeń dla wszystkich produktów</li>
+                        <li>Wyznaczenie CCP</li>
+                        <li>Ustalenie limitów krytycznych i monitoringu</li>
+                        <li>Opracowanie procedur i instrukcji</li>
+                    </ul>
+                </li>
+                <li><b>Utrzymanie i doskonalenie systemu:</b>
+                    <ul>
+                        <li>Przeglądy okresowe systemu HACCP</li>
+                        <li>Aktualizacja dokumentacji po zmianach</li>
+                        <li>Analiza niezgodności i reklamacji</li>
+                        <li>Wdrażanie działań korygujących i zapobiegawczych</li>
+                    </ul>
+                </li>
+                <li><b>Weryfikacja skuteczności:</b>
+                    <ul>
+                        <li>Audyty wewnętrzne</li>
+                        <li>Testy identyfikowalności</li>
+                        <li>Analiza wyników badań laboratoryjnych</li>
+                        <li>Monitoring wskaźników KPI</li>
+                    </ul>
+                </li>
+                <li><b>Szkolenia i komunikacja:</b>
+                    <ul>
+                        <li>Szkolenia pracowników z HACCP i GHP</li>
+                        <li>Komunikacja wewnętrzna (zmiany, informacje)</li>
+                        <li>Komunikacja z organami nadzoru</li>
+                    </ul>
+                </li>
+            </ol>
+
+            <h2>5. Protokoły ze spotkań Zespołu HACCP:</h2>
+            <p><i>Załączniki: Protokoły ze wszystkich spotkań Zespołu HACCP (w osobnych notatkach z datą)</i></p>
+
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:15%;">Data spotkania</th>
+                    <th style="width:50%;">Tematy omawiane</th>
+                    <th style="width:35%;">Decyzje i działania</th>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <p style="margin-top:30px; padding:15px; background-color:#d1ecf1; border-left:5px solid:#0c5460;">
+                <b>💡 Wskazówka:</b> Zespół HACCP powinien składać się z osób o zróżnicowanych kompetencjach (produkcja, jakość, technologia, logistyka). Dobrze jest włączyć również przedstawicieli pracowników produkcji, którzy znają proces od strony praktycznej.
+            </p>
+        </en-note>]]>
+        </content>
+        <created>20251203T110200Z</created>
+        <updated>20251203T110200Z</updated>
+        <tag>00_Dane_Zakładu</tag>
+        <tag>Zespół_HACCP</tag>
+        <tag>Zakład_Mięsny</tag>
+    </note>
+
+</en-export>

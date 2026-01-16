@@ -1,0 +1,2382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export4.dtd">
+<en-export export-date="20250104T000000Z" application="INOVIT e-Segregator HACCP" version="2.0">
+
+<!-- ================================================================== -->
+<!-- STACK V: SZKOLENIA I PERSONEL - CZĘŚĆ 2 -->
+<!-- e-Segregator HACCP - Uniwersalny szablon -->
+<!-- Pozostałe materiały szkoleniowe + Karty pracowników -->
+<!-- ================================================================== -->
+
+<!-- ============================================================ -->
+<!-- NOTATKA 5: Materiały szkoleniowe - Kontrola temperatur -->
+<!-- ============================================================ -->
+
+<note>
+<title>Materiały szkoleniowe: Kontrola temperatur</title>
+<created>20250104T120600Z</created>
+<updated>20250104T120600Z</updated>
+<tag>05_Szkolenia</tag>
+<tag>Materiały_Szkoleniowe</tag>
+<tag>Kontrola_Temperatur</tag>
+<tag>CCP</tag>
+<tag>📋_Szablon</tag>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+
+<h1 style="color:#2c3e50; border-bottom:3px solid #3498db; padding-bottom:10px;">
+🌡️ Materiały szkoleniowe: Kontrola temperatur
+</h1>
+
+<div style="background-color:#d6eaf8; padding:15px; border-left:4px solid #3498db; margin:20px 0;">
+<strong>Cel modułu:</strong> Zrozumienie znaczenia kontroli temperatur i prawidłowe wypełnianie rejestrów<br/>
+<strong>Czas trwania:</strong> 45 minut<br/>
+<strong>Podstawa prawna:</strong> Rozporządzenie WE 852/2004, WE 853/2004
+</div>
+
+<h2 style="color:#3498db;">1. DLACZEGO TEMPERATURA JEST TAK WAŻNA?</h2>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid:#ffc107; margin:20px 0;">
+<p style="font-size:18px; font-weight:bold;">
+🦠 TEMPERATURA = NAJWAŻNIEJSZY CZYNNIK KONTROLUJĄCY ROZWÓJ BAKTERII!
+</p>
+</div>
+
+<h3 style="color:#3498db;">Strefy temperaturowe:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#3498db; color:white;">
+<tr>
+<th style="width:25%;">Zakres temperatury</th>
+<th style="width:35%;">Co się dzieje?</th>
+<th style="width:40%;">Zastosowanie</th>
+</tr>
+</thead>
+<tbody>
+
+<tr style="background-color:#e3f2fd;">
+<td style="text-align:center; font-weight:bold;">≤ -18°C<br/><span style="font-size:12px;">(Mrożenie)</span></td>
+<td>
+<ul>
+<li>Bakterie ZATRZYMANE (nie rosną, nie giną)</li>
+<li>Pasożyty (Anisakis) giną po 24h w -20°C</li>
+<li>Żywność bezpieczna przez wiele miesięcy</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Zamrażarki</li>
+<li>Długoterminowe przechowywanie</li>
+<li>Transport mrożonek</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td style="text-align:center; font-weight:bold;">0-4°C<br/><span style="font-size:12px;">(Chłodzenie)</span></td>
+<td>
+<ul>
+<li>Bakterie rosną BARDZO WOLNO</li>
+<li>Idealny zakres dla produktów świeżych</li>
+<li>Trwałość: 2-7 dni (w zależności od produktu)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Chłodnie surowca</li>
+<li>Magazyny produktów gotowych</li>
+<li>Witryny chłodnicze</li>
+</ul>
+</td>
+</tr>
+
+<tr style="background-color:#fff3cd;">
+<td style="text-align:center; font-weight:bold; color:#f39c12;">5-60°C<br/><span style="font-size:12px;">(STREFA NIEBEZPIECZNA!)</span></td>
+<td style="color:#d35400; font-weight:bold;">
+<ul>
+<li>⚠️ OPTYMALNA dla bakterii!</li>
+<li>Podwojenie liczby bakterii co 20 min (37°C)</li>
+<li>Salmonella, Listeria, E. coli rosną BARDZO SZYBKO!</li>
+<li>⛔ UNIKAĆ TEGO ZAKRESU!</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Temperatura pokojowa (NIEBEZPIECZNA!)</li>
+<li>Produkty pozostawione na stole (ZŁE!)</li>
+<li>Schładzanie zbyt długie (RYZYKO!)</li>
+</ul>
+</td>
+</tr>
+
+<tr style="background-color:#fadbd8;">
+<td style="text-align:center; font-weight:bold; color:#c0392b;">≥ 68°C<br/><span style="font-size:12px;">(Obróbka termiczna)</span></td>
+<td style="color:#c0392b; font-weight:bold;">
+<ul>
+<li>🔥 BAKTERIE GINĄ!</li>
+<li>Denaturacja białek bakteryjnych</li>
+<li>Salmonella ginie w 68°C (instant)</li>
+<li>Listeria ginie w 70°C (instant)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li><b>CCP: Obróbka termiczna</b></li>
+<li>Wędzenie, parzenie, pieczenie</li>
+<li>Gotowanie, smażenie</li>
+</ul>
+</td>
+</tr>
+
+<tr>
+<td style="text-align:center; font-weight:bold;">≥ 75°C<br/><span style="font-size:12px;">(Pasteryzacja)</span></td>
+<td>
+<ul>
+<li>Wszystkie bakterie wegetatywne giną</li>
+<li>Przetrwają tylko przetrwalniki (Clostridium)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Pasteryzacja mleka (72°C/15s)</li>
+<li>Produkcja konserw</li>
+</ul>
+</td>
+</tr>
+
+<tr style="background-color:#e3f2fd;">
+<td style="text-align:center; font-weight:bold;">≥ 121°C<br/><span style="font-size:12px;">(Sterylizacja)</span></td>
+<td>
+<ul>
+<li>Wszystkie bakterie + przetrwalniki giną</li>
+<li>Produkt jałowy (sterylny)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Autoklawy (konserwy)</li>
+<li>Sterylizacja narzędzi</li>
+</ul>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid:#f5c6cb; margin:20px 0;">
+<p style="font-weight:bold; font-size:16px; color:#a94442;">
+⚠️ PAMIĘTAJ: Strefa 5-60°C = STREFA NIEBEZPIECZNA!
+</p>
+<p style="margin-top:10px;">
+Produkt NIE MOŻE pozostawać w tym zakresie dłużej niż <b>2 godziny</b> (łącznie podczas całego procesu produkcji)!
+</p>
+<p style="margin-top:10px;">
+Przykład: Mięso wyjęte z chłodni (4°C) → rozbiór w temp. pokojowej (20°C) przez 3h → bakterie rosną BARDZO SZYBKO → ryzyko zatrucia!
+</p>
+</div>
+
+<h2 style="color:#3498db;">2. LIMITY TEMPERATUR DLA RÓŻNYCH POMIESZCZEŃ</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#3498db; color:white;">
+<tr>
+<th style="width:40%;">Pomieszczenie / Produkt</th>
+<th style="width:30%;">Limit temperatury</th>
+<th style="width:30%;">Podstawa prawna</th>
+</tr>
+</thead>
+<tbody>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Chłodnia surowca mięsnego</b></td>
+<td style="text-align:center; font-weight:bold; color:#2980b9;">0-4°C</td>
+<td>WE 853/2004, Załącznik III</td>
+</tr>
+
+<tr>
+<td><b>Magazyn produktów gotowych</b></td>
+<td style="text-align:center; font-weight:bold; color:#2980b9;">≤ 8°C</td>
+<td>WE 853/2004</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Peklownia (mięso peklowane)</b></td>
+<td style="text-align:center; font-weight:bold; color:#2980b9;">0-8°C</td>
+<td>Praktyka zakładowa</td>
+</tr>
+
+<tr>
+<td><b>Magazyn mrożonek</b></td>
+<td style="text-align:center; font-weight:bold; color:#2980b9;">≤ -18°C</td>
+<td>WE 853/2004</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Hala produkcyjna (rozbiór)</b></td>
+<td style="text-align:center; font-weight:bold; color:#2980b9;">≤ 12°C</td>
+<td>WE 853/2004, Załącznik III</td>
+</tr>
+
+<tr>
+<td><b>Schładzanie po obróbce termicznej</b></td>
+<td style="text-align:center; font-weight:bold; color:#e67e22;">20-30°C<br/><span style="font-size:12px;">(w ciągu 2h)</span></td>
+<td>Dobre praktyki produkcyjne</td>
+</tr>
+
+<tr style="background-color:#fadbd8;">
+<td><b>🔴 CCP: Obróbka termiczna (wewnątrz produktu)</b></td>
+<td style="text-align:center; font-weight:bold; color:#c0392b;">≥ 68°C</td>
+<td>WE 2073/2005 (kryteria mikrobiologiczne)</td>
+</tr>
+
+<tr>
+<td><b>Transport chłodniczy</b></td>
+<td style="text-align:center; font-weight:bold; color:#2980b9;">≤ 8°C</td>
+<td>WE 853/2004</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Podroby (wątróbki, serca)</b></td>
+<td style="text-align:center; font-weight:bold; color:#2980b9;">≤ 3°C</td>
+<td>WE 853/2004 (wyższe ryzyko!)</td>
+</tr>
+
+<tr>
+<td><b>Mięso drobiowe</b></td>
+<td style="text-align:center; font-weight:bold; color:#2980b9;">≤ 4°C</td>
+<td>WE 853/2004</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2 style="color:#3498db;">3. JAK PRAWIDŁOWO MIERZYĆ TEMPERATURĘ?</h2>
+
+<h3 style="color:#3498db;">Typ 1: Temperatura POMIESZCZENIA (chłodnie, magazyny)</h3>
+
+<div style="background-color:#e8f4f8; padding:15px; margin:15px 0;">
+<p><b>Narzędzie:</b> Termometr ścienny lub termometr cyfrowy</p>
+
+<p style="margin-top:15px;"><b>Jak mierzyć?</b></p>
+<ol style="line-height:1.8;">
+<li>Odczytaj temperaturę z termometru wiszącego na ścianie chłodni</li>
+<li>Jeśli termometr cyfrowy: sprawdź wyświetlacz (temperatura powinna być stabilna 1 minutę)</li>
+<li>Zapisz DOKŁADNĄ wartość (np. 3,2°C, NIE „ok. 3°C")</li>
+<li>Jeśli termometr uszkodzony → natychmiast zgłoś kierownikowi!</li>
+</ol>
+
+<p style="margin-top:15px;"><b>Częstotliwość:</b> <b>2x dziennie</b> (rano przed pracą, koniec zmiany)</p>
+
+<p style="margin-top:15px;"><b>Gdzie umieszczać termometr w chłodni?</b></p>
+<ul>
+<li>✅ Na wysokości oczu (120-150 cm od podłogi)</li>
+<li>✅ Z dala od drzwi (temperatura przy drzwiach jest nierzetelna!)</li>
+<li>✅ NIE nad agregatem (za zimno) ani przy lampie (za ciepło)</li>
+</ul>
+</div>
+
+<h3 style="color:#3498db;">Typ 2: Temperatura PRODUKTU (wewnątrz mięsa, kiełbasy)</h3>
+
+<div style="background-color:#fadbd8; padding:15px; margin:15px 0; border-left:4px solid:#e74c3c;">
+<p><b>Narzędzie:</b> Termometr szpilkowy (sonda igłowa)</p>
+
+<p style="margin-top:15px;"><b>Jak mierzyć?</b></p>
+<ol style="line-height:1.8;">
+<li>Umyj i zdezynfekuj termometr (70% alkohol)</li>
+<li><b>Wbij sondę w geometryczny ŚRODEK produktu</b> (najgrubsze miejsce, najdłużej się nagrzewa!)</li>
+<li>Czekaj 10-30 sekund (aż temperatura się ustabilizuje)</li>
+<li>Odczytaj temperaturę</li>
+<li>Wyjmij sondę, umyj i zdezynfekuj ponownie</li>
+</ol>
+
+<p style="margin-top:15px;"><b>⚠️ BŁĘDY DO UNIKNIĘCIA:</b></p>
+<ul>
+<li>❌ Pomiar POWIERZCHNI (jest zawsze cieplejsza niż środek!)</li>
+<li>❌ Dotknięcie kości (kość ma inną temperaturę niż mięso)</li>
+<li>❌ Za płytkie wbicie (środek może być zimny mimo ciepłej powierzchni!)</li>
+</ul>
+
+<p style="margin-top:15px;"><b>🔴 CCP - OBRÓBKA TERMICZNA:</b></p>
+<p>Mierz temperaturę w <b>minimum 2 punktach</b> produktu (środek + koniec batona). Obie temperatury MUSZĄ być ≥68°C!</p>
+</div>
+
+<h2 style="color:#3498db;">4. KALIBRACJA TERMOMETRÓW</h2>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid:#ffc107; margin:20px 0;">
+<p style="font-weight:bold;">⚠️ Termometr MUSI być kalibrowany minimum 1x rocznie!</p>
+<p style="margin-top:10px;">Niekalibrowany termometr może pokazywać błędne wartości (np. pokazuje 4°C, a faktycznie jest 8°C → ryzyko zepsucia produktów!).</p>
+</div>
+
+<h3 style="color:#3498db;">Test kalibracji w warunkach zakładowych (metoda lodu):</h3>
+
+<div style="background-color:#e8f4f8; padding:15px; margin:15px 0;">
+<p><b>Jak wykonać test?</b></p>
+<ol style="line-height:1.8;">
+<li>Napełnij szklankę lodem (kostki lodu)</li>
+<li>Dodaj wodę (tak, żeby led pływał)</li>
+<li>Zamieszaj i poczekaj 1 minutę (stabilizacja temp. do 0°C)</li>
+<li>Włóż termometr do wody z lodem (NIE dotykaj dna!)</li>
+<li>Poczekaj 30 sekund</li>
+<li>Odczytaj temperaturę</li>
+</ol>
+
+<p style="margin-top:15px;"><b>Wynik:</b></p>
+<ul>
+<li>✅ <b>0°C ± 0,5°C</b> (od -0,5°C do +0,5°C) = termometr OK</li>
+<li>⚠️ <b>Poza zakresem</b> = termometr wymaga kalibracji przez serwis!</li>
+</ul>
+</div>
+
+<h3 style="color:#3498db;">Kalibracja profesjonalna (serwis):</h3>
+<ul style="line-height:1.8;">
+<li>Wykonywana przez certyfikowane laboratorium</li>
+<li>Częstotliwość: <b>minimum 1x rocznie</b></li>
+<li>Dokumentacja: Certyfikat kalibracji (przechowywać 3 lata)</li>
+<li>Koszt: 50-150 zł/termometr</li>
+</ul>
+
+<h2 style="color:#3498db;">5. WYPEŁNIANIE REJESTRU TEMPERATUR (R-04)</h2>
+
+<div style="background-color:#d6eaf8; padding:15px; margin:20px 0;">
+<p><b>Rejestr R-04: Rejestr temperatur pomieszczeń technologicznych</b></p>
+<p><b>Częstotliwość:</b> <b>CODZIENNIE</b> - 2x dziennie (rano i koniec zmiany)</p>
+</div>
+
+<h3 style="color:#3498db;">Wzór rejestru (przykład na 1 dzień):</h3>
+
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#3498db; color:white;">
+<tr>
+<th colspan="5" style="text-align:center;">Data: _______________</th>
+</tr>
+<tr>
+<th>Pomieszczenie</th>
+<th>Temp. rano [°C]</th>
+<th>Temp. koniec zmiany [°C]</th>
+<th>Uwagi</th>
+<th>Podpis</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8f9fa;">
+<td>Chłodnia surowca (limit: 0-4°C)</td>
+<td style="text-align:center;">3,2</td>
+<td style="text-align:center;">3,8</td>
+<td>OK</td>
+<td>JK</td>
+</tr>
+<tr>
+<td>Magazyn mięsa po rozbiorze (limit: 0-4°C)</td>
+<td style="text-align:center;">2,5</td>
+<td style="text-align:center;">3,1</td>
+<td>OK</td>
+<td>JK</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>Peklownia (limit: 0-8°C)</td>
+<td style="text-align:center;">5,0</td>
+<td style="text-align:center;">6,2</td>
+<td>OK</td>
+<td>JK</td>
+</tr>
+<tr style="background-color:#fff3cd;">
+<td>Magazyn produktów gotowych (limit: ≤8°C)</td>
+<td style="text-align:center;">7,1</td>
+<td style="text-align:center; font-weight:bold; color:#d35400;">9,2</td>
+<td style="color:#d35400; font-weight:bold;">⚠️ Przekroczenie! Zgłoszono kierownikowi, sprawdzono agregat</td>
+<td>JK</td>
+</tr>
+<tr>
+<td>Rozbiór i obróbka mechaniczna (limit: ≤15°C)</td>
+<td style="text-align:center;">10,5</td>
+<td style="text-align:center;">11,8</td>
+<td>OK</td>
+<td>JK</td>
+</tr>
+</tbody>
+</table>
+
+<h3 style="color:#3498db;">Zasady wypełniania:</h3>
+<ol style="line-height:1.8; font-size:16px;">
+<li>✅ Wpisuj DOKŁADNĄ temperaturę (z jednym miejscem po przecinku, np. 3,2°C)</li>
+<li>✅ <b>NIE ZAOKRĄGLAJ!</b> (3,2°C to NIE jest „ok. 3°C")</li>
+<li>✅ Podpis: inicjały pracownika wykonującego pomiar (np. JK = Jan Kowalski)</li>
+<li>✅ Data: wpisz datę pomiaru (YYYY-MM-DD lub DD.MM.YYYY)</li>
+<li>✅ Uwagi: Jeśli temperatura OK → wpisz „OK". Jeśli przekroczenie → opisz działania!</li>
+<li>❌ <b>NIE ZOSTAWIAJ PUSTYCH PÓL!</b> (brak wpisu = brak dowodu kontroli)</li>
+<li>❌ <b>NIE WYMYŚLAJ DANYCH!</b> (sfałszowanie rejestru = przestępstwo!)</li>
+</ol>
+
+<h2 style="color:#3498db;">6. CO ZROBIĆ, GDY TEMPERATURA PRZEKRACZA LIMIT?</h2>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid:#f5c6cb; margin:20px 0;">
+<p style="font-weight:bold; font-size:18px; color:#a94442;">
+⚠️ PRZEKROCZENIE TEMPERATURY = ALARM!
+</p>
+<p style="margin-top:10px;">
+Natychmiast podejmij działania - NIE CZEKAJ do końca zmiany!
+</p>
+</div>
+
+<h3 style="color:#c0392b;">Procedura krok po kroku:</h3>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:15px 0; border-left:4px solid #c0392b;">
+<p style="font-weight:bold;">KROK 1: SPRAWDŹ PONOWNIE (2 min)</p>
+<ul>
+<li>Zmierz temperaturę ponownie (czy termometr działa prawidłowo?)</li>
+<li>Jeśli nadal przekroczenie → przejdź do kroku 2</li>
+</ul>
+
+<p style="font-weight:bold; margin-top:15px;">KROK 2: NATYCHMIAST ZGŁOŚ KIEROWNIKOWI (1 min)</p>
+<ul>
+<li>Telefon/SMS/osobiście: „Przekroczenie temperatury w [nazwa pomieszczenia]: [wartość]°C"</li>
+<li>Kierownik zadecyduje o dalszych działaniach</li>
+</ul>
+
+<p style="font-weight:bold; margin-top:15px;">KROK 3: SPRAWDŹ PRZYCZYNĘ (5 min)</p>
+<ul>
+<li>Czy agregat chłodniczy działa? (słychać szum, wentylator?)</li>
+<li>Czy drzwi chłodni są zamknięte?</li>
+<li>Czy nie ma uszkodzeń (lód na parownikach, woda na podłodze?)</li>
+</ul>
+
+<p style="font-weight:bold; margin-top:15px;">KROK 4: DZIAŁANIA KORYGUJĄCE (zależnie od sytuacji)</p>
+<ul>
+<li><b>Jeśli drzwi otwarte:</b> Zamknij natychmiast, poczekaj 30 min, zmierz ponownie</li>
+<li><b>Jeśli awaria agregatu:</b> Wezwij serwis chłodniczy (natychmiast!), przenieś produkty do innej chłodni</li>
+<li><b>Jeśli przeciążenie:</b> Usuń część produktów (lepsze wykorzystanie powietrza)</li>
+</ul>
+
+<p style="font-weight:bold; margin-top:15px;">KROK 5: OCEŃ PRODUKTY (15-30 min)</p>
+<ul>
+<li><b>Temp. 5-8°C przez &lt;2h:</b> Produkty OK (szybkie schłodzenie)</li>
+<li><b>Temp. 8-12°C przez &gt;2h:</b> Produkty podejrzane (ocena organoleptyczna, szybka sprzedaż)</li>
+<li><b>Temp. &gt;12°C przez &gt;4h:</b> Produkty NIEBEZPIECZNE (odrzucenie, UPPZ kat. 3)</li>
+</ul>
+
+<p style="font-weight:bold; margin-top:15px;">KROK 6: DOKUMENTACJA (5 min)</p>
+<ul>
+<li>Wpis w rejestrze R-04 (kolumna „Uwagi"): <i>„Przekroczenie limitu, zgłoszono kierownikowi o [godz.], przyczyna: [opis], działania: [co zrobiono], wynik: [temperatura po działaniach]"</i></li>
+<li>Jeśli odrzucono produkty → wpis w rejestrze niezgodności</li>
+</ul>
+</div>
+
+<h2 style="color:#3498db;">7. NAJCZĘSTSZE BŁĘDY I JAK ICH UNIKAĆ</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#c0392b; color:white;">
+<tr>
+<th style="width:45%;">❌ BŁĄD</th>
+<th style="width:55%;">✅ PRAWIDŁOWO</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8f9fa;">
+<td>Pomiar temperatury POWIERZCHNI produktu (zamiast środka)</td>
+<td>Termometr szpilkowy wbijaj w <b>geometryczny ŚRODEK</b> produktu!</td>
+</tr>
+<tr>
+<td>Wypełnianie rejestru z pamięci (wieczorem za cały dzień)</td>
+<td>Mierz i NATYCHMIAST wpisuj do rejestru (nie polegaj na pamięci!)</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>Używanie nieskalibrowanego termometru</td>
+<td>Kalibracja minimum 1x rocznie + test lodu co 3 miesiące</td>
+</tr>
+<tr>
+<td>Ukrywanie przekroczenia temperatury („nikt nie zauważy")</td>
+<td><b>ZAWSZE zgłaszaj!</b> Ukrywanie = ryzyko zatrucia + kara PIW!</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>Pozostawienie produktu w strefie niebezpiecznej (20°C) przez 4h</td>
+<td>Strefa 5-60°C: maksimum 2h (łącznie)! Szybkie schładzanie po obróbce!</td>
+</tr>
+<tr>
+<td>Dotykanie kości przy pomiarze temperatury w mięsie</td>
+<td>Unikaj kości (temperatura kości ≠ temperatura mięsa)</td>
+</tr>
+</tbody>
+</table>
+
+<h2 style="color:#3498db;">PODSUMOWANIE - ZŁOTE ZASADY</h2>
+
+<div style="background-color:#d6eaf8; padding:20px; margin:30px 0; border:2px solid #3498db;">
+<ol style="line-height:2; font-size:17px; font-weight:bold;">
+<li>TEMPERATURA = najważniejszy czynnik kontroli bakterii!</li>
+<li>STREFA NIEBEZPIECZNA 5-60°C - maksimum 2h (łącznie)!</li>
+<li>CHŁODNIE 0-4°C, Magazyn gotowych ≤8°C, CCP obróbka ≥68°C</li>
+<li>MIERZ w środku produktu (nie na powierzchni!)</li>
+<li>REJESTR wypełniaj 2x dziennie (rano + koniec zmiany)</li>
+<li>KALIBRACJA termometrów 1x rocznie (certyfikat!)</li>
+<li>PRZEKROCZENIE = natychmiast zgłoś + działania korygujące!</li>
+<li>NIE WYMYŚLAJ DANYCH - uczciwe wpisy!</li>
+</ol>
+</div>
+
+<div style="background-color:#e8f4f8; padding:15px; margin:30px 0;">
+<p style="font-size:18px; line-height:1.8;">
+<b>PAMIĘTAJ:</b> Rejestr temperatur to często <b>PIERWSZY dokument</b>, który inspektor PIW sprawdza podczas kontroli! Brak wpisów lub fałszywe dane = niezgodność krytyczna = kara + wstrzymanie produkcji. 2 minuty dziennie na pomiar to małą cena za bezpieczeństwo zakładu!
+</p>
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- ============================================================ -->
+<!-- NOTATKA 6: Materiały szkoleniowe - Alergeny -->
+<!-- ============================================================ -->
+
+<note>
+<title>Materiały szkoleniowe: Alergeny i zarządzanie alergenami</title>
+<created>20250104T120700Z</created>
+<updated>20250104T120700Z</updated>
+<tag>05_Szkolenia</tag>
+<tag>Materiały_Szkoleniowe</tag>
+<tag>Alergeny</tag>
+<tag>📋_Szablon</tag>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+
+<h1 style="color:#2c3e50; border-bottom:3px solid #e67e22; padding-bottom:10px;">
+⚠️ Materiały szkoleniowe: Alergeny i zarządzanie alergenami
+</h1>
+
+<div style="background-color:#fef5e7; padding:15px; border-left:4px solid #e67e22; margin:20px 0;">
+<strong>Cel modułu:</strong> Zrozumienie zagrożenia alergenami i zapobieganie zanieczyszczeniom krzyżowym<br/>
+<strong>Czas trwania:</strong> 30 minut<br/>
+<strong>Podstawa prawna:</strong> Rozporządzenie WE 1169/2011 (informowanie konsumentów o żywności)
+</div>
+
+<h2 style="color:#e67e22;">1. CZYM SĄ ALERGENY I DLACZEGO SĄ NIEBEZPIECZNE?</h2>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid:#c0392b; margin:20px 0;">
+<p style="font-size:18px; font-weight:bold; color:#a94442;">
+⚠️ ALERGEN = substancja wywołująca reakcję alergiczną u wrażliwych osób
+</p>
+<p style="margin-top:10px; line-height:1.8;">
+Dla osoby z alergią nawet <b>mikroskopijne ilości</b> alergenu (np. 1 mg orzecha!) mogą wywołać:
+</p>
+<ul style="line-height:1.8;">
+<li>Wysypkę, swędzenie skóry</li>
+<li>Trudności w oddychaniu, obrzęk gardła</li>
+<li><b>Wstrząs anafilaktyczny</b> (zatrzymanie oddechu, utrata przytomności)</li>
+<li><b>ŚMIERĆ</b> (w ekstremalnych przypadkach - w ciągu minut!)</li>
+</ul>
+</div>
+
+<div style="background-color:#fff3cd; padding:15px; margin:20px 0;">
+<p><b>Przykład z praktyki:</b></p>
+<p style="line-height:1.8; margin-top:10px;">
+Kobieta z alergią na orzechy zamawia kanapkę „bez orzechów". Pracownik kroi kanapkę tym samym nożem, którym wcześniej kroił kanapkę z masłem orzechowym (bez umycia noża). <b>Efekt:</b> kobieta trafia do szpitala ze wstrząsem anafilaktycznym, prawie umiera. Restauracja pozwana, kara 500 000 zł odszkodowania + utrata licencji.
+</p>
+<p style="margin-top:10px; font-weight:bold; color:#d35400;">
+Koszt umycia noża: 2 minuty. Koszt braku mycia: 500 000 zł + reputacja zniszczona.
+</p>
+</div>
+
+<h2 style="color:#e67e22;">2. 14 GŁÓWNYCH ALERGENÓW (lista UE)</h2>
+
+<div style="background-color:#e8f4f8; padding:15px; margin:20px 0;">
+<p><b>Rozporządzenie WE 1169/2011, Załącznik II</b> wymienia 14 substancji/produktów powodujących alergie lub reakcje nietolerancji, które <b>MUSZĄ</b> być deklarowane na etykiecie.</p>
+</div>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#e67e22; color:white;">
+<tr>
+<th style="width:5%;">Nr</th>
+<th style="width:25%;">Alergen</th>
+<th style="width:40%;">Gdzie występuje?</th>
+<th style="width:30%;">Przykłady produktów</th>
+</tr>
+</thead>
+<tbody>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-weight:bold;">1</td>
+<td><b>Zboża zawierające gluten</b></td>
+<td>Pszenica, żyto, jęczmień, owies, orkisz</td>
+<td>Chleb, bułki, mąka, makarony, panierka, sosy zagęszczane</td>
+</tr>
+
+<tr>
+<td style="text-align:center; font-weight:bold;">2</td>
+<td><b>Skorupiaki</b></td>
+<td>Krewetki, homary, raki, kraby</td>
+<td>Sałatki z owocami morza, zupy rybne, sosy (umami)</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-weight:bold;">3</td>
+<td><b>Jaja i produkty pochodne</b></td>
+<td>Jaja kurze, przepiórcze (białko i żółtko)</td>
+<td>Majonez, ciasta, lody, makaron jajeczny, panierka</td>
+</tr>
+
+<tr>
+<td style="text-align:center; font-weight:bold;">4</td>
+<td><b>Ryby i produkty pochodne</b></td>
+<td>Wszystkie ryby</td>
+<td>Sosy rybne, surimi, anchois, pasta rybna</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-weight:bold;">5</td>
+<td><b>Orzeszki ziemne (fistaszki)</b></td>
+<td>Orzeszki ziemne (Arachis)</td>
+<td>Masło orzechowe, przekąski, batony, słodycze, sos satay</td>
+</tr>
+
+<tr>
+<td style="text-align:center; font-weight:bold;">6</td>
+<td><b>Soja i produkty pochodne</b></td>
+<td>Soja (fasola sojowa)</td>
+<td>Sos sojowy, tofu, mleko sojowe, lecytyna sojowa (E322)</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-weight:bold;">7</td>
+<td><b>Mleko i produkty pochodne (laktoza)</b></td>
+<td>Mleko krowie, kozie, owcze</td>
+<td>Masło, ser, jogurt, śmietana, serwatka, laktoza</td>
+</tr>
+
+<tr>
+<td style="text-align:center; font-weight:bold;">8</td>
+<td><b>Orzechy</b></td>
+<td>Migdały, laskowe, włoskie, nerkowce, pekan, brazylijskie, pistacje, makadamia</td>
+<td>Czekolada, ciasta, müsli, pesto, marzipan</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-weight:bold;">9</td>
+<td><b>Seler i produkty pochodne</b></td>
+<td>Seler (korzeń, łodyga, liście)</td>
+<td>Zupy, buliony, sosy, przyprawy warzywne</td>
+</tr>
+
+<tr>
+<td style="text-align:center; font-weight:bold;">10</td>
+<td><b>Gorczyca i produkty pochodne</b></td>
+<td>Gorczyca (nasiona, pasta)</td>
+<td>Musztarda, majonez, sosy, marynaty</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-weight:bold;">11</td>
+<td><b>Nasiona sezamu i produkty pochodne</b></td>
+<td>Sezam (nasiona, olej)</td>
+<td>Tahini, hummus, bułki z sezamem, halva</td>
+</tr>
+
+<tr>
+<td style="text-align:center; font-weight:bold;">12</td>
+<td><b>Dwutlenek siarki i siarczyny</b></td>
+<td>SO₂, E220-E228 (konserwanty)</td>
+<td>Wino, piwo, suszone owoce, ocet winny</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-weight:bold;">13</td>
+<td><b>Łubin i produkty pochodne</b></td>
+<td>Łubin (mąka, białko)</td>
+<td>Pieczywo, produkty wegańskie (zamiennik mięsa)</td>
+</tr>
+
+<tr>
+<td style="text-align:center; font-weight:bold;">14</td>
+<td><b>Mięczaki</b></td>
+<td>Ślimaki, małże, ostrygi, kalmary, ośmiornice</td>
+<td>Sałatki morskie, zupy, sosy</td>
+</tr>
+
+</tbody>
+</table>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid:#ffc107; margin:20px 0;">
+<p style="font-weight:bold;">💡 WSKAZÓWKA - JAK ZAPAMIĘTAĆ?</p>
+<p style="margin-top:10px;">
+Skrót myślowy: <b>„14 GROŹNYCH"</b><br/>
+<b>Gluten, Skorupiaki, Jaja, Ryby, Orzeszki ziemne, Soja, Mleko, Orzechy, Seler, Gorczyca, Sezam, Siarczyny, Łubin, Mięczaki</b>
+</p>
+</div>
+
+<h2 style="color:#e67e22;">3. ZANIECZYSZCZENIE KRZYŻOWE ALERGENAMI</h2>
+
+<div style="background-color:#f8d7da; padding:15px; margin:20px 0;">
+<p style="font-weight:bold; font-size:16px;">
+⚠️ ZANIECZYSZCZENIE KRZYŻOWE = przypadkowe przeniesienie alergenu z jednego produktu do drugiego
+</p>
+</div>
+
+<h3 style="color:#e67e22;">Jak dochodzi do zanieczyszczenia?</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#e67e22; color:white;">
+<tr>
+<th style="width:40%;">Źródło zanieczyszczenia</th>
+<th style="width:60%;">Przykład</th>
+</tr>
+</thead>
+<tbody>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Wspólne narzędzia</b> (noże, deski, mieszałki)</td>
+<td>
+Krojenie kiełbasy z sezamem tym samym nożem co kiełbasy bez sezamu (bez mycia między) → sezam trafia do produktu „bez sezamu"
+</td>
+</tr>
+
+<tr>
+<td><b>Wspólne powierzchnie</b> (stoły robocze, blaty)</td>
+<td>
+Posypanie stołu mąką (gluten), potem układanie produktów bezglutenowych na tym samym stole → gluten w produkcie bezglutenowym
+</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Brudne ręce</b> pracownika</td>
+<td>
+Pracownik dotyka orzechów, nie myje rąk, potem pakuje produkt „bez orzechów" → orzechy na rękawicach → alergen w produkcie
+</td>
+</tr>
+
+<tr>
+<td><b>Pył unoszący się w powietrzu</b></td>
+<td>
+Mielenie orzechów na wilku → pył orzechowy unosi się w powietrzu → opada na produkty bez orzechów na sąsiednim stole
+</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Wspólne opakowania</b></td>
+<td>
+Przechowywanie mleka w proszku i mąki bezglutenowej w tym samym pojemniku (jeden po drugim, bez mycia) → laktoza w mące bezglutenowej
+</td>
+</tr>
+
+<tr>
+<td><b>Wspólna woda do gotowania</b></td>
+<td>
+Gotowanie makaronu jajecznego, potem gotowanie makaronu bezjajecznego w tej samej wodzie → jaja w produkcie bezjajecznym
+</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2 style="color:#e67e22;">4. JAK ZAPOBIEGAĆ ZANIECZYSZCZENIOM KRZYŻOWYM?</h2>
+
+<h3 style="color:#27ae60;">✅ ZASADA 1: SEPARACJA PRODUKTÓW</h3>
+
+<div style="background-color:#d5f4e6; padding:15px; margin:15px 0;">
+<p><b>Co robić?</b></p>
+<ul style="line-height:1.8;">
+<li>Przechowuj produkty z różnymi alergenami <b>osobno</b> (różne półki, różne pojemniki)</li>
+<li>Produkty z alergenami <b>NIE mogą</b> leżeć nad produktami bez alergenów (ryzyko opadania pyłu/okruchów!)</li>
+<li>Oznakuj pojemniki: <b>„ZAWIERA: Gluten"</b>, <b>„ZAWIERA: Orzechy"</b>, <b>„BEZGLUTENOWE"</b></li>
+</ul>
+
+<p style="margin-top:15px;"><b>Przykład:</b></p>
+<p>Magazyn surowców - półka górna: mąka pszenna (gluten), półka dolna: mąka ryżowa (bezglutenowa). <b>ŹLE!</b> Pył z mąki pszennej opada na mąkę ryżową.</p>
+<p><b>DOBRZE:</b> Odwrotnie - mąka bezglutenowa na górze, mąka pszenna na dole (lub osobne szafy).</p>
+</div>
+
+<h3 style="color:#27ae60;">✅ ZASADA 2: KODOWANIE KOLORAMI NARZĘDZI</h3>
+
+<div style="background-color:#d5f4e6; padding:15px; margin:15px 0;">
+<p><b>Co robić?</b></p>
+<ul style="line-height:1.8;">
+<li>Wyznacz osobne narzędzia dla produktów z alergenami:</li>
+  <ul>
+    <li>Niebieski nóż = produkty z glutenem</li>
+    <li>Zielony nóż = produkty bezglutenowe</li>
+    <li>Czerwony nóż = produkty z orzechami</li>
+  </ul>
+<li><b>NIE MIESZAJ</b> kolorów! (zielony nóż NIGDY nie może kroić produktów z glutenem!)</li>
+</ul>
+</div>
+
+<h3 style="color:#27ae60;">✅ ZASADA 3: MYCIE MIĘDZY PRODUKTAMI</h3>
+
+<div style="background-color:#d5f4e6; padding:15px; margin:15px 0;">
+<p><b>Co robić?</b></p>
+<ul style="line-height:1.8;">
+<li>Po każdej zmianie produktu (np. z orzechami → bez orzechów): <b>7-stopniowe mycie + dezynfekcja!</b></li>
+<li>Dotyczy: noży, desek, mieszałek, wilków, nadziewarek, stołów</li>
+<li><b>NIE WYSTARCZY</b> przetrzeć ściereczką! Pełne mycie!</li>
+</ul>
+
+<p style="margin-top:15px;"><b>Przykład:</b></p>
+<p>Produkcja kiełbasy z sezamem (9:00-11:00), potem produkcja kiełbasy bez sezamu (11:00-13:00). <b>O 11:00 STOP PRODUKCJA</b> → 30 minut mycie nadziewarki, mieszałki, stołów (7 kroków!) → Dopiero wtedy start produkcji bez sezamu.</p>
+</div>
+
+<h3 style="color:#27ae60;">✅ ZASADA 4: KOLEJNOŚĆ PRODUKCJI</h3>
+
+<div style="background-color:#d5f4e6; padding:15px; margin:15px 0;">
+<p><b>Co robić?</b></p>
+<ul style="line-height:1.8;">
+<li><b>Najpierw</b> produkty BEZ alergenów, <b>potem</b> produkty Z alergenami</li>
+<li>Minimalizuje ryzyko zanieczyszczenia krzyżowego</li>
+</ul>
+
+<p style="margin-top:15px;"><b>Przykład:</b></p>
+<p>Plan produkcji na dzień:<br/>
+✅ 8:00 - Kiełbasa tradycyjna (bez alergenów)<br/>
+✅ 10:00 - Kiełbasa z dodatkiem mleka w proszku (laktoza)<br/>
+✅ 12:00 - Kiełbasa z sezamem<br/><br/>
+❌ <b>ŹLE:</b> 8:00 sezam → 10:00 mleko → 12:00 bez alergenów (ryzyko zanieczyszczenia!)<br/>
+✅ <b>DOBRZE:</b> 8:00 bez alergenów → 10:00 mleko → 12:00 sezam (minimalne ryzyko)</p>
+</div>
+
+<h3 style="color:#27ae60;">✅ ZASADA 5: HIGIENA OSOBISTA</h3>
+
+<div style="background-color:#d5f4e6; padding:15px; margin:15px 0;">
+<p><b>Co robić?</b></p>
+<ul style="line-height:1.8;">
+<li><b>Mycie rąk</b> (7 kroków WHO) po każdym dotknięciu produktu z alergenem</li>
+<li><b>Zmiana rękawic</b> po każdym produkcie</li>
+<li><b>Zmiana fartucha</b> przy produkcji bez alergenów (jeśli poprzednio pracowałeś z alergenami)</li>
+</ul>
+</div>
+
+<h2 style="color:#e67e22;">5. ETYKIETOWANIE - INFORMOWANIE KONSUMENTA</h2>
+
+<div style="background-color:#e8f4f8; padding:15px; margin:20px 0;">
+<p><b>Rozporządzenie WE 1169/2011:</b> Wszystkie 14 alergenów MUSZĄ być wyraźnie oznaczone na etykiecie!</p>
+</div>
+
+<h3 style="color:#e67e22;">Jak oznaczać alergeny na etykiecie?</h3>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:15px 0;">
+<p><b>Metoda 1: Wyróżnienie w składzie (pogrubienie, CAPS, kursywa)</b></p>
+<p style="margin-top:10px;">
+<b>Przykład:</b><br/>
+Składniki: mięso wieprzowe, woda, sól, przyprawy, <b>GLUTEN</b> pszenny, <b>LAKTOZA</b>, stabilizatory (E450, E451), przeciwutleniacz (E300), barwnik (E120), konserwant (E250).
+</p>
+
+<p style="margin-top:15px;"><b>Metoda 2: Lista alergenów pod składem</b></p>
+<p style="margin-top:10px;">
+<b>Przykład:</b><br/>
+Składniki: [jak wyżej]<br/>
+<b>Alergeny:</b> Zawiera gluten (pszenica), laktozę (mleko).
+</p>
+
+<p style="margin-top:15px;"><b>Metoda 3: Oświadczenie „może zawierać"</b></p>
+<p style="margin-top:10px;">
+Jeśli istnieje ryzyko zanieczyszczenia krzyżowego (mimo środków zapobiegawczych), można dodać:<br/>
+<b>„Może zawierać śladowe ilości sezamu i orzechów"</b> (PAL - Precautionary Allergen Labelling)
+</p>
+</div>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid:#f5c6cb; margin:20px 0;">
+<p style="font-weight:bold;">⚠️ BRAK OZNACZENIA ALERGENU = NIELEGALNE!</p>
+<p style="margin-top:10px;">
+Konsekwencje:
+</p>
+<ul>
+<li>Kara finansowa od Inspekcji Handlowej (do 100 000 zł)</li>
+<li>Wycofanie produktu z rynku</li>
+<li>Jeśli ktoś ucierpi → roszczenia odszkodowawcze (setki tysięcy zł)</li>
+<li>Utrata reputacji</li>
+</ul>
+</div>
+
+<h2 style="color:#e67e22;">6. PROCEDURA W RAZIE POMYŁKI</h2>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid:#ffc107; margin:20px 0;">
+<p style="font-weight:bold;">Co zrobić, jeśli odkryjesz, że produkt „bez alergenu" został zanieczyszczony?</p>
+</div>
+
+<h3 style="color:#c0392b;">KROK PO KROKU:</h3>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:15px 0; border-left:4px solid #c0392b;">
+<p style="font-weight:bold;">KROK 1: NATYCHMIAST ZATRZYMAJ PRODUKCJĘ (1 min)</p>
+<ul>
+<li>Nie kontynuuj pakowania/sprzedaży produktu</li>
+<li>Zgłoś kierownikowi</li>
+</ul>
+
+<p style="font-weight:bold; margin-top:15px;">KROK 2: ODIZOLUJ PRODUKT (5 min)</p>
+<ul>
+<li>Przenieś podejrzany produkt do osobnego pomieszczenia</li>
+<li>Oznacz: <b>„KWARANTANNA - podejrzenie alergenu"</b></li>
+<li>Zapisz nr partii!</li>
+</ul>
+
+<p style="font-weight:bold; margin-top:15px;">KROK 3: OCEŃ SKALĘ (15 min)</p>
+<ul>
+<li>Ile produktu zostało wyprodukowane? (kg, szt.)</li>
+<li>Czy część została już sprzedana? (jeśli TAK → krok 5!)</li>
+<li>Jaki alergen? (czy groźny dla życia? np. orzechy = bardzo groźne)</li>
+</ul>
+
+<p style="font-weight:bold; margin-top:15px;">KROK 4: DECYZJA</p>
+<ul>
+<li><b>Opcja A:</b> Zmiana etykiety (dodanie alergenu do składu) - jeśli możliwe i produkt nie sprzedany</li>
+<li><b>Opcja B:</b> Przepakowanie do innej linii (z deklaracją alergenu)</li>
+<li><b>Opcja C:</b> Utylizacja (UPPZ kat. 3) - jeśli brak możliwości poprawy</li>
+</ul>
+
+<p style="font-weight:bold; margin-top:15px;">KROK 5: WYCOFANIE Z RYNKU (jeśli produkt już sprzedany!)</p>
+<ul>
+<li>Kontakt z klientami (telefon, mail) - informacja o wycofaniu</li>
+<li>Ogłoszenie publiczne (strona www, media społecznościowe)</li>
+<li>Zgłoszenie do GIS (Główny Inspektorat Sanitarny) - RAPID ALERT!</li>
+<li>Zwrot produktów od klientów, zwrot pieniędzy</li>
+</ul>
+
+<p style="font-weight:bold; margin-top:15px;">KROK 6: DOKUMENTACJA</p>
+<ul>
+<li>Raport niezgodności (opis sytuacji, przyczyna, działania)</li>
+<li>Analiza przyczyn (dlaczego doszło do zanieczyszczenia?)</li>
+<li>Działania zapobiegawcze (jak zapobiec w przyszłości?)</li>
+</ul>
+</div>
+
+<h2 style="color:#e67e22;">7. NAJCZĘSTSZE BŁĘDY I JAK ICH UNIKAĆ</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#c0392b; color:white;">
+<tr>
+<th style="width:45%;">❌ BŁĄD</th>
+<th style="width:55%;">✅ PRAWIDŁOWO</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8f9fa;">
+<td>Krojenie produktu z alergenem i bez alergenu tym samym nożem (bez mycia)</td>
+<td>7-stopniowe mycie + dezynfekcja między produktami LUB osobne noże (kodowanie kolorami)</td>
+</tr>
+<tr>
+<td>Przechowywanie produktów z orzechami nad produktami bez orzechów</td>
+<td>Produkty BEZ alergenów ZAWSZE na górze (lub osobne szafy)</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>Praca w tych samych rękawicach przy różnych produktach</td>
+<td>Zmiana rękawic po każdym produkcie + mycie rąk przed założeniem nowych</td>
+</tr>
+<tr>
+<td>Brak oznaczenia alergenu na etykiecie („klient i tak nie zauważy")</td>
+<td><b>WSZYSTKIE 14 alergenów MUSZĄ być oznaczone!</b> To wymóg prawny!</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>Ukrywanie pomyłki (zanieczyszczenie alergenem)</td>
+<td>Natychmiast zgłoś! Ukrywanie = ryzyko śmierci konsumenta + kara + więzienie!</td>
+</tr>
+</tbody>
+</table>
+
+<h2 style="color:#e67e22;">PODSUMOWANIE - ZŁOTE ZASADY</h2>
+
+<div style="background-color:#fef5e7; padding:20px; margin:30px 0; border:2px solid #e67e22;">
+<ol style="line-height:2; font-size:17px; font-weight:bold;">
+<li>14 ALERGENÓW MUSI być deklarowanych (gluten, mleko, jaja, orzechy, soja, ryby, skorupiaki, ...)</li>
+<li>SEPARACJA produktów z różnymi alergenami (osobne półki, pojemniki)</li>
+<li>MYCIE między produktami (7 kroków + dezynfekcja!)</li>
+<li>KOLEJNOŚĆ produkcji: najpierw BEZ alergenów, potem Z alergenami</li>
+<li>KODOWANIE kolorami narzędzi (niebieski = gluten, zielony = bezglutenowe)</li>
+<li>ETYKIETA musi oznaczać wszystkie alergeny (pogrubienie lub lista)</li>
+<li>POMYŁKA = natychmiast zgłoś + wycofanie produktu (jeśli sprzedany)</li>
+<li>ALERGENY = groźne dla życia - traktuj poważnie!</li>
+</ol>
+</div>
+
+<div style="background-color:#e8f4f8; padding:15px; margin:30px 0;">
+<p style="font-size:18px; line-height:1.8;">
+<b>PAMIĘTAJ:</b> Dla osoby z alergią nawet mikroskopijne ilości alergenu mogą być śmiertelne. Twoja uwaga i przestrzeganie procedur może uratować komuś życie! To nie przesada - to rzeczywistość.
+</p>
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- ============================================================ -->
+<!-- NOTATKA 7: Materiały szkoleniowe - Mycie i dezynfekcja -->
+<!-- ============================================================ -->
+
+<note>
+<title>Materiały szkoleniowe: Mycie i dezynfekcja</title>
+<created>20250104T120800Z</created>
+<updated>20250104T120800Z</updated>
+<tag>05_Szkolenia</tag>
+<tag>Materiały_Szkoleniowe</tag>
+<tag>Mycie_Dezynfekcja</tag>
+<tag>GHP</tag>
+<tag>📋_Szablon</tag>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+
+<h1 style="color:#2c3e50; border-bottom:3px solid #16a085; padding-bottom:10px;">
+🧼 Materiały szkoleniowe: Mycie i dezynfekcja
+</h1>
+
+<div style="background-color:#d1f2eb; padding:15px; border-left:4px solid #16a085; margin:20px 0;">
+<strong>Cel modułu:</strong> Opanowanie 7-stopniowego procesu mycia i dezynfekcji oraz poznanie zasad bezpieczeństwa chemicznego<br/>
+<strong>Czas trwania:</strong> 45 minut<br/>
+<strong>Podstawa prawna:</strong> Rozporządzenie WE 852/2004, Załącznik II rozdz. V i IX
+</div>
+
+<h2 style="color:#16a085;">1. DLACZEGO MYCIE I DEZYNFEKCJA SĄ TAK WAŻNE?</h2>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid:#ffc107; margin:20px 0;">
+<p style="font-size:18px; font-weight:bold;">
+🦠 1 cm² brudnej powierzchni = nawet 10 000 000 bakterii!
+</p>
+<p style="margin-top:10px; line-height:1.8;">
+Samo mycie wodą usuwa <b>tylko 80-90% bakterii</b>. Pozostałe 10-20% (100 000 - 2 000 000 bakterii!) nadal może być groźne!<br/>
+<b>Dezynfekcja</b> po myciu redukuje liczebność bakterii o dodatkowe 99,9% → efekt końcowy: <b>99,99% redukcji!</b>
+</p>
+</div>
+
+<h3 style="color:#16a085;">Różnica między myciem a dezynfekcją:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#16a085; color:white;">
+<tr>
+<th style="width:20%;"></th>
+<th style="width:40%;">MYCIE</th>
+<th style="width:40%;">DEZYNFEKCJA</th>
+</tr>
+</thead>
+<tbody>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Cel</b></td>
+<td>Usunięcie BRUDU, tłuszczu, resztek żywności</td>
+<td>ZABICIE bakterii, wirusów, grzybów</td>
+</tr>
+
+<tr>
+<td><b>Środek</b></td>
+<td>Detergent (mydło, płyn do naczyń)</td>
+<td>Środek dezynfekcyjny (chlor, alkohol, aldehyd)</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Efekt</b></td>
+<td>Powierzchnia CZYSTA wizualnie, ale bakterie ŻYJĄ!</td>
+<td>Bakterie MARTWE (99,9% redukcji)</td>
+</tr>
+
+<tr>
+<td><b>Kolejność</b></td>
+<td style="font-weight:bold; color:#16a085;">NAJPIERW mycie</td>
+<td style="font-weight:bold; color:#16a085;">POTEM dezynfekcja</td>
+</tr>
+
+</tbody>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid:#f5c6cb; margin:20px 0;">
+<p style="font-weight:bold; font-size:16px; color:#a94442;">
+⚠️ WAŻNE: Dezynfekcja БЕЗ wcześniejszego mycia = NIESKUTECZNA!
+</p>
+<p style="margin-top:10px;">
+Dlaczego? Bo środek dezynfekcyjny reaguje z brudem (białko, tłuszcz) zamiast z bakteriami! Brud "blokuje" dostęp do bakterii → bakterie przeżywają!
+</p>
+</div>
+
+<h2 style="color:#16a085;">2. 7-STOPNIOWY PROCES MYCIA I DEZYNFEKCJI</h2>
+
+<div style="background-color:#e8f4f8; padding:15px; margin:20px 0;">
+<p style="font-weight:bold; font-size:16px;">
+📋 TEN PROCES DOTYCZY WSZYSTKIEGO:
+</p>
+<ul style="line-height:1.8;">
+<li>Narzędzia (noże, deski, mieszałki, wilki, nadziewarki)</li>
+<li>Powierzchnie (stoły, blaty, parapety, drzwi)</li>
+<li>Pojemniki (wiadra, tacki, formy)</li>
+<li>Urządzenia (kutry, młynki, pakowaczki)</li>
+</ul>
+</div>
+
+<h3 style="color:#16a085;">KROK 1: USUNIĘCIE ZGRUBNYCH ZANIECZYSZCZEŃ</h3>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:15px 0; border-left:4px solid #16a085;">
+<p><b>Co robić?</b></p>
+<ul style="line-height:1.8;">
+<li>Zdejmij resztki żywności (mięso, tłuszcz) za pomocą zgarniacza lub ręcznika papierowego</li>
+<li>Wyrzuć do kosza (NIE do zlewu!)</li>
+<li>Cel: Usunięcie ~80% brudu mechanicznie (zanim użyjesz wody)</li>
+</ul>
+
+<p style="margin-top:15px;"><b>Dlaczego?</b></p>
+<p>Jeśli od razu zalejesz wodą → brud rozprowadzi się po całej powierzchni + zapchasz odpływ!</p>
+
+<p style="margin-top:15px;"><b>Narzędzia:</b> Zgarniacze plastikowe, ręczniki papierowe, szczotki z twardym włosiem</p>
+</div>
+
+<h3 style="color:#16a085;">KROK 2: MYCIE WSTĘPNE (PŁUKANIE WODĄ)</h3>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:15px 0; border-left:4px solid #16a085;">
+<p><b>Co robić?</b></p>
+<ul style="line-height:1.8;">
+<li>Spłucz powierzchnię <b>ciepłą wodą</b> (40-50°C)</li>
+<li>Cel: Zmyć resztki brudu + zmiękczyć tłuszcz</li>
+</ul>
+
+<p style="margin-top:15px;"><b>⚠️ NIE UŻYWAJ:</b></p>
+<ul>
+<li>❌ Za gorącej wody (&gt;60°C) → białko się "przykleja" (jak gotowane jajko!)</li>
+<li>❌ Za zimnej wody (&lt;30°C) → tłuszcz się nie rozpuszcza</li>
+</ul>
+
+<p style="margin-top:15px;"><b>Temperatura idealna:</b> 40-50°C (ciepła, ale nie gorąca)</p>
+</div>
+
+<h3 style="color:#16a085;">KROK 3: MYCIE ZASADNICZE (DETERGENT)</h3>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:15px 0; border-left:4px solid #16a085;">
+<p><b>Co robić?</b></p>
+<ol style="line-height:1.8;">
+<li>Przygotuj roztwór detergentu (zgodnie z instrukcją producenta!)</li>
+<li>Nałóż roztwór na całą powierzchnię (gąbka, szczotka, natrysk)</li>
+<li><b>Szoruj energicznie</b> przez minimum 30 sekund</li>
+<li>Zwracaj uwagę na trudnodostępne miejsca (kąty, szpary, gwinty)</li>
+</ol>
+
+<p style="margin-top:15px;"><b>Detergenty dla przemysłu spożywczego:</b></p>
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse; margin:10px 0;">
+<thead style="background-color:#16a085; color:white;">
+<tr>
+<th>Typ detergentu</th>
+<th>Zastosowanie</th>
+<th>Przykłady</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8f9fa;">
+<td><b>Alkaliczny (zasadowy)</b></td>
+<td>Usuwanie tłuszczu, białka</td>
+<td>P3-topax 66, Suma Bac D10</td>
+</tr>
+<tr>
+<td><b>Kwaśny</b></td>
+<td>Usuwanie kamienia, rdzę</td>
+<td>P3-topax 15, kwas cytrynowy</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td><b>Neutralny</b></td>
+<td>Mycie codzienne (delikatne)</td>
+<td>Płyn do naczyń (przeznaczony dla spożywczej!)</td>
+</tr>
+</tbody>
+</table>
+
+<p style="margin-top:15px;"><b>⚠️ UWAGA BEZPIECZEŃSTWO:</b></p>
+<ul style="line-height:1.8;">
+<li>Detergenty alkaliczne (pH 11-14) = <b>żrące!</b> Używaj rękawic!</li>
+<li>NIE MIeszaj różnych detergentów (może powstać gaz trujący!)</li>
+<li>ZAWSZE czytaj kartę charakterystyki (MSDS)</li>
+</ul>
+</div>
+
+<h3 style="color:#16a085;">KROK 4: PŁUKANIE PO MYCIU</h3>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:15px 0; border-left:4px solid #16a085;">
+<p><b>Co robić?</b></p>
+<ul style="line-height:1.8;">
+<li>Spłucz <b>dokładnie</b> całą powierzchnię czystą wodą (40-50°C)</li>
+<li>Cel: Usunięcie resztek detergentu</li>
+<li>Płucz do momentu, aż woda przestanie "pieniś się"</li>
+</ul>
+
+<p style="margin-top:15px;"><b>Dlaczego to ważne?</b></p>
+<p>Resztki detergentu na powierzchni:</p>
+<ul>
+<li>❌ Reagują ze środkiem dezynfekcyjnym → dezynfekcja nieskuteczna!</li>
+<li>❌ Mogą przedostać się do żywności → ryzyko zatrucia!</li>
+<li>❌ Pozostawiają białe smugi, osad</li>
+</ul>
+</div>
+
+<h3 style="color:#16a085;">KROK 5: DEZYNFEKCJA</h3>
+
+<div style="background-color:#fadbd8; padding:15px; margin:15px 0; border-left:4px solid #e74c3c;">
+<p style="font-weight:bold; color:#c0392b;">🔴 NAJWAŻNIEJSZY KROK - TU GINĄ BAKTERIE!</p>
+
+<p style="margin-top:15px;"><b>Co robić?</b></p>
+<ol style="line-height:1.8;">
+<li>Przygotuj roztwór dezynfekcyjny (zgodnie z instrukcją!)</li>
+<li>Nałóż na całą powierzchnię (natrysk, zanurzenie, ściereczka)</li>
+<li><b>ODCZEKAJ CZAS KONTAKTU</b> (zwykle 5-15 minut - sprawdź etykietę!)</li>
+<li>NIE SPŁUKUJ przed upływem czasu kontaktu!</li>
+</ol>
+
+<p style="margin-top:15px;"><b>Środki dezynfekcyjne dla przemysłu spożywczego:</b></p>
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse; margin:10px 0;">
+<thead style="background-color:#c0392b; color:white;">
+<tr>
+<th>Rodzaj</th>
+<th>Stężenie</th>
+<th>Czas kontaktu</th>
+<th>Uwagi</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8f9fa;">
+<td><b>Chlor (podchloran sodu)</b></td>
+<td>150-200 ppm<br/>(0,015-0,02%)</td>
+<td>5-10 min</td>
+<td>Tani, skuteczny. Korozja metalu (stal nierdzewna OK)</td>
+</tr>
+<tr>
+<td><b>Alkohol (70% etanol)</b></td>
+<td>70%</td>
+<td>30 sekund</td>
+<td>Szybki, do małych powierzchni. Łatwopalny!</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td><b>Nadtlenek wodoru (H₂O₂)</b></td>
+<td>3-6%</td>
+<td>10 min</td>
+<td>Ekologiczny (rozkłada się do wody). Droższy.</td>
+</tr>
+<tr>
+<td><b>Czwartorzędowe związki amonowe (QAC)</b></td>
+<td>200-400 ppm</td>
+<td>10 min</td>
+<td>Nie koroduje, bezpieczny. Słabo działa na wirusy.</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td><b>Kwas nadoctowy</b></td>
+<td>100-200 ppm</td>
+<td>15 min</td>
+<td>Bardzo skuteczny (bakterie + wirusy + grzyby). Drogi.</td>
+</tr>
+</tbody>
+</table>
+
+<p style="margin-top:15px;"><b>⚠️ ZASADY BEZPIECZEŃSTWA:</b></p>
+<ul style="line-height:1.8;">
+<li><b>Rękawice!</b> (nitrylowe lub lateksowe)</li>
+<li><b>Gogle ochronne</b> (jeśli ryzyko rozprysku)</li>
+<li><b>Wentylacja!</b> (otwarte okna, wyciąg)</li>
+<li><b>NIE MIESZAJ</b> środków (np. chlor + kwas = gaz bojowy!)</li>
+<li><b>Przechowuj w oryginalnych opakowaniach</b> (z etykietą!)</li>
+</ul>
+</div>
+
+<h3 style="color:#16a085;">KROK 6: PŁUKANIE KOŃCOWE (opcjonalne)</h3>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:15px 0; border-left:4px solid #16a085;">
+<p><b>Czy spłukiwać po dezynfekcji?</b></p>
+<p style="margin-top:10px;"><b>ZALEŻY od środka!</b></p>
+
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse; margin:10px 0;">
+<thead style="background-color:#16a085; color:white;">
+<tr>
+<th style="width:50%;">Środek dezynfekcyjny</th>
+<th style="width:50%;">Płukać?</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8f9fa;">
+<td>Chlor (podchloran sodu)</td>
+<td style="font-weight:bold; color:#27ae60;">✅ TAK (spłucz czystą wodą)</td>
+</tr>
+<tr>
+<td>Alkohol 70%</td>
+<td style="font-weight:bold; color:#c0392b;">❌ NIE (odparuje samoistnie)</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>Nadtlenek wodoru</td>
+<td style="font-weight:bold; color:#27ae60;">✅ TAK (może zostawiać biały osad)</td>
+</tr>
+<tr>
+<td>QAC (związki amonowe)</td>
+<td style="font-weight:bold; color:#c0392b;">❌ NIE (bezpieczne dla kontaktu z żywnością)</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>Kwas nadoctowy</td>
+<td style="font-weight:bold; color:#27ae60;">✅ TAK (może pozostawić zapach)</td>
+</tr>
+</tbody>
+</table>
+
+<p style="margin-top:15px;"><b>Ogólna zasada:</b></p>
+<p>Jeśli środek ma atest „żywność-ready" (no-rinse) → NIE musisz płukać.<br/>
+Jeśli brak atestu lub wątpliwość → SPŁUCZ czystą wodą (pitną!).</p>
+</div>
+
+<h3 style="color:#16a085;">KROK 7: SUSZENIE</h3>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:15px 0; border-left:4px solid #16a085;">
+<p><b>Co robić?</b></p>
+<ul style="line-height:1.8;">
+<li><b>Osusz powierzchnię</b> ręcznikiem jednorazowym (papierowym) LUB pozostaw do wyschnięcia na powietrzu</li>
+<li>Narzędzia: Postaw pionowo (aby woda spłynęła) lub zawieś</li>
+</ul>
+
+<p style="margin-top:15px;"><b>Dlaczego suszenie jest ważne?</b></p>
+<ul style="line-height:1.8;">
+<li>Wilgotna powierzchnia = raj dla bakterii (rozmnażanie!)</li>
+<li>Krople wody = ryzyko zanieczyszczenia krzyżowego (przeniesienie bakterii)</li>
+</ul>
+
+<p style="margin-top:15px;"><b>⚠️ NIE UŻYWAJ:</b></p>
+<ul>
+<li>❌ Ręczników tekstylnych (mogą być zabrudzone!)</li>
+<li>❌ Tej samej ściereczki wielokrotnie (bakterie!)</li>
+</ul>
+
+<p style="margin-top:15px;"><b>✅ UŻYWAJ:</b></p>
+<ul>
+<li>Ręczników papierowych jednorazowych</li>
+<li>Suszenia na powietrzu (najlepsze!)</li>
+</ul>
+</div>
+
+<h2 style="color:#16a085;">3. KODOWANIE KOLORAMI (COLOR CODING SYSTEM)</h2>
+
+<div style="background-color:#e8f4f8; padding:15px; margin:20px 0;">
+<p style="font-weight:bold;">
+🎨 System kolorów zapobiega zanieczyszczeniom krzyżowym!
+</p>
+<p style="margin-top:10px;">
+Każdy kolor = inna strefa zakładu. NIE MIESZAJ kolorów!
+</p>
+</div>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#16a085; color:white;">
+<tr>
+<th style="width:15%;">Kolor</th>
+<th style="width:35%;">Zastosowanie</th>
+<th style="width:50%;">Przykłady</th>
+</tr>
+</thead>
+<tbody>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-weight:bold; background-color:#e74c3c; color:white;">CZERWONY</td>
+<td>Surowiec (mięso surowe)</td>
+<td>Chłodnia surowca, rozbiór, pojemniki na surowe mięso</td>
+</tr>
+
+<tr>
+<td style="text-align:center; font-weight:bold; background-color:#3498db; color:white;">NIEBIESKI</td>
+<td>Ryby i owoce morza</td>
+<td>Przetwórstwo ryb (jeśli dotyczy)</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-weight:bold; background-color:#f39c12; color:white;">ŻÓŁTY</td>
+<td>Produkty gotowe (po obróbce termicznej)</td>
+<td>Magazyn kiełbas gotowych, pakowanie</td>
+</tr>
+
+<tr>
+<td style="text-align:center; font-weight:bold; background-color:#27ae60; color:white;">ZIELONY</td>
+<td>Warzywa, owoce</td>
+<td>Preparatyka warzyw (jeśli dotyczy)</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-weight:bold; background-color:white; border:2px solid #333;">BIAŁY</td>
+<td>Pieczywo, produkty suche</td>
+<td>Magazyn przypraw, bułka tarta</td>
+</tr>
+
+<tr>
+<td style="text-align:center; font-weight:bold; background-color:#8e44ad; color:white;">FIOLETOWY (brązowy)</td>
+<td>Sanitarne (toalety, umywalnie)</td>
+<td>Toalety, szatnie, zmywalnie butów</td>
+</tr>
+
+</tbody>
+</table>
+
+<div style="background-color:#fff3cd; padding:15px; margin:20px 0;">
+<p><b>Przykład zastosowania:</b></p>
+<p style="margin-top:10px; line-height:1.8;">
+Pracownik myje stół w chłodni surowca → używa <b>CZERWONEJ</b> szczotki + <b>CZERWONEGO</b> wiadra.<br/>
+Potem myje stół w magazynie produktów gotowych → używa <b>ŻÓŁTEJ</b> szczotki + <b>ŻÓŁTEGO</b> wiadra.<br/>
+<b>NIGDY</b> nie używa czerwonej szczotki w strefie żółtej (przeniosłby bakterie z surowca do produktów gotowych!)
+</p>
+</div>
+
+<h2 style="color:#16a085;">4. CZĘSTOTLIWOŚĆ MYCIA</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#16a085; color:white;">
+<tr>
+<th style="width:40%;">Powierzchnia / Narzędzie</th>
+<th style="width:30%;">Częstotliwość</th>
+<th style="width:30%;">Proces</th>
+</tr>
+</thead>
+<tbody>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Noże, deski do krojenia</b></td>
+<td>Po każdym użyciu</td>
+<td>7 kroków</td>
+</tr>
+
+<tr>
+<td><b>Stoły robocze</b></td>
+<td>Po każdej zmianie produktu + koniec zmiany</td>
+<td>7 kroków</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Wilki, kutry, nadziewarki</b></td>
+<td>Po każdym użyciu (zmiana produktu)</td>
+<td>7 kroków + demontaż!</td>
+</tr>
+
+<tr>
+<td><b>Pojemniki na surowiec</b></td>
+<td>Codziennie (koniec zmiany)</td>
+<td>7 kroków</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Podłogi w hali produkcyjnej</b></td>
+<td>Minimum 1x dziennie (koniec zmiany)</td>
+<td>Zamiatanie → mycie → dezynfekcja</td>
+</tr>
+
+<tr>
+<td><b>Ściany (do wysokości 2m)</b></td>
+<td>1x tygodniowo</td>
+<td>Mycie + dezynfekcja</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Toalety</b></td>
+<td>Minimum 2x dziennie</td>
+<td>7 kroków (środki fioletowe!)</td>
+</tr>
+
+<tr>
+<td><b>Klamki, włączniki światła</b></td>
+<td>Minimum 1x dziennie</td>
+<td>Dezynfekcja alkoholem 70%</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Chłodnie, zamrażarki</b></td>
+<td>1x miesięcznie (pełne mycie)</td>
+<td>Rozmrożenie → 7 kroków → sprawdzenie uszczelek</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2 style="color:#16a085;">5. NAJCZĘSTSZE BŁĘDY I JAK ICH UNIKAĆ</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#c0392b; color:white;">
+<tr>
+<th style="width:45%;">❌ BŁĄD</th>
+<th style="width:55%;">✅ PRAWIDŁOWO</th>
+</tr>
+</thead>
+<tbody>
+
+<tr style="background-color:#f8f9fa;">
+<td>Dezynfekcja БЕЗ wcześniejszego mycia</td>
+<td>ZAWSZE najpierw mycie (usunięcie brudu), POTEM dezynfekcja!</td>
+</tr>
+
+<tr>
+<td>Zbyt krótki czas kontaktu (dezynfekcja 30 sekund zamiast 10 minut)</td>
+<td>ODCZEKAJ pełny czas kontaktu (sprawdź etykietę środka!)</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td>Używanie tej samej szczotki w różnych strefach (czerwona w strefie żółtej)</td>
+<td>Przestrzegaj kodowania kolorami - NIE MIESZAJ!</td>
+</tr>
+
+<tr>
+<td>Za wysokie stężenie środka („więcej = lepiej")</td>
+<td>Przestrzegaj instrukcji producenta! Za wysokie stężenie = ryzyko zatrucia + korozja!</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td>Mieszanie środków (detergent + dezynfekcja jednocześnie)</td>
+<td>NIE MIESZAJ! Reakcja chemiczna = gaz trujący lub nieskuteczność!</td>
+</tr>
+
+<tr>
+<td>Brak płukania po detergencie alkalicznym</td>
+<td>ZAWSZE płucz po myciu! Resztki detergentu blokują dezynfekcję!</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td>Suszenie brudnym ręcznikiem tekstylnym</td>
+<td>Tylko ręczniki papierowe JEDNORAZOWE lub suszenie na powietrzu!</td>
+</tr>
+
+<tr>
+<td>Używanie gorącej wody (&gt;70°C) do mycia białka</td>
+<td>Woda 40-50°C! Za gorąca „przykleja" białko!</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2 style="color:#16a085;">6. BEZPIECZEŃSTWO CHEMICZNE - KARTY CHARAKTERYSTYKI</h2>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid:#ffc107; margin:20px 0;">
+<p style="font-weight:bold;">
+⚠️ Każdy środek chemiczny MUSI mieć kartę charakterystyki (MSDS - Material Safety Data Sheet)!
+</p>
+</div>
+
+<h3 style="color:#16a085;">Co zawiera karta charakterystyki?</h3>
+
+<ul style="line-height:1.8; font-size:15px;">
+<li><b>1. Identyfikacja substancji</b> (nazwa, producent, nr telefonu alarmowego)</li>
+<li><b>2. Identyfikacja zagrożeń</b> (piktogramy, hasła ostrzegawcze)</li>
+<li><b>3. Skład/informacja o składnikach</b></li>
+<li><b>4. Pierwsza pomoc</b> (co zrobić w razie kontaktu z oczami, skórą, połknięcia)</li>
+<li><b>5. Zwalczanie pożaru</b> (czy palne? jakie gaśnice?)</li>
+<li><b>6. Postępowanie w razie uwolnienia</b> (rozlanie środka)</li>
+<li><b>7. Postępowanie i magazynowanie</b> (temperatura, wentylacja)</li>
+<li><b>8. Kontrola narażenia / środki ochrony</b> (rękawice, gogle, maska)</li>
+<li><b>9. Właściwości fizyczne i chemiczne</b> (pH, zapach, kolor)</li>
+<li><b>10-16. Pozostałe informacje</b> (stabilność, toksyczność, transport, przepisy)</li>
+</ul>
+
+<h3 style="color:#16a085;">Piktogramy (symbole ostrzegawcze):</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#c0392b; color:white;">
+<tr>
+<th style="width:20%;">Symbol</th>
+<th style="width:30%;">Znaczenie</th>
+<th style="width:50%;">Przykłady środków</th>
+</tr>
+</thead>
+<tbody>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-size:40px;">☠️</td>
+<td><b>Bardzo toksyczne</b></td>
+<td>Silne kwasy (HCl, H₂SO₄), formalina</td>
+</tr>
+
+<tr>
+<td style="text-align:center; font-size:40px;">⚠️</td>
+<td><b>Szkodliwe / drażniące</b></td>
+<td>Większość detergentów, środków dezynfekcyjnych</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-size:40px;">🔥</td>
+<td><b>Łatwopalne</b></td>
+<td>Alkohol 70%, rozpuszczalniki</td>
+</tr>
+
+<tr>
+<td style="text-align:center; font-size:40px;">🧪</td>
+<td><b>Żrące</b></td>
+<td>Detergenty alkaliczne (pH &gt;11), kwasy</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-size:40px;">💣</td>
+<td><b>Utleniające</b></td>
+<td>Podchloran sodu (chlor), nadtlenek wodoru</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2 style="color:#16a085;">7. PIERWSZA POMOC W RAZIE WYPADKU</h2>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid:#f5c6cb; margin:20px 0;">
+<p style="font-weight:bold; font-size:16px;">
+⚠️ W RAZIE WYPADKU - DZIAŁAJ SZYBKO!
+</p>
+</div>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#c0392b; color:white;">
+<tr>
+<th style="width:30%;">Rodzaj wypadku</th>
+<th style="width:70%;">Działanie</th>
+</tr>
+</thead>
+<tbody>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Kontakt z oczami</b></td>
+<td>
+<ol style="line-height:1.6;">
+<li><b>NATYCHMIAST płucz oczy czystą wodą przez minimum 15 minut!</b></li>
+<li>Trzymaj powieki otwarte (podczas płukania)</li>
+<li>Wezwij pomoc / jedź do lekarza (weź kartkę charakterystyki!)</li>
+<li><b>NIE TRZYJ oczu!</b></li>
+</ol>
+</td>
+</tr>
+
+<tr>
+<td><b>Kontakt ze skórą</b></td>
+<td>
+<ol style="line-height:1.6;">
+<li>Zdejmij zabrudzoną odzież</li>
+<li>Płucz skórę czystą wodą przez 10 minut</li>
+<li>Jeśli oparzenie chemiczne → zimna woda + opatrunek + lekarz</li>
+<li><b>NIE</b> nakładaj maści bez zgody lekarza!</li>
+</ol>
+</td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td><b>Wdychanie oparów</b></td>
+<td>
+<ol style="line-height:1.6;">
+<li>Wyprowadź poszkodowanego na świeże powietrze</li>
+<li>Ułóż wygodnie (na boku jeśli wymioty)</li>
+<li>Wezwij pogotowie (112)</li>
+<li><b>NIE</b> podawaj niczego do picia jeśli osoba nieprzytomna!</li>
+</ol>
+</td>
+</tr>
+
+<tr>
+<td><b>Połknięcie</b></td>
+<td>
+<ol style="line-height:1.6;">
+<li><b>NIE WYMUSZAJ WYMIOTÓW!</b> (może pogorszyć!)</li>
+<li>Podaj 200 ml wody (jeśli osoba przytomna)</li>
+<li>Wezwij pogotowie (112) + weź kartę charakterystyki</li>
+<li>Jeśli nieprzytomność → pozycja boczna bezpieczna</li>
+</ol>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2 style="color:#16a085;">PODSUMOWANIE - ZŁOTE ZASADY</h2>
+
+<div style="background-color:#d1f2eb; padding:20px; margin:30px 0; border:2px solid #16a085;">
+<ol style="line-height:2; font-size:17px; font-weight:bold;">
+<li>7 KROKÓW: Usunięcie zgrubnych → Płukanie → Mycie → Płukanie → Dezynfekcja → Płukanie (opcja) → Suszenie</li>
+<li>NAJPIERW mycie (usunięcie brudu), POTEM dezynfekcja (zabicie bakterii)</li>
+<li>CZAS KONTAKTU dla dezynfekcji (5-15 min) - NIE SKRACAJ!</li>
+<li>KODOWANIE kolorami - czerwony = surowiec, żółty = gotowe, fioletowy = sanitarne</li>
+<li>KARTA charakterystyki (MSDS) dla każdego środka chemicznego</li>
+<li>RĘKAWICE + gogle przy pracy z chemią (bezpieczeństwo!)</li>
+<li>NIE MIESZAJ różnych środków (ryzyko gazu trującego!)</li>
+<li>KONTAKT z oczami = płucz 15 minut + lekarz!</li>
+</ol>
+</div>
+
+<div style="background-color:#e8f4f8; padding:15px; margin:30px 0;">
+<p style="font-size:18px; line-height:1.8;">
+<b>PAMIĘTAJ:</b> Mycie i dezynfekcja to podstawa bezpieczeństwa żywności! 7 kroków zajmuje 15 minut, ale zapobiega zatruciom pokarmowym, karom PIW i utracie reputacji. Przestrzegaj procedur - to inwestycja, nie koszt!
+</p>
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- ============================================================ -->
+<!-- NOTATKA 8: Test wiedzy (wzór) -->
+<!-- ============================================================ -->
+
+<note>
+<title>Test wiedzy - Szkolenie HACCP (wzór)</title>
+<created>20250104T120900Z</created>
+<updated>20250104T120900Z</updated>
+<tag>05_Szkolenia</tag>
+<tag>Test_Wiedzy</tag>
+<tag>📋_Szablon</tag>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+
+<h1 style="color:#2c3e50; border-bottom:3px solid #8e44ad; padding-bottom:10px; text-align:center;">
+📝 TEST WIEDZY - Szkolenie HACCP
+</h1>
+
+<div style="background-color:#f4ecf7; padding:15px; border-left:4px solid #8e44ad; margin:20px 0;">
+<p><b>Dane uczestnika:</b></p>
+<table border="0" cellpadding="5" cellspacing="0" style="width:100%;">
+<tr>
+<td style="width:30%;"><b>Imię i nazwisko:</b></td>
+<td style="border-bottom:1px solid #333;">_______________________________________________</td>
+</tr>
+<tr>
+<td><b>Stanowisko:</b></td>
+<td style="border-bottom:1px solid #333;">_______________________________________________</td>
+</tr>
+<tr>
+<td><b>Data szkolenia:</b></td>
+<td style="border-bottom:1px solid #333;">_______________________________________________</td>
+</tr>
+<tr>
+<td><b>Prowadzący szkolenie:</b></td>
+<td style="border-bottom:1px solid #333;">_______________________________________________</td>
+</tr>
+</table>
+</div>
+
+<div style="background-color:#d6eaf8; padding:15px; margin:20px 0;">
+<p style="font-weight:bold;">INSTRUKCJA:</p>
+<ul style="line-height:1.8;">
+<li>Test składa się z <b>20 pytań</b> (18 pytań jednokrotnego wyboru + 2 pytania otwarte)</li>
+<li>Przy pytaniach zamkniętych zaznacz <b>JEDNĄ</b> prawidłową odpowiedź (X)</li>
+<li>Przy pytaniach otwartych wpisz krótką odpowiedź (2-3 zdania)</li>
+<li>Czas na rozwiązanie: <b>30 minut</b></li>
+<li>Wynik pozytywny: <b>minimum 16/20 poprawnych odpowiedzi (80%)</b></li>
+<li>W razie wyniku negatywnego: szkolenie uzupełniające + ponowny test</li>
+</ul>
+</div>
+
+<hr style="border:1px solid #8e44ad; margin:30px 0;"/>
+
+<h2 style="color:#8e44ad;">CZĘŚĆ I: PODSTAWY HACCP</h2>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">1. Co oznacza skrót HACCP?</p>
+<p style="margin-left:20px;">
+☐ a) High Analysis Critical Control Points<br/>
+☐ b) Hazard Analysis and Critical Control Points<br/>
+☐ c) Health and Critical Control Process<br/>
+☐ d) Hygiene Analysis and Care Control Points
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: b]</p>
+</div>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">2. Ile jest głównych typów zagrożeń w systemie HACCP?</p>
+<p style="margin-left:20px;">
+☐ a) 2 (biologiczne i chemiczne)<br/>
+☐ b) 3 (biologiczne, chemiczne, fizyczne)<br/>
+☐ c) 4 (biologiczne, chemiczne, fizyczne, alergeny)<br/>
+☐ d) 5 (biologiczne, chemiczne, fizyczne, alergeny, mikrobiologiczne)
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: b]</p>
+</div>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">3. Które z poniższych bakterii stanowi zagrożenie biologiczne w mięsie?</p>
+<p style="margin-left:20px;">
+☐ a) Salmonella<br/>
+☐ b) E. coli<br/>
+☐ c) Listeria monocytogenes<br/>
+☐ d) Wszystkie powyższe
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: d]</p>
+</div>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">4. Co to jest CCP (Critical Control Point)?</p>
+<p style="margin-left:20px;">
+☐ a) Punkt w procesie, gdzie można zastosować kontrolę<br/>
+☐ b) Punkt krytyczny, gdzie kontrola jest NIEZBĘDNA do wyeliminowania lub zminimalizowania zagrożenia<br/>
+☐ c) Punkt kontroli jakości produktu<br/>
+☐ d) Punkt, gdzie odbywa się pakowanie produktu
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: b]</p>
+</div>
+
+<h2 style="color:#8e44ad;">CZĘŚĆ II: HIGIENA OSOBISTA</h2>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">5. Ile kroków ma prawidłowa procedura mycia rąk według WHO?</p>
+<p style="margin-left:20px;">
+☐ a) 5 kroków<br/>
+☐ b) 7 kroków<br/>
+☐ c) 10 kroków<br/>
+☐ d) 12 kroków
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: b]</p>
+</div>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">6. Kiedy pracownik MUSI umyć ręce? (zaznacz najbardziej kompleksową odpowiedź)</p>
+<p style="margin-left:20px;">
+☐ a) Tylko przed rozpoczęciem pracy<br/>
+☐ b) Przed pracą i po skorzystaniu z toalety<br/>
+☐ c) Przed pracą, po toalecie, po dotknięciu brudu, po kichaniu/kasłaniu, po zmianie produktu<br/>
+☐ d) Tylko gdy ręce są widocznie brudne
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: c]</p>
+</div>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">7. Pracownik z jaką chorobą NIE MOŻE pracować przy produkcji żywności?</p>
+<p style="margin-left:20px;">
+☐ a) Biegunka, wymioty<br/>
+☐ b) Ropne rany, zakażenia skóry<br/>
+☐ c) Zapalenie wątroby (żółtaczka)<br/>
+☐ d) Wszystkie powyższe
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: d]</p>
+</div>
+
+<h2 style="color:#8e44ad;">CZĘŚĆ III: KONTROLA TEMPERATUR</h2>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">8. Jaka jest strefa niebezpieczna dla rozwoju bakterii?</p>
+<p style="margin-left:20px;">
+☐ a) 0-4°C<br/>
+☐ b) 5-60°C<br/>
+☐ c) 60-100°C<br/>
+☐ d) Powyżej 100°C
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: b]</p>
+</div>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">9. Jaka temperatura wewnątrz produktu zabija bakterie podczas obróbki termicznej (CCP)?</p>
+<p style="margin-left:20px;">
+☐ a) ≥ 50°C<br/>
+☐ b) ≥ 60°C<br/>
+☐ c) ≥ 68°C<br/>
+☐ d) ≥ 100°C
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: c]</p>
+</div>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">10. Jak często należy kalibrować termometry?</p>
+<p style="margin-left:20px;">
+☐ a) 1x w miesiącu<br/>
+☐ b) 1x na kwartał<br/>
+☐ c) 1x w roku (minimum)<br/>
+☐ d) Tylko gdy się zepsują
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: c]</p>
+</div>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">11. Gdzie należy wbić termometr szpilkowy przy pomiarze temperatury wewnętrznej kiełbasy?</p>
+<p style="margin-left:20px;">
+☐ a) W dowolne miejsce<br/>
+☐ b) Przy powierzchni (blisko skórki)<br/>
+☐ c) W geometryczny środek (najgrubsze miejsce)<br/>
+☐ d) Przy końcu batonu
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: c]</p>
+</div>
+
+<h2 style="color:#8e44ad;">CZĘŚĆ IV: MYCIE I DEZYNFEKCJA</h2>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">12. Jaka jest prawidłowa kolejność mycia i dezynfekcji?</p>
+<p style="margin-left:20px;">
+☐ a) Dezynfekcja → mycie → płukanie<br/>
+☐ b) Mycie → dezynfekcja → płukanie (opcjonalnie)<br/>
+☐ c) Płukanie → dezynfekcja → mycie<br/>
+☐ d) Mycie i dezynfekcja jednocześnie
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: b]</p>
+</div>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">13. Co oznacza CZERWONY kolor w systemie kodowania kolorami?</p>
+<p style="margin-left:20px;">
+☐ a) Produkty gotowe<br/>
+☐ b) Surowiec (mięso surowe)<br/>
+☐ c) Warzywa i owoce<br/>
+☐ d) Strefa sanitarna (toalety)
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: b]</p>
+</div>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">14. Dlaczego NIE WOLNO mieszać różnych środków chemicznych (detergent + dezynfekcja)?</p>
+<p style="margin-left:20px;">
+☐ a) To kosztowne<br/>
+☐ b) Może powstać gaz trujący lub reakcja chemiczna niszcząca skuteczność<br/>
+☐ c) To nie ma znaczenia, można mieszać<br/>
+☐ d) Zmniejsza się czas kontaktu
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: b]</p>
+</div>
+
+<h2 style="color:#8e44ad;">CZĘŚĆ V: ALERGENY</h2>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">15. Ile głównych alergenów wymienia Rozporządzenie WE 1169/2011?</p>
+<p style="margin-left:20px;">
+☐ a) 8 alergenów<br/>
+☐ b) 10 alergenów<br/>
+☐ c) 14 alergenów<br/>
+☐ d) 20 alergenów
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: c]</p>
+</div>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">16. Co to jest zanieczyszczenie krzyżowe alergenami?</p>
+<p style="margin-left:20px;">
+☐ a) Dodanie alergenu do składu<br/>
+☐ b) Przypadkowe przeniesienie alergenu z jednego produktu do drugiego<br/>
+☐ c) Reakcja alergiczna u konsumenta<br/>
+☐ d) Mieszanie różnych alergenów
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: b]</p>
+</div>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">17. Jaka jest prawidłowa kolejność produkcji, aby minimalizować ryzyko zanieczyszczenia krzyżowego?</p>
+<p style="margin-left:20px;">
+☐ a) Najpierw produkty z alergenami, potem bez alergenów<br/>
+☐ b) Najpierw produkty bez alergenów, potem z alergenami<br/>
+☐ c) Kolejność nie ma znaczenia<br/>
+☐ d) Wszystko jednocześnie
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: b]</p>
+</div>
+
+<h2 style="color:#8e44ad;">CZĘŚĆ VI: REJESTRY I DOKUMENTACJA</h2>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">18. Jak często należy wypełniać rejestr temperatur pomieszczeń (R-04)?</p>
+<p style="margin-left:20px;">
+☐ a) 1x w tygodniu<br/>
+☐ b) 1x dziennie (rano lub wieczorem)<br/>
+☐ c) 2x dziennie (rano i koniec zmiany)<br/>
+☐ d) Tylko gdy inspektor przyjdzie
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">[Poprawna odpowiedź: c]</p>
+</div>
+
+<hr style="border:1px solid #8e44ad; margin:30px 0;"/>
+
+<h2 style="color:#8e44ad;">CZĘŚĆ VII: PYTANIA OTWARTE</h2>
+
+<div style="background-color:#f4ecf7; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">19. Opisz, co powinieneś zrobić, jeśli zauważysz przekroczenie temperatury w chłodni surowca (9°C zamiast 4°C). Wymień minimum 3 kroki. (4 pkt)</p>
+<p style="margin-top:10px; border:1px solid #333; padding:10px; min-height:100px; background-color:white;">
+_________________________________________________________________<br/>
+_________________________________________________________________<br/>
+_________________________________________________________________<br/>
+_________________________________________________________________<br/>
+_________________________________________________________________<br/>
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">
+[Oczekiwana odpowiedź powinna zawierać: 1) Ponowny pomiar, 2) Zgłoszenie kierownikowi, 3) Sprawdzenie przyczyny (agregat/drzwi), 4) Działania korygujące, 5) Wpis w rejestrze]
+</p>
+</div>
+
+<div style="background-color:#f4ecf7; padding:15px; margin:20px 0; border-left:3px solid #8e44ad;">
+<p style="font-weight:bold;">20. Wymień 5 z 14 głównych alergenów, które muszą być deklarowane na etykiecie produktu. (2 pkt)</p>
+<p style="margin-top:10px;">
+1. _________________________________________________________________<br/>
+2. _________________________________________________________________<br/>
+3. _________________________________________________________________<br/>
+4. _________________________________________________________________<br/>
+5. _________________________________________________________________<br/>
+</p>
+<p style="margin-top:10px; font-size:12px; color:#555;">
+[Przykładowe poprawne odpowiedzi: gluten, mleko, jaja, ryby, skorupiaki, orzechy, orzeszki ziemne, soja, seler, gorczyca, sezam, siarczyny, łubin, mięczaki]
+</p>
+</div>
+
+<hr style="border:2px solid #8e44ad; margin:30px 0;"/>
+
+<h2 style="color:#8e44ad; text-align:center;">WYNIK TESTU</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tbody>
+<tr style="background-color:#f4ecf7;">
+<td style="width:50%; font-weight:bold;">Liczba poprawnych odpowiedzi:</td>
+<td style="width:50%; text-align:center; font-size:20px;">________ / 20</td>
+</tr>
+<tr>
+<td style="font-weight:bold;">Wynik procentowy:</td>
+<td style="text-align:center; font-size:20px;">________ %</td>
+</tr>
+<tr style="background-color:#f4ecf7;">
+<td style="font-weight:bold;">Ocena końcowa:</td>
+<td style="text-align:center; font-size:20px;">
+☐ ZALICZONO (≥80%)<br/>
+☐ NIEZALICZONO (&lt;80%)
+</td>
+</tr>
+</tbody>
+</table>
+
+<div style="background-color:#d6eaf8; padding:15px; margin:30px 0;">
+<p><b>Podpis uczestnika:</b> ______________________________ <b>Data:</b> ______________</p>
+<p style="margin-top:15px;"><b>Podpis prowadzącego szkolenie:</b> ______________________________ <b>Data:</b> ______________</p>
+</div>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid:#ffc107; margin:30px 0;">
+<p style="font-weight:bold;">UWAGI PROWADZĄCEGO / PLAN DZIAŁAŃ KORYGUJĄCYCH (jeśli test niezaliczony):</p>
+<p style="margin-top:10px; border:1px solid #333; padding:10px; min-height:80px; background-color:white;">
+_________________________________________________________________<br/>
+_________________________________________________________________<br/>
+_________________________________________________________________<br/>
+_________________________________________________________________<br/>
+</p>
+</div>
+
+<div style="background-color:#e8f4f8; padding:15px; margin:30px 0; text-align:center;">
+<p style="font-size:14px; line-height:1.8;">
+<b>Dokument należy przechowywać przez minimum 3 lata</b><br/>
+w aktach pracownika (Księga HACCP - Stack V: Szkolenia i Personel)
+</p>
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- ============================================================ -->
+<!-- NOTATKA 9: Lista obecności (wzór) -->
+<!-- ============================================================ -->
+
+<note>
+<title>Lista obecności - Szkolenie HACCP (wzór)</title>
+<created>20250104T121000Z</created>
+<updated>20250104T121000Z</updated>
+<tag>05_Szkolenia</tag>
+<tag>Lista_Obecności</tag>
+<tag>📋_Szablon</tag>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+
+<h1 style="color:#2c3e50; border-bottom:3px solid #3498db; padding-bottom:10px; text-align:center;">
+📋 LISTA OBECNOŚCI - SZKOLENIE HACCP
+</h1>
+
+<div style="background-color:#d6eaf8; padding:15px; margin:30px 0;">
+<table border="0" cellpadding="8" cellspacing="0" style="width:100%;">
+<tr>
+<td style="width:30%; font-weight:bold;">Nazwa zakładu:</td>
+<td style="border-bottom:1px solid #333; width:70%;">_______________________________________________</td>
+</tr>
+<tr>
+<td style="font-weight:bold;">Temat szkolenia:</td>
+<td style="border-bottom:1px solid #333;">_______________________________________________</td>
+</tr>
+<tr>
+<td style="font-weight:bold;">Prowadzący szkolenie:</td>
+<td style="border-bottom:1px solid #333;">_______________________________________________</td>
+</tr>
+<tr>
+<td style="font-weight:bold;">Data szkolenia:</td>
+<td style="border-bottom:1px solid #333;">_______________________________________________</td>
+</tr>
+<tr>
+<td style="font-weight:bold;">Godzina rozpoczęcia:</td>
+<td style="border-bottom:1px solid #333;">_______________________________________________</td>
+</tr>
+<tr>
+<td style="font-weight:bold;">Godzina zakończenia:</td>
+<td style="border-bottom:1px solid #333;">_______________________________________________</td>
+</tr>
+<tr>
+<td style="font-weight:bold;">Czas trwania (godz.):</td>
+<td style="border-bottom:1px solid #333;">_______________________________________________</td>
+</tr>
+<tr>
+<td style="font-weight:bold;">Miejsce szkolenia:</td>
+<td style="border-bottom:1px solid #333;">_______________________________________________</td>
+</tr>
+</table>
+</div>
+
+<h2 style="color:#3498db;">PROGRAM SZKOLENIA (zaznacz realizowane moduły):</h2>
+
+<div style="background-color:#e8f4f8; padding:15px; margin:20px 0;">
+<table border="0" cellpadding="5" cellspacing="0" style="width:100%;">
+<tr>
+<td style="width:10%;">☐</td>
+<td style="width:90%;">Wprowadzenie do systemu HACCP (podstawy, zasady, cele)</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>Higiena osobista (7-stopniowe mycie rąk WHO, odzież ochronna, badania sanitarne)</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>Mycie i dezynfekcja (7-stopniowy proces, kodowanie kolorami, bezpieczeństwo chemiczne)</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>Podstawy HACCP (3 typy zagrożeń, CCP, odpowiedzialność pracownika)</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>Kontrola temperatur (strefy temperaturowe, pomiary, kalibracja, rejestry)</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>Alergeny i zarządzanie alergenami (14 głównych alergenów, zanieczyszczenie krzyżowe, etykietowanie)</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>Wypełnianie rejestrów (R-01 do R-10, zasady dokumentacji)</td>
+</tr>
+<tr>
+<td>☐</td>
+<td>Inne (wymień): _____________________________________________________________</td>
+</tr>
+</table>
+</div>
+
+<h2 style="color:#3498db;">LISTA UCZESTNIKÓW SZKOLENIA:</h2>
+
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#3498db; color:white;">
+<tr>
+<th style="width:5%;">Lp.</th>
+<th style="width:25%;">Imię i nazwisko</th>
+<th style="width:20%;">Stanowisko</th>
+<th style="width:15%;">Data zatrudnienia</th>
+<th style="width:10%;">Typ szkolenia</th>
+<th style="width:25%;">Podpis uczestnika</th>
+</tr>
+</thead>
+<tbody>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center;">1</td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align:center; font-size:11px;">☐ Wstępne<br/>☐ Okresowe</td>
+<td></td>
+</tr>
+
+<tr>
+<td style="text-align:center;">2</td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align:center; font-size:11px;">☐ Wstępne<br/>☐ Okresowe</td>
+<td></td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center;">3</td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align:center; font-size:11px;">☐ Wstępne<br/>☐ Okresowe</td>
+<td></td>
+</tr>
+
+<tr>
+<td style="text-align:center;">4</td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align:center; font-size:11px;">☐ Wstępne<br/>☐ Okresowe</td>
+<td></td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center;">5</td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align:center; font-size:11px;">☐ Wstępne<br/>☐ Okresowe</td>
+<td></td>
+</tr>
+
+<tr>
+<td style="text-align:center;">6</td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align:center; font-size:11px;">☐ Wstępne<br/>☐ Okresowe</td>
+<td></td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center;">7</td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align:center; font-size:11px;">☐ Wstępne<br/>☐ Okresowe</td>
+<td></td>
+</tr>
+
+<tr>
+<td style="text-align:center;">8</td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align:center; font-size:11px;">☐ Wstępne<br/>☐ Okresowe</td>
+<td></td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center;">9</td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align:center; font-size:11px;">☐ Wstępne<br/>☐ Okresowe</td>
+<td></td>
+</tr>
+
+<tr>
+<td style="text-align:center;">10</td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align:center; font-size:11px;">☐ Wstępne<br/>☐ Okresowe</td>
+<td></td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center;">11</td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align:center; font-size:11px;">☐ Wstępne<br/>☐ Okresowe</td>
+<td></td>
+</tr>
+
+<tr>
+<td style="text-align:center;">12</td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align:center; font-size:11px;">☐ Wstępne<br/>☐ Okresowe</td>
+<td></td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center;">13</td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align:center; font-size:11px;">☐ Wstępne<br/>☐ Okresowe</td>
+<td></td>
+</tr>
+
+<tr>
+<td style="text-align:center;">14</td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align:center; font-size:11px;">☐ Wstępne<br/>☐ Okresowe</td>
+<td></td>
+</tr>
+
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center;">15</td>
+<td></td>
+<td></td>
+<td></td>
+<td style="text-align:center; font-size:11px;">☐ Wstępne<br/>☐ Okresowe</td>
+<td></td>
+</tr>
+
+</tbody>
+</table>
+
+<div style="background-color:#fff3cd; padding:10px; margin:20px 0; font-size:12px;">
+<p><b>Legenda - Typ szkolenia:</b></p>
+<ul style="margin:5px 0; padding-left:20px;">
+<li><b>Wstępne</b> - szkolenie dla nowo zatrudnionych pracowników (przed dopuszczeniem do pracy)</li>
+<li><b>Okresowe</b> - szkolenie odświeżające dla pracowników zatrudnionych (minimum 1x rocznie)</li>
+</ul>
+</div>
+
+<h2 style="color:#3498db;">STATYSTYKI SZKOLENIA:</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tbody>
+<tr style="background-color:#e8f4f8;">
+<td style="width:50%; font-weight:bold;">Liczba uczestników ogółem:</td>
+<td style="width:50%; text-align:center; font-size:18px;">________ osób</td>
+</tr>
+<tr>
+<td style="font-weight:bold;">W tym szkolenia wstępne:</td>
+<td style="text-align:center; font-size:18px;">________ osób</td>
+</tr>
+<tr style="background-color:#e8f4f8;">
+<td style="font-weight:bold;">W tym szkolenia okresowe:</td>
+<td style="text-align:center; font-size:18px;">________ osób</td>
+</tr>
+<tr>
+<td style="font-weight:bold;">Test wiedzy przeprowadzony:</td>
+<td style="text-align:center; font-size:16px;">☐ TAK &nbsp;&nbsp;&nbsp; ☐ NIE</td>
+</tr>
+<tr style="background-color:#e8f4f8;">
+<td style="font-weight:bold;">Liczba osób, które zaliczyły test (≥80%):</td>
+<td style="text-align:center; font-size:18px;">________ osób</td>
+</tr>
+</tbody>
+</table>
+
+<h2 style="color:#3498db;">UWAGI I KOMENTARZE:</h2>
+
+<div style="border:1px solid #333; padding:15px; min-height:100px; background-color:#f8f9fa; margin:20px 0;">
+<p style="color:#555; font-style:italic;">
+(Uwagi dotyczące przebiegu szkolenia, trudności uczestników, pytania, wnioski, zalecenia dla przyszłych szkoleń...)
+</p>
+<p style="margin-top:30px;">
+_________________________________________________________________<br/>
+_________________________________________________________________<br/>
+_________________________________________________________________<br/>
+_________________________________________________________________<br/>
+_________________________________________________________________<br/>
+</p>
+</div>
+
+<h2 style="color:#3498db;">POTWIERDZENIE:</h2>
+
+<div style="background-color:#d6eaf8; padding:20px; margin:30px 0;">
+<p style="line-height:2;">
+<b>Podpis prowadzącego szkolenie:</b> ______________________________ <b>Data:</b> ______________
+</p>
+<p style="line-height:2; margin-top:15px;">
+<b>Podpis kierownika zakładu:</b> ______________________________ <b>Data:</b> ______________
+</p>
+</div>
+
+<div style="background-color:#e8f4f8; padding:15px; margin:30px 0; text-align:center; border:2px solid #3498db;">
+<p style="font-size:14px; line-height:1.8; font-weight:bold;">
+📁 ARCHIWIZACJA DOKUMENTU
+</p>
+<p style="font-size:13px; line-height:1.8; margin-top:10px;">
+Lista obecności wraz z testami wiedzy uczestników należy przechowywać przez <b>minimum 3 lata</b><br/>
+w Księdze HACCP - Stack V: Szkolenia i Personel, Notatnik 12: SZKOLENIA
+</p>
+<p style="font-size:12px; margin-top:10px; color:#555;">
+Podstawa prawna: Rozporządzenie WE 852/2004, Art. 5 (szkolenia personelu)<br/>
++ art. 5 ustawy o bezpieczeństwie żywności i żywienia (Dz.U. 2022 poz. 2132)
+</p>
+</div>
+
+<div style="background-color:#fff3cd; padding:15px; margin:30px 0; border-left:4px solid:#ffc107;">
+<p style="font-weight:bold;">💡 WSKAZÓWKA DLA PROWADZĄCEGO:</p>
+<p style="margin-top:10px; line-height:1.8;">
+Po zakończeniu szkolenia:
+</p>
+<ol style="line-height:1.8; margin-top:10px;">
+<li>Zbierz i sprawdź podpisy wszystkich uczestników</li>
+<li>Przeprowadź test wiedzy (wzór w Księdze HACCP - Stack V)</li>
+<li>Oceń testy (minimum 80% = zaliczenie)</li>
+<li>Wprowadź informacje o szkoleniu do indywidualnych kart pracowników (Notatnik 13: KARTY_PRACOWNIKÓW)</li>
+<li>Zarchiwizuj listę obecności + testy w aktach HACCP</li>
+<li>Jeśli ktoś nie zaliczył testu → zaplanuj szkolenie uzupełniające (max. 14 dni)</li>
+</ol>
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+</en-export>

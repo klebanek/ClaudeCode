@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export4.dtd">
+<en-export export-date="20251203T120000Z" application="Evernote" version="10.x">
+
+<!-- ================================================================== -->
+<!-- STACK I - GMP CZĘŚĆ 2 -->
+<!-- 4 procedury: GMP-04 do GMP-07 -->
+<!-- ================================================================== -->
+
+<!-- GMP-04: Transport wewnętrzny -->
+<note>
+<title>GMP-04 Transport wewnętrzny</title>
+<created>20251203T100000Z</created>
+<updated>20251203T100000Z</updated>
+<tag>02_GMP</tag>
+<tag>Warunki_Wstępne</tag>
+<tag>Zakład_Mięsny</tag>
+<tag>✅_Zatwierdzone</tag>
+<note-attributes>
+<author>INOVIT e-Segregator</author>
+</note-attributes>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+<h1 style="color:#2c3e50; border-bottom:3px solid #16a085; padding-bottom:10px;">
+GMP-04: Transport wewnętrzny
+</h1>
+<div style="background-color:#e8f4f8; padding:15px; border-left:4px solid #16a085; margin:20px 0;">
+<strong>Status:</strong> ✅ Zatwierdzone | <strong>Wersja:</strong> 1.0 | <strong>Data:</strong> 2025-12-03
+</div>
+
+<h2 style="color:#2c3e50;">1. CEL PROCEDURY</h2>
+<p style="line-height:1.6;">
+Zapewnienie prawidłowego przemieszczania surowców, półproduktów i produktów gotowych wewnątrz zakładu, aby uniknąć zanieczyszczenia krzyżowego i zachować właściwą temperaturę.
+</p>
+
+<h2 style="color:#2c3e50;">2. ŚRODKI TRANSPORTU WEWNĘTRZNEGO</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#16a085; color:white;">
+<th style="width:30%;">Środek transportu</th>
+<th style="width:40%;">Zastosowanie</th>
+<th style="width:30%;">Kodowanie/Oznaczenie</th>
+</tr>
+<tr>
+<td><strong>Wózek stalowy otwarty</strong></td>
+<td>Surowce (mięso w pojemnikach)</td>
+<td>🔴 Czerwona tabliczka "SUROWCE"</td>
+</tr>
+<tr>
+<td><strong>Wózek stalowy zamknięty</strong></td>
+<td>Produkty gotowe (pakowane)</td>
+<td>🔵 Niebieska tabliczka "PRODUKTY GOTOWE"</td>
+</tr>
+<tr>
+<td><strong>Paleciak ręczny</strong></td>
+<td>Palety (dostawy, magazyn)</td>
+<td>Brak (uniwersalny, myć po każdym użyciu)</td>
+</tr>
+<tr>
+<td><strong>Wózek czterokołowy</strong></td>
+<td>Odpady (GHP-03)</td>
+<td>🟡 Żółta tabliczka "ODPADY"</td>
+</tr>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>⚠️ ZAKAZ MIESZANIA!</strong><br/>
+❌ Wózek do surowców NIE może być używany do przewożenia produktów gotowych (nawet po umyciu!)<br/>
+❌ Wózek do odpadów NIE może być używany do żywności!
+</div>
+
+<h2 style="color:#2c3e50;">3. ZASADY TRANSPORTU</h2>
+
+<h3 style="background-color:#16a085; color:white; padding:10px;">Zasada przepływu jednokierunkowego:</h3>
+
+<div style="background-color:#d4edda; padding:15px; border-left:4px solid #28a745; margin:20px 0;">
+<strong>TRASA TRANSPORTU (zgodna z kierunkiem produkcji):</strong><br/>
+📦 Magazyn surowców → 🔪 Obróbka → ⚙️ Przetwórstwo → 📦 Pakowanie → 🧊 Magazyn produktów gotowych<br/><br/>
+<strong>⚠️ ZAKAZ COFANIA SIĘ!</strong> Transport nie może przechodzić z strefy czystej do brudnej z tym samym produktem.
+</div>
+
+<h3 style="color:#34495e;">Wymagania podczas transportu:</h3>
+
+<ul style="line-height:1.8;">
+<li>⏱️ <strong>Czas:</strong> Max 15 minut poza chłodnią (produkty chłodzone)</li>
+<li>🌡️ <strong>Temperatura:</strong> Kontrola przed i po transporcie (jeśli dłuższy niż 15 min)</li>
+<li>🛡️ <strong>Zabezpieczenie:</strong><br/>
+  - Produkty przykryte folią spożywczą lub w zamkniętych pojemnikach<br/>
+  - Ochrona przed kurzem, rozbryzgami, zanieczyszczeniem
+</li>
+<li>👷 <strong>Pracownik:</strong> Czysta odzież robocza, umyte ręce</li>
+<li>🚧 <strong>Trasy:</strong> Wyznaczone (unikać przecinania się stref brudnych i czystych)</li>
+</ul>
+
+<h2 style="color:#2c3e50;">4. CZYSZCZENIE ŚRODKÓW TRANSPORTU</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#3498db; color:white;">
+<th style="width:30%;">Rodzaj wózka</th>
+<th style="width:35%;">Częstotliwość mycia</th>
+<th style="width:35%;">Metoda</th>
+</tr>
+<tr>
+<td>Wózek do surowców</td>
+<td>Po każdym użyciu (min. 2x dziennie)</td>
+<td>Mycie wodą + detergent + dezynfekcja (GHP-01)</td>
+</tr>
+<tr>
+<td>Wózek do produktów gotowych</td>
+<td>Po każdym użyciu (min. 2x dziennie)</td>
+<td>Mycie wodą + detergent + dezynfekcja</td>
+</tr>
+<tr>
+<td>Paleciak</td>
+<td>1x dziennie (koniec zmiany)</td>
+<td>Przetarcie wilgotną ścierką + dezynfekcja kół i rączki</td>
+</tr>
+<tr>
+<td>Wózek do odpadów</td>
+<td>Po każdym opróżnieniu</td>
+<td>Mycie intensywne + dezynfekcja chlorowa (Divosan 0.4%)</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">5. POJEMNIKI TRANSPORTOWE</h2>
+
+<h3 style="color:#34495e;">Typy pojemników:</h3>
+
+<ul style="line-height:1.8;">
+<li>🟥 <strong>Pojemniki czerwone (surowce):</strong><br/>
+  - Stal nierdzewna lub plastik spożywczy<br/>
+  - Z pokrywą (opcjonalnie)<br/>
+  - Mycie po każdym użyciu
+</li>
+<li>🟦 <strong>Pojemniki niebieskie (produkty gotowe):</strong><br/>
+  - Stal nierdzewna, szczelne<br/>
+  - Z pokrywą obowiązkowo<br/>
+  - Mycie + dezynfekcja po każdym użyciu
+</li>
+<li>⬜ <strong>Pojemniki białe (dodatki suche):</strong><br/>
+  - Plastik, szczelne<br/>
+  - Do przypraw, peklowskiej<br/>
+  - Mycie 1x w tygodniu
+</li>
+</ul>
+
+<div style="background-color:#d1ecf1; padding:15px; border:2px solid #0c5460; margin:20px 0;">
+<strong>💡 WSKAZÓWKA - Oznaczanie pojemników:</strong><br/>
+• Wygrawerować lub nakleić trwałe etykiety z przeznaczeniem<br/>
+• Każdy pojemnik z numerem inwentarzowym (łatwiejsza identyfikacja w razie problemu)<br/>
+• Przykład: <code>SR-01</code> (Surowce - pojemnik nr 01)
+</div>
+
+<h2 style="color:#2c3e50;">6. DOKUMENTY POWIĄZANE</h2>
+
+<ul style="line-height:1.8;">
+<li>📄 <strong>GMP-01</strong> - Organizacja procesu (przepływ jednokierunkowy)</li>
+<li>📄 <strong>GMP-03</strong> - Magazynowanie (transport do/z magazynu)</li>
+<li>📄 <strong>GHP-01</strong> - Mycie i dezynfekcja (wózków, pojemników)</li>
+<li>📄 <strong>GHP-03</strong> - Gospodarka odpadami (transport odpadów)</li>
+</ul>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ ZATWIERDZENIE:</strong><br/>
+Kierownik ds. Jakości: __________ | Kierownik Produkcji: __________ | Prezes: __________
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- GMP-05: Materiały opakowaniowe -->
+<note>
+<title>GMP-05 Materiały opakowaniowe</title>
+<created>20251203T100000Z</created>
+<updated>20251203T100000Z</updated>
+<tag>02_GMP</tag>
+<tag>Warunki_Wstępne</tag>
+<tag>Zakład_Mięsny</tag>
+<tag>✅_Zatwierdzone</tag>
+<note-attributes>
+<author>INOVIT e-Segregator</author>
+</note-attributes>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+<h1 style="color:#2c3e50; border-bottom:3px solid #9b59b6; padding-bottom:10px;">
+GMP-05: Materiały opakowaniowe
+</h1>
+<div style="background-color:#f4e8f8; padding:15px; border-left:4px solid #9b59b6; margin:20px 0;">
+<strong>Status:</strong> ✅ Zatwierdzone | <strong>Wersja:</strong> 1.0 | <strong>Data:</strong> 2025-12-03
+</div>
+
+<h2 style="color:#2c3e50;">1. CEL PROCEDURY</h2>
+<p style="line-height:1.6;">
+Zapewnienie, że wszystkie materiały opakowaniowe używane w zakładzie są bezpieczne dla żywności, odpowiednio przechowywane i stosowane zgodnie z przeznaczeniem, aby uniknąć zanieczyszczenia produktów.
+</p>
+
+<h2 style="color:#2c3e50;">2. RODZAJE MATERIAŁÓW OPAKOWANIOWYCH</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#9b59b6; color:white;">
+<th style="width:25%;">Rodzaj opakowania</th>
+<th style="width:30%;">Zastosowanie</th>
+<th style="width:25%;">Wymagania</th>
+<th style="width:20%;">Certyfikat</th>
+</tr>
+<tr>
+<td><strong>Folia próżniowa PA/PE</strong></td>
+<td>Pakowanie próżniowe produktów surowych i gotowanych</td>
+<td>Dopuszczona do kontaktu z żywnością, wielowarstwowa</td>
+<td>✅ Deklaracja zgodności</td>
+</tr>
+<tr>
+<td><strong>Worki PA/PE barierowe</strong></td>
+<td>Pakowanie w atmosferze modyfikowanej (MAP)</td>
+<td>Przepuszczalność O₂ &lt;50 cm³/m²/24h</td>
+<td>✅ Deklaracja zgodności + karta techniczna</td>
+</tr>
+<tr>
+<td><strong>Tacki PP/PS</strong></td>
+<td>Podkładki pod mięso, produkty na wagę</td>
+<td>Polpropylen spożywczy, absorbujące</td>
+<td>✅ Deklaracja zgodności</td>
+</tr>
+<tr>
+<td><strong>Etykiety samoprzylepne</strong></td>
+<td>Oznaczenie produktów (nazwa, data, skład)</td>
+<td>Klej bezpieczny, niezawierający toksyn</td>
+<td>✅ Deklaracja zgodności</td>
+</tr>
+<tr>
+<td><strong>Kartony transportowe</strong></td>
+<td>Opakowania zbiorcze (wysyłka)</td>
+<td>Czyste, bez pleśni, wilgoci</td>
+<td>Brak (opakowanie zewnętrzne)</td>
+</tr>
+<tr>
+<td><strong>Folia stretch</strong></td>
+<td>Zabezpieczanie palet</td>
+<td>LDPE, minimalna grubość 23 μm</td>
+<td>Brak</td>
+</tr>
+</table>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid #856404; margin:20px 0;">
+<strong>📋 WYMÓG PRAWNY:</strong><br/>
+Zgodnie z Rozporządzeniem WE 1935/2004 oraz ustawą o bezpieczeństwie żywności, materiały stykające się z żywnością muszą posiadać:<br/>
+• Deklarację zgodności od dostawcy<br/>
+• Potwierdzenie, że nie przenoszą składników na żywność w ilościach zagrażających zdrowiu<br/>
+• Informację o przeznaczeniu i warunkach stosowania
+</div>
+
+<h2 style="color:#2c3e50;">3. KWALIFIKACJA DOSTAWCÓW</h2>
+
+<h3 style="color:#34495e;">Wymagania wobec dostawcy materiałów opakowaniowych:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#6c757d; color:white;">
+<th style="width:40%;">Dokument</th>
+<th style="width:60%;">Opis</th>
+</tr>
+<tr>
+<td><strong>Deklaracja zgodności z WE 1935/2004</strong></td>
+<td>Potwierdzenie, że materiał nadaje się do kontaktu z żywnością</td>
+</tr>
+<tr>
+<td><strong>Karta techniczna produktu</strong></td>
+<td>Skład chemiczny, właściwości fizykochemiczne, parametry barierowe</td>
+</tr>
+<tr>
+<td><strong>Certyfikat jakości (opcjonalnie)</strong></td>
+<td>ISO 9001, BRC Packaging, ISO 22000 (preferowane u dużych dostawców)</td>
+</tr>
+<tr>
+<td><strong>Próbki</strong></td>
+<td>Przed pierwszym zamówieniem - test zgodności z urządzeniami pakującymi</td>
+</tr>
+</table>
+
+<h3 style="color:#34495e;">Ocena dostawcy (przy pierwszym zamówieniu):</h3>
+
+<ul style="line-height:1.8;">
+<li>✅ Czy dostawca dostarczył wszystkie wymagane dokumenty?</li>
+<li>✅ Czy materiał jest odpowiedni do zastosowania (temperatura, wilgotność, rodzaj żywności)?</li>
+<li>✅ Czy próbki działają prawidłowo na naszych urządzeniach?</li>
+<li>✅ Czy cena i terminy dostaw są akceptowalne?</li>
+</ul>
+
+<div style="background-color:#d1ecf1; padding:15px; border:2px solid #0c5460; margin:20px 0;">
+<strong>💡 WSKAZÓWKA:</strong><br/>
+Prowadź <strong>rejestr zatwierdzonych dostawców</strong> (załącznik do tej procedury):<br/>
+• Nazwa firmy, dane kontaktowe<br/>
+• Data zatwierdzenia<br/>
+• Zakres dostarczanych materiałów<br/>
+• Status certyfikatów (data ważności deklaracji zgodności)
+</div>
+
+<h2 style="color:#2c3e50;">4. MAGAZYNOWANIE MATERIAŁÓW OPAKOWANIOWYCH</h2>
+
+<h3 style="color:#34495e;">Warunki przechowywania:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#17a2b8; color:white;">
+<th style="width:30%;">Parametr</th>
+<th style="width:70%;">Wymagania</th>
+</tr>
+<tr>
+<td><strong>Lokalizacja</strong></td>
+<td>Oddzielny magazyn lub wydzielona strefa w magazynie surowców (oddzielona od żywności)</td>
+</tr>
+<tr>
+<td><strong>Temperatura</strong></td>
+<td>Pokojowa (15-25°C), stabilna (unikać nagłych zmian)</td>
+</tr>
+<tr>
+<td><strong>Wilgotność</strong></td>
+<td>Niska (maks. 65% RH) - chroni przed pleśnią na kartonach</td>
+</tr>
+<tr>
+<td><strong>Światło</strong></td>
+<td>Unikać bezpośredniego światła słonecznego (degradacja folii)</td>
+</tr>
+<tr>
+<td><strong>Higieniczny</strong></td>
+<td>Czysto, brak pyłu, owadów, gryzoni (monitoring DDD - GHP-05)</td>
+</tr>
+<tr>
+<td><strong>Układ składowania</strong></td>
+<td>Na paletach (min. 15 cm od podłogi), z dala od ścian (min. 50 cm)</td>
+</tr>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>⚠️ ZAKAZY:</strong><br/>
+❌ NIE przechowywać materiałów opakowaniowych razem z chemikaliami!<br/>
+❌ NIE składować bezpośrednio na podłodze!<br/>
+❌ NIE używać opakowań z uszkodzeniami (rozdarcia, wilgoć, plamy)!
+</div>
+
+<h2 style="color:#2c3e50;">5. ZASADY STOSOWANIA OPAKOWAŃ</h2>
+
+<h3 style="background-color:#9b59b6; color:white; padding:10px;">Zasada FIFO (First In, First Out):</h3>
+
+<p style="line-height:1.6;">
+Opakowania są używane w kolejności dostaw. Każda dostawa materiałów opakowaniowych otrzymuje datę przyjęcia.<br/>
+<strong>Przykład:</strong> Folia dostarczona 2025-01-10 jest używana PRZED folią dostarczoną 2025-01-20.
+</p>
+
+<h3 style="color:#34495e;">Kontrola przed użyciem (każdorazowo):</h3>
+
+<ul style="line-height:1.8;">
+<li>🔍 <strong>Kontrola wizualna:</strong> Brak uszkodzeń (dziury, rozdarcia, zabrudzenia)</li>
+<li>📅 <strong>Data ważności:</strong> Sprawdzić, czy materiał nie przekroczył terminu przydatności (jeśli podany)</li>
+<li>🧼 <strong>Czystość:</strong> Opakowanie bez pyłu, wilgoci, obcych zapachów</li>
+<li>✅ <strong>Zgodność z produktem:</strong> Czy opakowanie jest odpowiednie dla danego produktu (np. folia próżniowa dla surowego mięsa, worki MAP dla wędlin gotowanych)?</li>
+</ul>
+
+<h3 style="color:#34495e;">Postępowanie z opakowaniami przed pakowaniem:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#28a745; color:white;">
+<th style="width:30%;">Rodzaj opakowania</th>
+<th style="width:70%;">Procedura przed użyciem</th>
+</tr>
+<tr>
+<td>Folia z rolki</td>
+<td>Używać bezpośrednio z rolki, nie dotykać wewnętrznej strony folii gołymi rękoma</td>
+</tr>
+<tr>
+<td>Worki/torebki</td>
+<td>Otwierać tuż przed użyciem, nie pozostawiać otwartych opakowań bez nadzoru</td>
+</tr>
+<tr>
+<td>Tacki</td>
+<td>Rozkładać na czystej powierzchni, używać rękawiczek jednorazowych</td>
+</tr>
+<tr>
+<td>Kartony</td>
+<td>Składać zgodnie z instrukcją, unikać dotykania wewnętrznej strony</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">6. NIEZGODNOŚCI I REKLAMACJE</h2>
+
+<h3 style="color:#34495e;">Postępowanie w razie wykrycia niezgodności:</h3>
+
+<ol style="line-height:1.8;">
+<li><strong>Zatrzymanie materiału:</strong> Niezgodny materiał odłożyć w wydzieloną strefę, oznakować etykietą "NIEZGODNE - NIE UŻYWAĆ"</li>
+<li><strong>Powiadomienie kierownika produkcji:</strong> Natychmiast po wykryciu</li>
+<li><strong>Ocena ryzyka:</strong> Czy materiał był już używany? Czy produkty mogły zostać zanieczyszczone?</li>
+<li><strong>Reklamacja u dostawcy:</strong> Kontakt z dostawcą, żądanie wymiany lub zwrotu</li>
+<li><strong>Dokumentacja:</strong> Zapis w rejestrze niezgodności materiałów opakowaniowych</li>
+</ol>
+
+<div style="background-color:#d4edda; padding:15px; border-left:4px solid #28a745; margin:20px 0;">
+<strong>✅ PRZYKŁADY NIEZGODNOŚCI:</strong><br/>
+• Folia z dziurami, rozdarciami<br/>
+• Worki z nieprzyjemnym zapachem (chemicznym)<br/>
+• Tacki brudne, wilgotne, ze śladami pleśni<br/>
+• Brak deklaracji zgodności w dokumentach dostawcy<br/>
+• Kartony przemoczone, odkształcone
+</div>
+
+<h2 style="color:#2c3e50;">7. DOKUMENTY POWIĄZANE</h2>
+
+<ul style="line-height:1.8;">
+<li>📄 <strong>Rejestr zatwierdzonych dostawców materiałów opakowaniowych</strong> (załącznik GMP-05-Z1)</li>
+<li>📄 <strong>Rejestr niezgodności materiałów opakowaniowych</strong> (załącznik GMP-05-Z2)</li>
+<li>📄 <strong>GMP-02</strong> - Przyjmowanie surowców (podobna procedura kontroli)</li>
+<li>📄 <strong>GMP-03</strong> - Magazynowanie (warunki przechowywania)</li>
+<li>📄 <strong>GHP-05</strong> - Kontrola szkodników (monitoring w magazynie opakowań)</li>
+</ul>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ ZATWIERDZENIE:</strong><br/>
+Kierownik ds. Jakości: __________ | Kierownik Produkcji: __________ | Prezes: __________
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- GMP-06: Zapobieganie zanieczyszczeniom krzyżowym -->
+<note>
+<title>GMP-06 Zapobieganie zanieczyszczeniom krzyżowym</title>
+<created>20251203T100000Z</created>
+<updated>20251203T100000Z</updated>
+<tag>02_GMP</tag>
+<tag>Warunki_Wstępne</tag>
+<tag>Zakład_Mięsny</tag>
+<tag>✅_Zatwierdzone</tag>
+<note-attributes>
+<author>INOVIT e-Segregator</author>
+</note-attributes>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+<h1 style="color:#2c3e50; border-bottom:3px solid #e74c3c; padding-bottom:10px;">
+GMP-06: Zapobieganie zanieczyszczeniom krzyżowym
+</h1>
+<div style="background-color:#fee; padding:15px; border-left:4px solid #e74c3c; margin:20px 0;">
+<strong>Status:</strong> ✅ Zatwierdzone | <strong>Wersja:</strong> 1.0 | <strong>Data:</strong> 2025-12-03
+</div>
+
+<h2 style="color:#2c3e50;">1. CEL PROCEDURY</h2>
+<p style="line-height:1.6;">
+Zapobieganie przenoszeniu zanieczyszczeń mikrobiologicznych, chemicznych i fizycznych między surowcami a produktami gotowymi, między strefami czystymi i brudnymi oraz między produktami różnych kategorii.
+</p>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid #856404; margin:20px 0;">
+<strong>⚠️ CO TO JEST ZANIECZYSZCZENIE KRZYŻOWE?</strong><br/>
+Przeniesienie bakterii, wirusów, alergenów lub obcych substancji z:<br/>
+• Produktów surowych → na produkty gotowe<br/>
+• Powierzchni brudnych → na czyste<br/>
+• Narzędzi do surowców → do produktów przetworzonych<br/>
+• Rąk pracowników → na żywność
+</p>
+</div>
+
+<h2 style="color:#2c3e50;">2. PODZIAŁ STREF W ZAKŁADZIE</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#e74c3c; color:white;">
+<th style="width:20%;">Strefa</th>
+<th style="width:40%;">Pomieszczenia</th>
+<th style="width:40%;">Charakterystyka</th>
+</tr>
+<tr style="background-color:#ffebee;">
+<td><strong>BRUDNA</strong><br/>(wysoki poziom bakterii)</td>
+<td>
+• Przyjęcie surowców<br/>
+• Chłodnia surowców<br/>
+• Obróbka wstępna mięsa<br/>
+• Magazyn odpadów
+</td>
+<td>
+• Kontakt z surowym mięsem<br/>
+• Wysokie ryzyko Salmonelli, Campylobacter<br/>
+• Obowiązek dezynfekcji po każdym użyciu
+</td>
+</tr>
+<tr style="background-color:#fff9e6;">
+<td><strong>POŚREDNIA</strong><br/>(kontrolowane ryzyko)</td>
+<td>
+• Przetwórstwo (obróbka cieplna)<br/>
+• Kutry, mieszalniki<br/>
+• Obszar napełniania osłonek
+</td>
+<td>
+• Produkty w trakcie przetwarzania<br/>
+• Nadal mogą zawierać bakterie (przed pieczeniem/gotowaniem)<br/>
+• Wymagana higiena zwiększona
+</td>
+</tr>
+<tr style="background-color:#e8f5e9;">
+<td><strong>CZYSTA</strong><br/>(niski poziom bakterii)</td>
+<td>
+• Pakowanie produktów gotowych<br/>
+• Chłodnia wyrobów gotowych<br/>
+• Strefa etykietowania
+</td>
+<td>
+• Produkty po obróbce cieplnej<br/>
+• Minimalne ryzyko mikrobiologiczne<br/>
+• NAJWYŻSZE standardy higieny
+</td>
+</tr>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>🚫 ZASADA KLUCZOWA:</strong><br/>
+<strong>NIE WOLNO COFAĆ SIĘ!</strong> Przepływ produkcji jest JEDNOKIERUNKOWY:<br/>
+<strong>BRUDNA → POŚREDNIA → CZYSTA</strong><br/><br/>
+❌ Pracownik ze strefy brudnej NIE może wejść do czystej bez pełnej zmiany odzieży i mycia rąk!<br/>
+❌ Narzędzia ze strefy brudnej NIE mogą być przenoszone do strefy czystej (nawet po umyciu)!
+</div>
+
+<h2 style="color:#2c3e50;">3. SEPARACJA FIZYCZNA</h2>
+
+<h3 style="color:#34495e;">Metody separacji:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#6c757d; color:white;">
+<th style="width:30%;">Rodzaj separacji</th>
+<th style="width:70%;">Opis</th>
+</tr>
+<tr>
+<td><strong>Przegrody/ściany</strong></td>
+<td>Fizyczne oddzielenie stref (np. ściana między obróbką surowego mięsa a pakowaniem produktów gotowych)</td>
+</tr>
+<tr>
+<td><strong>Różne pomieszczenia</strong></td>
+<td>Idealna sytuacja - surowce w jednym pomieszczeniu, produkty gotowe w innym</td>
+</tr>
+<tr>
+<td><strong>Czas</strong></td>
+<td>Jeśli brak możliwości separacji przestrzennej - oddzielenie czasowe:<br/>• Rano: obróbka surowców<br/>• Po południu: pakowanie produktów gotowych<br/><strong>Wymaga:</strong> Mycia i dezynfekcji całego pomieszczenia po zakończeniu pracy z surowcami!</td>
+</tr>
+<tr>
+<td><strong>Osobne linie/stoły</strong></td>
+<td>W jednym pomieszczeniu - dedykowane stoły/linie tylko dla jednej kategorii produktów</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">4. KODOWANIE KOLORYSTYCZNE</h2>
+
+<p style="line-height:1.6;">
+System kodów kolorów zapobiega używaniu tych samych narzędzi w różnych strefach.
+</p>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#34495e; color:white;">
+<th style="width:15%;">Kolor</th>
+<th style="width:35%;">Zastosowanie</th>
+<th style="width:50%;">Przykłady narzędzi</th>
+</tr>
+<tr style="background-color:#ffcdd2;">
+<td style="text-align:center;"><strong>🔴<br/>CZERWONY</strong></td>
+<td>Surowe mięso (wieprzowina, wołowina)</td>
+<td>Deski do krojenia, noże, pojemniki, wózki, ścierki</td>
+</tr>
+<tr style="background-color:#bbdefb;">
+<td style="text-align:center;"><strong>🔵<br/>NIEBIESKI</strong></td>
+<td>Produkty gotowe (po obróbce cieplnej)</td>
+<td>Deski do krojenia, noże, pojemniki transportowe</td>
+</tr>
+<tr style="background-color:#fff9c4;">
+<td style="text-align:center;"><strong>🟡<br/>ŻÓŁTY</strong></td>
+<td>Drób (surowy)</td>
+<td>Deski, noże, pojemniki (jeśli zakład przetwarza drób)</td>
+</tr>
+<tr style="background-color:#c8e6c9;">
+<td style="text-align:center;"><strong>🟢<br/>ZIELONY</strong></td>
+<td>Warzywa, owoce (jeśli stosowane)</td>
+<td>Deski do krojenia warzyw (np. cebula do kiełbas)</td>
+</tr>
+<tr style="background-color:#f5f5f5;">
+<td style="text-align:center;"><strong>⬜<br/>BIAŁY</strong></td>
+<td>Produkty mleczne, pieczywo</td>
+<td>Używane w zakładach wielobranżowych</td>
+</tr>
+</table>
+
+<div style="background-color:#d1ecf1; padding:15px; border:2px solid #0c5460; margin:20px 0;">
+<strong>💡 WSKAZÓWKA:</strong><br/>
+• Umieść plakat z kolorami w miejscach widocznych (każda zmiana musi znać system!)<br/>
+• Kupuj profesjonalne wyposażenie z kolorowymi uchwytem (np. noże Haccp z kolorem)<br/>
+• Kontroluj regularnie, czy pracownicy przestrzegają systemu (audyty wewnętrzne)
+</div>
+
+<h2 style="color:#2c3e50;">5. ZASADY DLA PRACOWNIKÓW</h2>
+
+<h3 style="background-color:#e74c3c; color:white; padding:10px;">Przejście między strefami:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#17a2b8; color:white;">
+<th style="width:40%;">Z jakiej strefy → Do jakiej strefy</th>
+<th style="width:60%;">Wymagane działania</th>
+</tr>
+<tr>
+<td><strong>Brudna → Pośrednia</strong></td>
+<td>
+1. Umyć ręce zgodnie z GHP-02 (7 kroków WHO)<br/>
+2. Wymienić fartuch na czysty<br/>
+3. Zdezynfekować buty (myjnia lub zmiana obuwia)
+</td>
+</tr>
+<tr>
+<td><strong>Brudna → Czysta</strong></td>
+<td>
+1. Umyć ręce (7 kroków WHO)<br/>
+2. Zdjąć cały strój roboczy<br/>
+3. Założyć kompletnie nowy strój (dedykowany dla strefy czystej)<br/>
+4. Ponownie umyć i zdezynfekować ręce<br/>
+5. Przejść przez myjnię butów lub zmienić buty
+</td>
+</tr>
+<tr>
+<td><strong>Pośrednia → Czysta</strong></td>
+<td>
+1. Umyć ręce<br/>
+2. Wymienić fartuch<br/>
+3. Zdezynfekować ręce
+</td>
+</tr>
+<tr>
+<td><strong>Czysta → Brudna</strong></td>
+<td>
+❌ <strong>NIE ZALECANE!</strong> Jeśli konieczne:<br/>
+• Po powrocie do strefy czystej: pełna zmiana odzieży + mycie rąk
+</td>
+</tr>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>⚠️ ZAKAZY DLA PRACOWNIKÓW:</strong><br/>
+❌ Nosić ten sam fartuch w strefie brudnej i czystej!<br/>
+❌ Dotykać produktów gotowych po kontakcie z surowcami (bez mycia rąk)!<br/>
+❌ Używać tego samego telefonu komórkowego w strefie produkcyjnej (bakterie!)!<br/>
+❌ Wchodzić do strefy czystej w brudnym obuwiu!
+</div>
+
+<h2 style="color:#2c3e50;">6. NARZĘDZIA I WYPOSAŻENIE</h2>
+
+<h3 style="color:#34495e;">Dedykacja sprzętu:</h3>
+
+<ul style="line-height:1.8;">
+<li>🔴 <strong>Noże czerwone:</strong> TYLKO surowe mięso, NIGDY dla produktów gotowych</li>
+<li>🔵 <strong>Noże niebieskie:</strong> TYLKO produkty gotowe po pieczeniu/gotowaniu</li>
+<li>🪣 <strong>Wiadra/pojemniki:</strong> Kodowanie kolorystyczne (czerwone/niebieskie)</li>
+<li>🚪 <strong>Wózki transportowe:</strong> Dedykowane (GMP-04 - Transport wewnętrzny)</li>
+<li>🧹 <strong>Sprzęt do sprzątania:</strong> Oddzielny dla strefy brudnej i czystej (mopy, szczotki)</li>
+</ul>
+
+<div style="background-color:#d4edda; padding:15px; border-left:4px solid #28a745; margin:20px 0;">
+<strong>✅ DOBRA PRAKTYKA:</strong><br/>
+• Przechowuj sprzęt ze strefy czystej w OSOBNEJ szafce/pomieszczeniu<br/>
+• Po umyciu - sprzęt wraca do tej samej strefy (nie mieszać!)<br/>
+• Kontroluj regularnie stan narzędzi - zużyte/uszkodzone wycofaj (trudniejsze do wyczyszczenia)
+</div>
+
+<h2 style="color:#2c3e50;">7. ALERGENY</h2>
+
+<p style="line-height:1.6;">
+Zanieczyszczenie krzyżowe dotyczy również alergenów! W zakładzie mięsnym najczęstsze alergeny to:
+</p>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#ff9800; color:white;">
+<th style="width:25%;">Alergen</th>
+<th style="width:40%;">Źródło w zakładzie mięsnym</th>
+<th style="width:35%;">Zasady postępowania</th>
+</tr>
+<tr>
+<td><strong>Gluten (pszenica)</strong></td>
+<td>Bułka tarta, mąka pszenna (pasztety, klopsiki)</td>
+<td>Dodawać na końcu produkcji, osobne narzędzia</td>
+</tr>
+<tr>
+<td><strong>Mleko (laktozy)</strong></td>
+<td>Mleko w proszku (kiełbasy drobne), śmietana</td>
+<td>Zamknięte opakowania, mycie rąk po użyciu</td>
+</tr>
+<tr>
+<td><strong>Gorczyca</strong></td>
+<td>Przyprawy złożone, marynat</td>
+<td>Dodawać do zamkniętych mieszanek, unikać rozpraszania</td>
+</tr>
+<tr>
+<td><strong>Soja</strong></td>
+<td>Białko sojowe (substytuty mięsa)</td>
+<td>Oddzielna linia lub mycie intensywne po użyciu</td>
+</tr>
+<tr>
+<td><strong>Seler</strong></td>
+<td>Przyprawy do kiełbas</td>
+<td>Kontrola składu przypraw, etykietowanie</td>
+</tr>
+</table>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid #856404; margin:20px 0;">
+<strong>📋 WYMÓG PRAWNY:</strong><br/>
+Rozporządzenie UE 1169/2011 - wszystkie 14 alergenów muszą być wyraźnie oznaczone na etykiecie.<br/>
+Jeśli produkt może zawierać śladowe ilości alergenu (zanieczyszczenie krzyżowe), dodaj na etykiecie:<br/>
+<em>"Może zawierać śladowe ilości [nazwa alergenu]"</em>
+</div>
+
+<h2 style="color:#2c3e50;">8. MONITOROWANIE I KONTROLA</h2>
+
+<h3 style="color:#34495e;">Audyty wewnętrzne (raz na kwartał):</h3>
+
+<ul style="line-height:1.8;">
+<li>✅ Czy pracownicy przestrzegają kodowania kolorystycznego?</li>
+<li>✅ Czy sprzęt ze strefy brudnej nie trafia do czystej?</li>
+<li>✅ Czy wyznaczone trasy transportu są respektowane?</li>
+<li>✅ Czy wózki są prawidłowo oznakowane i czyszczone?</li>
+<li>✅ Czy pracownicy myją ręce przy przejściach między strefami?</li>
+</ul>
+
+<h3 style="color:#34495e;">Badania laboratoryjne (opcjonalnie, zalecane):</h3>
+
+<ul style="line-height:1.8;">
+<li>🧪 <strong>Wymazy z powierzchni:</strong> 1x na pół roku (stoły, deski, noże) - sprawdzenie skuteczności mycia</li>
+<li>🧪 <strong>Badania produktów:</strong> Losowe próbki produktów gotowych na obecność Salmonelli, L. monocytogenes</li>
+</ul>
+
+<h2 style="color:#2c3e50;">9. DOKUMENTY POWIĄZANE</h2>
+
+<ul style="line-height:1.8;">
+<li>📄 <strong>GMP-01</strong> - Organizacja procesu (schemat przepływu produkcji)</li>
+<li>📄 <strong>GMP-04</strong> - Transport wewnętrzny (wózki, pojemniki)</li>
+<li>📄 <strong>GHP-01</strong> - Mycie i dezynfekcja (procedury czyszczenia)</li>
+<li>📄 <strong>GHP-02</strong> - Higiena osobista (mycie rąk, odzież robocza)</li>
+<li>📄 <strong>GHP-06</strong> - Utrzymanie pomieszczeń (separacja stref)</li>
+</ul>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ ZATWIERDZENIE:</strong><br/>
+Kierownik ds. Jakości: __________ | Kierownik Produkcji: __________ | Prezes: __________
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- GMP-07: Utrzymanie urządzeń produkcyjnych -->
+<note>
+<title>GMP-07 Utrzymanie urządzeń produkcyjnych</title>
+<created>20251203T100000Z</created>
+<updated>20251203T100000Z</updated>
+<tag>02_GMP</tag>
+<tag>Warunki_Wstępne</tag>
+<tag>Zakład_Mięsny</tag>
+<tag>✅_Zatwierdzone</tag>
+<note-attributes>
+<author>INOVIT e-Segregator</author>
+</note-attributes>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+<h1 style="color:#2c3e50; border-bottom:3px solid #f39c12; padding-bottom:10px;">
+GMP-07: Utrzymanie urządzeń produkcyjnych
+</h1>
+<div style="background-color:#fef9e7; padding:15px; border-left:4px solid #f39c12; margin:20px 0;">
+<strong>Status:</strong> ✅ Zatwierdzone | <strong>Wersja:</strong> 1.0 | <strong>Data:</strong> 2025-12-03
+</div>
+
+<h2 style="color:#2c3e50;">1. CEL PROCEDURY</h2>
+<p style="line-height:1.6;">
+Zapewnienie, że wszystkie urządzenia i maszyny używane w produkcji są sprawne technicznie, bezpieczne, czyste i prawidłowo kalibrowane, aby gwarantować jakość i bezpieczeństwo żywności.
+</p>
+
+<h2 style="color:#2c3e50;">2. REJESTR URZĄDZEŃ</h2>
+
+<p style="line-height:1.6;">
+Każde urządzenie w zakładzie musi być zarejestrowane z podstawowymi danymi:
+</p>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#f39c12; color:white;">
+<th style="width:25%;">Informacja</th>
+<th style="width:75%;">Opis</th>
+</tr>
+<tr>
+<td><strong>Nazwa urządzenia</strong></td>
+<td>Np. "Kuter próżniowy K-160", "Komora wędzarniczo-parzelnicza KWP-500"</td>
+</tr>
+<tr>
+<td><strong>Numer inwentarzowy</strong></td>
+<td>Unikalny kod (np. <code>U-001</code>, <code>U-002</code>) - naklejka na maszynie</td>
+</tr>
+<tr>
+<td><strong>Producent i model</strong></td>
+<td>Dane techniczne, numer seryjny</td>
+</tr>
+<tr>
+<td><strong>Data zakupu/uruchomienia</strong></td>
+<td>Kiedy maszyna została wprowadzona do eksploatacji</td>
+</tr>
+<tr>
+<td><strong>Lokalizacja</strong></td>
+<td>W jakim pomieszczeniu znajduje się urządzenie</td>
+</tr>
+<tr>
+<td><strong>Instrukcja obsługi</strong></td>
+<td>Gdzie przechowywana (fizycznie lub cyfrowo)</td>
+</tr>
+<tr>
+<td><strong>Osoba odpowiedzialna</strong></td>
+<td>Kto jest odpowiedzialny za konserwację (np. operator główny, kierownik produkcji)</td>
+</tr>
+</table>
+
+<div style="background-color:#d1ecf1; padding:15px; border:2px solid #0c5460; margin:20px 0;">
+<strong>💡 WSKAZÓWKA:</strong><br/>
+Prowadź <strong>Rejestr urządzeń produkcyjnych</strong> (załącznik GMP-07-Z1) w formie tabeli Excel lub w Księdze HACCP (Rejestr R-07).<br/>
+Każde nowe urządzenie dodawaj do rejestru w dniu zakupu.
+</div>
+
+<h2 style="color:#2c3e50;">3. KONSERWACJA ZAPOBIEGAWCZA (PLANNED MAINTENANCE)</h2>
+
+<h3 style="color:#34495e;">Plan konserwacji - częstotliwość:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#3498db; color:white;">
+<th style="width:30%;">Urządzenie</th>
+<th style="width:40%;">Czynności konserwacyjne</th>
+<th style="width:30%;">Częstotliwość</th>
+</tr>
+<tr>
+<td><strong>Kuter</strong></td>
+<td>
+• Sprawdzenie ostrości noży<br/>
+• Smarowanie łożysk<br/>
+• Kontrola uszczelnień pokrywy
+</td>
+<td>
+• Noże: co 2 tygodnie<br/>
+• Smarowanie: co miesiąc<br/>
+• Uszczelnienia: co 3 miesiące
+</td>
+</tr>
+<tr>
+<td><strong>Wilk (maszynka do mięsa)</strong></td>
+<td>
+• Sprawdzenie ostrości noży i siatek<br/>
+• Czyszczenie komory ślimaka<br/>
+• Wymiana uszczelnień
+</td>
+<td>
+• Noże: co tydzień<br/>
+• Komora: codziennie po produkcji<br/>
+• Uszczelnienia: co 6 miesięcy
+</td>
+</tr>
+<tr>
+<td><strong>Komora wędzarniczo-parzelnicza</strong></td>
+<td>
+• Czyszczenie dysz parowych<br/>
+• Sprawdzenie termostatów<br/>
+• Kontrola zaworów bezpieczeństwa<br/>
+• Czyszczenie generatora dymu
+</td>
+<td>
+• Dysze: co tydzień<br/>
+• Termostaty: co 3 miesiące<br/>
+• Zawory: co 6 miesięcy<br/>
+• Generator dymu: co miesiąc
+</td>
+</tr>
+<tr>
+<td><strong>Mieszalnik</strong></td>
+<td>
+• Smarowanie przekładni<br/>
+• Kontrola łopatek mieszających<br/>
+• Sprawdzenie silnika
+</td>
+<td>
+• Co miesiąc<br/>
+• Co 2 tygodnie<br/>
+• Co 6 miesięcy
+</td>
+</tr>
+<tr>
+<td><strong>Komora chłodnicza</strong></td>
+<td>
+• Czyszczenie parownika<br/>
+• Kontrola szczelności drzwi<br/>
+• Sprawdzenie sprężarki<br/>
+• Uzupełnienie czynnika chłodniczego (jeśli potrzeba)
+</td>
+<td>
+• Co 3 miesiące<br/>
+• Co miesiąc<br/>
+• Co 6 miesięcy (serwis)<br/>
+• Według wskazań
+</td>
+</tr>
+<tr>
+<td><strong>Pakowarka próżniowa</strong></td>
+<td>
+• Wymiana oleju w pompie próżniowej<br/>
+• Czyszczenie komory<br/>
+• Kontrola grzałek zgrzewających
+</td>
+<td>
+• Co 6 miesięcy<br/>
+• Codziennie<br/>
+• Co miesiąc
+</td>
+</tr>
+<tr>
+<td><strong>Waga</strong></td>
+<td>
+• Kalibracja (wzorcowanie)<br/>
+• Czyszczenie platformy<br/>
+• Sprawdzenie wyświetlacza
+</td>
+<td>
+• Co 12 miesięcy (obowiązkowa)<br/>
+• Codziennie<br/>
+• Co miesiąc
+</td>
+</tr>
+</table>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid #856404; margin:20px 0;">
+<strong>📋 WYMÓG PRAWNY:</strong><br/>
+Rozporządzenie WE 852/2004 wymaga, aby urządzenia stykające się z żywnością były:<br/>
+• Łatwe do czyszczenia i dezynfekcji<br/>
+• Wykonane z materiałów odpornych na korozję (stal nierdzewna)<br/>
+• Sprawne technicznie i nie stwarzały zagrożenia dla żywności
+</div>
+
+<h2 style="color:#2c3e50;">4. DOKUMENTOWANIE KONSERWACJI</h2>
+
+<h3 style="color:#34495e;">Karta konserwacji maszyny (dla każdego urządzenia):</h3>
+
+<p style="line-height:1.6;">
+Dla każdego urządzenia prowadź <strong>Kartę konserwacji</strong> (może być w formie zeszytu przy maszynie lub cyfrowo):
+</p>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#6c757d; color:white;">
+<th>Data</th>
+<th>Rodzaj czynności</th>
+<th>Kto wykonał</th>
+<th>Uwagi/Stan urządzenia</th>
+<th>Podpis</th>
+</tr>
+<tr>
+<td>2025-12-01</td>
+<td>Ostrzenie noży kutra</td>
+<td>Jan Kowalski</td>
+<td>Noże wyostrzone, sprawne</td>
+<td>JK</td>
+</tr>
+<tr>
+<td>2025-12-05</td>
+<td>Smarowanie łożysk</td>
+<td>Anna Nowak</td>
+<td>Użyto smaru spożywczego NSF H1</td>
+<td>AN</td>
+</tr>
+<tr>
+<td>2025-12-10</td>
+<td>Przegląd komory wędzarniczej</td>
+<td>Serwis X (zewnętrzny)</td>
+<td>Wymieniono termostat nr 2, pozostałe sprawne</td>
+<td>Serwis X</td>
+</tr>
+</table>
+
+<div style="background-color:#d4edda; padding:15px; border-left:4px solid #28a745; margin:20px 0;">
+<strong>✅ DOBRA PRAKTYKA:</strong><br/>
+• Podpinaj karty konserwacji do <strong>Rejestru konserwacji urządzeń (R-07)</strong> w Księdze HACCP<br/>
+• Przechowuj instrukcje obsługi przy każdej maszynie (w foliowym etui na ścianie)<br/>
+• Co kwartał przeglądaj karty - czy wszystkie zaplanowane czynności zostały wykonane?
+</div>
+
+<h2 style="color:#2c3e50;">5. KALIBRACJA URZĄDZEŃ POMIAROWYCH</h2>
+
+<h3 style="background-color:#f39c12; color:white; padding:10px;">Urządzenia wymagające kalibracji:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#17a2b8; color:white;">
+<th style="width:25%;">Urządzenie</th>
+<th style="width:35%;">Częstotliwość kalibracji</th>
+<th style="width:40%;">Wykonawca</th>
+</tr>
+<tr>
+<td><strong>Wagi handlowe</strong></td>
+<td>Co 12 miesięcy (obowiązkowa legalizacja)</td>
+<td>Urząd Miar lub akredytowane laboratorium</td>
+</tr>
+<tr>
+<td><strong>Termometry (cyfrowe i tarczowe)</strong></td>
+<td>Co 12 miesięcy</td>
+<td>Serwis zewnętrzny lub kalibracja wewnętrzna (wzorcem)</td>
+</tr>
+<tr>
+<td><strong>Termometry w komorach chłodniczych</strong></td>
+<td>Co 6 miesięcy</td>
+<td>Kalibracja wewnętrzna (termometr referencyjny)</td>
+</tr>
+<tr>
+<td><strong>pH-metry</strong></td>
+<td>Co 3 miesiące</td>
+<td>Kalibracja roztworami buforowymi (pH 4.0, 7.0)</td>
+</tr>
+<tr>
+<td><strong>Termografy (rejestratory temperatury)</strong></td>
+<td>Co 12 miesięcy</td>
+<td>Serwis zewnętrzny</td>
+</tr>
+</table>
+
+<h3 style="color:#34495e;">Procedura kalibracji termometru wewnętrznej (przykład):</h3>
+
+<ol style="line-height:1.8;">
+<li><strong>Przygotowanie:</strong> Napełnij szklankę lodem i wodą (temperatura 0°C)</li>
+<li><strong>Zanurz termometr:</strong> Wsuń głęboko w mieszaninę lodu i wody</li>
+<li><strong>Odczytaj:</strong> Po 2 minutach sprawdź wskazanie termometru</li>
+<li><strong>Ocena:</strong>
+   • Jeśli termometr pokazuje 0°C ± 0.5°C → <strong>sprawny</strong><br/>
+   • Jeśli odchylenie większe → <strong>wymaga kalibracji u serwisu lub wymiany</strong>
+</li>
+<li><strong>Zapis:</strong> Zapisz wynik w <strong>Karcie kalibracji termometru</strong> (załącznik GMP-07-Z2)</li>
+</ol>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>⚠️ UWAGA!</strong><br/>
+Urządzenia niesprawne lub po terminie kalibracji:<br/>
+• Oznakuj etykietą <strong>"NIESPRAWNE - NIE UŻYWAĆ"</strong><br/>
+• Wycofaj z użycia do momentu naprawy/kalibracji<br/>
+• Nie używaj niesprawnych termometrów - ryzyko błędnych pomiarów temperatury (zagrożenie dla bezpieczeństwa żywności!)
+</div>
+
+<h2 style="color:#2c3e50;">6. NAPRAWY I MODYFIKACJE</h2>
+
+<h3 style="color:#34495e;">Postępowanie w razie awarii:</h3>
+
+<ol style="line-height:1.8;">
+<li><strong>Zatrzymanie maszyny:</strong> Wyłącz urządzenie z prądu (bezpieczeństwo!)</li>
+<li><strong>Powiadomienie przełożonego:</strong> Kierownik produkcji/techniczny decyduje o dalszych krokach</li>
+<li><strong>Ocena wpływu na produkcję:</strong> Czy awaria dotyczy urządzenia krytycznego? Czy można kontynuować produkcję?</li>
+<li><strong>Naprawa:</strong>
+   • <strong>Drobne usterki:</strong> Naprawa przez pracownika technicznego zakładu<br/>
+   • <strong>Poważne awarie:</strong> Wezwanie serwisu zewnętrznego (autoryzowanego)
+</li>
+<li><strong>Dokumentacja naprawy:</strong> Zapis w <strong>Karcie konserwacji maszyny</strong> z opisem usterki, daty naprawy, kosztów</li>
+<li><strong>Sprawdzenie po naprawie:</strong> Czy urządzenie działa prawidłowo? Test z niewielką ilością produktu</li>
+</ol>
+
+<h3 style="color:#34495e;">Modyfikacje urządzeń:</h3>
+
+<p style="line-height:1.6;">
+Jeśli planujesz modyfikację urządzenia (np. dodanie czujnika temperatury, zmiana oprogramowania):
+</p>
+
+<ul style="line-height:1.8;">
+<li>✅ Skonsultuj z producentem urządzenia (czy modyfikacja nie unieważni gwarancji?)</li>
+<li>✅ Upewnij się, że modyfikacja nie wprowadza zagrożeń (np. ryzyko zanieczyszczenia żywności)</li>
+<li>✅ Udokumentuj modyfikację w <strong>Rejestrze urządzeń</strong></li>
+<li>✅ Przeszkol pracowników, jeśli zmienia się sposób obsługi</li>
+</ul>
+
+<h2 style="color:#2c3e50;">7. SMARY I OLEJE SPOŻYWCZE</h2>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid #856404; margin:20px 0;">
+<strong>⚠️ WYMÓG:</strong> W urządzeniach stykających się z żywnością stosuj <strong>TYLKO smary dopuszczone do kontaktu z żywnością!</strong><br/>
+Oznaczenie: <strong>NSF H1</strong> (smary do bezpośredniego kontaktu z żywnością)<br/>
+Przykłady:<br/>
+• Cassida Chain Oil (łańcuchy w komorach wędzarniczych)<br/>
+• Beslux Altemp Q NB 50 (łożyska w mieszalnikach)<br/>
+• Oleje do pomp próżniowych (oznaczenie NSF lub dopuszczenie do przemysłu spożywczego)
+</div>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#28a745; color:white;">
+<th style="width:30%;">Rodzaj smaru</th>
+<th style="width:40%;">Zastosowanie</th>
+<th style="width:30%;">Kategoria NSF</th>
+</tr>
+<tr>
+<td>Smary stałe (plastyczne)</td>
+<td>Łożyska, przekładnie, zawiasy</td>
+<td><strong>NSF H1</strong></td>
+</tr>
+<tr>
+<td>Oleje hydrauliczne</td>
+<td>Układy hydrauliczne pras, podnośników</td>
+<td><strong>NSF H1</strong></td>
+</tr>
+<tr>
+<td>Oleje do pomp próżniowych</td>
+<td>Pakowarki próżniowe</td>
+<td><strong>NSF H1</strong> (lub zgodnie z zaleceniem producenta pakowarki)</td>
+</tr>
+<tr>
+<td>Spraye silikonowe</td>
+<td>Uszczelki, prowadnice (np. w komorach)</td>
+<td><strong>NSF H1</strong> lub <strong>3-H</strong> (do gumy)</td>
+</tr>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>❌ ZAKAZ:</strong> Nigdy nie używaj smarów samochodowych, przemysłowych (nie-spożywczych) w urządzeniach do żywności!<br/>
+Ryzyko: zanieczyszczenie produktu substancjami toksycznymi (wielopierścieniowe węglowodory aromatyczne - WWA).
+</div>
+
+<h2 style="color:#2c3e50;">8. SZKOLENIE PRACOWNIKÓW</h2>
+
+<h3 style="color:#34495e;">Zakres szkoleń:</h3>
+
+<ul style="line-height:1.8;">
+<li>🎓 <strong>Szkolenie wstępne (dla nowych pracowników):</strong> Obsługa podstawowa, zasady BHP, czyszczenie</li>
+<li>🎓 <strong>Szkolenie specjalistyczne (operatorzy maszyn):</strong> Obsługa zaawansowana, rozpoznawanie awarii, podstawowa konserwacja</li>
+<li>🎓 <strong>Szkolenie z instrukcji obsługi:</strong> Każdy operator musi znać instrukcję swojej maszyny!</li>
+<li>🎓 <strong>Szkolenie z BHP:</strong> Zabezpieczenia, procedury awaryjne (GHP-08)</li>
+</ul>
+
+<div style="background-color:#d1ecf1; padding:15px; border:2px solid #0c5460; margin:20px 0;">
+<strong>💡 WSKAZÓWKA:</strong><br/>
+• Przechowuj potwierdzenia szkoleń w <strong>teczkach osobowych pracowników</strong><br/>
+• Co roku organizuj szkolenie odświeżające (przypomnienie zasad bezpiecznej obsługi)<br/>
+• Umieść przy każdej maszynie <strong>krótką instrukcję wizualną</strong> (infografikę) - "Jak bezpiecznie obsługiwać kuter?" z piktogramami
+</div>
+
+<h2 style="color:#2c3e50;">9. DOKUMENTY POWIĄZANE</h2>
+
+<ul style="line-height:1.8;">
+<li>📄 <strong>Rejestr urządzeń produkcyjnych</strong> (załącznik GMP-07-Z1)</li>
+<li>📄 <strong>Karta kalibracji termometrów</strong> (załącznik GMP-07-Z2)</li>
+<li>📄 <strong>Rejestr konserwacji urządzeń (R-07)</strong> w Księdze HACCP</li>
+<li>📄 <strong>GHP-01</strong> - Mycie i dezynfekcja (czyszczenie urządzeń)</li>
+<li>📄 <strong>GHP-08</strong> - Postępowanie w razie awarii (procedury awaryjne)</li>
+<li>📄 <strong>GHP-06</strong> - Utrzymanie pomieszczeń (infrastruktura zakładu)</li>
+</ul>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ ZATWIERDZENIE:</strong><br/>
+Kierownik ds. Jakości: __________ | Kierownik Produkcji: __________ | Prezes: __________
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+</en-export>

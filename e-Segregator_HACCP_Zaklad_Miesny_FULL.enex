@@ -1,0 +1,1789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export3.dtd">
+<en-export export-date="20251203T000000Z" application="INOVIT e-Segregator HACCP" version="2.0">
+
+<!-- ========================================== -->
+<!-- REJESTRY BIEŻĄCE - DO CODZIENNEGO WYPEŁNIANIA -->
+<!-- ========================================== -->
+
+    <note>
+        <title>R-01 ✏️ Rejestr przyjęcia surowca</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <h1>R-01 Rejestr przyjęcia surowca</h1>
+            <p><b>Przeznaczenie:</b> Rejestracja każdej dostawy surowców mięsnych i innych produktów.</p>
+            <p><b>Odpowiedzialny:</b> Magazynier / Kierownik produkcji</p>
+            <p><b>Częstotliwość:</b> Każda dostawa</p>
+
+            <h2>Kryteria akceptacji surowca:</h2>
+            <ul>
+                <li>Temperatura mięsa świeżego: max +4°C</li>
+                <li>Temperatura mięsa mrożonego: max -18°C</li>
+                <li>Stan opakowania: nienaruszony, czyste, szczelne</li>
+                <li>Certyfikaty: aktualne dokumenty weterynaryjne (jeśli wymagane)</li>
+                <li>Termin przydatności: min. 3 dni przed upływem terminu</li>
+                <li>Wygląd i zapach: brak obcych zapachów, naturalny kolor</li>
+            </ul>
+
+            <h2>Tabela rejestracyjna - MIESIĄC: ___________</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:10%;">Data</th>
+                    <th style="width:15%;">Dostawca</th>
+                    <th style="width:20%;">Nazwa surowca</th>
+                    <th style="width:10%;">Ilość (kg)</th>
+                    <th style="width:8%;">Temp. (°C)</th>
+                    <th style="width:12%;">Termin przyd.</th>
+                    <th style="width:10%;">Ocena*</th>
+                    <th style="width:15%;">Podpis/Uwagi</th>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <p><b>*Ocena:</b> OK = przyjęto | NOK = odrzucono</p>
+
+            <h3>Działania w przypadku niezgodności:</h3>
+            <ol>
+                <li>Surowiec niezgodny NIE PRZYJMOWAĆ do magazynu</li>
+                <li>Odizolować fizycznie (osobna paleta, oznaczenie)</li>
+                <li>Powiadomić dostawcę o niezgodności</li>
+                <li>Sporządzić protokół reklamacyjny</li>
+                <li>Zwrócić towar lub zniszczyć (jeśli wymaga WIWW)</li>
+                <li>Zarejestrować w R-06 (Nadzór nad wyrobem niezgodnym)</li>
+            </ol>
+
+            <p style="font-size:10px; color:#666;">📌 Rejestr należy przechowywać minimum 2 lata od daty ostatniego wpisu.</p>
+        </en-note>]]>
+        </content>
+        <created>20251203T100000Z</created>
+        <updated>20251203T100000Z</updated>
+        <tag>04_Rejestry i zapisy</tag>
+        <tag>Rejestry_Bieżące</tag>
+        <tag>Zakład_Mięsny</tag>
+    </note>
+
+    <note>
+        <title>R-02 ✏️ Kontrola temperatur</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <h1>R-02 Kontrola temperatur (chłodnie, magazyny, transport)</h1>
+            <p><b>Przeznaczenie:</b> Monitorowanie temperatury w krytycznych punktach zakładu.</p>
+            <p><b>Odpowiedzialny:</b> Wyznaczony pracownik produkcji</p>
+            <p><b>Częstotliwość:</b> Min. 2x dziennie (rano i po południu)</p>
+
+            <h2>Limity krytyczne temperatur:</h2>
+            <ul>
+                <li><b>Chłodnia surowca:</b> 0°C do +4°C (mięso świeże)</li>
+                <li><b>Mroźnia:</b> -18°C lub niżej (mięso mrożone)</li>
+                <li><b>Sala produkcyjna:</b> max +12°C</li>
+                <li><b>Magazyn produktów gotowych:</b> 0°C do +4°C</li>
+                <li><b>Transport chłodniczy:</b> zgodnie z wymaganiami produktu</li>
+            </ul>
+
+            <h2>Tabela pomiarów - TYDZIEŃ: ___________</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:12%;">Data i godz.</th>
+                    <th style="width:18%;">Miejsce/Urządzenie</th>
+                    <th style="width:10%;">Temp. zmierzona (°C)</th>
+                    <th style="width:10%;">Temp. docelowa</th>
+                    <th style="width:10%;">Status*</th>
+                    <th style="width:25%;">Uwagi / Działania</th>
+                    <th style="width:15%;">Podpis</th>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td>Chłodnia surowca</td>
+                    <td><br/></td>
+                    <td>0-4°C</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td>Mroźnia</td>
+                    <td><br/></td>
+                    <td>≤-18°C</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td>Sala produkcyjna</td>
+                    <td><br/></td>
+                    <td>≤12°C</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td>Magazyn produktów</td>
+                    <td><br/></td>
+                    <td>0-4°C</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td>Chłodnia surowca</td>
+                    <td><br/></td>
+                    <td>0-4°C</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td>Mroźnia</td>
+                    <td><br/></td>
+                    <td>≤-18°C</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td>Sala produkcyjna</td>
+                    <td><br/></td>
+                    <td>≤12°C</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td>Magazyn produktów</td>
+                    <td><br/></td>
+                    <td>0-4°C</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <p><b>*Status:</b> ✓ = OK (w normie) | ✗ = NOK (przekroczenie)</p>
+
+            <h3>⚠️ Procedura w przypadku przekroczenia temperatury:</h3>
+            <ol>
+                <li><b>Natychmiast:</b> Sprawdzić przyczynę (awaria, drzwi otwarte, przeładowanie)</li>
+                <li><b>Działanie korygujące:</b> Naprawić usterkę lub przenieść produkty do zapasowej chłodni</li>
+                <li><b>Ocena produktu:</b> Sprawdzić czy produkt nie utracił właściwości (zapach, konsystencja)</li>
+                <li><b>Decyzja:</b> Pozostawić do użytku / zniszczyć (jeśli temp. >7°C przez >2h)</li>
+                <li><b>Raport:</b> Powiadomić kierownika, zapisać w rejestrze niezgodności (R-06)</li>
+                <li><b>Serwis:</b> Jeśli awaria urządzenia - wezwać serwis chłodniczy</li>
+            </ol>
+
+            <p style="font-size:10px; color:#666;">📌 Termometry należy kalibrować min. 1x w roku. Rejestr przechowywać 2 lata.</p>
+        </en-note>]]>
+        </content>
+        <created>20251203T100100Z</created>
+        <updated>20251203T100100Z</updated>
+        <tag>04_Rejestry i zapisy</tag>
+        <tag>Rejestry_Bieżące</tag>
+        <tag>Zakład_Mięsny</tag>
+        <tag>CCP</tag>
+    </note>
+
+    <note>
+        <title>R-03 ✏️ Mycie i dezynfekcja - karta</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <h1>R-03 Mycie i dezynfekcja - karta wykonania</h1>
+            <p><b>Przeznaczenie:</b> Potwierdzenie przeprowadzonych czynności mycia i dezynfekcji.</p>
+            <p><b>Odpowiedzialny:</b> Pracownicy produkcji / Brygadzista</p>
+            <p><b>Częstotliwość:</b> Zgodnie z harmonogramem (dziennie, po zmianie, tygodniowo)</p>
+
+            <h2>Zasady mycia i dezynfekcji zakładu mięsnego:</h2>
+            <ul>
+                <li><b>Mycie wstępne:</b> Usunięcie resztek produktu wodą ciepłą (40-50°C)</li>
+                <li><b>Mycie zasadnicze:</b> Użycie środka myjącego (detergent alkaliczny)</li>
+                <li><b>Płukanie:</b> Dokładne spłukanie środka myjącego czystą wodą</li>
+                <li><b>Dezynfekcja:</b> Nałożenie środka dezynfekującego na 15 min</li>
+                <li><b>Płukanie końcowe:</b> Spłukanie środka dezynfekującego wodą pitną</li>
+                <li><b>Suszenie:</b> Osuszenie powierzchni (naturalnie lub ręcznikami)</li>
+            </ul>
+
+            <h2>Harmonogram mycia i dezynfekcji - TYDZIEŃ: ___________</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:12%;">Data</th>
+                    <th style="width:18%;">Miejsce/Obszar</th>
+                    <th style="width:15%;">Środek czyszczący</th>
+                    <th style="width:15%;">Środek dezynf.</th>
+                    <th style="width:10%;">Częstotl.*</th>
+                    <th style="width:15%;">Wykonał (podpis)</th>
+                    <th style="width:15%;">Sprawdził</th>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td>Linia produkcyjna</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td>D</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td>Stoły robocze</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td>D</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td>Noże i narzędzia</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td>D</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td>Pojemniki transportowe</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td>D</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td>Podłoga w sali prod.</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td>D</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td>Ściany (do 2m wys.)</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td>T</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td>Chłodnia surowca</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td>T</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td>Wózki transportowe</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td>D</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td>Sanitariaty pracownicze</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td>D</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <p><b>*Częstotliwość:</b> D = dziennie | ZM = po każdej zmianie | T = tygodniowo | M = miesięcznie</p>
+
+            <h3>Środki czyszczące i dezynfekujące zatwierdzone:</h3>
+            <table border="1" cellpadding="6" cellspacing="0" style="width:80%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th>Nazwa środka</th>
+                    <th>Typ</th>
+                    <th>Stężenie robocze</th>
+                    <th>Czas działania</th>
+                </tr>
+                <tr>
+                    <td>_______________</td>
+                    <td>Detergent alkaliczny</td>
+                    <td>2-5%</td>
+                    <td>10 min</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td>_______________</td>
+                    <td>Dezynfekcja (4° związki)</td>
+                    <td>1-2%</td>
+                    <td>15 min</td>
+                </tr>
+                <tr>
+                    <td>_______________</td>
+                    <td>Alkohol 70%</td>
+                    <td>Gotowy</td>
+                    <td>30 sek</td>
+                </tr>
+            </table>
+
+            <p style="color:red;"><b>⚠️ UWAGA:</b> Nigdy nie mieszać różnych środków chemicznych! Stosować zgodnie z kartą charakterystyki.</p>
+
+            <p style="font-size:10px; color:#666;">📌 Rejestr przechowywać 1 rok. Karty charakterystyki środków mieć w dostępnym miejscu.</p>
+        </en-note>]]>
+        </content>
+        <created>20251203T100200Z</created>
+        <updated>20251203T100200Z</updated>
+        <tag>04_Rejestry i zapisy</tag>
+        <tag>Rejestry_Bieżące</tag>
+        <tag>Zakład_Mięsny</tag>
+        <tag>GHP</tag>
+    </note>
+
+    <note>
+        <title>R-04 ✏️ Kontrola DDD (deratyzacja, dezynsekcja)</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <h1>R-04 Kontrola DDD - szkodniki i gryzonie</h1>
+            <p><b>Przeznaczenie:</b> Monitorowanie obecności szkodników (insekty, gryzonie).</p>
+            <p><b>Odpowiedzialny:</b> Firma zewnętrzna DDD / Inspektor zakładowy</p>
+            <p><b>Częstotliwość:</b> Min. 1x w miesiącu (kontrola), 4x w roku (profesjonalny przegląd)</p>
+
+            <h2>Plan rozmieszczenia pułapek/stacji:</h2>
+            <p>🗺️ <i>[Tutaj można załączyć mapę zakładu z zaznaczonymi punktami monitorowania]</i></p>
+
+            <ul>
+                <li><b>Stacje na gryzonie:</b> przy bramach, w magazynach, wokół budynku (zewnątrz)</li>
+                <li><b>Lampy owadobójcze:</b> w strefie produkcji, w pomieszczeniach socjalnych</li>
+                <li><b>Pułapki klejowe:</b> na korytarzach, w magazynach</li>
+            </ul>
+
+            <h2>Kontrola punktów DDD - MIESIĄC: ___________</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:10%;">Data</th>
+                    <th style="width:10%;">Nr punktu</th>
+                    <th style="width:20%;">Lokalizacja</th>
+                    <th style="width:15%;">Typ pułapki</th>
+                    <th style="width:12%;">Wystąpienia*</th>
+                    <th style="width:18%;">Uwagi / Działania</th>
+                    <th style="width:15%;">Podpis</th>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td>DDD-01</td>
+                    <td>Brama wjazdowa</td>
+                    <td>Stacja na gryzonie</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td>DDD-02</td>
+                    <td>Magazyn surowca</td>
+                    <td>Pułapka klejowa</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td>DDD-03</td>
+                    <td>Sala produkcyjna</td>
+                    <td>Lampa owadobójcza</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td>DDD-04</td>
+                    <td>Magazyn opakowań</td>
+                    <td>Pułapka klejowa</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td>DDD-05</td>
+                    <td>Zewnątrz - tylne wejście</td>
+                    <td>Stacja na gryzonie</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td>DDD-06</td>
+                    <td>Chłodnia produktów gotowych</td>
+                    <td>Pułapka klejowa</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td>DDD-07</td>
+                    <td>Sanitariaty pracownicze</td>
+                    <td>Pułapka klejowa</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td>DDD-08</td>
+                    <td>Zewnątrz - teren załadunku</td>
+                    <td>Stacja na gryzonie</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <p><b>*Wystąpienia:</b> 0 = brak | I = insekty (podać liczbę) | G = ślady gryzoni | X = złapany gryzoń</p>
+
+            <h3>⚠️ Procedura w przypadku wykrycia szkodnika:</h3>
+            <ol>
+                <li><b>Natychmiast:</b> Oznakować obszar, ograniczyć dostęp</li>
+                <li><b>Firma DDD:</b> Wezwać firmę DDD w ciągu 24h do profesjonalnej interwencji</li>
+                <li><b>Inspekcja produktów:</b> Sprawdzić czy nie doszło do zanieczyszczenia produktów</li>
+                <li><b>Działania zapobiegawcze:</b> Uszczelnić otwory, naprawić siatki, usunąć potencjalne źródła pokarmu</li>
+                <li><b>Dokumentacja:</b> Zapisać w rejestrze niezgodności (R-06)</li>
+                <li><b>Monitoring:</b> Zwiększyć częstotliwość kontroli w tym obszarze</li>
+            </ol>
+
+            <h3>Dane firmy DDD:</h3>
+            <p><b>Nazwa firmy:</b> _________________________________</p>
+            <p><b>Tel. kontaktowy:</b> _________________________________</p>
+            <p><b>Umowa ważna do:</b> _________________________________</p>
+
+            <p style="font-size:10px; color:#666;">📌 Raporty z przeglądów DDD dołączać jako załączniki. Przechowywać 3 lata.</p>
+        </en-note>]]>
+        </content>
+        <created>20251203T100300Z</created>
+        <updated>20251203T100300Z</updated>
+        <tag>04_Rejestry i zapisy</tag>
+        <tag>Rejestry_Bieżące</tag>
+        <tag>Zakład_Mięsny</tag>
+        <tag>GHP</tag>
+    </note>
+
+    <note>
+        <title>R-05 ✏️ Szkolenia pracowników - ewidencja</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <h1>R-05 Ewidencja szkoleń pracowników</h1>
+            <p><b>Przeznaczenie:</b> Rejestracja wszystkich szkoleń z zakresu BHP, higieny, HACCP.</p>
+            <p><b>Odpowiedzialny:</b> Kierownik zakładu / Dział HR</p>
+            <p><b>Częstotliwość:</b> Szkolenie wstępne (dla nowych pracowników), okresowe (min. 1x w roku)</p>
+
+            <h2>Obowiązkowe tematy szkoleń dla zakładu mięsnego:</h2>
+            <ul>
+                <li>✓ Higiena osobista i zasady GHP/GMP</li>
+                <li>✓ System HACCP - podstawy i CCP</li>
+                <li>✓ Mycie i dezynfekcja stanowisk pracy</li>
+                <li>✓ Kontrola temperatur i łańcuch chłodniczy</li>
+                <li>✓ Rozpoznawanie i zapobieganie zanieczyszczeniom</li>
+                <li>✓ Postępowanie z produktem niezgodnym</li>
+                <li>✓ Alergeny i ich kontrola</li>
+                <li>✓ BHP w zakładzie mięsnym</li>
+            </ul>
+
+            <h2>Rejestr przeprowadzonych szkoleń - ROK: ___________</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:10%;">Data</th>
+                    <th style="width:25%;">Temat szkolenia</th>
+                    <th style="width:15%;">Prowadzący</th>
+                    <th style="width:10%;">Czas (godz.)</th>
+                    <th style="width:25%;">Uczestnicy (imiona)</th>
+                    <th style="width:15%;">Podpis kierownika</th>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <h3>Karty indywidualne pracowników:</h3>
+            <p>Dla każdego pracownika należy prowadzić indywidualną kartę szkoleń zawierającą:</p>
+            <ul>
+                <li>Imię i nazwisko</li>
+                <li>Stanowisko</li>
+                <li>Data zatrudnienia</li>
+                <li>Lista wszystkich odbytych szkoleń z datami</li>
+                <li>Wyniki testów wiedzy (jeśli przeprowadzane)</li>
+                <li>Podpis pracownika potwierdzający udział</li>
+            </ul>
+
+            <p><b>📋 Załączniki do przechowania:</b></p>
+            <ul>
+                <li>Listy obecności na szkoleniach</li>
+                <li>Materiały szkoleniowe / prezentacje</li>
+                <li>Protokoły z testów wiedzy</li>
+                <li>Certyfikaty / zaświadczenia (jeśli wydawane)</li>
+            </ul>
+
+            <p style="color:blue;"><b>💡 WSKAZÓWKA:</b> Dla pracowników obcojęzycznych przygotować materiały w ich języku ojczystym (np. ukraiński, angielski).</p>
+
+            <p style="font-size:10px; color:#666;">📌 Dokumentację szkoleń przechowywać przez okres zatrudnienia + 3 lata po jego zakończeniu.</p>
+        </en-note>]]>
+        </content>
+        <created>20251203T100400Z</created>
+        <updated>20251203T100400Z</updated>
+        <tag>04_Rejestry i zapisy</tag>
+        <tag>Rejestry_Okresowe</tag>
+        <tag>Zakład_Mięsny</tag>
+        <tag>Szkolenia</tag>
+    </note>
+
+    <note>
+        <title>R-06 ✏️ Nadzór nad wyrobem niezgodnym</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <h1>R-06 Rejestr wyrobów niezgodnych i działań korygujących</h1>
+            <p><b>Przeznaczenie:</b> Rejestracja wszystkich wykrytych niezgodności i podjętych działań.</p>
+            <p><b>Odpowiedzialny:</b> Kierownik produkcji / Zespół HACCP</p>
+            <p><b>Częstotliwość:</b> Na bieżąco - przy każdym wykryciu niezgodności</p>
+
+            <h2>Rodzaje niezgodności w zakładzie mięsnym:</h2>
+            <ul>
+                <li><b>Surowiec:</b> Zły stan, temperatura, brak dokumentów</li>
+                <li><b>Proces:</b> Przekroczenie CCP, błędy produkcyjne, kontaminacja</li>
+                <li><b>Produkt gotowy:</b> Wady jakościowe, błędy etykietowania</li>
+                <li><b>Higiena:</b> Brak czystości, obecność szkodników</li>
+                <li><b>Urządzenia:</b> Awarie, nieprawidłowe pomiary</li>
+            </ul>
+
+            <h2>Rejestr niezgodności - ROK: ___________</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:8%;">Nr / Data</th>
+                    <th style="width:20%;">Opis niezgodności</th>
+                    <th style="width:12%;">Kategoria*</th>
+                    <th style="width:15%;">Natychmiastowe działanie</th>
+                    <th style="width:15%;">Przyczyna główna</th>
+                    <th style="width:15%;">Działanie zapobiegawcze</th>
+                    <th style="width:10%;">Status**</th>
+                    <th style="width:10%;">Odpow.</th>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <p><b>*Kategoria:</b> S = surowiec | P = proces | PG = produkt gotowy | H = higiena | U = urządzenie</p>
+            <p><b>**Status:</b> OTWARTE | W TRAKCIE | ZAMKNIĘTE</p>
+
+            <h3>Schemat postępowania z wyrobem niezgodnym:</h3>
+            <ol>
+                <li><b>Identyfikacja:</b> Wykrycie i opisanie niezgodności</li>
+                <li><b>Izolacja:</b> Fizyczne oddzielenie produktu niezgodnego (czerwona etykieta)</li>
+                <li><b>Ocena:</b> Decyzja co zrobić z produktem (naprawa, przeróbka, zniszczenie, zwrot)</li>
+                <li><b>Analiza przyczyn:</b> Metoda 5x WHY lub diagram Ishikawy</li>
+                <li><b>Działania korygujące:</b> Natychmiastowe usunięcie problemu</li>
+                <li><b>Działania zapobiegawcze:</b> Wdrożenie zmian, aby problem się nie powtórzył</li>
+                <li><b>Weryfikacja:</b> Sprawdzenie skuteczności działań po 1 miesiącu</li>
+                <li><b>Zamknięcie:</b> Dokumentacja i zamknięcie sprawy</li>
+            </ol>
+
+            <h3>Decyzje dot. produktu niezgodnego:</h3>
+            <table border="1" cellpadding="6" cellspacing="0" style="width:90%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th>Decyzja</th>
+                    <th>Kiedy stosować</th>
+                    <th>Kto zatwierdza</th>
+                </tr>
+                <tr>
+                    <td><b>Akceptacja</b></td>
+                    <td>Wada kosmetyczna, nie wpływa na bezpieczeństwo</td>
+                    <td>Kierownik produkcji</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><b>Przeróbka</b></td>
+                    <td>Produkt można przekwalifikować (np. inne opakowanie)</td>
+                    <td>Kierownik produkcji</td>
+                </tr>
+                <tr>
+                    <td><b>Zwrot do dostawcy</b></td>
+                    <td>Surowiec niezgodny</td>
+                    <td>Magazynier</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><b>Zniszczenie</b></td>
+                    <td>Zagrożenie dla zdrowia, nie nadaje się do spożycia</td>
+                    <td>Kierownik zakładu + WIWW</td>
+                </tr>
+            </table>
+
+            <p style="color:red;"><b>⚠️ UWAGA:</b> Produkt niezgodny NIGDY nie może trafić do klienta! W razie wątpliwości - zniszczyć.</p>
+
+            <p style="font-size:10px; color:#666;">📌 Rejestr przechowywać 3 lata. Dokumenty (zdjęcia, protokoły) dołączać jako załączniki.</p>
+        </en-note>]]>
+        </content>
+        <created>20251203T100500Z</created>
+        <updated>20251203T100500Z</updated>
+        <tag>04_Rejestry i zapisy</tag>
+        <tag>Rejestry_Bieżące</tag>
+        <tag>Zakład_Mięsny</tag>
+        <tag>Niezgodności</tag>
+    </note>
+
+    <note>
+        <title>R-07 ✏️ Przeglądy urządzeń i konserwacja</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <h1>R-07 Rejestr przeglądów i konserwacji urządzeń</h1>
+            <p><b>Przeznaczenie:</b> Planowanie i dokumentowanie przeglądów technicznych urządzeń produkcyjnych.</p>
+            <p><b>Odpowiedzialny:</b> Kierownik techniczny / Serwis zewnętrzny</p>
+            <p><b>Częstotliwość:</b> Zgodnie z harmonogramem lub instrukcją producenta</p>
+
+            <h2>Lista urządzeń wymagających przeglądów:</h2>
+            <table border="1" cellpadding="6" cellspacing="0" style="width:95%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:20%;">Urządzenie</th>
+                    <th style="width:15%;">Nr inwentarzowy</th>
+                    <th style="width:20%;">Rodzaj przeglądu</th>
+                    <th style="width:15%;">Częstotliwość</th>
+                    <th style="width:15%;">Ostatni przegląd</th>
+                    <th style="width:15%;">Następny przegląd</th>
+                </tr>
+                <tr>
+                    <td>Wilk mięsny</td>
+                    <td>WM-001</td>
+                    <td>Konserwacja, ostrzenie noży</td>
+                    <td>Co miesiąc</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td>Kuter</td>
+                    <td>KT-002</td>
+                    <td>Czyszczenie, smarowanie</td>
+                    <td>Co 3 miesiące</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td>Komora wędzarnicza</td>
+                    <td>KW-003</td>
+                    <td>Przegląd techniczny</td>
+                    <td>Co 6 miesięcy</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td>Agregat chłodniczy</td>
+                    <td>AC-004</td>
+                    <td>Serwis chłodniczy</td>
+                    <td>Co 12 miesięcy</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td>Waga elektroniczna</td>
+                    <td>WE-005</td>
+                    <td>Legalizacja</td>
+                    <td>Co 12 miesięcy</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td>Pakowarka próżniowa</td>
+                    <td>PP-006</td>
+                    <td>Wymiana uszczelek</td>
+                    <td>Co 6 miesięcy</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td>Termometry</td>
+                    <td>TER-007</td>
+                    <td>Kalibracja</td>
+                    <td>Co 12 miesięcy</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <h2>Wykonane przeglądy i konserwacje - ROK: ___________</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:10%;">Data</th>
+                    <th style="width:18%;">Urządzenie</th>
+                    <th style="width:20%;">Zakres prac</th>
+                    <th style="width:15%;">Wykonawca / Firma</th>
+                    <th style="width:12%;">Koszty (PLN)</th>
+                    <th style="width:15%;">Uwagi / Wymienione części</th>
+                    <th style="width:10%;">Podpis</th>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <h3>⚠️ Postępowanie w przypadku awarii:</h3>
+            <ol>
+                <li><b>Wstrzymanie:</b> Natychmiast wyłączyć urządzenie, oznakować jako niesprawne</li>
+                <li><b>Ocena:</b> Sprawdzić czy można naprawić własnymi siłami czy wymaga serwisu</li>
+                <li><b>Produkt:</b> Ocenić czy produkty przetworzone przed awarią są bezpieczne</li>
+                <li><b>Serwis:</b> Wezwać autoryzowany serwis (w ciągu 24h dla urządzeń krytycznych)</li>
+                <li><b>Dokumentacja:</b> Zapisać w rejestrze + protokół serwisowy</li>
+                <li><b>Weryfikacja:</b> Po naprawie przeprowadzić test przed ponownym uruchomieniem</li>
+            </ol>
+
+            <p style="color:blue;"><b>💡 WSKAZÓWKA:</b> Przechowywać instrukcje obsługi wszystkich urządzeń w dostępnym miejscu.</p>
+
+            <p style="font-size:10px; color:#666;">📌 Rejestr i protokoły serwisowe przechowywać przez okres użytkowania urządzenia + 2 lata.</p>
+        </en-note>]]>
+        </content>
+        <created>20251203T100600Z</created>
+        <updated>20251203T100600Z</updated>
+        <tag>04_Rejestry i zapisy</tag>
+        <tag>Rejestry_Okresowe</tag>
+        <tag>Zakład_Mięsny</tag>
+        <tag>Urządzenia</tag>
+    </note>
+
+    <note>
+        <title>R-08 ✏️ Zgłoszenia i reklamacje klientów</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <h1>R-08 Rejestr zgłoszeń i reklamacji klientów</h1>
+            <p><b>Przeznaczenie:</b> Rejestracja wszystkich skarg, reklamacji i pozytywnych opinii klientów.</p>
+            <p><b>Odpowiedzialny:</b> Kierownik sprzedaży / Obsługa klienta</p>
+            <p><b>Częstotliwość:</b> Na bieżąco - każde zgłoszenie</p>
+
+            <h2>Rodzaje zgłoszeń:</h2>
+            <ul>
+                <li><b>Reklamacja jakościowa:</b> Produkt zepsuty, nieświeży, zmieniony smak</li>
+                <li><b>Reklamacja ilościowa:</b> Brak produktu, błędna ilość, waga</li>
+                <li><b>Reklamacja dokumentacyjna:</b> Błędy na etykiecie, faktury</li>
+                <li><b>Reklamacja sanitarna:</b> Obce ciała, zanieczyszczenia</li>
+                <li><b>Zgłoszenie pozytywne:</b> Pochwała, sugestia ulepszenia</li>
+            </ul>
+
+            <h2>Rejestr reklamacji - ROK: ___________</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:8%;">Nr / Data</th>
+                    <th style="width:15%;">Klient</th>
+                    <th style="width:15%;">Produkt / Nr partii</th>
+                    <th style="width:20%;">Opis reklamacji</th>
+                    <th style="width:12%;">Kategoria*</th>
+                    <th style="width:15%;">Decyzja / Rozwiązanie</th>
+                    <th style="width:10%;">Status**</th>
+                    <th style="width:10%;">Odpow.</th>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <p><b>*Kategoria:</b> JK = jakość | IL = ilość | DOK = dokumentacja | SAN = sanitarna | POZ = pozytywna</p>
+            <p><b>**Status:</b> NOWE | W TRAKCIE | ROZWIĄZANE | ZAMKNIĘTE</p>
+
+            <h3>Procedura obsługi reklamacji (max 48h na odpowiedź):</h3>
+            <ol>
+                <li><b>Przyjęcie:</b> Wysłuchać klienta, zapisać szczegóły, numer partii produktu</li>
+                <li><b>Przeprosiny:</b> Zawsze przeprosić za niedogodności (niezależnie od przyczyny)</li>
+                <li><b>Zabezpieczenie:</b> Wstrzymać sprzedaż produktu z tej partii do wyjaśnienia</li>
+                <li><b>Analiza:</b> Zbadać przyczynę (produkcja, transport, przechowywanie u klienta?)</li>
+                <li><b>Decyzja:</b> Uznać lub odrzucić reklamację z uzasadnieniem</li>
+                <li><b>Rekompensata:</b> Wymiana produktu, zwrot pieniędzy, nota kredytowa</li>
+                <li><b>Działania wewnętrzne:</b> Jeśli wina po naszej stronie - zapisać w R-06 (niezgodności)</li>
+                <li><b>Kontakt zwrotny:</b> Poinformować klienta o decyzji i podjętych działaniach</li>
+                <li><b>Monitoring:</b> Sprawdzić czy klient jest zadowolony z rozwiązania</li>
+            </ol>
+
+            <h3>Kluczowe reklamacje wymagające natychmiastowej reakcji:</h3>
+            <table border="1" cellpadding="6" cellspacing="0" style="width:90%; border-collapse:collapse;">
+                <tr style="background-color:#ffe6e6;">
+                    <th>Typ reklamacji</th>
+                    <th>Działanie</th>
+                    <th>Termin</th>
+                </tr>
+                <tr>
+                    <td><b>Obce ciało w produkcie</b></td>
+                    <td>Wycofanie partii, kontrola CCP, powiadomienie WIWW</td>
+                    <td>24h</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><b>Zatrucie pokarmowe</b></td>
+                    <td>Natychmiastowe wycofanie, analiza lab., organy sanitarne</td>
+                    <td>Natychmiast</td>
+                </tr>
+                <tr>
+                    <td><b>Seria reklamacji (>3)</b></td>
+                    <td>Wstrzymanie produkcji, analiza systemu, przegląd HACCP</td>
+                    <td>24h</td>
+                </tr>
+            </table>
+
+            <h3>Analiza trendów reklamacji (kwartalnie):</h3>
+            <p>Co kwartał należy przeanalizować:</p>
+            <ul>
+                <li>Liczba reklamacji vs liczba dostaw (wskaźnik %)</li>
+                <li>Najczęstsze przyczyny reklamacji</li>
+                <li>Produkty najbardziej reklamowane</li>
+                <li>Czas rozwiązywania reklamacji</li>
+                <li>Koszty reklamacji</li>
+            </ul>
+
+            <p style="color:blue;"><b>💡 WSKAZÓWKA:</b> Każda reklamacja to szansa na poprawę! Dziękować klientom za feedback.</p>
+
+            <p style="font-size:10px; color:#666;">📌 Rejestr przechowywać 5 lat. Korespondencję z klientem dołączać jako załączniki.</p>
+        </en-note>]]>
+        </content>
+        <created>20251203T100700Z</created>
+        <updated>20251203T100700Z</updated>
+        <tag>04_Rejestry i zapisy</tag>
+        <tag>Rejestry_Bieżące</tag>
+        <tag>Zakład_Mięsny</tag>
+        <tag>Reklamacje</tag>
+    </note>
+
+    <note>
+        <title>R-09 ✏️ Identyfikowalność partii produktu</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <h1>R-09 Rejestr identyfikowalności - partia produktu</h1>
+            <p><b>Przeznaczenie:</b> Zapewnienie identyfikowalności produktu "krok wstecz - krok do przodu".</p>
+            <p><b>Odpowiedzialny:</b> Kierownik produkcji</p>
+            <p><b>Częstotliwość:</b> Każda partia produkcyjna</p>
+
+            <h2>Zasady oznaczania partii:</h2>
+            <p>Numer partii powinien umożliwiać identyfikację:</p>
+            <ul>
+                <li><b>Daty produkcji</b> (rok, miesiąc, dzień)</li>
+                <li><b>Linii/zmiany produkcyjnej</b> (jeśli mamy kilka)</li>
+                <li><b>Rodzaju produktu</b></li>
+            </ul>
+            <p><b>Przykład numeru partii:</b> 2025120301-KIE-A</p>
+            <p style="font-size:12px;">(rok-miesiąc-dzień-numer | kod produktu: KIElbasa | zmiana: A)</p>
+
+            <h2>Karta produkcyjna partii - SZABLON</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:95%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th colspan="2" style="text-align:left;">IDENTYFIKACJA PARTII</th>
+                </tr>
+                <tr>
+                    <td style="width:30%;"><b>Numer partii:</b></td>
+                    <td>_________________________________</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><b>Data produkcji:</b></td>
+                    <td>_________________________________</td>
+                </tr>
+                <tr>
+                    <td><b>Nazwa produktu:</b></td>
+                    <td>_________________________________</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><b>Ilość wyprodukowana (kg):</b></td>
+                    <td>_________________________________</td>
+                </tr>
+                <tr>
+                    <td><b>Termin przydatności:</b></td>
+                    <td>_________________________________</td>
+                </tr>
+            </table>
+
+            <h3>KROK WSTECZ - Surowce użyte w produkcji:</h3>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:25%;">Nazwa surowca</th>
+                    <th style="width:20%;">Dostawca</th>
+                    <th style="width:20%;">Nr partii dostawcy</th>
+                    <th style="width:15%;">Ilość użyta (kg)</th>
+                    <th style="width:20%;">Termin przydatności</th>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <h3>PARAMETRY CCP - kontrola w czasie produkcji:</h3>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:20%;">Punkt CCP</th>
+                    <th style="width:15%;">Godz. pomiaru</th>
+                    <th style="width:20%;">Wartość zmierzona</th>
+                    <th style="width:20%;">Limit krytyczny</th>
+                    <th style="width:15%;">Status (OK/NOK)</th>
+                    <th style="width:10%;">Podpis</th>
+                </tr>
+                <tr>
+                    <td>Obróbka termiczna</td>
+                    <td><br/></td>
+                    <td>___°C przez ___ min</td>
+                    <td>≥72°C / 2 min</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td>Wędzenie</td>
+                    <td><br/></td>
+                    <td>___°C</td>
+                    <td>Wg receptury</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td>Schładzanie</td>
+                    <td><br/></td>
+                    <td>___°C</td>
+                    <td>≤4°C</td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <h3>KROK DO PRZODU - Dystrybucja:</h3>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:15%;">Data wysyłki</th>
+                    <th style="width:25%;">Klient / Odbiorca</th>
+                    <th style="width:15%;">Nr dokumentu (WZ/FV)</th>
+                    <th style="width:15%;">Ilość wysłana (kg)</th>
+                    <th style="width:15%;">Nr rej. pojazdu</th>
+                    <th style="width:15%;">Podpis</th>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <h3>TEST IDENTYFIKOWALNOŚCI (przeprowadzać 1x w roku):</h3>
+            <ol>
+                <li>Wybierz losowo produkt ze sklepu/u klienta</li>
+                <li>Na podstawie numeru partii odtwórz:</li>
+                <ul>
+                    <li>Kiedy został wyprodukowany? (data, zmiana)</li>
+                    <li>Z jakich surowców? (dostawcy, numery partii)</li>
+                    <li>Jakie były wyniki CCP?</li>
+                    <li>Do których klientów trafił?</li>
+                </ul>
+                <li><b>Czas odtworzenia:</b> max 4 godziny robocze</li>
+                <li>Zapisać wynik testu + załączyć dokumentację</li>
+            </ol>
+
+            <p style="color:red;"><b>⚠️ UWAGA:</b> Identyfikowalność jest kluczowa w przypadku wycofania produktu z rynku!</p>
+
+            <p style="font-size:10px; color:#666;">📌 Karty produkcyjne przechowywać min. 6 miesięcy po terminie przydatności produktu.</p>
+        </en-note>]]>
+        </content>
+        <created>20251203T100800Z</created>
+        <updated>20251203T100800Z</updated>
+        <tag>04_Rejestry i zapisy</tag>
+        <tag>Rejestry_Bieżące</tag>
+        <tag>Zakład_Mięsny</tag>
+        <tag>Identyfikowalność</tag>
+        <tag>CCP</tag>
+    </note>
+
+    <note>
+        <title>R-10 ✏️ Rejestr odpadów</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <h1>R-10 Rejestr gospodarki odpadami</h1>
+            <p><b>Przeznaczenie:</b> Rejestracja wytwarzanych odpadów i sposobu ich zagospodarowania.</p>
+            <p><b>Odpowiedzialny:</b> Kierownik zakładu / Osoba ds. ochrony środowiska</p>
+            <p><b>Częstotliwość:</b> Na bieżąco, zestawienie miesięczne</p>
+
+            <h2>Rodzaje odpadów w zakładzie mięsnym:</h2>
+            <table border="1" cellpadding="6" cellspacing="0" style="width:95%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:15%;">Kod odpadu</th>
+                    <th style="width:35%;">Rodzaj odpadu</th>
+                    <th style="width:25%;">Kategoria</th>
+                    <th style="width:25%;">Sposób zagospodarowania</th>
+                </tr>
+                <tr>
+                    <td>02 02 02</td>
+                    <td>Odpadowa tkanka zwierzęca</td>
+                    <td>Kat. 3 (podroby jadalne)</td>
+                    <td>Firma utylizacyjna</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td>02 02 03</td>
+                    <td>Surowce nieprzydatne do spożycia</td>
+                    <td>Kat. 2 (wysokiego ryzyka)</td>
+                    <td>Utylizacja przez WIWW</td>
+                </tr>
+                <tr>
+                    <td>15 01 01</td>
+                    <td>Opakowania z papieru i tektury</td>
+                    <td>Recyclable</td>
+                    <td>Odbiór selektywny</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td>15 01 02</td>
+                    <td>Opakowania z tworzyw sztucznych</td>
+                    <td>Recyclable</td>
+                    <td>Odbiór selektywny</td>
+                </tr>
+                <tr>
+                    <td>20 01 08</td>
+                    <td>Odpady kuchenne ulegające biodegradacji</td>
+                    <td>BIO</td>
+                    <td>Kompostownia / Biogazownia</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td>20 03 01</td>
+                    <td>Niesegregowane odpady komunalne</td>
+                    <td>Zmieszane</td>
+                    <td>Wysypisko</td>
+                </tr>
+            </table>
+
+            <h2>Miesięczny rejestr odpadów - MIESIĄC: ___________</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th style="width:10%;">Data</th>
+                    <th style="width:15%;">Kod odpadu</th>
+                    <th style="width:20%;">Rodzaj odpadu</th>
+                    <th style="width:12%;">Ilość (kg)</th>
+                    <th style="width:18%;">Odbiorca / Firma</th>
+                    <th style="width:15%;">Nr dokumentu (KPO)</th>
+                    <th style="width:10%;">Podpis</th>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                    <td><br/></td>
+                </tr>
+            </table>
+
+            <h3>Zasady postępowania z odpadami pochodzenia zwierzęcego:</h3>
+            <ol>
+                <li><b>Segregacja:</b> Oddzielać odpady kategorii 2 i 3 od początku</li>
+                <li><b>Pojemniki:</b> Używać szczelnych, oznakowanych pojemników (różne kolory)</li>
+                <li><b>Przechowywanie:</b> W chłodni odpadowej (temp. ≤7°C) lub mrożeniu (≤-18°C)</li>
+                <li><b>Częstotliwość wywozu:</b> Min. 1x w tygodniu (zależnie od ilości)</li>
+                <li><b>Firma utylizacyjna:</b> Tylko autoryzowana przez WIWW</li>
+                <li><b>Dokumenty:</b> Karta przekazania odpadu (KPO) przy każdym odbiorze</li>
+            </ol>
+
+            <h3>Dane firm odbierających odpady:</h3>
+            <table border="1" cellpadding="6" cellspacing="0" style="width:95%; border-collapse:collapse;">
+                <tr style="background-color:#e8f4f8;">
+                    <th>Rodzaj odpadu</th>
+                    <th>Nazwa firmy</th>
+                    <th>Tel. kontaktowy</th>
+                    <th>Umowa ważna do</th>
+                </tr>
+                <tr>
+                    <td>Odpady zwierzęce</td>
+                    <td>_______________________</td>
+                    <td>_______________________</td>
+                    <td>_______________________</td>
+                </tr>
+                <tr style="background-color:#f9f9f9;">
+                    <td>Odpady komunalne</td>
+                    <td>_______________________</td>
+                    <td>_______________________</td>
+                    <td>_______________________</td>
+                </tr>
+                <tr>
+                    <td>Segregowane (papier, plastik)</td>
+                    <td>_______________________</td>
+                    <td>_______________________</td>
+                    <td>_______________________</td>
+                </tr>
+            </table>
+
+            <h3>Obowiązki sprawozdawcze:</h3>
+            <ul>
+                <li><b>Miesięczne zestawienie:</b> Wewnętrzne podsumowanie ilości odpadów</li>
+                <li><b>Kwartalne sprawozdanie:</b> Dla Marszałka Województwa (BDO - jeśli wymagane)</li>
+                <li><b>Roczne sprawozdanie:</b> GUS (odpady niebezpieczne i komunalne)</li>
+            </ul>
+
+            <h3>Minimalizacja odpadów - dobre praktyki:</h3>
+            <ul>
+                <li>Optymalizacja wykroju mięsa (wykorzystanie podrobów)</li>
+                <li>Wykorzystanie resztek do produktów przetworzonych</li>
+                <li>Redukcja opakowań (zamówienia luzem od dostawców)</li>
+                <li>Recykling i segregacja w zakładzie</li>
+                <li>Szkolenia pracowników z gospodarki odpadami</li>
+            </ul>
+
+            <p style="color:red;"><b>⚠️ UWAGA:</b> Nieprawidłowe gospodarowanie odpadami zwierzęcymi = wysokie kary i utrata zezwolenia!</p>
+
+            <p style="font-size:10px; color:#666;">📌 Rejestr i KPO przechowywać 5 lat. Kopie sprawozdań GUS i BDO - bezterminowo.</p>
+        </en-note>]]>
+        </content>
+        <created>20251203T100900Z</created>
+        <updated>20251203T100900Z</updated>
+        <tag>04_Rejestry i zapisy</tag>
+        <tag>Rejestry_Okresowe</tag>
+        <tag>Zakład_Mięsny</tag>
+        <tag>Odpady</tag>
+    </note>
+
+</en-export>

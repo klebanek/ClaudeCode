@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export4.dtd">
+<en-export export-date="20251203T120000Z" application="Evernote" version="10.x">
+
+<!-- ================================================================== -->
+<!-- CZĘŚĆ 2: Procedury GHP-05 do GHP-08 -->
+<!-- ================================================================== -->
+
+<!-- GHP-05: Kontrola szkodników DDD -->
+<note>
+<title>GHP-05 Kontrola szkodników DDD (Deratyzacja, Dezynsekcja, Dezynfekcja)</title>
+<created>20251203T100000Z</created>
+<updated>20251203T100000Z</updated>
+<tag>01_GHP</tag>
+<tag>Warunki_Wstępne</tag>
+<tag>Zakład_Mięsny</tag>
+<tag>✅_Zatwierdzone</tag>
+<note-attributes>
+<author>INOVIT e-Segregator</author>
+</note-attributes>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+<h1 style="color:#2c3e50; border-bottom:3px solid #e67e22; padding-bottom:10px;">
+GHP-05: Kontrola szkodników DDD
+</h1>
+<div style="background-color:#e8f4f8; padding:15px; border-left:4px solid #e67e22; margin:20px 0;">
+<strong>Status:</strong> ✅ Zatwierdzone | <strong>Wersja:</strong> 1.0 | <strong>Data:</strong> 2025-12-03
+</div>
+
+<h2 style="color:#2c3e50;">1. CEL PROCEDURY</h2>
+<p style="line-height:1.6;">
+Zapobieganie pojawieniu się szkodników (gryzonie, owady, ptaki) w zakładzie oraz ich eliminacja w przypadku wystąpienia, aby chronić produkty przed zanieczyszczeniem biologicznym i fizycznym.
+</p>
+
+<h2 style="color:#2c3e50;">2. RODZAJE SZKODNIKÓW</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#e67e22; color:white;">
+<th style="width:25%;">Typ</th>
+<th style="width:35%;">Gatunki</th>
+<th style="width:40%;">Zagrożenia</th>
+</tr>
+<tr>
+<td><strong>Gryzonie</strong></td>
+<td>Szczury (wędrowne, miejskie)<br/>Myszy domowe</td>
+<td>
+• Odchody, mocz (Salmonella, E.coli)<br/>
+• Uszkodzenia opakowań<br/>
+• Zanieczyszczenie sierścią<br/>
+• Przenoszenie chorób (leptospiroza)
+</td>
+</tr>
+<tr>
+<td><strong>Owady latające</strong></td>
+<td>Muchy domowe<br/>Ćmy spożywcze<br/>Osy</td>
+<td>
+• Przenoszenie bakterii na produkty<br/>
+• Откладывание jaj w produktach<br/>
+• Zanieczyszczenie odchodami
+</td>
+</tr>
+<tr>
+<td><strong>Owady pełzające</strong></td>
+<td>Karaluchy<br/>Mrówki<br/>Chrząszcze spożywcze</td>
+<td>
+• Przenoszenie patogenów<br/>
+• Zanieczyszczenie odchodami<br/>
+• Uszkodzenia opakowań
+</td>
+</tr>
+<tr>
+<td><strong>Ptaki</strong></td>
+<td>Gołębie<br/>Wróble<br/>Kawki</td>
+<td>
+• Odchody (Salmonella, Campylobacter)<br/>
+• Pióra w produktach<br/>
+• Zanieczyszczenie wentylacji
+</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">3. PROGRAM DDD - WSPÓŁPRACA Z FIRMĄ ZEWNĘTRZNĄ</h2>
+
+<h3 style="color:#34495e;">Wybór firmy DDD:</h3>
+<ul style="line-height:1.8;">
+<li>✅ Firma posiadająca wpis do rejestru działalności regulowanej</li>
+<li>✅ Stosująca środki posiadające atest PZH (dopuszczone w zakładach spożywczych)</li>
+<li>✅ Personel przeszkolony (certyfikaty)</li>
+<li>✅ Ubezpieczenie OC</li>
+</ul>
+
+<h3 style="color:#34495e;">Umowa z firmą DDD - zakres:</h3>
+<ul style="line-height:1.8;">
+<li>📋 Częstotliwość wizyt: <strong>1x w miesiącu</strong> (standardowo) + interwencje awaryjne</li>
+<li>📋 Zakres prac:<br/>
+  • Deratyzacja (gryzonie) - pułapki + trutki<br/>
+  • Dezynsekcja (owady) - lampy UV + opryski<br/>
+  • Monitoring - kontrola pułapek, raporty
+</li>
+<li>📋 Dokumentacja:<br/>
+  • Mapa rozmieszczenia pułapek/stacji trutki<br/>
+  • Protokoły z każdej wizyty<br/>
+  • Karty charakterystyki preparatów
+</li>
+</ul>
+
+<h2 style="color:#2c3e50;">4. SYSTEM MONITORINGU GRYZONI</h2>
+
+<h3 style="background-color:#e67e22; color:white; padding:10px;">Rozmieszczenie pułapek i stacji trutki</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#34495e; color:white;">
+<th style="width:25%;">Lokalizacja</th>
+<th style="width:25%;">Typ urządzenia</th>
+<th style="width:25%;">Ilość</th>
+<th style="width:25%;">Nr na mapie</th>
+</tr>
+<tr>
+<td><strong>Zewnątrz budynku</strong></td>
+<td>Stacje trutki (zamykane, odporne na wodę)</td>
+<td>Co 10 metrów wzdłuż ścian</td>
+<td>S-01 do S-12</td>
+</tr>
+<tr>
+<td><strong>Rampa załadunkowa</strong></td>
+<td>Stacje trutki</td>
+<td>4 szt. (narożniki)</td>
+<td>S-13 do S-16</td>
+</tr>
+<tr>
+<td><strong>Wewnątrz - produkcja</strong></td>
+<td>Pułapki klejowe (BEZ trutki!)</td>
+<td>Co 5 metrów wzdłuż ścian</td>
+<td>P-01 do P-20</td>
+</tr>
+<tr>
+<td><strong>Magazyn surowców</strong></td>
+<td>Pułapki klejowe</td>
+<td>4 szt. (narożniki)</td>
+<td>P-21 do P-24</td>
+</tr>
+<tr>
+<td><strong>Pomieszczenie odpadów</strong></td>
+<td>Stacje trutki (zamykane)</td>
+<td>2 szt.</td>
+<td>S-17, S-18</td>
+</tr>
+<tr>
+<td><strong>Szatnie, toalety</strong></td>
+<td>Pułapki klejowe</td>
+<td>2 szt.</td>
+<td>P-25, P-26</td>
+</tr>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>⚠️ KRYTYCZNE:</strong> W strefach produkcji i magazynach żywności <strong>ZABRONIONE</strong> stosowanie trutki!<br/>
+Tylko pułapki klejowe lub mechaniczne (zatrzaskowe).<br/>
+Ryzyko: zjedzenie trutki przez gryzoń → śmierć → rozkład zwłok w trudno dostępnym miejscu → zapach + bakterie.
+</div>
+
+<h3 style="background-color:#e67e22; color:white; padding:10px;">Kontrola pułapek</h3>
+
+<p style="margin-left:20px;"><strong>Częstotliwość:</strong></p>
+<ul style="line-height:1.8; margin-left:40px;">
+<li>🔍 Firma DDD: 1x w miesiącu (wizyta planowana)</li>
+<li>🔍 Kierownik Produkcji lub osoba wyznaczona: <strong>1x w tygodniu</strong> (kontrola wizualna)</li>
+</ul>
+
+<p style="margin-left:20px;"><strong>Procedura kontroli tygodniowej (wewnętrzna):</strong></p>
+<ol style="line-height:1.8; margin-left:40px;">
+<li>Sprawdzić wszystkie pułapki klejowe w produkcji i magazynach</li>
+<li>Jeśli znaleziono uchwycony gryzonia lub owada:<br/>
+   • Zrobić zdjęcie<br/>
+   • Zanotować nr pułapki, datę<br/>
+   • Wyrzucić pułapkę do kosza na odpady (worki szczelne)<br/>
+   • Założyć nową pułapkę w tym samym miejscu<br/>
+   • ⚠️ Jeśli 2+ gryzonie w tym samym tygodniu → natychmiastowy kontakt z firmą DDD!
+</li>
+<li>Wpis do rejestru R-08 (Rejestr kontroli DDD)</li>
+</ol>
+
+<p style="margin-left:20px;"><strong>Procedura wizyty firmy DDD (miesięczna):</strong></p>
+<ol style="line-height:1.8; margin-left:40px;">
+<li>Sprawdzenie wszystkich pułapek i stacji trutki (wg mapy)</li>
+<li>Uzupełnienie trutki (jeśli zjedzona lub wilgotna)</li>
+<li>Wymiana pułapek klejowych (co 3 miesiące lub wcześniej jeśli brudne)</li>
+<li>Sporządzenie protokołu:<br/>
+   • Data wizyty<br/>
+   • Liczba pułapek sprawdzonych<br/>
+   • Liczba gryzoni uchwyconych (gatunek, lokalizacja)<br/>
+   • Liczba owadów (rodzaj, lokalizacja)<br/>
+   • Środki zastosowane (nazwa, ilość)<br/>
+   • Uwagi, zalecenia<br/>
+   • Podpis technika DDD
+</li>
+<li>Przekazanie protokołu Kierownikowi ds. Jakości (archiwizacja 3 lata)</li>
+</ol>
+
+<h2 style="color:#2c3e50;">5. KONTROLA OWADÓW</h2>
+
+<h3 style="background-color:#27ae60; color:white; padding:10px;">Lampy owadobójcze UV</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#34495e; color:white;">
+<th style="width:30%;">Lokalizacja</th>
+<th style="width:30%;">Typ lampy</th>
+<th style="width:20%;">Moc</th>
+<th style="width:20%;">Nr lampy</th>
+</tr>
+<tr>
+<td>Hala produkcyjna (wejście)</td>
+<td>Lampa UV z płytą klejową</td>
+<td>2 x 15W</td>
+<td>L-01</td>
+</tr>
+<tr>
+<td>Magazyn surowców</td>
+<td>Lampa UV z płytą klejową</td>
+<td>2 x 15W</td>
+<td>L-02</td>
+</tr>
+<tr>
+<td>Pomieszczenie pakowania</td>
+<td>Lampa UV z płytą klejową</td>
+<td>2 x 15W</td>
+<td>L-03</td>
+</tr>
+<tr>
+<td>Śluza wejściowa</td>
+<td>Lampa UV elektryczna (kratka pod napięciem)</td>
+<td>1 x 15W</td>
+<td>L-04</td>
+</tr>
+</table>
+
+<p style="margin-left:20px;"><strong>Konserwacja lamp UV:</strong></p>
+<ul style="line-height:1.8; margin-left:40px;">
+<li>✅ Wymiana płyt klejowych: <strong>1x w miesiącu</strong> (firma DDD lub wewnętrznie)</li>
+<li>✅ Wymiana żarówek UV: <strong>1x w roku</strong> (tracą skuteczność po 12 miesiącach, nawet jeśli świecą)</li>
+<li>✅ Czyszczenie obudowy: 1x w miesiącu (kurz zmniejsza skuteczność)</li>
+<li>✅ Monitoring ilości owadów na płytach (jeśli nagły wzrost → szukać źródła w okolicy)</li>
+</ul>
+
+<h3 style="background-color:#27ae60; color:white; padding:10px;">Siatki moskitiery i kurtyny powietrzne</h3>
+
+<ul style="line-height:1.8;">
+<li>🪟 <strong>Okna</strong>: wszystkie okna w produkcji i magazynach wyposażone w siatki (oczko max 1.2 mm)</li>
+<li>🚪 <strong>Drzwi</strong>: kurtyny powietrzne (strumień powietrza w dół) nad drzwiami często otwieranymi</li>
+<li>🔧 <strong>Konserwacja siatek</strong>:<br/>
+  - Kontrola uszkodzeń: 1x w miesiącu<br/>
+  - Naprawa dziur natychmiastowo (łatki lub wymiana siatki)<br/>
+  - Mycie: 1x w kwartale (usuwanie kurzu, pajęczyn)
+</li>
+</ul>
+
+<h2 style="color:#2c3e50;">6. ŚRODKI ZAPOBIEGAWCZE (PROFILAKTYKA)</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#3498db; color:white;">
+<th style="width:40%;">Działanie zapobiegawcze</th>
+<th style="width:60%;">Opis</th>
+</tr>
+<tr>
+<td><strong>Utrzymanie porządku</strong></td>
+<td>
+• Usuwanie odpadów codziennie (nie pozostawiać na noc!)<br/>
+• Brak resztek żywności na podłogach, stolach<br/>
+• Szczelne zamykanie pojemników z surowcami
+</td>
+</tr>
+<tr>
+<td><strong>Uszczelnienie budynku</strong></td>
+<td>
+• Zabezpieczenie szczelin &gt;6 mm (gryzonie się przeciskają)<br/>
+• Uszczelnienie wokół rur, kabli (pianka montażowa, siatka stalowa)<br/>
+• Naprawa uszkodzonych siatek w oknach
+</td>
+</tr>
+<tr>
+<td><strong>Ograniczenie dostępu</strong></td>
+<td>
+• Drzwi zamykane (nie pozostawiać otwartych!)<br/>
+• Kurtyny powietrzne włączone podczas pracy<br/>
+• Rampa załadunkowa: bramy otwierane tylko podczas załadunku
+</td>
+</tr>
+<tr>
+<td><strong>Kontrola dostaw</strong></td>
+<td>
+• Inspekcja opakowań przy odbiorze (ślady gryzienia, odchody)<br/>
+• Nie przyjmować palet drewnianych z uszkodzeniami (mogą być nosicielami owadów)<br/>
+• Opakowania kartonowe - sprawdzać czy nie ma ćmy spożywczej
+</td>
+</tr>
+<tr>
+<td><strong>Gospodarka odpadami</strong></td>
+<td>
+• Pojemniki szczelnie zamykane<br/>
+• Pomieszczenie odpadów czyste, chłodzone (GHP-03)<br/>
+• Wywóz min. 2x w tygodniu (nie gromadzić!)
+</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">7. POSTĘPOWANIE W RAZIE WYKRYCIA SZKODNIKA</h2>
+
+<h3 style="background-color:#e74c3c; color:white; padding:10px;">POZIOM 1: Pojedyncze wykrycie (1-2 gryzonie/miesiąc)</h3>
+<ul style="line-height:1.8;">
+<li>✅ Wpis do rejestru R-08</li>
+<li>✅ Zintensyfikowanie kontroli (codziennie przez tydzień)</li>
+<li>✅ Sprawdzenie okolicy pułapki (czy są dziury, szczeliny → uszczelnić)</li>
+<li>✅ Informacja dla firmy DDD przy najbliższej wizycie</li>
+</ul>
+
+<h3 style="background-color:#e74c3c; color:white; padding:10px;">POZIOM 2: Wzrost aktywności (3-5 gryzoni/miesiąc)</h3>
+<ul style="line-height:1.8;">
+<li>🚨 Natychmiastowe wezwanie firmy DDD (wizyta interwencyjna w 24h)</li>
+<li>🚨 Inspekcja całego zakładu (szukanie gniazd, śladów)</li>
+<li>🚨 Dodatkowe pułapki w okolicy wykrycia</li>
+<li>🚨 Raport dla Kierownika ds. Jakości</li>
+</ul>
+
+<h3 style="background-color:#e74c3c; color:white; padding:10px;">POZIOM 3: Inwazja (&gt;5 gryzoni/miesiąc lub obecność w strefie produkcji)</h3>
+<ul style="line-height:1.8;">
+<li>🔴 STOP PRODUKCJI (do czasu opanowania sytuacji)</li>
+<li>🔴 Wezwanie firmy DDD - akcja intensywna (opryski, gazowanie)</li>
+<li>🔴 Przegląd wszystkich produktów w toku (sprawdzenie uszkodzeń opakowań)</li>
+<li>🔴 Mycie i dezynfekcja całego zakładu (GHP-01)</li>
+<li>🔴 Raport do Sanepidu (jeśli wykryto w produkcie gotowym!)</li>
+<li>🔴 Działania naprawcze:<br/>
+  - Identyfikacja źródła (jak dostały się do środka?)<br/>
+  - Uszczelnienie budynku<br/>
+  - Zmiana firmy DDD (jeśli nieskuteczna)
+</li>
+</ul>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid #ffc107; margin:20px 0;">
+<strong>⚠️ ŚLADY OBECNOŚCI SZKODNIKÓW - NA CO ZWRACAĆ UWAGĘ:</strong><br/>
+🔍 Gryzonie:<br/>
+• Odchody (kształt ryżowego ziarnka - szczury, okrągłe - myszy)<br/>
+• Ślady zębów na opakowaniach, kablach<br/>
+• Smugi tłuste wzdłuż ścian (ścieżki przemarszu)<br/>
+• Dźwięki w nocy (skrobanie, pisk)<br/><br/>
+🔍 Owady:<br/>
+• Martwe owady pod lampami UV<br/>
+• Pajęczyny (znak owadów - pająki się nimi żywią)<br/>
+• Larwy w produktach sypkich<br/>
+• Lot much (szczególnie latem)
+</div>
+
+<h2 style="color:#2c3e50;">8. DOKUMENTY POWIĄZANE</h2>
+
+<ul style="line-height:1.8;">
+<li>📄 <strong>R-08</strong> - Rejestr kontroli DDD (wpisy tygodniowe + protokoły miesięczne firmy)</li>
+<li>📄 <strong>Umowa z firmą DDD</strong></li>
+<li>📄 <strong>Mapa rozmieszczenia pułapek</strong> (aktualizowana po każdej zmianie)</li>
+<li>📄 <strong>Protokoły wizyt DDD</strong> (segregator, przechowywać 3 lata)</li>
+<li>📄 <strong>Karty charakterystyki preparatów</strong> (trutki, środki dezynsekcyjne)</li>
+<li>📄 <strong>GHP-03</strong> - Gospodarka odpadami (odpady przyciągają szkodniki!)</li>
+<li>📄 <strong>GHP-06</strong> - Utrzymanie pomieszczeń (uszczelnienia)</li>
+</ul>
+
+<h2 style="color:#2c3e50;">9. KONTAKT - FIRMA DDD</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#2c3e50; color:white;">
+<th style="width:40%;">Dane</th>
+<th style="width:60%;">Informacje</th>
+</tr>
+<tr>
+<td><strong>Nazwa firmy</strong></td>
+<td>_______________________________</td>
+</tr>
+<tr>
+<td><strong>Telefon (24/7 interwencje)</strong></td>
+<td>_______________________________</td>
+</tr>
+<tr>
+<td><strong>E-mail</strong></td>
+<td>_______________________________</td>
+</tr>
+<tr>
+<td><strong>Osoba kontaktowa</strong></td>
+<td>_______________________________</td>
+</tr>
+<tr>
+<td><strong>Nr umowy</strong></td>
+<td>_______________________________</td>
+</tr>
+<tr>
+<td><strong>Wizyty planowane</strong></td>
+<td>Każdy _________ dzień miesiąca (np. 15-go)</td>
+</tr>
+</table>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ ZATWIERDZENIE:</strong><br/>
+Kierownik ds. Jakości: __________ | Kierownik Produkcji: __________ | Prezes: __________
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- GHP-06: Utrzymanie pomieszczeń i sprzętu -->
+<note>
+<title>GHP-06 Utrzymanie pomieszczeń i sprzętu</title>
+<created>20251203T100000Z</created>
+<updated>20251203T100000Z</updated>
+<tag>01_GHP</tag>
+<tag>Warunki_Wstępne</tag>
+<tag>Zakład_Mięsny</tag>
+<tag>✅_Zatwierdzone</tag>
+<note-attributes>
+<author>INOVIT e-Segregator</author>
+</note-attributes>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+<h1 style="color:#2c3e50; border-bottom:3px solid #9b59b6; padding-bottom:10px;">
+GHP-06: Utrzymanie pomieszczeń i sprzętu
+</h1>
+<div style="background-color:#e8f4f8; padding:15px; border-left:4px solid #9b59b6; margin:20px 0;">
+<strong>Status:</strong> ✅ Zatwierdzone | <strong>Wersja:</strong> 1.0 | <strong>Data:</strong> 2025-12-03
+</div>
+
+<h2 style="color:#2c3e50;">1. CEL PROCEDURY</h2>
+<p style="line-height:1.6;">
+Zapewnienie odpowiedniego stanu technicznego pomieszczeń produkcyjnych, magazynowych i sprzętu, aby uniknąć zanieczyszczenia produktów z powodu złego stanu budynku lub awarii urządzeń.
+</p>
+
+<h2 style="color:#2c3e50;">2. WYMAGANIA DOTYCZĄCE POMIESZCZEŃ</h2>
+
+<h3 style="color:#34495e;">Pomieszczenia produkcyjne i magazynowe - warunki podstawowe:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#9b59b6; color:white;">
+<th style="width:30%;">Element</th>
+<th style="width:70%;">Wymagania</th>
+</tr>
+<tr>
+<td><strong>Posadzka</strong></td>
+<td>
+• Materiał: płytki gresowe, żywica epoksydowa (łatwe do mycia, nieprzepuszczalne)<br/>
+• Stan: bez pęknięć, dziur, ubytków<br/>
+• Odpływ: min. 1% spadek w kierunku kratki odpływowej<br/>
+• Zagrożenie: stojąca woda → rozwój bakterii, poślizg pracowników
+</td>
+</tr>
+<tr>
+<td><strong>Ściany</strong></td>
+<td>
+• Materiał: płytki ceramiczne (min. do 2 m wysokości), farba zmywalna powyżej<br/>
+• Stan: bez pęknięć, uszkodzeń, odpadającej farby<br/>
+• Kolory: jasne (biały, jasnoniebieski) - łatwiejsze zauważenie zabrudzeń<br/>
+• Naroż nika: zaokrąglone (łatwiejsze mycie)
+</td>
+</tr>
+<tr>
+<td><strong>Sufity</strong></td>
+<td>
+• Materiał: płyty wodoodporne lub farba zmywalna<br/>
+• Stan: bez pęknięć, plam wilgoci, pajęczyn<br/>
+• Lampy: osłonięte (ryzyko rozbicia żarówki → szkło w produkcie!)<br/>
+• Wentylacja: sprawna (usuwanie pary, zapachów)
+</td>
+</tr>
+<tr>
+<td><strong>Okna i drzwi</strong></td>
+<td>
+• Okna: siatki moskitiery (oczko 1.2 mm), szczelne<br/>
+• Drzwi: zamykane, bez szpar u dołu (ryzyko wejścia gryzoni)<br/>
+• Drzwi produkcja → magazyn: oddzielenie stref (brud → czystość)
+</td>
+</tr>
+<tr>
+<td><strong>Oświetlenie</strong></td>
+<td>
+• Natężenie: min. 540 lux w strefach kontroli jakości, 220 lux w produkcji<br/>
+• Lampy osłonięte plastikową osłoną (zabezpieczenie przed roztrzaskaniem)<br/>
+• Sprawność: wymiana przepalonych żarówek max. 24h
+</td>
+</tr>
+<tr>
+<td><strong>Wentylacja</strong></td>
+<td>
+• Mechaniczna (wentylatory wyciągowe) lub klimatyzacja<br/>
+• Filtry: wymiana co 3-6 miesięcy<br/>
+• Czyszczenie kratek: 1x w miesiącu<br/>
+• Zapobieganie kondensacji (para → krople na suficie → kapanie do produktów!)
+</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">3. PROGRAM KONSERWACJI POMIESZCZEŃ</h2>
+
+<h3 style="background-color:#9b59b6; color:white; padding:10px;">Przeglądy planowane</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#34495e; color:white;">
+<th style="width:25%;">Czynność</th>
+<th style="width:25%;">Częstotliwość</th>
+<th style="width:25%;">Odpowiedzialny</th>
+<th style="width:25%;">Rejestr</th>
+</tr>
+<tr>
+<td>Inspekcja wizualna pomieszczeń</td>
+<td>Codziennie</td>
+<td>Kierownik Produkcji</td>
+<td>Lista kontrolna dzienna</td>
+</tr>
+<tr>
+<td>Kontrola posadzki (pęknięcia, ubytki)</td>
+<td>1x w tygodniu</td>
+<td>Kierownik Techniczny</td>
+<td>R-09</td>
+</tr>
+<tr>
+<td>Kontrola ścian (uszkodzenia, wilgoć)</td>
+<td>1x w miesiącu</td>
+<td>Kierownik Techniczny</td>
+<td>R-09</td>
+</tr>
+<tr>
+<td>Przegląd lamp oświetleniowych</td>
+<td>1x w miesiącu</td>
+<td>Elektryk</td>
+<td>R-09</td>
+</tr>
+<tr>
+<td>Kontrola drzwi i okien (szczelność)</td>
+<td>1x w kwartale</td>
+<td>Kierownik Techniczny</td>
+<td>R-09</td>
+</tr>
+<tr>
+<td>Czyszczenie wentylacji i filtrów</td>
+<td>1x w kwartale</td>
+<td>Firma zewnętrzna lub własna</td>
+<td>Protokół + R-09</td>
+</tr>
+<tr>
+<td>Malowanie ścian (odświeżenie)</td>
+<td>1x w roku</td>
+<td>Ekipa budowlana</td>
+<td>Protokół</td>
+</tr>
+</table>
+
+<h3 style="background-color:#e74c3c; color:white; padding:10px;">Naprawy awaryjne</h3>
+
+<p style="margin-left:20px;"><strong>Procedura zgłaszania:</strong></p>
+<ol style="line-height:1.8; margin-left:40px;">
+<li>Pracownik zauważa uszkodzenie → natychmiastowe zgłoszenie do Kierownika Produkcji</li>
+<li>Kierownik Produkcji ocenia pilność:<br/>
+   • <strong>PILNE</strong> (ryzyko zanieczyszczenia produktów) → naprawa tego samego dnia<br/>
+   • <strong>NORMALNE</strong> → naprawa w ciągu 7 dni
+</li>
+<li>Zlecenie naprawy (wewnętrzna ekipa lub firma zewnętrzna)</li>
+<li>Po naprawie: mycie i dezynfekcja obszaru (GHP-01)</li>
+<li>Wpis do rejestru R-09</li>
+</ol>
+
+<p style="margin-left:20px;"><strong>Przykłady napraw pilnych:</strong></p>
+<ul style="line-height:1.8; margin-left:40px;">
+<li>🔴 Pęknięta płytka na posadzce (ryzyko fizyczne - szkło)</li>
+<li>🔴 Dziura w ścianie/suficie (wejście szkodników)</li>
+<li>🔴 Uszkodzona siatka w oknie (owady)</li>
+<li>🔴 Przeciek wody z sufitu (kapanie do produktów)</li>
+<li>🔴 Rozbita lampa (szkło w produktach!)</li>
+</ul>
+
+<h2 style="color:#2c3e50;">4. WYMAGANIA DOTYCZĄCE SPRZĘTU I URZĄDZEŃ</h2>
+
+<h3 style="color:#34495e;">Sprzęt kontaktujący się z żywnością:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#3498db; color:white;">
+<th style="width:30%;">Wymaganie</th>
+<th style="width:70%;">Opis</th>
+</tr>
+<tr>
+<td><strong>Materiał</strong></td>
+<td>
+Stal nierdzewna (AISI 304 lub 316) - dopuszczona do kontaktu z żywnością<br/>
+❌ ZAKAZ: drewno (chyba że do wędzenia), materiały porowate (trudne do mycia)
+</td>
+</tr>
+<tr>
+<td><strong>Konstrukcja</strong></td>
+<td>
+• Bez ostrych krawędzi (ryzyko skaleczenia + trudne do mycia)<br/>
+• Zaokrąglone narożniki<br/>
+• Bez "martwych stref" (gdzie gromadzi się brud)
+</td>
+</tr>
+<tr>
+<td><strong>Stan</strong></td>
+<td>
+• Bez rdzy, uszkodzeń mechanicznych<br/>
+• Bez odprysków farby/emalii<br/>
+• Części ruchome sprawne (łożyska, napędy)
+</td>
+</tr>
+<tr>
+<td><strong>Czyszczenie</strong></td>
+<td>
+• Możliwość demontażu (do dokładnego mycia)<br/>
+• Dostęp do wszystkich elementów<br/>
+• Procedura mycia zgodna z GHP-01
+</td>
+</tr>
+</table>
+
+<h3 style="background-color:#27ae60; color:white; padding:10px;">Program konserwacji sprzętu</h3>
+
+<p style="margin-left:20px;"><strong>Urządzenia produkcyjne (przykłady):</strong></p>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#34495e; color:white;">
+<th style="width:25%;">Urządzenie</th>
+<th style="width:25%;">Czynność</th>
+<th style="width:20%;">Częstotliwość</th>
+<th style="width:30%;">Wykonawca</th>
+</tr>
+<tr>
+<td>Maszynka do mielenia mięsa</td>
+<td>
+• Mycie + dezynfekcja<br/>
+• Ostrzenie noży<br/>
+• Wymiana łożysk
+</td>
+<td>
+• Codziennie<br/>
+• Co 3 miesiące<br/>
+• Co 12 miesięcy
+</td>
+<td>
+• Operator<br/>
+• Serwis<br/>
+• Serwis
+</td>
+</tr>
+<tr>
+<td>Kuter (rozdrabniacz)</td>
+<td>
+• Mycie + dezynfekcja<br/>
+• Ostrzenie noży<br/>
+• Kontrola silnika
+</td>
+<td>
+• Codziennie<br/>
+• Co 6 miesięcy<br/>
+• Co 12 miesięcy
+</td>
+<td>
+• Operator<br/>
+• Serwis<br/>
+• Serwis
+</td>
+</tr>
+<tr>
+<td>Komora chłodnicza</td>
+<td>
+• Kontrola temperatury<br/>
+• Rozmrażanie<br/>
+• Przegląd agregatu
+</td>
+<td>
+• 2x dziennie<br/>
+• Co 3 miesiące<br/>
+• Co 12 miesięcy
+</td>
+<td>
+• Kierownik Produkcji<br/>
+• Pracownik techniczny<br/>
+• Serwis chłodniczy
+</td>
+</tr>
+<tr>
+<td>Waga</td>
+<td>
+• Czyszczenie<br/>
+• Kalibracja<br/>
+• Legalizacja
+</td>
+<td>
+• Codziennie<br/>
+• Co 6 miesięcy<br/>
+• Co 24 miesiące
+</td>
+<td>
+• Operator<br/>
+• Serwis<br/>
+• Urząd Miar
+</td>
+</tr>
+</table>
+
+<p style="margin-left:20px;"><strong>Dokumentacja konserwacji:</strong></p>
+<ul style="line-height:1.8; margin-left:40px;">
+<li>📄 Karta urządzenia (dla każdej maszyny):<br/>
+  • Nazwa, producent, nr seryjny<br/>
+  • Data zakupu, gwarancja<br/>
+  • Historia napraw i przeglądów<br/>
+  • Instrukcja obsługi i mycia
+</li>
+<li>📄 Plan konserwacji roczny (harmonogram przeglądów)</li>
+<li>📄 Protokoły serwisowe (firma zewnętrzna)</li>
+<li>📄 Rejestr R-09 - Utrzymanie pomieszczeń i sprzętu</li>
+</ul>
+
+<h2 style="color:#2c3e50;">5. URZĄDZENIA KONTROLNO-POMIAROWE</h2>
+
+<h3 style="color:#34495e;">Termometry:</h3>
+<ul style="line-height:1.8;">
+<li>🌡️ <strong>Typy używane:</strong><br/>
+  - Termometry wbijane (kontrola temp. wewnętrznej mięsa)<br/>
+  - Termometry naścienne/wiszące (komory chłodnicze)<br/>
+  - Rejestratory temp. z zapisem (backup elektroniczny)
+</li>
+<li>🌡️ <strong>Kalibracja:</strong><br/>
+  - Częstotliwość: <strong>Co 12 miesięcy</strong><br/>
+  - Metoda: Punkt lodowy (0°C) + punkt wrzenia (100°C)<br/>
+  - Tolerancja: ±1°C<br/>
+  - Wykonanie: Laboratorium akredytowane lub metoda wewnętrzna (z protokołem)
+</li>
+<li>🌡️ <strong>Postępowanie przy błędzie:</strong><br/>
+  - Błąd &gt;1°C → wycofanie z użycia<br/>
+  - Naprawa lub zakup nowego<br/>
+  - Sprawdzenie pomiarów z ostatniego miesiąca (czy były błędne?)
+</li>
+</ul>
+
+<h3 style="color:#34495e;">Wagi:</h3>
+<ul style="line-height:1.8;">
+<li>⚖️ <strong>Kalibracja:</strong> Co 6 miesięcy (odważniki wzorcowe)<br/>
+  Tolerancja: ±0.5% dla wag &gt;10 kg, ±1 g dla wag precyzyjnych
+</li>
+<li>⚖️ <strong>Legalizacja:</strong> Co 24 miesiące (Urząd Miar) - obowiązek prawny dla wag handlowych!</li>
+</ul>
+
+<h2 style="color:#2c3e50;">6. LISTA KONTROLNA - CODZIENNY PRZEGLĄD POMIESZCZEŃ</h2>
+
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0; font-size:14px;">
+<tr style="background-color:#2c3e50; color:white;">
+<th style="width:5%;">✓</th>
+<th style="width:50%;">Pytanie kontrolne</th>
+<th style="width:20%;">TAK / NIE</th>
+<th style="width:25%;">Uwagi</th>
+</tr>
+<tr><td>1</td><td>Czy posadzka jest czysta, sucha, bez uszkodzeń?</td><td>☐ TAK ☐ NIE</td><td></td></tr>
+<tr><td>2</td><td>Czy ściany są czyste, bez wilgoci, pleśni?</td><td>☐ TAK ☐ NIE</td><td></td></tr>
+<tr><td>3</td><td>Czy sufity są czyste, bez kondensacji, pajęczyn?</td><td>☐ TAK ☐ NIE</td><td></td></tr>
+<tr><td>4</td><td>Czy wszystkie lampy świecą prawidłowo?</td><td>☐ TAK ☐ NIE</td><td></td></tr>
+<tr><td>5</td><td>Czy drzwi zamykają się szczelnie?</td><td>☐ TAK ☐ NIE</td><td></td></tr>
+<tr><td>6</td><td>Czy siatki w oknach są nieuszkodzone?</td><td>☐ TAK ☐ NIE</td><td></td></tr>
+<tr><td>7</td><td>Czy wentylacja działa prawidłowo?</td><td>☐ TAK ☐ NIE</td><td></td></tr>
+<tr><td>8</td><td>Czy temperatura w komorach chłodniczych jest prawidłowa?</td><td>☐ TAK ☐ NIE</td><td></td></tr>
+<tr><td>9</td><td>Czy sprzęt produkcyjny jest sprawny?</td><td>☐ TAK ☐ NIE</td><td></td></tr>
+<tr><td>10</td><td>Czy zauważono jakiekolwiek ślady szkodników?</td><td>☐ TAK ☐ NIE</td><td></td></tr>
+</table>
+
+<p style="margin-left:20px;">
+<strong>Data:</strong> _____________ | <strong>Kierownik Produkcji:</strong> ______________________ | <strong>Podpis:</strong> ____________
+</p>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid #ffc107; margin:20px 0;">
+<strong>⚠️ W razie odpowiedzi "NIE" na którekolwiek pytanie:</strong><br/>
+• Natychmiastowe zgłoszenie do Kierownika Technicznego<br/>
+• Ocena pilności naprawy (pilna / normalna)<br/>
+• Zlecenie naprawy + termin realizacji<br/>
+• Wpis do rejestru R-09
+</div>
+
+<h2 style="color:#2c3e50;">7. DOKUMENTY POWIĄZANE</h2>
+
+<ul style="line-height:1.8;">
+<li>📄 <strong>R-09</strong> - Rejestr utrzymania pomieszczeń i sprzętu</li>
+<li>📄 <strong>GHP-01</strong> - Mycie i dezynfekcja (po naprawach)</li>
+<li>📄 <strong>GHP-05</strong> - Kontrola DDD (uszczelnienia budynku)</li>
+<li>📄 <strong>Karty urządzeń</strong> - dla każdej maszyny</li>
+<li>📄 <strong>Instrukcje obsługi i konserwacji</strong> - segregator "Urządzenia"</li>
+<li>📄 <strong>Protokoły kalibracji</strong> - termometry, wagi</li>
+</ul>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ ZATWIERDZENIE:</strong><br/>
+Kierownik ds. Jakości: __________ | Kierownik Produkcji: __________ | Prezes: __________
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- GHP-07: Zasady przyjmowania gości i serwisów -->
+<note>
+<title>GHP-07 Zasady przyjmowania gości i serwisów</title>
+<created>20251203T100000Z</created>
+<updated>20251203T100000Z</updated>
+<tag>01_GHP</tag>
+<tag>Warunki_Wstępne</tag>
+<tag>Zakład_Mięsny</tag>
+<tag>✅_Zatwierdzone</tag>
+<note-attributes>
+<author>INOVIT e-Segregator</author>
+</note-attributes>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+<h1 style="color:#2c3e50; border-bottom:3px solid #16a085; padding-bottom:10px;">
+GHP-07: Zasady przyjmowania gości i serwisów
+</h1>
+<div style="background-color:#e8f4f8; padding:15px; border-left:4px solid #16a085; margin:20px 0;">
+<strong>Status:</strong> ✅ Zatwierdzone | <strong>Wersja:</strong> 1.0 | <strong>Data:</strong> 2025-12-03
+</div>
+
+<h2 style="color:#2c3e50;">1. CEL PROCEDURY</h2>
+<p style="line-height:1.6;">
+Zapewnienie, że osoby niebędące pracownikami zakładu (goście, przedstawiciele firm, serwisanci, kontrolerzy) nie stanowią zagrożenia dla bezpieczeństwa żywności i przestrzegają zasad higieny podczas przebywania w zakładzie.
+</p>
+
+<h2 style="color:#2c3e50;">2. KATEGORIE OSÓB WCHODZĄCYCH DO ZAKŁADU</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#16a085; color:white;">
+<th style="width:25%;">Kategoria</th>
+<th style="width:35%;">Przykłady</th>
+<th style="width:20%;">Dostęp</th>
+<th style="width:20%;">Wymagania</th>
+</tr>
+<tr>
+<td><strong>Kontrolerzy urzędowi</strong></td>
+<td>Inspektor WIW W, Sanepid, Urząd Skarbowy</td>
+<td>Pełny (zgodnie z uprawnieniami)</td>
+<td>Legitymacja służbowa + instruktaż</td>
+</tr>
+<tr>
+<td><strong>Audytorzy certyfikujący</strong></td>
+<td>Audytor IFS, BRC, ISO 22000</td>
+<td>Pełny (w obecności Kierownika ds. Jakości)</td>
+<td>Zaplanowana wizyta + instruktaż</td>
+</tr>
+<tr>
+<td><strong>Klienci/Kontrahenci</strong></td>
+<td>Przedstawiciele sieci handlowych, kupcy</td>
+<td>Strefy produkcji (za zgodą)</td>
+<td>Zgoda Kierownika Produkcji + instruktaż + odzież ochronna</td>
+</tr>
+<tr>
+<td><strong>Serwisanci</strong></td>
+<td>Naprawy maszyn, chłodnictwo, elektryk</td>
+<td>Tylko obszar naprawy</td>
+<td>Zlecenie + instruktaż + odzież ochronna + nadzór</td>
+</tr>
+<tr>
+<td><strong>Dostawcy</strong></td>
+<td>Kierowcy dostarczający surowce</td>
+<td>Tylko rampa załadunkowa</td>
+<td>Zakaz wejścia do produkcji (przekazanie towaru na rampie)</td>
+</tr>
+<tr>
+<td><strong>Goście okolicznościowi</strong></td>
+<td>Dziennikarze, studenci (wycieczki)</td>
+<td>Tylko strefy pokazu (za zgodą Prezesa)</td>
+<td>Zaplanowana wizyta + instruktaż grupowy + odzież jednorazowa</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">3. PROCEDURA PRZYJMOWANIA GOŚCI</h2>
+
+<h3 style="background-color:#16a085; color:white; padding:10px;">KROK 1: Rejestracja przy wejściu</h3>
+
+<p style="margin-left:20px;"><strong>Księga wejść (rejestr gości):</strong></p>
+<ul style="line-height:1.8; margin-left:40px;">
+<li>📋 Prowadzona w recepcji/portierni</li>
+<li>📋 Dane do wpisania:<br/>
+  • Data i godzina wejścia<br/>
+  • Imię i nazwisko<br/>
+  • Firma/Instytucja<br/>
+  • Cel wizyty<br/>
+  • Obszar, do którego wchodzi (biuro / produkcja / magazyn)<br/>
+  • Osoba upoważniająca wejście (Kierownik Produkcji / Prezes)<br/>
+  • Godzina wyjścia (uzupełnić przy wyjściu)<br/>
+  • Podpis gościa
+</li>
+<li>📋 Przechowywanie: 2 lata (wymóg audytów)</li>
+</ul>
+
+<h3 style="background-color:#16a085; color:white; padding:10px;">KROK 2: Ocena stanu zdrowia (wywiad)</h3>
+
+<p style="margin-left:20px;"><strong>Pytania przed wejściem do strefy produkcji:</strong></p>
+<ol style="line-height:1.8; margin-left:40px;">
+<li>Czy w ciągu ostatnich 48 godzin miał/a Pan/i biegunkę lub wymioty? ☐ NIE ☐ TAK</li>
+<li>Czy ma Pan/i otwarte rany, skaleczenia, infekcję skóry? ☐ NIE ☐ TAK</li>
+<li>Czy obecnie jest Pan/i przeziębiony/a (katar, kaszel)? ☐ NIE ☐ TAK</li>
+</ol>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>⚠️ JEŚLI ODPOWIEDŹ "TAK" NA KTÓREKOLWIEK PYTANIE:</strong><br/>
+❌ Zakaz wejścia do strefy produkcji!<br/>
+• Wizyta może odbyć się w biurze (bez kontaktu z żywnością)<br/>
+• W przypadku kontroli urzędowej: poinformować kontrolera o ryzyku i zapewnić alternatywne rozwiązanie (np. wgląd w dokumenty w biurze)
+</div>
+
+<h3 style="background-color:#16a085; color:white; padding:10px;">KROK 3: Instruktaż przed wejściem</h3>
+
+<p style="margin-left:20px;"><strong>Zakres instruktażu (10 minut):</strong></p>
+
+<ol style="line-height:1.8; margin-left:40px;">
+<li><strong>Zasady higieny:</strong><br/>
+   • Mycie i dezynfekcja rąk (7 kroków WHO - pokazać plakat)<br/>
+   • Zakaz jedzenia, picia, palenia w produkcji<br/>
+   • Zakaz dotykania produktów bez zgody<br/>
+   • Nie dotykać twarzy, włosów
+</li>
+<li><strong>Odzież ochronna:</strong><br/>
+   • Założenie fartucha, czepka, nakładek na buty (jednorazowe)<br/>
+   • Zdję cie biżuterii, zegarka (zostawić w recepcji)<br/>
+   • Schowanie telefonu komórkowego (nie wnosić do produkcji!)
+</li>
+<li><strong>Zasady poruszania się:</strong><br/>
+   • Poruszać się tylko w wyznaczonych obszarach<br/>
+   • Nie blokować przejść, nie dotykać maszyn<br/>
+   • W razie pytań → zwrócić się do przewodnika (Kierownik Produkcji)
+</li>
+<li><strong>Bezpieczeństwo:</strong><br/>
+   • Wyjścia ewakuacyjne (wskazać na planie)<br/>
+   • Zachowanie ostrożności przy maszynach (nie podchodzić!)<br/>
+   • Zgłaszanie wypadków natychmiast
+</li>
+</ol>
+
+<p style="margin-left:20px;"><strong>Potwierdzenie instruktażu:</strong></p>
+<ul style="line-height:1.8; margin-left:40px;">
+<li>✅ Gość podpisuje "Oświadczenie gościa" (wzór - załącznik 1)</li>
+<li>✅ Kopia oświadczenia do akt (segregator "Goście")</li>
+</ul>
+
+<h3 style="background-color:#16a085; color:white; padding:10px;">KROK 4: Wyposażenie w odzież ochronną</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#34495e; color:white;">
+<th style="width:30%;">Element</th>
+<th style="width:70%;">Opis</th>
+</tr>
+<tr>
+<td>Fartuch/kitel jednorazowy</td>
+<td>Biały, papierowy lub włókninowy (PP), rozmiar uniwersalny</td>
+</tr>
+<tr>
+<td>Czepek jednorazowy</td>
+<td>Schowanie WSZYSTKICH włosów!</td>
+</tr>
+<tr>
+<td>Nakładki na buty jednorazowe</td>
+<td>Niebieskie, antypoślizgowe (zabezpieczenie przed poślizgiem)</td>
+</tr>
+<tr>
+<td>Rękawice nitrylowe (opcjonalnie)</td>
+<td>Jeśli gość będzie dotykał produktów (np. degustacja)</td>
+</tr>
+</table>
+
+<p style="margin-left:20px;"><strong>Po wizycie:</strong> Odzież jednorazowa do kosza na odpady (nie używać ponownie!)</p>
+
+<h3 style="background-color:#16a085; color:white; padding:10px;">KROK 5: Nadzór podczas wizyty</h3>
+
+<ul style="line-height:1.8;">
+<li>👤 <strong>Przewodnik:</strong> Kierownik Produkcji lub Kierownik ds. Jakości (nie zostawiać gości bez opieki!)</li>
+<li>👤 <strong>Trasa wizyty:</strong> Zaplanowana (unikać strefy CCP, jeśli nie jest konieczna)</li>
+<li>👤 <strong>Czas trwania:</strong> Maksymalnie skrócony (im krócej, tym mniejsze ryzyko)</li>
+<li>👤 <strong>Kontrola zachowania:</strong> Przewodnik obserwuje czy gość przestrzega zasad (nie dotyka, nie je, itp.)</li>
+</ul>
+
+<h2 style="color:#2c3e50;">4. PROCEDURA DLA SERWISANTÓW</h2>
+
+<h3 style="color:#34495e;">Zasady specyficzne dla prac serwisowych:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#e67e22; color:white;">
+<th style="width:40%;">Wymaganie</th>
+<th style="width:60%;">Opis</th>
+</tr>
+<tr>
+<td><strong>Zlecenie serwisowe</strong></td>
+<td>
+• Zlecenie pisemne (e-mail lub formularz)<br/>
+• Zakres prac jasno określony<br/>
+• Termin wykonania (najlepiej poza godzinami produkcji!)
+</td>
+</tr>
+<tr>
+<td><strong>Narzędzia i materiały</strong></td>
+<td>
+• Własne narzędzia serwisanta (czyste!)<br/>
+• Części zamienne w oryginalnych opakowaniach<br/>
+• ❌ Zakaz wnoszenia jedzenia, picia, papierosów
+</td>
+</tr>
+<tr>
+<td><strong>Zabezpieczenie strefy pracy</strong></td>
+<td>
+• Odizolowanie obszaru naprawy (folie ochronne, jeśli prace brudne)<br/>
+• Zabezpieczenie produktów w pobliżu (przykrycie lub przeniesienie)<br/>
+• Wyłączenie urządzenia z produkcji (oznaczenie: "W NAPRAWIE - NIE UŻYWAĆ!")
+</td>
+</tr>
+<tr>
+<td><strong>Nadzór</strong></td>
+<td>
+• Kierownik Techniczny lub osoba wyznaczona obecna podczas prac<br/>
+• Kontrola jakości naprawy przed oddaniem urządzenia do użytku
+</td>
+</tr>
+<tr>
+<td><strong>Po zakończeniu prac</strong></td>
+<td>
+• Uprzątnięcie miejsca pracy (wywiezienie śmieci, odpadów)<br/>
+• Mycie i dezynfekcja urządzenia i strefy (GHP-01)<br/>
+• Protokół odbioru naprawy (podpis Kierownika Technicznego)<br/>
+• Test urządzenia (próba pracy) przed wznowieniem produkcji
+</td>
+</tr>
+</table>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid #ffc107; margin:20px 0;">
+<strong>💡 WSKAZÓWKA:</strong> Naprawy planowe (przeglądy, konserwacje) wykonywać:<br/>
+• W weekendy lub po godzinach (brak produkcji)<br/>
+• W okresie przestojów planowanych (np. przerwa świąteczna)<br/><br/>
+<strong>Zaleta:</strong> Brak ryzyka zanieczyszczenia produktów + swoboda pracy dla serwisanta.
+</div>
+
+<h2 style="color:#2c3e50;">5. SPECJALNE KATEGORIE WIZYT</h2>
+
+<h3 style="color:#34495e;">Kontrole urzędowe (WIW W, Sanepid):</h3>
+<ul style="line-height:1.8;">
+<li>🏛️ <strong>Prawo wstępu:</strong> Kontrolerzy mają prawo wejść bez uprzedzenia (zgodnie z ustawą)</li>
+<li>🏛️ <strong>Procedura:</strong><br/>
+  - Sprawdzenie legitymacji służbowej<br/>
+  - Natychmiastowe powiadomienie Kierownika ds. Jakości lub Prezesa<br/>
+  - Instruktaż skrócony (oferujemy odzież ochronną)<br/>
+  - Pełna współpraca (udostępnienie dokumentów, próbek)<br/>
+  - Protokół kontroli - podpisanie z uwagami (jeśli są zastrzeżenia)
+</li>
+<li>🏛️ <strong>Dokumentacja:</strong> Kopia protokołu kontroli → segregator "Kontrole urzędowe" (przechowywać 5 lat)</li>
+</ul>
+
+<h3 style="color:#34495e;">Audyty certyfikujące (IFS, BRC):</h3>
+<ul style="line-height:1.8;">
+<li>📜 <strong>Planowanie:</strong> Wizyta zaplanowana (data ustalona miesiąc wcześniej)</li>
+<li>📜 <strong>Przygotowanie:</strong><br/>
+  - Przegotowanie dokumentacji (księga HACCP, rejestry, protokoły)<br/>
+  - Briefing zespołu (wszyscy pracownicy poinformowani o audycie)<br/>
+  - Przygotowanie sali konferencyjnej (spotkanie otwierające/zamykające)
+</li>
+<li>📜 <strong>Przebieg:</strong> Audytor ma pełny dostęp (produkcja, magazyny, dokumenty)</li>
+<li>📜 <strong>Raport:</strong> Niezgodności → plan działań naprawczych (termin 30 dni)</li>
+</ul>
+
+<h2 style="color:#2c3e50;">6. WZÓR - OŚWIADCZENIE GOŚCIA</h2>
+
+<div style="border:2px solid #2c3e50; padding:20px; margin:20px 0; background-color:#f9f9f9;">
+<h3 style="text-align:center;">OŚWIADCZENIE GOŚCIA</h3>
+
+<p style="line-height:1.8;">
+Ja, niżej podpisany/a:<br/>
+<strong>Imię i nazwisko:</strong> _______________________________________<br/>
+<strong>Firma/Instytucja:</strong> _______________________________________<br/>
+<strong>Data wizyty:</strong> _______________________________________<br/><br/>
+
+<strong>OŚWIADCZAM, ŻE:</strong>
+</p>
+
+<ol style="line-height:1.8;">
+<li>☐ Nie mam w ciągu ostatnich 48h biegunki ani wymiotów</li>
+<li>☐ Nie mam otwartych ran, infekcji skóry, kataru, kaszlu</li>
+<li>☐ Zostałem/am poinformowany/a o zasadach higieny i bezpieczeństwa</li>
+<li>☐ Zobowiązuję się do przestrzegania tych zasad podczas wizyty</li>
+<li>☐ Rozumiem, że naruszenie zasad może skutkować natychmiastowym wyproszeniem z zakładu</li>
+</ol>
+
+<p style="margin-top:30px;">
+_______________________ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _______________________<br/>
+(podpis gościa) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (podpis osoby upoważniającej)
+</p>
+</div>
+
+<h2 style="color:#2c3e50;">7. DOKUMENTY POWIĄZANE</h2>
+
+<ul style="line-height:1.8;">
+<li>📄 <strong>Księga wejść</strong> (rejestr gości) - recepcja/portiernia</li>
+<li>📄 <strong>Oświadczenia gości</strong> - segregator "Goście" (2 lata)</li>
+<li>📄 <strong>GHP-02</strong> - Higiena osobista (zasady mycia rąk dla gości)</li>
+<li>📄 <strong>GHP-06</strong> - Utrzymanie sprzętu (protokoły serwisowe)</li>
+<li>📄 <strong>Instrukcja dla gości</strong> - plakat na ścianie w śluzie (załącznik 2)</li>
+</ul>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ ZATWIERDZENIE:</strong><br/>
+Kierownik ds. Jakości: __________ | Kierownik Produkcji: __________ | Prezes: __________
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- GHP-08: Postępowanie w razie awarii -->
+<note>
+<title>GHP-08 Postępowanie w razie awarii</title>
+<created>20251203T100000Z</created>
+<updated>20251203T100000Z</updated>
+<tag>01_GHP</tag>
+<tag>Warunki_Wstępne</tag>
+<tag>Zakład_Mięsny</tag>
+<tag>✅_Zatwierdzone</tag>
+<note-attributes>
+<author>INOVIT e-Segregator</author>
+</note-attributes>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+<h1 style="color:#2c3e50; border-bottom:3px solid #c0392b; padding-bottom:10px;">
+GHP-08: Postępowanie w razie awarii
+</h1>
+<div style="background-color:#e8f4f8; padding:15px; border-left:4px solid #c0392b; margin:20px 0;">
+<strong>Status:</strong> ✅ Zatwierdzone | <strong>Wersja:</strong> 1.0 | <strong>Data:</strong> 2025-12-03
+</div>
+
+<h2 style="color:#2c3e50;">1. CEL PROCEDURY</h2>
+<p style="line-height:1.6;">
+Określenie działań w sytuacjach awaryjnych (awaria chłodnictwa, prądu, wody, pożar, powódź), aby zminimalizować ryzyko dla bezpieczeństwa żywności i zapewnić ciągłość działania zakładu.
+</p>
+
+<h2 style="color:#2c3e50;">2. RODZAJE AWARII I ICH KLASYFIKACJA</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#c0392b; color:white;">
+<th style="width:25%;">Rodzaj awarii</th>
+<th style="width:25%;">Poziom ryzyka</th>
+<th style="width:25%;">Wpływ na produkcję</th>
+<th style="width:25%;">Czas reakcji</th>
+</tr>
+<tr>
+<td><strong>Awaria chłodnictwa</strong></td>
+<td>🔴 KRYTYCZNY</td>
+<td>STOP (jeśli &gt;6°C w komorze surowców)</td>
+<td>NATYCHMIAST</td>
+</tr>
+<tr>
+<td><strong>Brak prądu</strong></td>
+<td>🔴 KRYTYCZNY</td>
+<td>STOP (brak chłodnictwa + maszyn)</td>
+<td>NATYCHMIAST</td>
+</tr>
+<tr>
+<td><strong>Brak wody</strong></td>
+<td>🟠 WYSOKI</td>
+<td>STOP (brak mycia, dezynfekcji)</td>
+<td>Do 2 godzin</td>
+</tr>
+<tr>
+<td><strong>Awaria maszyny produkcyjnej</strong></td>
+<td>🟡 ŚREDNI</td>
+<td>Częściowe ograniczenie</td>
+<td>Do 24 godzin</td>
+</tr>
+<tr>
+<td><strong>Pożar</strong></td>
+<td>🔴 KRYTYCZNY</td>
+<td>EWAKUACJA + STOP</td>
+<td>NATYCHMIAST (112)</td>
+</tr>
+<tr>
+<td><strong>Powódź/zalanie</strong></td>
+<td>🟠 WYSOKI</td>
+<td>STOP (w zależności od skali)</td>
+<td>NATYCHMIAST</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">3. PROCEDURY AWARYJNE</h2>
+
+<h3 style="background-color:#c0392b; color:white; padding:10px;">AWARIA 1: CHŁODNICTWO (komora surowców/produktów)</h3>
+
+<p style="margin-left:20px;"><strong>Objawy:</strong></p>
+<ul style="line-height:1.8; margin-left:40px;">
+<li>Wzrost temperatury &gt; +4°C (komora surowców) lub &gt; +6°C (komora produktów gotowych)</li>
+<li>Alarm termostatu (dźwięk + lampa ostrzegawcza)</li>
+<li>Agregat nie pracuje (brak szumu, wentylator stoi)</li>
+</ul>
+
+<p style="margin-left:20px;"><strong>Działania natychmiastowe:</strong></p>
+<ol style="line-height:1.8; margin-left:40px;">
+<li><strong>POWIADOMIENIE</strong> (w ciągu 5 minut!):<br/>
+   • Kierownik Produkcji<br/>
+   • Kierownik Techniczny<br/>
+   • Serwis chłodniczy (tel. awaryjny 24/7)
+</li>
+<li><strong>ZABEZPIECZENIE PRODUKTÓW</strong>:<br/>
+   • Zmierzyć temperaturę wewnętrzną produktów (termometr wbijany)<br/>
+   • Jeśli temp. produktu &lt; +7°C → przełożyć do sprawnej komory (jeśli jest)<br/>
+   • Jeśli temp. produktu &gt; +7°C:<br/>
+     - Produkty surowe (mięso) → natychmiastowa obróbka termiczna (gotowanie) lub wycofanie<br/>
+     - Produkty gotowe → wycofanie (nie nadają się do spożycia!)
+</li>
+<li><strong>DOKUMENTACJA</strong>:<br/>
+   • Wpis do rejestru R-10 (Rejestr awarii i działań korygujących):<br/>
+     - Godzina wykrycia<br/>
+     - Temperatura w komorze (maksymalna osiągnięta)<br/>
+     - Temperatura produktów<br/>
+     - Ilość produktów dotkniętych awarią<br/>
+     - Działania podjęte (przeniesienie / obróbka / wycofanie)<br/>
+   • Zdjęcia (wskazania termometru)
+</li>
+<li><strong>NAPRAWA</strong>:<br/>
+   • Serwis chłodniczy → diagnoza (wyc iek freonu? awaria kompresora?)<br/>
+   • Naprawa lub wymiana agregatu<br/>
+   • Test sprawności (obniżenie temp. do normy w ciągu 2h)
+</li>
+<li><strong>WERYFIKACJA</strong>:<br/>
+   • Kontrola temperatury co 30 min przez 6 godzin (stabilność)<br/>
+   • Wpis do R-02 (Rejestr temperatur) - oznaczenie "PO AWARII"<br/>
+   • Raport dla Kierownika ds. Jakości
+</li>
+</ol>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid #ffc107; margin:20px 0;">
+<strong>💡 PLAN B - jeśli serwis nie przyjedzie w 2h:</strong><br/>
+• Wynajęcie kontenera chłodniczego (firma zewnętrzna - kontakt w wykazie)<br/>
+• Przeniesienie produktów do kontenera<br/>
+• Koszt ~500-1000 zł/dobę (ale produkty uratowane!)
+</div>
+
+<h3 style="background-color:#c0392b; color:white; padding:10px;">AWARIA 2: BRAK PRĄDU</h3>
+
+<p style="margin-left:20px;"><strong>Działania natychmiastowe:</strong></p>
+<ol style="line-height:1.8; margin-left:40px;">
+<li><strong>WERYFIKACJA PRZYCZYNY:</strong><br/>
+   • Sprawdzić bezpieczniki główne (wyłącznik na tablicy)<br/>
+   • Jeśli wyłącznik w pozycji "WYŁ" → włączyć ponownie<br/>
+   • Jeśli ponownie wyłącza → awaria instalacji (elektryk!)
+</li>
+<li><strong>KONTAKT Z ZAKŁADEM ENERGETYCZNYM:</strong><br/>
+   • Tel: __________ (numer awaryjny 24/7)<br/>
+   • Zapytać o czas przywrócenia zasilania
+</li>
+<li><strong>ZABEZPIECZENIE CHŁODNICTWA:</strong><br/>
+   • NIE otwierać komór chłodniczych! (utrzymają temp. ~4-6h przy zamkniętych drzwiach)<br/>
+   • Jeśli przerwa &gt;2h → włączyć agregat prądotwórczy (jeśli posiadamy) lub wynająć
+</li>
+<li><strong>WSTRZYMANIE PRODUKCJI:</strong><br/>
+   • Wyłączyć wszystkie maszyny (zabezpieczenie przed skokiem napięcia po powrocie prądu)<br/>
+   • Zabezpieczyć produkty w toku (przykryć, schłodzić lodem)
+</li>
+<li><strong>PO PRZYWRÓCENIU ZASILANIA:</strong><br/>
+   • Włączyć agregaty chłodnicze (priorytet!)<br/>
+   • Sprawdzić temperatury w komorach (R-02)<br/>
+   • Powolne włączanie maszyn (jedna po drugiej - unikać przeciążenia sieci)<br/>
+   • Kontrola jakości produktów (jeśli temp. wzrosła → ocena przydatności)
+</li>
+</ol>
+
+<h3 style="background-color:#c0392b; color:white; padding:10px;">AWARIA 3: BRAK WODY</h3>
+
+<p style="margin-left:20px;"><strong>Działania natychmiastowe:</strong></p>
+<ol style="line-height:1.8; margin-left:40px;">
+<li><strong>KONTAKT Z WODOCIĄGAMI:</strong><br/>
+   • Tel: __________ (awarie 24/7)<br/>
+   • Zapytać o przyczynę i czas naprawy
+</li>
+<li><strong>WSTRZYMANIE PRODUKCJI:</strong><br/>
+   • Brak wody = brak możliwości mycia rąk, sprzętu → STOP<br/>
+   • Zakończenie bieżących operacji (dokończenie partii w toku)
+</li>
+<li><strong>ZAPAS AWARYJNY:</strong><br/>
+   • Jeśli posiadamy zbiornik zapasowy → wykorzystać (tylko na mycie rąk i krytyczne mycie)<br/>
+   • Jeśli brak zbiornika → zakup wody butelkowanej (5L x 20 = 100L - wystarczy na podstawowe mycie rąk)
+</li>
+<li><strong>PO PRZYWRÓCENIU WODY:</strong><br/>
+   • ⚠️ KRYTYCZNE: Spuścić wodę przez 5 minut (w rurach mogła dostać się gleba, bakterie!)<br/>
+   • Dezynfekcja szokowa instalacji (firma zewnętrzna - GHP-04)<br/>
+   • Badanie mikrobiologiczne wody (przed wznowieniem produkcji!) - E.coli musi być 0<br/>
+   • Jeśli wynik pozytywny → wznowienie produkcji<br/>
+   • Jeśli wynik negatywny (E.coli &gt;0) → ponowna dezynfekcja + badanie
+</li>
+</ol>
+
+<h3 style="background-color:#e74c3c; color:white; padding:10px;">AWARIA 4: POŻAR 🔥</h3>
+
+<p style="margin-left:20px;"><strong>Działania NATYCHMIASTOWE:</strong></p>
+<ol style="line-height:1.8; margin-left:40px;">
+<li><strong>ALARM:</strong> Krzyknąć "POŻAR!" + uruchomić przycisk alarmowy (jeśli jest)</li>
+<li><strong>TELEFON 112:</strong> Podać adres, co się pali, czy są poszkodowani</li>
+<li><strong>EWAKUACJA:</strong><br/>
+   • Wszyscy pracownicy wychodzą wyznaczonymi drogami ewakuacyjnymi<br/>
+   • Punkt zbiórki: __________ (np. parking przed zakładem)<br/>
+   • Sprawdzenie listy obecności (czy wszyscy wyszli?)
+</li>
+<li><strong>GASZENIE</strong> (tylko małe ogniska, jeśli bezpieczne!):<br/>
+   • Gaśnica proszkowa (pożar ogólny)<br/>
+   • Gaśnica CO2 (pożar elektryczny - NIE LAĆ WODĄ!)<br/>
+   • Jeśli ogień się rozprzestrzenia → EWAKUACJA (nie ryzykować życia!)
+</li>
+<li><strong>CZEKANIE NA STRAŻ:</strong> Nie wchodzić do budynku do czasu zgody straży pożarnej</li>
+<li><strong>PO POŻARZE:</strong><br/>
+   • Ocena zniszczeń (inspektor straży + ubezpieczyciel)<br/>
+   • Mycie i dezynfekcja całego zakładu (dym, sadza, środki gaśnicze)<br/>
+   • Wycofanie produktów mających kontakt z dymem<br/>
+   • Naprawa instalacji elektrycznej (przegląd elektryka)<br/>
+   • Wznowienie produkcji po uzyskaniu zgody Sanepidu
+</li>
+</ol>
+
+<h2 style="color:#2c3e50;">4. KONTAKTY AWARYJNE</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#2c3e50; color:white;">
+<th style="width:40%;">Służba/Firma</th>
+<th style="width:60%;">Telefon (24/7)</th>
+</tr>
+<tr><td><strong>🚒 Straż Pożarna</strong></td><td><strong>998 lub 112</strong></td></tr>
+<tr><td><strong>🚑 Pogotowie Ratunkowe</strong></td><td><strong>999 lub 112</strong></td></tr>
+<tr><td><strong>👮 Policja</strong></td><td><strong>997 lub 112</strong></td></tr>
+<tr><td>Serwis chłodniczy (agregaty)</td><td>__________________________</td></tr>
+<tr><td>Elektryk (instalacje elektryczne)</td><td>__________________________</td></tr>
+<tr><td>Hydraulik (woda, kanalizacja)</td><td>__________________________</td></tr>
+<tr><td>Zakład Energetyczny (prąd - awarie)</td><td>__________________________</td></tr>
+<tr><td>Wodociągi (woda - awarie)</td><td>__________________________</td></tr>
+<tr><td>Firma dezynfekcyjna (szokowa dezynfekcja wody)</td><td>__________________________</td></tr>
+<tr><td>Wynajem kontenerów chłodniczych</td><td>__________________________</td></tr>
+<tr><td>Ubezpieczyciel (zgłoszenie szkody)</td><td>__________________________</td></tr>
+<tr><td>WIW W (zgłoszenie awarii wpływającej na bezpieczeństwo produktów)</td><td>__________________________</td></tr>
+</table>
+
+<h2 style="color:#2c3e50;">5. WYPOSAŻENIE AWARYJNE (zalecane)</h2>
+
+<ul style="line-height:1.8;">
+<li>🔦 Latarki (min. 3 szt.) + baterie zapasowe</li>
+<li>🧯 Gaśnice (min. 1 na 50 m² powierzchni) - przegląd 1x/rok</li>
+<li>🪣 Koce gaśnicze (kuchnia, obszary zagrożone)</li>
+<li>📞 Lista kontaktów awaryjnych (wydruk na ścianie w biurze + recepcji)</li>
+<li>⚡ Agregat prądotwórczy (opcjonalnie - 5-10 kW wystarczy na chłodnictwo)</li>
+<li>💧 Zbiornik wody zapasowej (1000L) z pompką (opcjonalnie)</li>
+<li>📦 Apteczka pierwszej pomocy (uzupełniana co 6 miesięcy)</li>
+<li>📋 Plan ewakuacji (na każdym korytarzu - strzałki do wyjść)</li>
+</ul>
+
+<h2 style="color:#2c3e50;">6. DOKUMENTY POWIĄZANE</h2>
+
+<ul style="line-height:1.8;">
+<li>📄 <strong>R-10</strong> - Rejestr awarii i działań korygujących</li>
+<li>📄 <strong>R-02</strong> - Rejestr temperatur (monitorowanie po awarii chłodnictwa)</li>
+<li>📄 <strong>GHP-04</strong> - Woda (dezynfekcja szokowa po awarii wody)</li>
+<li>📄 <strong>GHP-06</strong> - Utrzymanie sprzętu (konserwacje zapobiegające awariom)</li>
+<li>📄 <strong>Plan ewakuacji</strong> - (plakat na ścianie)</li>
+<li>📄 <strong>Polisa ubezpieczeniowa</strong> - (zgłoszenie szkód)</li>
+</ul>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ ZATWIERDZENIE:</strong><br/>
+Kierownik ds. Jakości: __________ | Kierownik Produkcji: __________ | Prezes: __________
+</div>
+
+<div style="text-align:center; margin-top:40px; padding:20px; background-color:#ecf0f1; border-top:3px solid #c0392b;">
+<strong>Koniec procedury GHP-08</strong><br/>
+<em>Wersja 1.0 | 2025-12-03 | e-Segregator HACCP by INOVIT</em><br/><br/>
+<strong>📘 STACK I - CZĘŚĆ 2 ZAKOŃCZONA</strong><br/>
+Procedury GHP-05 do GHP-08 ✅ Gotowe do importu do Evernote
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+</en-export>

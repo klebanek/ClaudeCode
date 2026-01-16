@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export4.dtd">
+<en-export export-date="20250104T000000Z" application="INOVIT e-Segregator HACCP" version="2.0">
+
+<!-- ================================================================== -->
+<!-- STACK V: SZKOLENIA I PERSONEL -->
+<!-- e-Segregator HACCP - Uniwersalny szablon -->
+<!-- ================================================================== -->
+
+<!-- ============================================================ -->
+<!-- NOTATNIK 12: SZKOLENIA -->
+<!-- ============================================================ -->
+
+<note>
+<title>📚 STACK V - Szkolenia i Personel - Wprowadzenie</title>
+<created>20250104T120000Z</created>
+<updated>20250104T120000Z</updated>
+<tag>05_Szkolenia</tag>
+<tag>Stack_V</tag>
+<tag>Personel</tag>
+<tag>📋_Szablon</tag>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+
+<h1 style="color:#2c3e50; border-bottom:3px solid #9b59b6; padding-bottom:10px;">
+📚 STACK V: SZKOLENIA I PERSONEL
+</h1>
+
+<div style="background-color:#f4ecf7; padding:15px; border-left:4px solid #9b59b6; margin:20px 0;">
+<strong>System:</strong> e-Segregator HACCP<br/>
+<strong>Wersja:</strong> 2.0 (uniwersalny szablon)<br/>
+<strong>Data:</strong> 04.01.2025<br/>
+<strong>Opracował:</strong> INOVIT - mgr inż. Krzysztof Klebaniuk
+</div>
+
+<h2 style="color:#2c3e50;">CEL STACK V</h2>
+<p style="line-height:1.6;">
+Stack V zawiera <b>kompletny system szkoleniowy</b> dla pracowników zakładu spożywczego, obejmujący programy szkoleń, materiały dydaktyczne, testy wiedzy oraz dokumentację personalną zgodną z wymaganiami systemu HACCP i przepisami sanitarno-epidemiologicznymi.
+</p>
+
+<h2 style="color:#2c3e50;">ZAWARTOŚĆ STACK V</h2>
+
+<h3 style="color:#7d3c98;">📗 NOTATNIK 12: SZKOLENIA</h3>
+<ol style="line-height:1.8;">
+<li>Program szkolenia wstępnego (dla nowych pracowników)</li>
+<li>Program szkolenia okresowego (roczne odświeżenie)</li>
+<li><b>Materiały szkoleniowe:</b>
+  <ul>
+    <li>Higiena osobista pracowników</li>
+    <li>Podstawy HACCP</li>
+    <li>Mycie i dezynfekcja</li>
+    <li>Kontrola temperatur</li>
+    <li>Alergeny i zarządzanie alergenami</li>
+  </ul>
+</li>
+<li>Test wiedzy (wzór)</li>
+<li>Lista obecności (wzór)</li>
+</ol>
+
+<h3 style="color:#7d3c98;">📗 NOTATNIK 13: KARTY PRACOWNIKÓW</h3>
+<ul style="line-height:1.8;">
+<li>Wzór karty indywidualnej pracownika</li>
+<li>Struktura: stanowisko, szkolenia, badania sanitarne, uprawnienia</li>
+</ul>
+
+<h3 style="color:#7d3c98;">📗 NOTATNIK 14: MATERIAŁY WIELOJĘZYCZNE</h3>
+<ul style="line-height:1.8;">
+<li>Podstawowe materiały w językach: PL/EN/UK/ES</li>
+<li>Instrukcje z grafikami (uniwersalne piktogramy)</li>
+</ul>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid:#ffc107; margin:20px 0;">
+<strong>⚠️ WYMÓG PRAWNY:</strong><br/>
+Rozporządzenie WE 852/2004 (Załącznik II, Rozdział XII) wymaga, aby operatorzy zakładów zapewnili <b>szkolenie pracowników</b> w zakresie higieny żywności odpowiednio do ich czynności roboczych.
+</div>
+
+<h2 style="color:#2c3e50;">PODSTAWY PRAWNE</h2>
+<ul style="line-height:1.8;">
+<li>Rozporządzenie (WE) nr 852/2004 - Załącznik II, Rozdział XII (Szkolenia)</li>
+<li>Ustawa o bezpieczeństwie żywności i żywienia</li>
+<li>Kodeks pracy - art. 207-237 (BHP i szkolenia)</li>
+<li>Rozporządzenie MZ ws. badań sanitarno-epidemiologicznych</li>
+</ul>
+
+<h2 style="color:#2c3e50;">JAK UŻYWAĆ TEGO STACK'A?</h2>
+<ol style="line-height:1.8;">
+<li><b>Dostosuj programy szkoleń</b> do specyfiki swojego zakładu</li>
+<li><b>Przeprowadź szkolenie wstępne</b> dla każdego nowego pracownika (przed dopuszczeniem do pracy)</li>
+<li><b>Organizuj szkolenia okresowe</b> minimum 1x rocznie (zalecane 2x rocznie)</li>
+<li><b>Dokumentuj uczestnictwo</b> - lista obecności + podpisy</li>
+<li><b>Przeprowadź test wiedzy</b> po każdym szkoleniu</li>
+<li><b>Prowadź karty pracowników</b> - aktualizuj po każdym szkoleniu</li>
+<li><b>Przechowuj dokumentację</b> minimum 3 lata</li>
+</ol>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ WSKAZÓWKA:</strong><br/>
+Regularnie szkoleni pracownicy to <b>fundament skutecznego systemu HACCP</b>. Nawet najlepsza dokumentacja nie zadziała, jeśli zespół nie rozumie procedur i nie stosuje ich w praktyce!
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- ============================================================ -->
+<!-- NOTATKA 1: Program szkolenia wstępnego -->
+<!-- ============================================================ -->
+
+<note>
+<title>Program szkolenia wstępnego (dla nowych pracowników)</title>
+<created>20250104T120100Z</created>
+<updated>20250104T120100Z</updated>
+<tag>05_Szkolenia</tag>
+<tag>Program_Szkolenia</tag>
+<tag>Szkolenie_Wstępne</tag>
+<tag>📋_Szablon</tag>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+
+<h1 style="color:#2c3e50; border-bottom:3px solid #3498db; padding-bottom:10px;">
+Program szkolenia wstępnego dla nowych pracowników
+</h1>
+
+<div style="background-color:#e8f4f8; padding:15px; border-left:4px solid #3498db; margin:20px 0;">
+<strong>Cel szkolenia:</strong> Przygotowanie nowego pracownika do bezpiecznej pracy w zakładzie produkcji żywności<br/>
+<strong>Czas trwania:</strong> 4-6 godzin (można podzielić na 2 dni)<br/>
+<strong>Prowadzący:</strong> Kierownik zakładu / Specjalista HACCP<br/>
+<strong>Termin:</strong> <b>PRZED</b> pierwszym dniem pracy w obszarze produkcji
+</div>
+
+<h2 style="color:#2c3e50;">PROGRAM SZKOLENIA (6 MODUŁÓW)</h2>
+
+<h3 style="color:#3498db;">📋 MODUŁ 1: Wprowadzenie do zakładu (30 min)</h3>
+<div style="background-color:#f8f9fa; padding:10px; margin:10px 0; border-left:3px solid #3498db;">
+<p><b>Tematy:</b></p>
+<ul>
+<li>Przedstawienie zakładu (historia, profil produkcji, klienci)</li>
+<li>Struktura organizacyjna i kluczowe osoby</li>
+<li>Regulamin pracy i obowiązki pracownika</li>
+<li>Zasady BHP specyficzne dla zakładu</li>
+<li>Procedury awaryjne (pożar, wypadek, awaria)</li>
+</ul>
+<p><b>Materiały:</b> Regulamin pracy, plan zakładu, numery alarmowe</p>
+</div>
+
+<h3 style="color:#3498db;">🧼 MODUŁ 2: Higiena osobista pracowników (60 min)</h3>
+<div style="background-color:#f8f9fa; padding:10px; margin:10px 0; border-left:3px solid #3498db;">
+<p><b>Tematy:</b></p>
+<ul>
+<li><b>7-stopniowe mycie rąk WHO</b> - praktyczna demonstracja</li>
+<li>Kiedy myć ręce? (przed pracą, po toalecie, po dotknięciu odpadów, etc.)</li>
+<li>Odzież ochronna (czepki, fartuchy, rękawice, obuwie)</li>
+<li>Badania sanitarno-epidemiologiczne (książeczki zdrowia, częstotliwość)</li>
+<li><b>ZAKAZY:</b> biżuteria, telefony, jedzenie, palenie w obszarze produkcji</li>
+<li>Postępowanie przy chorobie (obowiązek zgłoszenia, zwolnienie)</li>
+<li>Higiena na stanowisku pracy</li>
+</ul>
+<p><b>Materiały:</b> Procedura GHP-01, plakaty z instrukcją mycia rąk</p>
+<p><b>Praktyka:</b> Ćwiczenie mycia rąk (każdy pracownik praktycznie)</p>
+</div>
+
+<h3 style="color:#3498db;">🧽 MODUŁ 3: Mycie i dezynfekcja (45 min)</h3>
+<div style="background-color:#f8f9fa; padding:10px; margin:10px 0; border-left:3px solid #3498db;">
+<p><b>Tematy:</b></p>
+<ul>
+<li><b>7-stopniowy proces mycia i dezynfekcji</b></li>
+<li>Środki czystości używane w zakładzie (detergenty, dezynfekcja)</li>
+<li>Kodowanie kolorystyczne (czerwony/niebieski/żółty/zielony)</li>
+<li>Harmonogram mycia dla stanowiska pracownika</li>
+<li>Bezpieczeństwo przy pracy ze środkami chemicznymi (karty charakterystyki)</li>
+<li>Kontrola skuteczności mycia</li>
+</ul>
+<p><b>Materiały:</b> Procedura GHP-02, harmonogram mycia, karty charakterystyki środków</p>
+<p><b>Praktyka:</b> Demonstracja mycia urządzenia krok po kroku</p>
+</div>
+
+<h3 style="color:#3498db;">🛡️ MODUŁ 4: Podstawy HACCP (90 min)</h3>
+<div style="background-color:#f8f9fa; padding:10px; margin:10px 0; border-left:3px solid #3498db;">
+<p><b>Tematy:</b></p>
+<ul>
+<li>Czym jest HACCP? (Hazard Analysis Critical Control Points)</li>
+<li>Dlaczego HACCP jest ważny? (bezpieczeństwo żywności, przepisy)</li>
+<li><b>3 typy zagrożeń:</b>
+  <ul>
+    <li>Biologiczne (bakterie: Salmonella, Listeria, E. coli)</li>
+    <li>Chemiczne (środki czystości, alergeny)</li>
+    <li>Fizyczne (szkło, metal, włosy, plastik)</li>
+  </ul>
+</li>
+<li><b>CCP (Krytyczne Punkty Kontroli)</b> w naszym zakładzie</li>
+<li>Jak zapobiegać zagrożeniom na swoim stanowisku?</li>
+<li>Schemat przepływu produkcji w zakładzie</li>
+<li>Rola pracownika w systemie HACCP</li>
+</ul>
+<p><b>Materiały:</b> Uproszczona wersja Planu HACCP, schemat przepływu produkcji</p>
+</div>
+
+<h3 style="color:#3498db;">🌡️ MODUŁ 5: Kontrola temperatur i wypełnianie rejestrów (45 min)</h3>
+<div style="background-color:#f8f9fa; padding:10px; margin:10px 0; border-left:3px solid #3498db;">
+<p><b>Tematy:</b></p>
+<ul>
+<li>Dlaczego temperatura jest krytyczna? (rozwój bakterii, trwałość produktu)</li>
+<li>Limity temperatur dla różnych pomieszczeń (chłodnie, magazyny, produkcja)</li>
+<li>Jak prawidłowo mierzyć temperaturę? (termometry, miejsce pomiaru)</li>
+<li><b>Wypełnianie rejestrów:</b>
+  <ul>
+    <li>Rejestr temperatur (R-04) - jak wypełniać?</li>
+    <li>Inne rejestry na stanowisku pracownika</li>
+    <li>Znaczenie podpisu i daty</li>
+  </ul>
+</li>
+<li>Co zrobić, gdy temperatura przekracza limit? (działania korygujące)</li>
+</ul>
+<p><b>Materiały:</b> Wzory rejestrów, instrukcja obsługi termometru</p>
+<p><b>Praktyka:</b> Wypełnienie przykładowego rejestru temperatur</p>
+</div>
+
+<h3 style="color:#3498db;">⚠️ MODUŁ 6: Alergeny i zarządzanie alergenami (30 min)</h3>
+<div style="background-color:#f8f9fa; padding:10px; margin:10px 0; border-left:3px solid #3498db;">
+<p><b>Tematy:</b></p>
+<ul>
+<li><b>14 głównych alergenów</b> (gluten, jaja, mleko, orzechy, soja, etc.)</li>
+<li>Dlaczego alergeny są niebezpieczne? (reakcje alergiczne, wstrząs anafilaktyczny)</li>
+<li>Zapobieganie zanieczyszczeniom krzyżowym alergenami</li>
+<li>Procedura mycia między produktami z różnymi alergenami</li>
+<li>Oznakowanie produktów zawierających alergeny</li>
+<li>Co zrobić w razie pomyłki? (procedura wycofania produktu)</li>
+</ul>
+<p><b>Materiały:</b> Lista 14 alergenów, procedura zarządzania alergenami</p>
+</div>
+
+<h2 style="color:#2c3e50;">ZAKOŃCZENIE SZKOLENIA</h2>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid:#ffc107; margin:20px 0;">
+<p><b>🔹 Test wiedzy</b> - pracownik rozwiązuje test (15 pytań, wymagane 80% poprawnych odpowiedzi)</p>
+<p><b>🔹 Omówienie testu</b> - wyjaśnienie błędnych odpowiedzi</p>
+<p><b>🔹 Pytania i odpowiedzi</b> - możliwość zadawania pytań</p>
+<p><b>🔹 Dokumentacja:</b></p>
+<ul>
+<li>Lista obecności (podpis pracownika)</li>
+<li>Test wiedzy (ocena, podpis pracownika i prowadzącego)</li>
+<li>Wpis do karty indywidualnej pracownika</li>
+<li>Wydanie zaświadczenia o przeszkoleniu (opcjonalnie)</li>
+</ul>
+</div>
+
+<h2 style="color:#2c3e50;">HARMONOGRAM PRZYKŁADOWY</h2>
+
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#3498db; color:white;">
+<tr>
+<th style="text-align:left;">Godzina</th>
+<th style="text-align:left;">Moduł</th>
+<th style="text-align:left;">Czas</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8f9fa;">
+<td>8:00 - 8:30</td>
+<td>Moduł 1: Wprowadzenie do zakładu</td>
+<td>30 min</td>
+</tr>
+<tr>
+<td>8:30 - 9:30</td>
+<td>Moduł 2: Higiena osobista pracowników</td>
+<td>60 min</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>9:30 - 9:45</td>
+<td><b>PRZERWA</b></td>
+<td>15 min</td>
+</tr>
+<tr>
+<td>9:45 - 10:30</td>
+<td>Moduł 3: Mycie i dezynfekcja</td>
+<td>45 min</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>10:30 - 12:00</td>
+<td>Moduł 4: Podstawy HACCP</td>
+<td>90 min</td>
+</tr>
+<tr>
+<td>12:00 - 13:00</td>
+<td><b>PRZERWA OBIADOWA</b></td>
+<td>60 min</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>13:00 - 13:45</td>
+<td>Moduł 5: Kontrola temperatur i rejestry</td>
+<td>45 min</td>
+</tr>
+<tr>
+<td>13:45 - 14:15</td>
+<td>Moduł 6: Alergeny</td>
+<td>30 min</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>14:15 - 14:30</td>
+<td><b>PRZERWA</b></td>
+<td>15 min</td>
+</tr>
+<tr>
+<td>14:30 - 15:00</td>
+<td>Test wiedzy i podsumowanie</td>
+<td>30 min</td>
+</tr>
+<tr style="background-color:#d4edda;">
+<td colspan="2" style="text-align:right;"><b>RAZEM:</b></td>
+<td><b>6 godzin</b></td>
+</tr>
+</tbody>
+</table>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ POTWIERDZENIE ODBYCIA SZKOLENIA:</strong><br/><br/>
+Potwierdzam, że pracownik <b>______________________________</b> ukończył szkolenie wstępne z wynikiem pozytywnym i jest dopuszczony do pracy w obszarze produkcji żywności.<br/><br/>
+Data: _______________<br/>
+Podpis prowadzącego: _______________<br/>
+Podpis pracownika: _______________
+</div>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid:#f5c6cb; margin:20px 0;">
+<strong>⚠️ WAŻNE:</strong><br/>
+Pracownik <b>NIE MOŻE</b> zostać dopuszczony do pracy w obszarze produkcji bez ukończenia szkolenia wstępnego! To wymóg prawny (WE 852/2004, Rozdział XII).
+</div>
+
+<h2 style="color:#2c3e50;">PRZECHOWYWANIE DOKUMENTACJI</h2>
+<ul style="line-height:1.8;">
+<li>Lista obecności: Archiwum minimum 3 lata</li>
+<li>Test wiedzy: Archiwum minimum 3 lata</li>
+<li>Wpis w karcie pracownika: Przez cały okres zatrudnienia + 3 lata</li>
+</ul>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- ============================================================ -->
+<!-- NOTATKA 2: Program szkolenia okresowego -->
+<!-- ============================================================ -->
+
+<note>
+<title>Program szkolenia okresowego (roczne odświeżenie)</title>
+<created>20250104T120200Z</created>
+<updated>20250104T120200Z</updated>
+<tag>05_Szkolenia</tag>
+<tag>Program_Szkolenia</tag>
+<tag>Szkolenie_Okresowe</tag>
+<tag>📋_Szablon</tag>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+
+<h1 style="color:#2c3e50; border-bottom:3px solid #e67e22; padding-bottom:10px;">
+Program szkolenia okresowego (roczne odświeżenie)
+</h1>
+
+<div style="background-color:#fef5e7; padding:15px; border-left:4px solid #e67e22; margin:20px 0;">
+<strong>Cel szkolenia:</strong> Odświeżenie wiedzy pracowników i przedstawienie nowości w systemie HACCP<br/>
+<strong>Czas trwania:</strong> 2-3 godziny<br/>
+<strong>Prowadzący:</strong> Kierownik zakładu / Specjalista HACCP<br/>
+<strong>Częstotliwość:</strong> <b>Minimum 1x rocznie</b> (zalecane 2x rocznie - wiosna i jesień)
+</div>
+
+<h2 style="color:#2c3e50;">PROGRAM SZKOLENIA (5 BLOKÓW)</h2>
+
+<h3 style="color:#e67e22;">📊 BLOK 1: Przegląd roku - podsumowanie (15 min)</h3>
+<div style="background-color:#f8f9fa; padding:10px; margin:10px 0; border-left:3px solid #e67e22;">
+<p><b>Tematy:</b></p>
+<ul>
+<li>Statystyki z ostatniego roku:
+  <ul>
+    <li>Liczba kontroli wewnętrznych i zewnętrznych</li>
+    <li>Liczba niezgodności i działań korygujących</li>
+    <li>Liczba reklamacji klientów</li>
+    <li>Wyniki badań mikrobiologicznych</li>
+  </ul>
+</li>
+<li>Sukcesy i osiągnięcia (np. certyfikacje, brak niezgodności)</li>
+<li>Wyzwania i problemy (co nie zadziałało?)</li>
+<li>Zmiany w zakładzie (nowy sprzęt, nowi pracownicy, nowe produkty)</li>
+</ul>
+<p><b>Materiały:</b> Raport roczny z systemu HACCP, statystyki</p>
+</div>
+
+<h3 style="color:#e67e22;">📜 BLOK 2: Zmiany w przepisach i procedurach (20 min)</h3>
+<div style="background-color:#f8f9fa; padding:10px; margin:10px 0; border-left:3px solid #e67e22;">
+<p><b>Tematy:</b></p>
+<ul>
+<li><b>Nowe przepisy prawne:</b>
+  <ul>
+    <li>Zmiany w rozporządzeniach UE (jeśli są)</li>
+    <li>Nowe wytyczne GIS/PIW/Sanepid</li>
+    <li>Aktualizacje norm mikrobiologicznych</li>
+  </ul>
+</li>
+<li><b>Zmiany w dokumentacji zakładu:</b>
+  <ul>
+    <li>Nowe/zaktualizowane procedury</li>
+    <li>Zmiany w limitach krytycznych CCP</li>
+    <li>Nowe rejestry lub formularze</li>
+  </ul>
+</li>
+<li>Omówienie zmian - co to oznacza dla pracownika?</li>
+</ul>
+<p><b>Materiały:</b> Wykaz zmian w procedurach, nowe wersje dokumentów</p>
+</div>
+
+<h3 style="color:#e67e22;">🔍 BLOK 3: Analiza przypadków - nauka na błędach (30 min)</h3>
+<div style="background-color:#f8f9fa; padding:10px; margin:10px 0; border-left:3px solid #e67e22;">
+<p><b>Tematy:</b></p>
+<ul>
+<li><b>Case study 1: Niezgodność wykryta w zakładzie</b>
+  <ul>
+    <li>Opis sytuacji (np. przekroczenie temperatury w chłodni)</li>
+    <li>Przyczyna (awaria agregatu, błąd ludzki?)</li>
+    <li>Działania podjęte (naprawa, przeniesienie produktów)</li>
+    <li>Wnioski - jak zapobiec w przyszłości?</li>
+  </ul>
+</li>
+<li><b>Case study 2: Przykład z branży (anonimowo)</b>
+  <ul>
+    <li>Opis incydentu w innym zakładzie (np. zatrucie pokarmowe)</li>
+    <li>Przyczyny (brak kontroli CCP, zaniedbanie higieny)</li>
+    <li>Konsekwencje (kary, zamknięcie zakładu, roszczenia)</li>
+    <li>Lekcja - czego możemy się nauczyć?</li>
+  </ul>
+</li>
+<li><b>Dyskusja zespołowa:</b> Co byście zrobili w takiej sytuacji?</li>
+</ul>
+<p><b>Materiały:</b> Opisy przypadków (anonimowe), zdjęcia/materiały ilustracyjne</p>
+</div>
+
+<h3 style="color:#e67e22;">🔄 BLOK 4: Przypomnienie kluczowych procedur (45 min)</h3>
+<div style="background-color:#f8f9fa; padding:10px; margin:10px 0; border-left:3px solid #e67e22;">
+<p><b>Tematy (wybrane najważniejsze):</b></p>
+
+<p><b>4.1. Higiena osobista (15 min)</b></p>
+<ul>
+<li>Przypomnienie 7 kroków mycia rąk WHO</li>
+<li>Odzież ochronna - najczęstsze błędy</li>
+<li>Zakazy (telefony, biżuteria, palenie)</li>
+<li><b>Praktyka:</b> Kontrola krzyżowa - pracownicy sprawdzają się nawzajem (strój, czystość rąk)</li>
+</ul>
+
+<p><b>4.2. Kontrola CCP (15 min)</b></p>
+<ul>
+<li>Przypomnienie: Czym jest CCP w naszym zakładzie?</li>
+<li>Limity krytyczne - jakie i dlaczego?</li>
+<li>Jak prawidłowo monitorować CCP? (częstotliwość, metody)</li>
+<li>Co zrobić, gdy limit jest przekroczony? (działania korygujące)</li>
+<li><b>Przykład:</b> Analiza rejestru CCP z ostatniego miesiąca - czy wszystko poprawnie wypełnione?</li>
+</ul>
+
+<p><b>4.3. Zarządzanie alergenami (15 min)</b></p>
+<ul>
+<li>Przypomnienie 14 głównych alergenów</li>
+<li>Zapobieganie zanieczyszczeniom krzyżowym</li>
+<li>Procedura mycia między produktami z alergenami</li>
+<li>Oznakowanie i etykietowanie produktów</li>
+<li><b>Quiz:</b> Rozpoznaj alergen (zdjęcia produktów, pracownicy wskazują alergeny)</li>
+</ul>
+</div>
+
+<h3 style="color:#e67e22;">❓ BLOK 5: Pytania, dyskusja i test (30 min)</h3>
+<div style="background-color:#f8f9fa; padding:10px; margin:10px 0; border-left:3px solid #e67e22;">
+<p><b>5.1. Sesja pytań i odpowiedzi (15 min)</b></p>
+<ul>
+<li>Pracownicy zadają pytania dotyczące procedur</li>
+<li>Wyjaśnienie wątpliwości</li>
+<li>Dyskusja o problemach napotykanych w codziennej pracy</li>
+</ul>
+
+<p><b>5.2. Test wiedzy (10 min)</b></p>
+<ul>
+<li>Krótki test (10 pytań zamkniętych)</li>
+<li>Wymagane minimum: 70% poprawnych odpowiedzi</li>
+</ul>
+
+<p><b>5.3. Podsumowanie i zakończenie (5 min)</b></p>
+<ul>
+<li>Omówienie wyników testu</li>
+<li>Podsumowanie kluczowych wniosków ze szkolenia</li>
+<li>Podpisanie listy obecności</li>
+</ul>
+</div>
+
+<h2 style="color:#2c3e50;">HARMONOGRAM PRZYKŁADOWY</h2>
+
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#e67e22; color:white;">
+<tr>
+<th style="text-align:left;">Godzina</th>
+<th style="text-align:left;">Blok</th>
+<th style="text-align:left;">Czas</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8f9fa;">
+<td>9:00 - 9:15</td>
+<td>Blok 1: Przegląd roku</td>
+<td>15 min</td>
+</tr>
+<tr>
+<td>9:15 - 9:35</td>
+<td>Blok 2: Zmiany w przepisach</td>
+<td>20 min</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>9:35 - 10:05</td>
+<td>Blok 3: Analiza przypadków</td>
+<td>30 min</td>
+</tr>
+<tr>
+<td>10:05 - 10:20</td>
+<td><b>PRZERWA</b></td>
+<td>15 min</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>10:20 - 11:05</td>
+<td>Blok 4: Przypomnienie procedur</td>
+<td>45 min</td>
+</tr>
+<tr>
+<td>11:05 - 11:35</td>
+<td>Blok 5: Pytania, test, podsumowanie</td>
+<td>30 min</td>
+</tr>
+<tr style="background-color:#d4edda;">
+<td colspan="2" style="text-align:right;"><b>RAZEM:</b></td>
+<td><b>2,5 godziny</b></td>
+</tr>
+</tbody>
+</table>
+
+<h2 style="color:#2c3e50;">TERMINY SZKOLEŃ OKRESOWYCH W ROKU</h2>
+
+<div style="background-color:#e8f4f8; padding:15px; margin:20px 0;">
+<p><b>Zalecane terminy (2 szkolenia rocznie):</b></p>
+<ul>
+<li><b>Szkolenie wiosenne:</b> Marzec/Kwiecień
+  <ul>
+    <li>Przed sezonem wzmożonej produkcji</li>
+    <li>Po zakończeniu roku obrachunkowego - analiza danych z poprzedniego roku</li>
+  </ul>
+</li>
+<li><b>Szkolenie jesienne:</b> Wrzesień/Październik
+  <ul>
+    <li>Przegląd półroczny</li>
+    <li>Przygotowanie do sezonu świątecznego</li>
+  </ul>
+</li>
+</ul>
+</div>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid:#ffc107; margin:20px 0;">
+<strong>💡 WSKAZÓWKA:</strong><br/>
+Szkolenia okresowe można połączyć z:
+<ul>
+<li>Spotkaniami zespołu HACCP (co 6 miesięcy)</li>
+<li>Przeglądami zarządzania</li>
+<li>Audytami wewnętrznymi</li>
+</ul>
+Dzięki temu optymalizujesz czas i zwiększasz zaangażowanie pracowników!
+</div>
+
+<h2 style="color:#2c3e50;">ZAKOŃCZENIE SZKOLENIA</h2>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ POTWIERDZENIE ODBYCIA SZKOLENIA:</strong><br/><br/>
+Potwierdzam, że pracownik <b>______________________________</b> ukończył szkolenie okresowe z wynikiem pozytywnym.<br/><br/>
+Data szkolenia: _______________<br/>
+Wynik testu: _____ / 10 pkt (____%)<br/>
+Podpis prowadzącego: _______________<br/>
+Podpis pracownika: _______________
+</div>
+
+<h2 style="color:#2c3e50;">TEMATY DODATKOWE (opcjonalnie, w zależności od potrzeb)</h2>
+<ul style="line-height:1.8;">
+<li>Nowe technologie w zakładzie (nowy sprzęt, nowe oprogramowanie)</li>
+<li>Feedback od pracowników - propozycje ulepszeń</li>
+<li>Bezpieczeństwo i higiena pracy (BHP)</li>
+<li>Ochrona środowiska (gospodarka odpadami, oszczędzanie wody/energii)</li>
+<li>Obsługa klienta i komunikacja</li>
+</ul>
+
+<h2 style="color:#2c3e50;">PRZECHOWYWANIE DOKUMENTACJI</h2>
+<ul style="line-height:1.8;">
+<li>Lista obecności: Archiwum minimum 3 lata</li>
+<li>Test wiedzy: Archiwum minimum 3 lata</li>
+<li>Wpis w karcie pracownika: Przez cały okres zatrudnienia + 3 lata</li>
+<li>Materiały szkoleniowe: Aktualizować co roku</li>
+</ul>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- ============================================================ -->
+<!-- NOTATKA 3: Materiały szkoleniowe - Higiena osobista -->
+<!-- ============================================================ -->
+
+<note>
+<title>Materiały szkoleniowe: Higiena osobista pracowników</title>
+<created>20250104T120300Z</created>
+<updated>20250104T120300Z</updated>
+<tag>05_Szkolenia</tag>
+<tag>Materiały_Szkoleniowe</tag>
+<tag>Higiena_Osobista</tag>
+<tag>📋_Szablon</tag>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+
+<h1 style="color:#2c3e50; border-bottom:3px solid #27ae60; padding-bottom:10px;">
+🧼 Materiały szkoleniowe: Higiena osobista pracowników
+</h1>
+
+<div style="background-color:#d5f4e6; padding:15px; border-left:4px solid #27ae60; margin:20px 0;">
+<strong>Cel modułu:</strong> Nauczenie pracowników prawidłowych zasad higieny osobistej w kontekście produkcji żywności<br/>
+<strong>Czas trwania:</strong> 60 minut<br/>
+<strong>Podstawa prawna:</strong> Rozporządzenie WE 852/2004, Załącznik II, Rozdział VIII
+</div>
+
+<h2 style="color:#27ae60;">1. DLACZEGO HIGIENA OSOBISTA JEST WAŻNA?</h2>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:15px 0;">
+<p style="line-height:1.8; font-size:16px;">
+<b>Człowiek jest głównym źródłem zanieczyszczeń biologicznych w produkcji żywności!</b>
+</p>
+<ul style="line-height:1.8;">
+<li>Na skórze żyje <b>10 milionów bakterii na 1 cm²</b></li>
+<li>Usta i nos: <b>tysiące mikroorganizmów</b> (Staphylococcus aureus)</li>
+<li>Włosy: <b>źródło zanieczyszczeń fizycznych</b> (włos w jedzeniu = reklamacja)</li>
+<li>Brudne ręce: <b>przenoszenie patogenów</b> (E. coli, Salmonella, wirusy)</li>
+</ul>
+<p style="line-height:1.8; font-size:16px;">
+<b>1 BRUDNA RĘKA = TYSIĄCE BAKTERII W PRODUKCIE = RYZYKO ZATRUCIA POKARMOWEGO</b>
+</p>
+</div>
+
+<h2 style="color:#27ae60;">2. MYCIE RĄK - 7 KROKÓW WHO (Światowa Organizacja Zdrowia)</h2>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid:#ffc107; margin:20px 0;">
+<strong>⏱️ CZAS MYCIA: minimum 30 sekund</strong><br/>
+<strong>🌡️ TEMPERATURA WODY: 35-45°C (ciepła, komfortowa)</strong><br/>
+<strong>🧼 MYDŁO: płynne, antybakteryjne (z dozownika)</strong>
+</div>
+
+<h3 style="color:#27ae60;">KROK PO KROKU:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#27ae60; color:white;">
+<tr>
+<th style="width:10%;">Krok</th>
+<th style="width:50%;">Opis</th>
+<th style="width:40%;">Grafika (do dodania)</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-size:20px; font-weight:bold;">1</td>
+<td><b>Zmocz ręce</b><br/>Zmocz dłonie ciepłą wodą, nałóż mydło</td>
+<td style="text-align:center;">[GRAFIKA: Ręce pod kranem]</td>
+</tr>
+<tr>
+<td style="text-align:center; font-size:20px; font-weight:bold;">2</td>
+<td><b>Dłoń do dłoni</b><br/>Pocieraj dłonie o siebie ruchami okrężnymi</td>
+<td style="text-align:center;">[GRAFIKA: Dłonie razem]</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-size:20px; font-weight:bold;">3</td>
+<td><b>Między palcami</b><br/>Spleć palce, pocieraj międzypalcowe</td>
+<td style="text-align:center;">[GRAFIKA: Splecione palce]</td>
+</tr>
+<tr>
+<td style="text-align:center; font-size:20px; font-weight:bold;">4</td>
+<td><b>Grzbiety dłoni</b><br/>Pocieraj grzbiet jednej dłoni drugą dłonią</td>
+<td style="text-align:center;">[GRAFIKA: Grzbiet dłoni]</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-size:20px; font-weight:bold;">5</td>
+<td><b>Kciuki</b><br/>Obejmij kciuk drugą dłonią, pocieraj ruchem obrotowym</td>
+<td style="text-align:center;">[GRAFIKA: Mycie kciuka]</td>
+</tr>
+<tr>
+<td style="text-align:center; font-size:20px; font-weight:bold;">6</td>
+<td><b>Paznokcie</b><br/>Pocieraj paznokcie o wewnętrzną stronę drugiej dłoni</td>
+<td style="text-align:center;">[GRAFIKA: Mycie paznokci]</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center; font-size:20px; font-weight:bold;">7</td>
+<td><b>Nadgarstki</b><br/>Umyj nadgarstki (często zapominane!)</td>
+<td style="text-align:center;">[GRAFIKA: Mycie nadgarstków]</td>
+</tr>
+</tbody>
+</table>
+
+<div style="background-color:#d4edda; padding:15px; margin:20px 0;">
+<p><b>PO UMYCIU:</b></p>
+<ul>
+<li>✅ Spłucz mydło ciepłą wodą</li>
+<li>✅ Wysusz ręce jednorazowym ręcznikiem papierowym</li>
+<li>✅ Użyj ręcznika do zamknięcia kranu (nie dotykaj brudnego kranu czystymi rękami!)</li>
+<li>✅ <b>Zdezynfekuj ręce</b> (preparat alkoholowy z dozownika)</li>
+</ul>
+</div>
+
+<h2 style="color:#27ae60;">3. KIEDY MYĆ RĘCE?</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#27ae60; color:white;">
+<tr>
+<th style="width:50%;">✅ ZAWSZE MYJ RĘCE:</th>
+<th style="width:50%;">❌ NIGDY NIE POMIJAJ MYCIA:</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="vertical-align:top;">
+<ul style="line-height:1.8;">
+<li>Przed rozpoczęciem pracy</li>
+<li>Po każdej przerwie</li>
+<li>Po skorzystaniu z toalety</li>
+<li>Po kichaniu, kasłaniu, dotknięciu twarzy/włosów</li>
+<li>Po dotknięciu odpadów, śmieci</li>
+<li>Po dotknięciu brudnych powierzchni</li>
+<li>Po paleniu papierosów (poza zakładem!)</li>
+<li>Przed założeniem rękawic</li>
+<li>Po zdjęciu rękawic</li>
+<li>Po kontakcie z surowcem (zwłaszcza drób!)</li>
+</ul>
+</td>
+<td style="vertical-align:top; background-color:#f8d7da;">
+<ul style="line-height:1.8;">
+<li>Po toalecie ← bakterie z układu pokarmowego!</li>
+<li>Po dotknięciu twarzy/włosów ← bakterie Staphylococcus</li>
+<li>Po paleniu ← bakterie z ust + zapach</li>
+<li>Po kontakcie z surowcem ← Salmonella!</li>
+<li>Przed założeniem rękawic ← brudne ręce w rękawicach = rozsadnik bakterii!</li>
+</ul>
+<p style="color:#a94442; font-weight:bold; margin-top:15px;">
+PAMIĘTAJ: Rękawice NIE ZASTĘPUJĄ mycia rąk!
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h2 style="color:#27ae60;">4. ODZIEŻ OCHRONNA</h2>
+
+<h3 style="color:#27ae60;">4.1. CZEPEK / CZAPKA</h3>
+<div style="background-color:#e8f4f8; padding:15px; margin:15px 0;">
+<p><b>Wymogi:</b></p>
+<ul>
+<li>✅ Włosy <b>CAŁKOWICIE</b> zakryte (włosy, broda, wąsy)</li>
+<li>✅ Zakładany PRZED wejściem do strefy produkcji</li>
+<li>✅ Jednorazowy (po każdej zmianie nowy) lub wielorazowy (pranie codziennie)</li>
+<li>❌ Nie dotykaj czepka podczas pracy (bakterie z rąk → czepek → włosy → produkt)</li>
+</ul>
+</div>
+
+<h3 style="color:#27ae60;">4.2. FARTUCH / KITEL</h3>
+<div style="background-color:#e8f4f8; padding:15px; margin:15px 0;">
+<p><b>Wymogi:</b></p>
+<ul>
+<li>✅ Kolor jasny (biały, niebieski) - łatwo widoczne zabrudzenia</li>
+<li>✅ Czysty, bez plam, bez dziur</li>
+<li>✅ Pranie minimum 1x dziennie (w temperaturze min. 60°C)</li>
+<li>✅ Zapinany na wszystkie guziki</li>
+<li>❌ Nie noś fartucha poza strefą produkcji (nie idź w fartuchu do toalety, na przerwę, do domu!)</li>
+</ul>
+</div>
+
+<h3 style="color:#27ae60;">4.3. RĘKAWICE</h3>
+<div style="background-color:#e8f4f8; padding:15px; margin:15px 0;">
+<p><b>Wymogi:</b></p>
+<ul>
+<li>✅ Jednorazowe, nitrylowe (NIE lateksowe - alergen!)</li>
+<li>✅ Kolor niebieski (łatwo wykrywalne w produkcie)</li>
+<li>✅ <b>ZAWSZE MYJ RĘCE PRZED ZAŁOŻENIEM RĘKAWIC!</b></li>
+<li>✅ Zmieniaj rękawice:
+  <ul>
+    <li>Co 2 godziny pracy</li>
+    <li>Po każdym dotknięciu brudnej powierzchni</li>
+    <li>Po przerwaniu pracy</li>
+    <li>Jeśli rękawica jest uszkodzona (dziura, rozdarcie)</li>
+  </ul>
+</li>
+<li>❌ Rękawice NIE ZASTĘPUJĄ mycia rąk!</li>
+<li>❌ Nie dotykaj telefonu, twarzy, włosów w rękawicach!</li>
+</ul>
+</div>
+
+<h3 style="color:#27ae60;">4.4. OBUWIE</h3>
+<div style="background-color:#e8f4f8; padding:15px; margin:15px 0;">
+<p><b>Wymogi:</b></p>
+<ul>
+<li>✅ Obuwie ochronne (klapki lub trzewiki), antypoślizgowe</li>
+<li>✅ Kolor jasny (biały lub niebieski)</li>
+<li>✅ Mycie butów codziennie (myjka do butów przy wejściu)</li>
+<li>✅ Tylko w strefie produkcji (nie noś na zewnątrz!)</li>
+</ul>
+</div>
+
+<h2 style="color:#27ae60;">5. ZAKAZY W OBSZARZE PRODUKCJI</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#c0392b; color:white;">
+<tr>
+<th style="width:30%;">ZAKAZ</th>
+<th style="width:70%;">DLACZEGO?</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8d7da;">
+<td style="font-weight:bold;">❌ BIŻUTERIA</td>
+<td>
+<ul>
+<li>Pierścionki, zegarki, bransoletki → rozsadnik bakterii</li>
+<li>Ryzyko wpadnięcia do produktu → zanieczyszczenie fizyczne</li>
+<li>Obrączka ślubna dozwolona TYLKO jeśli gładka, bez kamieni</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="font-weight:bold;">❌ TELEFON KOMÓRKOWY</td>
+<td>
+<ul>
+<li>Telefon ma <b>więcej bakterii niż deska klozetowa!</b></li>
+<li>Dotykanie telefonu → bakterie na rękach → produkt</li>
+<li>Telefon tylko w szatni/biurze, NIE w hali produkcji!</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#f8d7da;">
+<td style="font-weight:bold;">❌ MALOWANY PAZNOKCI / SZTUCZNE PAZNOKCIE</td>
+<td>
+<ul>
+<li>Lakier odpryskuje → zanieczyszczenie fizyczne</li>
+<li>Pod sztucznymi paznokciami: bakterie, brud</li>
+<li>Paznokcie krótko obcięte, bez lakieru</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="font-weight:bold;">❌ JEDZENIE I PICIE</td>
+<td>
+<ul>
+<li>Jedzenie tylko w stołówce/pomieszczeniu socjalnym</li>
+<li>Picie dozwolone TYLKO z zamkniętej butelki (nie stawiać na maszynach!)</li>
+<li>Żucie gumy → bakterie z ust → produkt</li>
+</ul>
+</td>
+</tr>
+<tr style="background-color:#f8d7da;">
+<td style="font-weight:bold;">❌ PALENIE PAPIEROSÓW</td>
+<td>
+<ul>
+<li>Palenie tylko w wyznaczonym miejscu (poza zakładem)</li>
+<li>Po paleniu: mycie rąk + dezynfekcja (zapach + bakterie z ust)</li>
+<li>NIE WOLNO palić w strefie produkcji, magazynie, szatni!</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h2 style="color:#27ae60;">6. BADANIA SANITARNO-EPIDEMIOLOGICZNE (KSIĄŻECZKI ZDROWIA)</h2>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid:#ffc107; margin:20px 0;">
+<p><b>WYMÓG PRAWNY:</b> Każdy pracownik produkcji żywności MUSI posiadać aktualną książeczkę zdrowia!</p>
+</div>
+
+<h3 style="color:#27ae60;">Badania obowiązkowe:</h3>
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#27ae60; color:white;">
+<tr>
+<th>Rodzaj badania</th>
+<th>Częstotliwość</th>
+<th>Gdzie wykonać?</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8f9fa;">
+<td>Badania kału (posiew na Salmonella, Shigella)</td>
+<td><b>1x rocznie</b></td>
+<td>Sanepid / laboratorium prywatne</td>
+</tr>
+<tr>
+<td>Wymaz z nosa i gardła (nosicielstwo Staphylococcus)</td>
+<td><b>1x rocznie</b></td>
+<td>Sanepid / laboratorium prywatne</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>Wywiad lekarski (choroby zakaźne, stan skóry)</td>
+<td><b>1x rocznie</b></td>
+<td>Sanepid / lekarz medycyny pracy</td>
+</tr>
+<tr>
+<td>Prześwietlenie płuc (RTG lub test Mantoux)</td>
+<td><b>1x na 2 lata</b></td>
+<td>Sanepid / przychodnia</td>
+</tr>
+</tbody>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid:#f5c6cb; margin:20px 0;">
+<strong>⚠️ WAŻNE:</strong><br/>
+Praca bez aktualnej książeczki zdrowia = <b>WYKROCZENIE</b> (kara dla pracodawcy i pracownika)!<br/>
+Kontroluj ważność książeczki - przypominaj pracodawcy 1 miesiąc przed upływem terminu!
+</div>
+
+<h2 style="color:#27ae60;">7. POSTĘPOWANIE PRZY CHOROBIE</h2>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid:#c0392b; margin:20px 0;">
+<p style="font-size:18px; font-weight:bold; color:#a94442;">
+⛔ NIGDY NIE PRACUJ W PRODUKCJI ŻYWNOŚCI, JEŚLI JESTEŚ CHORY!
+</p>
+</div>
+
+<h3 style="color:#27ae60;">Obowiązek zgłoszenia choroby kierownikowi:</h3>
+<ul style="line-height:1.8; font-size:16px;">
+<li>🤒 <b>Gorączka</b> (powyżej 38°C)</li>
+<li>🤢 <b>Wymioty, biegunka</b> (objawy zatrucia pokarmowego)</li>
+<li>🤧 <b>Katar, kaszel, ból gardła</b> (infekcja dróg oddechowych)</li>
+<li>🩹 <b>Ropiejące rany, zapalenie skóry</b> (Staphylococcus aureus)</li>
+<li>👁️ <b>Zapalenie spojówek</b> (zakaźne)</li>
+<li>🦠 <b>Żółtaczka, wirusowe zapalenie wątroby</b></li>
+</ul>
+
+<div style="background-color:#d4edda; padding:15px; margin:20px 0;">
+<p><b>CO ZROBIĆ?</b></p>
+<ol style="line-height:1.8;">
+<li><b>Natychmiast zgłoś</b> chorobę kierownikowi (telefon, SMS)</li>
+<li><b>Nie przychodź do pracy</b> (nawet jeśli czujesz się „dobrze")</li>
+<li><b>Idź do lekarza</b>, weź zwolnienie lekarskie</li>
+<li><b>Wróć do pracy</b> dopiero po wyzdrowieniu + zezwoleniu lekarza</li>
+<li>Przy chorobach zakaźnych: <b>negatywny wynik badania kału</b> (potwierdzenie braku bakterii)</li>
+</ol>
+</div>
+
+<h2 style="color:#27ae60;">8. NAJCZĘSTSZE BŁĘDY I JAK ICH UNIKAĆ</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#c0392b; color:white;">
+<tr>
+<th style="width:40%;">❌ BŁĄD</th>
+<th style="width:60%;">✅ PRAWIDŁOWO</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8f9fa;">
+<td>Dotykanie twarzy, włosów podczas pracy</td>
+<td>Trzymaj ręce przy pracy, nie dotykaj twarzy. Jeśli musisz - umyj ręce po!</td>
+</tr>
+<tr>
+<td>Używanie brudnych ściereczek do wycierania rąk</td>
+<td>Tylko jednorazowe ręczniki papierowe (osobny kosz na zużyte)</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>Noszenie fartucha do toalety</td>
+<td>Zdejmij fartuch PRZED wyjściem ze strefy produkcji, zostaw w szatni</td>
+</tr>
+<tr>
+<td>Mycie rąk bez mydła (tylko wodą)</td>
+<td>ZAWSZE używaj mydła + dezynfekcja!</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>Praca w tych samych rękawicach przez całą zmianę</td>
+<td>Zmieniaj rękawice co 2h lub po dotknięciu brudnej powierzchni</td>
+</tr>
+<tr>
+<td>Kichanie/kasłanie w stronę produktu</td>
+<td>Odwróć się, zakryj usta jednorazową chusteczką, umyj ręce + dezynfekcja</td>
+</tr>
+</tbody>
+</table>
+
+<h2 style="color:#27ae60;">PODSUMOWANIE - ZŁOTE ZASADY</h2>
+
+<div style="background-color:#d5f4e6; padding:20px; margin:30px 0; border:2px solid #27ae60;">
+<ol style="line-height:2; font-size:17px; font-weight:bold;">
+<li>MYJ RĘCE przez minimum 30 sekund (7 kroków WHO)</li>
+<li>ZAWSZE noś czepek, fartuch, czyste obuwie</li>
+<li>ZAKAZ: biżuteria, telefon, malowane paznokcie, jedzenie</li>
+<li>AKTUALNA książeczka zdrowia - kontroluj ważność!</li>
+<li>ZGŁASZAJ chorobę NATYCHMIAST - nie pracuj chory!</li>
+<li>RĘKAWICE nie zastępują mycia rąk - myj przed i po!</li>
+<li>HIGIENA = BEZPIECZEŃSTWO ŻYWNOŚCI = ZADOWOLONY KLIENT</li>
+</ol>
+</div>
+
+<div style="background-color:#e8f4f8; padding:15px; margin:30px 0;">
+<p style="font-size:18px; line-height:1.8;">
+<b>PAMIĘTAJ:</b> Ty jesteś pierwszą linią obrony przed zanieczyszczeniem żywności! Przestrzeganie higieny osobistej to nie kaprys - to <b>wymóg prawny</b> i <b>odpowiedzialność</b> za zdrowie konsumentów.
+</p>
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- ============================================================ -->
+<!-- NOTATKA 4: Materiały szkoleniowe - Podstawy HACCP -->
+<!-- ============================================================ -->
+
+<note>
+<title>Materiały szkoleniowe: Podstawy HACCP</title>
+<created>20250104T120400Z</created>
+<updated>20250104T120400Z</updated>
+<tag>05_Szkolenia</tag>
+<tag>Materiały_Szkoleniowe</tag>
+<tag>HACCP</tag>
+<tag>📋_Szablon</tag>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+
+<h1 style="color:#2c3e50; border-bottom:3px solid #e74c3c; padding-bottom:10px;">
+🛡️ Materiały szkoleniowe: Podstawy HACCP
+</h1>
+
+<div style="background-color:#fadbd8; padding:15px; border-left:4px solid #e74c3c; margin:20px 0;">
+<strong>Cel modułu:</strong> Zrozumienie podstaw systemu HACCP i roli pracownika w zapewnianiu bezpieczeństwa żywności<br/>
+<strong>Czas trwania:</strong> 90 minut<br/>
+<strong>Podstawa prawna:</strong> Rozporządzenie WE 852/2004, Kodeks Żywnościowy (Codex Alimentarius)
+</div>
+
+<h2 style="color:#e74c3c;">1. CZYM JEST HACCP?</h2>
+
+<div style="background-color:#f8f9fa; padding:20px; margin:20px 0; border:2px solid #e74c3c;">
+<p style="font-size:20px; font-weight:bold; text-align:center;">
+HACCP = Hazard Analysis and Critical Control Points
+</p>
+<p style="font-size:18px; text-align:center; margin-top:10px;">
+<b>Analiza Zagrożeń i Krytyczne Punkty Kontroli</b>
+</p>
+</div>
+
+<h3 style="color:#e74c3c;">Co to oznacza prostymi słowami?</h3>
+<div style="background-color:#e8f4f8; padding:15px; margin:15px 0;">
+<p style="line-height:1.8; font-size:16px;">
+HACCP to <b>system zapewniający bezpieczeństwo żywności</b> poprzez:
+</p>
+<ol style="line-height:1.8; font-size:16px;">
+<li><b>Identyfikację zagrożeń</b> (co może być niebezpieczne dla konsumenta?)</li>
+<li><b>Kontrolę tych zagrożeń</b> (jak zapobiegać i monitorować?)</li>
+<li><b>Dokumentowanie</b> (dowód, że wszystko działa prawidłowo)</li>
+</ol>
+<p style="line-height:1.8; font-size:16px; font-weight:bold; margin-top:15px;">
+HACCP = Zapobieganie problemom ZANIM się pojawią, a nie reagowanie PO fakcie!
+</p>
+</div>
+
+<h3 style="color:#e74c3c;">Dlaczego HACCP jest obowiązkowy?</h3>
+<ul style="line-height:1.8; font-size:16px;">
+<li>📜 <b>Wymóg prawny UE</b> - Rozporządzenie WE 852/2004 (każdy zakład produkcji żywności MUSI mieć HACCP)</li>
+<li>🏥 <b>Ochrona zdrowia konsumentów</b> - zapobieganie zatruciom pokarmowym</li>
+<li>✅ <b>Kontrole PIW/Sanepid</b> - brak HACCP = kara finansowa + wstrzymanie produkcji</li>
+<li>💼 <b>Wymagania klientów</b> - sieci handlowe, eksport wymagają HACCP</li>
+<li>📈 <b>Reputacja firmy</b> - brak HACCP = utrata zaufania klientów</li>
+</ul>
+
+<h2 style="color:#e74c3c;">2. HISTORIA HACCP - SKĄD SIĘ WZIĄŁ?</h2>
+
+<div style="background-color:#fff3cd; padding:15px; margin:20px 0;">
+<p style="line-height:1.8;">
+<b>🚀 Lata 60. XX wieku - Program kosmiczny NASA</b><br/>
+NASA potrzebowała systemu zapewniającego <b>100% bezpieczną żywność</b> dla astronautów (w kosmosie nie ma szpitala!). Firma Pillsbury opracowała HACCP - system oparty na <b>zapobieganiu</b>, nie kontroli końcowej.
+</p>
+<p style="line-height:1.8; margin-top:15px;">
+<b>📅 1993 - Kodeks Żywnościowy (Codex Alimentarius)</b><br/>
+Światowa Organizacja Zdrowia (WHO) i FAO zatwierdziły HACCP jako standard międzynarodowy.
+</p>
+<p style="line-height:1.8; margin-top:15px;">
+<b>🇪🇺 2006 - Obowiązkowy w całej UE</b><br/>
+Od 1 stycznia 2006 każdy zakład produkcji żywności w UE MUSI wdrożyć HACCP (Rozporządzenie WE 852/2004).
+</p>
+</div>
+
+<h2 style="color:#e74c3c;">3. TRZ typy zagrożeń w produkcji żywności</h2>
+
+<h3 style="color:#c0392b;">🦠 3.1. ZAGROŻENIA BIOLOGICZNE (najczęstsze!)</h3>
+<div style="background-color:#f8d7da; padding:15px; margin:15px 0; border-left:4px solid #c0392b;">
+<p><b>Czym są?</b> Bakterie, wirusy, pasożyty, pleśnie</p>
+<p><b>Dlaczego niebezpieczne?</b> Wywołują <b>zatrucia pokarmowe</b>, czasem śmiertelne!</p>
+
+<p style="margin-top:15px;"><b>Przykłady bakterii:</b></p>
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse; margin:10px 0;">
+<thead style="background-color:#c0392b; color:white;">
+<tr>
+<th>Bakteria</th>
+<th>Źródło</th>
+<th>Objawy</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8f9fa;">
+<td><b>Salmonella</b></td>
+<td>Drób, jaja, mięso</td>
+<td>Biegunka, gorączka, wymioty (2-7 dni)</td>
+</tr>
+<tr>
+<td><b>Listeria monocytogenes</b></td>
+<td>Mięso, sery, ryby</td>
+<td>Gorączka, zapalenie opon mózgowych (śmiertelna dla ciężarnych!)</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td><b>E. coli O157:H7</b></td>
+<td>Wołowina, mleko surowe</td>
+<td>Krwawa biegunka, niewydolność nerek</td>
+</tr>
+<tr>
+<td><b>Staphylococcus aureus</b></td>
+<td>Ręce pracowników, rany</td>
+<td>Wymioty, bóle brzucha (30 min - 6h)</td>
+</tr>
+</tbody>
+</table>
+
+<p style="margin-top:15px;"><b>Jak zapobiegać?</b></p>
+<ul>
+<li>✅ <b>Higiena osobista</b> (mycie rąk, czysta odzież)</li>
+<li>✅ <b>Kontrola temperatury</b> (chłodnie 0-4°C, obróbka termiczna ≥68°C)</li>
+<li>✅ <b>Zapobieganie zanieczyszczeniom krzyżowym</b> (osobne deski do surowego mięsa i gotowych produktów)</li>
+<li>✅ <b>Kontrola surowców</b> (tylko od sprawdzonych dostawców, z HDI)</li>
+</ul>
+</div>
+
+<h3 style="color:#f39c12;">⚗️ 3.2. ZAGROŻENIA CHEMICZNE</h3>
+<div style="background-color:#fcf8e3; padding:15px; margin:15px 0; border-left:4px solid #f39c12;">
+<p><b>Czym są?</b> Substancje chemiczne w żywności</p>
+
+<p style="margin-top:15px;"><b>Przykłady:</b></p>
+<ul style="line-height:1.8;">
+<li><b>Środki czystości</b> (detergenty, dezynfekcja) - zatrucie, oparzenia chemiczne</li>
+<li><b>Alergeny</b> (gluten, orzechy, mleko) - reakcja alergiczna, wstrząs anafilaktyczny</li>
+<li><b>Pestycydy</b> (resztki na warzywach/owocach) - zatrucie przewlekłe</li>
+<li><b>Metale ciężkie</b> (ołów, rtęć w rybach) - uszkodzenie układu nerwowego</li>
+<li><b>Dodatki do żywności</b> (azotyny, barwniki) - nadmierne ilości toksyczne</li>
+</ul>
+
+<p style="margin-top:15px;"><b>Jak zapobiegać?</b></p>
+<ul>
+<li>✅ <b>Przechowuj środki chemiczne OSOBNO</b> od żywności (oznakowane szafy zamykane)</li>
+<li>✅ <b>Etykietuj wszystkie pojemniki</b> (nigdy nie przelewaj do pojemników po żywności!)</li>
+<li>✅ <b>Kontroluj alergeny</b> (mycie między produktami z różnymi alergenami)</li>
+<li>✅ <b>Sprawdzaj certyfikaty dostawców</b> (badania pozostałości pestycydów)</li>
+</ul>
+</div>
+
+<h3 style="color:#3498db;">🔩 3.3. ZAGROŻENIA FIZYCZNE</h3>
+<div style="background-color:#d6eaf8; padding:15px; margin:15px 0; border-left:4px solid #3498db;">
+<p><b>Czym są?</b> Obce ciała w żywności</p>
+
+<p style="margin-top:15px;"><b>Przykłady:</b></p>
+<ul style="line-height:1.8;">
+<li><b>Szkło</b> (rozbita żarówka, szklana butelka) - przecięcie, zadławienie</li>
+<li><b>Metal</b> (śrubki, kawałki maszyn) - połamanie zęba, zadławienie</li>
+<li><b>Plastik</b> (kawałki opakowania) - zadławienie</li>
+<li><b>Włosy</b> (pracownika) - obrzydzenie, reklamacja</li>
+<li><b>Kamienie</b> (w ziarnie, warzywach) - połamanie zęba</li>
+<li><b>Owady</b> (muchy, karaluchy) - przenoszenie bakterii, obrzydzenie</li>
+</ul>
+
+<p style="margin-top:15px;"><b>Jak zapobiegać?</b></p>
+<ul>
+<li>✅ <b>Zakrywaj włosy</b> czepkiem (100% włosów ukrytych!)</li>
+<li>✅ <b>Konserwacja maszyn</b> (regularny przegląd, dokręcanie śrub)</li>
+<li>✅ <b>Zakaz szkła</b> w strefie produkcji (tylko plastik, metal)</li>
+<li>✅ <b>Wykrywacze metali</b> (na linii produkcyjnej - jeśli jest)</li>
+<li>✅ <b>Kontrola szkodników</b> (DDD - deratyzacja, dezynsekcja)</li>
+<li>✅ <b>Filtry, sita</b> przy przyjmowaniu surowców sypkich</li>
+</ul>
+</div>
+
+<h2 style="color:#e74c3c;">4. CCP - KRYTYCZNE PUNKTY KONTROLI</h2>
+
+<div style="background-color:#fadbd8; padding:20px; margin:20px 0; border:2px solid #e74c3c;">
+<p style="font-size:18px; font-weight:bold;">
+CCP (Critical Control Point) = Krytyczny Punkt Kontroli
+</p>
+<p style="line-height:1.8; margin-top:15px;">
+To <b>etap w procesie produkcji</b>, na którym <b>MUSIMY</b> kontrolować zagrożenie, żeby zapobiec niebezpieczeństwu dla konsumenta.
+</p>
+</div>
+
+<h3 style="color:#e74c3c;">Przykłady CCP w zakładach produkcji żywności:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#e74c3c; color:white;">
+<tr>
+<th style="width:30%;">Typ zakładu</th>
+<th style="width:35%;">CCP</th>
+<th style="width:35%;">Limit krytyczny</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8f9fa;">
+<td><b>Zakład mięsny</b></td>
+<td>Obróbka termiczna (parzenie, pieczenie)</td>
+<td>Temperatura wewnątrz produktu <b>≥68°C</b></td>
+</tr>
+<tr>
+<td><b>Mleczarnia</b></td>
+<td>Pasteryzacja mleka</td>
+<td>Temperatura <b>72°C przez 15 sekund</b></td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td><b>Piekarnia</b></td>
+<td>Pieczenie chleba</td>
+<td>Temperatura wewnątrz ciasta <b>≥95°C</b></td>
+</tr>
+<tr>
+<td><b>Restauracja</b></td>
+<td>Smażenie mięsa</td>
+<td>Temperatura wewnątrz <b>≥68°C</b></td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td><b>Przetwórnia ryb</b></td>
+<td>Mrożenie (zabicie pasożytów Anisakis)</td>
+<td>Temperatura <b>-20°C przez 24h</b></td>
+</tr>
+</tbody>
+</table>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid:#ffc107; margin:20px 0;">
+<p><b>⚠️ DLACZEGO CCP JEST TAK WAŻNY?</b></p>
+<ul style="line-height:1.8;">
+<li>To <b>ostatnia szansa</b> na eliminację zagrożenia (np. bakterii w mięsie)</li>
+<li>Jeśli CCP zawiedzie = <b>produkt niebezpieczny</b> trafi do konsumenta</li>
+<li>CCP <b>MUSI</b> być monitorowany przy KAŻDEJ partii produktu</li>
+<li>CCP <b>MUSI</b> być udokumentowany w rejestrach</li>
+</ul>
+</div>
+
+<h3 style="color:#e74c3c;">Czym różni się CCP od zwykłej kontroli?</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#e74c3c; color:white;">
+<tr>
+<th style="width:50%;">Zwykła kontrola (CP)</th>
+<th style="width:50%;">Krytyczny Punkt Kontroli (CCP)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="vertical-align:top;">
+<ul>
+<li>Ważna, ale nie krytyczna</li>
+<li>Można kontrolować rzadziej</li>
+<li>Przekroczenie limitu = niezgodność, ale niekoniecznie niebezpieczeństwo</li>
+<li>Przykład: Temperatura magazynu (9°C zamiast 8°C - nie tragedia)</li>
+</ul>
+</td>
+<td style="vertical-align:top; background-color:#fadbd8;">
+<ul>
+<li><b>KRYTYCZNA</b> dla bezpieczeństwa</li>
+<li>Kontrola przy <b>KAŻDEJ partii</b></li>
+<li>Przekroczenie limitu = <b>NIEBEZPIECZNY PRODUKT</b></li>
+<li>Przykład: Temperatura obróbki termicznej (67°C zamiast 68°C - bakterie przeżyją! ODRZUCENIE PARTII!)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h2 style="color:#e74c3c;">5. ROLA PRACOWNIKA W SYSTEMIE HACCP</h2>
+
+<div style="background-color:#d5f4e6; padding:20px; margin:30px 0; border:2px solid #27ae60;">
+<p style="font-size:18px; font-weight:bold; text-align:center; margin-bottom:15px;">
+TY JESTEŚ KLUCZOWYM OGNIWEM W SYSTEMIE HACCP!
+</p>
+<p style="line-height:1.8; text-align:center;">
+Nawet najlepsza dokumentacja HACCP nie zadziała, jeśli pracownicy nie stosują procedur w praktyce.
+</p>
+</div>
+
+<h3 style="color:#27ae60;">Co możesz zrobić, żeby HACCP działał?</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#27ae60; color:white;">
+<tr>
+<th style="width:50%;">✅ TAK - DOBRE PRAKTYKI</th>
+<th style="width:50%;">❌ NIE - ZŁAMANIE HACCP</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8f9fa;">
+<td>Myj ręce przed każdą czynnością (7 kroków WHO)</td>
+<td>Dotykanie produktu brudnymi rękami → bakterie!</td>
+</tr>
+<tr>
+<td>Noś czysty fartuch, czepek, rękawice</td>
+<td>Praca bez czepka → włos w produkcie → reklamacja</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>Kontroluj temperaturę 2x dziennie, zapisuj w rejestrze</td>
+<td>Zaniedbanie pomiaru → nie wiemy, czy chłodnia działa!</td>
+</tr>
+<tr>
+<td>Zgłaszaj niezgodności natychmiast (np. uszkodzona maszyna)</td>
+<td>Ukrywanie problemów → niebezpieczny produkt trafia do klienta</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td>Wypełniaj rejestry UCZCIWIE (prawdziwe dane!)</td>
+<td>Fałszowanie rejestrów → brak dowodu kontroli CCP → kara od PIW</td>
+</tr>
+<tr>
+<td>Pytaj, jeśli czegoś nie rozumiesz (lepsza głupia pytanie niż błąd)</td>
+<td>Robienie czegoś „po swojemu" bez znajomości procedury → ryzyko!</td>
+</tr>
+</tbody>
+</table>
+
+<h3 style="color:#e74c3c;">Twoje obowiązki jako pracownika produkcji:</h3>
+<ol style="line-height:1.8; font-size:16px;">
+<li>✅ <b>Znać procedury</b> dotyczące swojego stanowiska</li>
+<li>✅ <b>Stosować procedury</b> w codziennej pracy</li>
+<li>✅ <b>Wypełniać rejestry</b> rzetelnie i na bieżąco</li>
+<li>✅ <b>Zgłaszać niezgodności</b> kierownikowi (awarie, przekroczenia temperatur, podejrzane surowce)</li>
+<li>✅ <b>Uczestniczyć w szkoleniach</b> (wstępne + okresowe minimum 1x rocznie)</li>
+<li>✅ <b>Przestrzegać higieny osobistej</b> (mycie rąk, odzież ochronna, badania sanitarne)</li>
+<li>✅ <b>Nie pracować chorym</b> (gorączka, biegunka, wymioty = zgłoś i zostań w domu!)</li>
+</ol>
+
+<h2 style="color:#e74c3c;">6. SCHEMAT PRZEPŁYWU PRODUKCJI</h2>
+
+<div style="background-color:#e8f4f8; padding:15px; margin:20px 0;">
+<p><b>Schemat przepływu produkcji</b> to mapa pokazująca, jak surowiec staje się produktem gotowym.</p>
+<p style="margin-top:10px;"><b>Dlaczego to ważne?</b> Pozwala zidentyfikować zagrożenia na każdym etapie.</p>
+</div>
+
+<h3 style="color:#e74c3c;">Przykład: Schemat produkcji kiełbasy (zakład mięsny)</h3>
+
+<table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<thead style="background-color:#3498db; color:white;">
+<tr>
+<th style="width:5%;">Nr</th>
+<th style="width:35%;">Etap</th>
+<th style="width:30%;">Zagrożenie</th>
+<th style="width:30%;">Środki zapobiegawcze</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center;">1</td>
+<td>Przyjęcie surowca (półtusze)</td>
+<td>Salmonella, E. coli</td>
+<td>Kontrola temp. ≤7°C, HDI, ocena wizualna</td>
+</tr>
+<tr>
+<td style="text-align:center;">2</td>
+<td>Magazynowanie w chłodni</td>
+<td>Rozwój bakterii</td>
+<td>Chłodnia 0-4°C, kontrola 2x dziennie</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center;">3</td>
+<td>Rozbiór i wykrawanie</td>
+<td>Zanieczyszczenie krzyżowe</td>
+<td>Osobne deski, noże; mycie rąk</td>
+</tr>
+<tr>
+<td style="text-align:center;">4</td>
+<td>Mielenie mięsa</td>
+<td>Bakterie, metal (z wilka)</td>
+<td>Temp. ≤15°C, konserwacja wilka</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center;">5</td>
+<td>Przygotowanie farszu</td>
+<td>Bakterie, alergeny</td>
+<td>Temp. ≤15°C, mycie między produktami</td>
+</tr>
+<tr>
+<td style="text-align:center;">6</td>
+<td>Nadziewanie w osłonki</td>
+<td>Zanieczyszczenie osłonek</td>
+<td>Osłonki od sprawdzonego dostawcy</td>
+</tr>
+<tr style="background-color:#fadbd8;">
+<td style="text-align:center; font-weight:bold;">7</td>
+<td style="font-weight:bold;">🔴 OBRÓBKA TERMICZNA (CCP-1)</td>
+<td style="font-weight:bold;">BAKTERIE! (Salmonella, Listeria, E. coli)</td>
+<td style="font-weight:bold;">Temp. wewnątrz ≥68°C, pomiar KAŻDEJ partii!</td>
+</tr>
+<tr>
+<td style="text-align:center;">8</td>
+<td>Schładzanie</td>
+<td>Ponowne zakażenie</td>
+<td>Szybkie (20-30°C w 1-2h), czyste pomieszczenie</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center;">9</td>
+<td>Pakowanie (próżniowe)</td>
+<td>Migracja chemiczna z folii</td>
+<td>Atest opakowań WE 1935/2004</td>
+</tr>
+<tr>
+<td style="text-align:center;">10</td>
+<td>Magazynowanie produktów gotowych</td>
+<td>Rozwój Listeria (rośnie w chłodni!)</td>
+<td>Temp. ≤8°C, FIFO, kontrola ważności</td>
+</tr>
+<tr style="background-color:#f8f9fa;">
+<td style="text-align:center;">11</td>
+<td>Sprzedaż</td>
+<td>Przekroczenie terminu ważności</td>
+<td>FIFO, kontrola dat, informacja klienta</td>
+</tr>
+</tbody>
+</table>
+
+<div style="background-color:#fadbd8; padding:15px; border-left:4px solid:#e74c3c; margin:20px 0;">
+<p style="font-weight:bold; font-size:16px;">
+🔴 ETAP 7 (Obróbka termiczna) = JEDYNY CCP w tym zakładzie!
+</p>
+<p style="margin-top:10px;">
+Dlaczego? Bo to <b>jedyny moment</b>, gdy możemy <b>zniszczyć bakterie patogenne</b>. Jeśli temperatura będzie za niska (<68°C), bakterie przeżyją i produkt będzie niebezpieczny!
+</p>
+</div>
+
+<h2 style="color:#e74c3c;">7. NAJCZĘSTSZE PYTANIA PRACOWNIKÓW</h2>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:15px 0;">
+<p style="font-weight:bold;">❓ Dlaczego muszę wypełniać tyle rejestrów? To strata czasu!</p>
+<p style="margin-top:10px; line-height:1.8;">
+✅ Rejestry to <b>dowód</b>, że system HACCP działa. Podczas kontroli PIW inspektor żąda rejestrów za ostatnie 3 miesiące. <b>Brak rejestrów = brak dowodu kontroli CCP = kara finansowa + wstrzymanie produkcji!</b> Wypełnianie rejestru to 2-3 minuty dziennie, ale chroni zakład przed karą 10 000 zł.
+</p>
+</div>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:15px 0;">
+<p style="font-weight:bold;">❓ Co jeśli zapomniałem wypełnić rejestr wczoraj?</p>
+<p style="margin-top:10px; line-height:1.8;">
+✅ <b>NIE WYMYŚLAJ DANYCH!</b> Zgłoś kierownikowi, że zapomniałeś. Lepsze białe pole niż fałszywe dane (sfałszowanie rejestru = przestępstwo!). W przyszłości ustaw sobie przypomnienie na telefonie lub wykorzystaj checklistę.
+</p>
+</div>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:15px 0;">
+<p style="font-weight:bold;">❓ Temperatura w chłodni przekroczyła limit (6°C zamiast 4°C). Co zrobić?</p>
+<p style="margin-top:10px; line-height:1.8;">
+✅ <b>NATYCHMIAST zgłoś kierownikowi!</b> To może być awaria agregatu. Kierownik zadecyduje o działaniach korygujących (naprawa, przeniesienie produktów). Wpisz przekroczenie w rejestrze + opis działań. <b>NIE UKRYWAJ!</b> Ukrywanie problemów może doprowadzić do zepsucia produktów za tysiące złotych.
+</p>
+</div>
+
+<div style="background-color:#f8f9fa; padding:15px; margin:15px 0;">
+<p style="font-weight:bold;">❓ Czy mogę jeść śniadanie na hali produkcyjnej, jeśli nikt nie patrzy?</p>
+<p style="margin-top:10px; line-height:1.8;">
+❌ <b>ABSOLUTNIE NIE!</b> Jedzenie przenosi bakterie z ust do rąk, a potem do produktu. To naruszenie GHP i HACCP. Jedzenie tylko w przeznaczonej do tego stołówce/pomieszczeniu socjalnym. Kamera może to nagrać → kara dla Ciebie i zakładu.
+</p>
+</div>
+
+<h2 style="color:#e74c3c;">PODSUMOWANIE - CO ZAPAMIĘTAĆ?</h2>
+
+<div style="background-color:#fadbd8; padding:20px; margin:30px 0; border:2px solid #e74c3c;">
+<ol style="line-height:2; font-size:17px; font-weight:bold;">
+<li>HACCP = System zapewniający <b>bezpieczeństwo żywności</b></li>
+<li><b>3 typy zagrożeń:</b> Biologiczne (bakterie), Chemiczne (środki czystości, alergeny), Fizyczne (szkło, metal, włosy)</li>
+<li><b>CCP</b> = Krytyczny Punkt Kontroli (np. obróbka termiczna ≥68°C) - MUSI być kontrolowany przy KAŻDEJ partii!</li>
+<li><b>TY jesteś kluczowy!</b> Bez Twojego zaangażowania HACCP nie działa</li>
+<li><b>Wypełniaj rejestry uczciwie</b> - to dowód, że system działa</li>
+<li><b>Zgłaszaj niezgodności</b> natychmiast - ukrywanie = ryzyko!</li>
+<li><b>Przestrzegaj higieny osobistej</b> - mycie rąk, odzież ochronna, badania</li>
+</ol>
+</div>
+
+<div style="background-color:#d5f4e6; padding:15px; margin:30px 0;">
+<p style="font-size:18px; line-height:1.8;">
+<b>PAMIĘTAJ:</b> HACCP to nie biurokracja dla biurokracji. To system, który <b>chroni zdrowie i życie konsumentów</b> - w tym Twoje i Twoich bliskich. Każdy produkt, który opuszcza zakład, powinien być <b>100% bezpieczny</b>. TY masz w tym swój udział!
+</p>
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+</en-export>

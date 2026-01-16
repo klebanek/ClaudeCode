@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export4.dtd">
+<en-export export-date="20251203T120000Z" application="Evernote" version="10.x">
+
+<!-- ================================================================== -->
+<!-- STACK I - GMP (Good Manufacturing Practice) -->
+<!-- 7 procedur: GMP-01 do GMP-07 -->
+<!-- ================================================================== -->
+
+<!-- GMP-01: Organizacja procesu produkcyjnego -->
+<note>
+<title>GMP-01 Organizacja procesu produkcyjnego</title>
+<created>20251203T100000Z</created>
+<updated>20251203T100000Z</updated>
+<tag>02_GMP</tag>
+<tag>Warunki_Wstępne</tag>
+<tag>Zakład_Mięsny</tag>
+<tag>✅_Zatwierdzone</tag>
+<note-attributes>
+<author>INOVIT e-Segregator</author>
+</note-attributes>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+<h1 style="color:#2c3e50; border-bottom:3px solid #2980b9; padding-bottom:10px;">
+GMP-01: Organizacja procesu produkcyjnego
+</h1>
+<div style="background-color:#e8f4f8; padding:15px; border-left:4px solid #2980b9; margin:20px 0;">
+<strong>Status:</strong> ✅ Zatwierdzone | <strong>Wersja:</strong> 1.0 | <strong>Data:</strong> 2025-12-03
+</div>
+
+<h2 style="color:#2c3e50;">1. CEL PROCEDURY</h2>
+<p style="line-height:1.6;">
+Zapewnienie prawidłowej organizacji procesu produkcyjnego zgodnie z zasadą "z brudnego do czystego" oraz "z surowego do gotowego", aby zapobiec zanieczyszczeniu krzyżowemu produktów.
+</p>
+
+<h2 style="color:#2c3e50;">2. ZASADA PRZEPŁYWU JEDNOKIERUNKOWEGO</h2>
+
+<div style="background-color:#d4edda; padding:15px; border-left:4px solid #28a745; margin:20px 0;">
+<strong>✅ ZASADA PODSTAWOWA:</strong><br/>
+Przepływ produktu powinien być JEDNOKIERUNKOWY od surowca do produktu gotowego bez możliwości kontaktu między strefami:<br/>
+📦 SUROWIEC → 🔪 OBRÓBKA → ⚙️ PRZETWÓRSTWO → 🧊 PAKOWANIE → 📤 MAGAZYN PRODUKTÓW GOTOWYCH
+</div>
+
+<h3 style="color:#34495e;">Strefy produkcyjne:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#2980b9; color:white;">
+<th style="width:25%;">Strefa</th>
+<th style="width:35%;">Czynności</th>
+<th style="width:20%;">Poziom higieny</th>
+<th style="width:20%;">Odzież</th>
+</tr>
+<tr>
+<td><strong>STREFA 1: Brudna</strong></td>
+<td>
+• Odbiór surowca<br/>
+• Rozpakowywanie<br/>
+• Magazyn surowców
+</td>
+<td>🟡 Średni</td>
+<td>Fartuch żółty</td>
+</tr>
+<tr>
+<td><strong>STREFA 2: Obróbki</strong></td>
+<td>
+• Rozdrabnianie mięsa<br/>
+• Mielenie<br/>
+• Dodatki przypraw
+</td>
+<td>🟠 Podwyższony</td>
+<td>Fartuch niebieski</td>
+</tr>
+<tr>
+<td><strong>STREFA 3: Przetwórstwa</strong></td>
+<td>
+• Obróbka termiczna<br/>
+• Wędzenie<br/>
+• Gotowanie
+</td>
+<td>🟠 Podwyższony</td>
+<td>Fartuch niebieski</td>
+</tr>
+<tr>
+<td><strong>STREFA 4: Czysta</strong></td>
+<td>
+• Pakowanie produktów gotowych<br/>
+• Etykietowanie<br/>
+• Magazyn produktów gotowych
+</td>
+<td>🟢 Wysoki</td>
+<td>Fartuch biały (sterylny)</td>
+</tr>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>⚠️ ZAKAZ PRZEPŁYWU WSTECZNEGO!</strong><br/>
+❌ Pracownik ze strefy brudnej NIE może wejść do strefy czystej bez zmiany odzieży i dezynfekcji rąk<br/>
+❌ Sprzęt używany w strefie surówki NIE może być używany w strefie produktu gotowego<br/>
+❌ Odpady ze strefy czystej NIE mogą być transportowane przez strefę surówki
+</div>
+
+<h2 style="color:#2c3e50;">3. ORGANIZACJA STANOWISK PRACY</h2>
+
+<h3 style="background-color:#2980b9; color:white; padding:10px;">Wymagania dla stanowisk:</h3>
+
+<ul style="line-height:1.8;">
+<li>✅ <strong>Powierzchnie robocze:</strong> Stal nierdzewna, łatwa do mycia</li>
+<li>✅ <strong>Wyposażenie:</strong> Dedykowane narzędzia dla każdej strefy (kodowanie kolorystyczne)</li>
+<li>✅ <strong>Dostęp do mycia:</strong> Umywalka z bezdotykowym kranem w odległości max 5m</li>
+<li>✅ <strong>Pojemniki na odpady:</strong> Z pokrywą, opróżniane min. 2x dziennie</li>
+<li>✅ <strong>Oświetlenie:</strong> Min. 540 lux (strefy kontroli), 220 lux (produkcja)</li>
+</ul>
+
+<h3 style="background-color:#2980b9; color:white; padding:10px;">Kodowanie kolorystyczne narzędzi:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#34495e; color:white;">
+<th style="width:20%;">Kolor</th>
+<th style="width:40%;">Strefa zastosowania</th>
+<th style="width:40%;">Przykłady narzędzi</th>
+</tr>
+<tr>
+<td style="background-color:#e74c3c; color:white; text-align:center;"><strong>CZERWONY</strong></td>
+<td>Surowe mięso (przed obróbką termiczną)</td>
+<td>Noże, deski, pojemniki, szczotki</td>
+</tr>
+<tr>
+<td style="background-color:#3498db; color:white; text-align:center;"><strong>NIEBIESKI</strong></td>
+<td>Produkty gotowe (po obróbce termicznej)</td>
+<td>Noże, deski, pojemniki, szczotki</td>
+</tr>
+<tr>
+<td style="background-color:#2ecc71; color:white; text-align:center;"><strong>ZIELONY</strong></td>
+<td>Warzywa, owoce (jeśli dotyczy)</td>
+<td>Noże, deski, obieraczki</td>
+</tr>
+<tr>
+<td style="background-color:#f39c12; color:white; text-align:center;"><strong>ŻÓŁTY</strong></td>
+<td>Pomieszczenia socjalne, toalety</td>
+<td>Szczotki, mopy, wiadra</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">4. PLANOWANIE PRODUKCJI</h2>
+
+<h3 style="color:#34495e;">Harmonogram dzienny:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#2c3e50; color:white;">
+<th style="width:15%;">Godzina</th>
+<th style="width:35%;">Czynność</th>
+<th style="width:25%;">Strefa</th>
+<th style="width:25%;">Odpowiedzialny</th>
+</tr>
+<tr>
+<td>06:00-06:30</td>
+<td>Przygotowanie stanowisk, kontrola czystości</td>
+<td>Wszystkie</td>
+<td>Brygadzista</td>
+</tr>
+<tr>
+<td>06:30-08:00</td>
+<td>Odbiór surowca, kontrola jakości</td>
+<td>Strefa 1 (Brudna)</td>
+<td>Magazynier + Kierownik Produkcji</td>
+</tr>
+<tr>
+<td>08:00-12:00</td>
+<td>Obróbka surowca (rozbiór, mielenie)</td>
+<td>Strefa 2 (Obróbki)</td>
+<td>Pracownicy produkcyjni</td>
+</tr>
+<tr>
+<td>12:00-12:30</td>
+<td>Przerwa + mycie stanowisk</td>
+<td>-</td>
+<td>Wszyscy</td>
+</tr>
+<tr>
+<td>12:30-14:00</td>
+<td>Przetwórstwo (obróbka termiczna, wędzenie)</td>
+<td>Strefa 3 (Przetwórstwa)</td>
+<td>Pracownicy produkcyjni</td>
+</tr>
+<tr>
+<td>14:00-15:00</td>
+<td>Pakowanie produktów gotowych</td>
+<td>Strefa 4 (Czysta)</td>
+<td>Pakujący (odzież biała sterylna)</td>
+</tr>
+<tr>
+<td>15:00-16:00</td>
+<td>Mycie i dezynfekcja całego zakładu</td>
+<td>Wszystkie</td>
+<td>Wszyscy + kontrola Brygadzisty</td>
+</tr>
+</table>
+
+<h3 style="color:#34495e;">Zasady planowania produkcji:</h3>
+
+<ul style="line-height:1.8;">
+<li>📋 <strong>Kolejność produkcji:</strong><br/>
+  1. Produkty o najdłuższej trwałości (wędliny suszone)<br/>
+  2. Produkty średniotrwałe (kiełbasy parzone)<br/>
+  3. Produkty krótkotrwałe (mięso mielone świeże)<br/>
+  <em>Uzasadnienie: w razie kontaminacji tracim y najmniej produktów krótkotrwałych</em>
+</li>
+<li>📋 <strong>Przerwy sanitarne:</strong><br/>
+  - Po produkcji alergenów (np. produkty z selerem, mlekiem) → mycie linii przed kolejną partią<br/>
+  - Po produkcji wysokiego ryzyka (surowe mięso mielone) → dezynfekcja wzmożona
+</li>
+<li>📋 <strong>Wielkość partii:</strong> Max 500 kg/partia (dla łatwiejszej identyfikowalności w razie wycofania)</li>
+</ul>
+
+<h2 style="color:#2c3e50;">5. KONTROLA MIĘDZYOPERACYJNA</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#e67e22; color:white;">
+<th style="width:30%;">Punkt kontrolny</th>
+<th style="width:40%;">Co sprawdzać?</th>
+<th style="width:30%;">Częstotliwość</th>
+</tr>
+<tr>
+<td>Odbiór surowca</td>
+<td>
+• Temperatura &lt;+4°C<br/>
+• Stan opakowań<br/>
+• Dokumenty weterynaryjne<br/>
+• Termin przydatności
+</td>
+<td>Każda dostawa (R-01)</td>
+</tr>
+<tr>
+<td>Po rozdrobnieniu</td>
+<td>
+• Temperatura mięsa &lt;+7°C<br/>
+• Brak zanieczyszczeń fizycznych<br/>
+• Zgodność z recepturą
+</td>
+<td>Każda partia</td>
+</tr>
+<tr>
+<td>Po obróbce termicznej (CCP!)</td>
+<td>
+• Temperatura w centrum produktu ≥72°C<br/>
+• Czas przetwarzania zgodny z recepturą<br/>
+• Wygląd, zapach prawidłowy
+</td>
+<td>Każda partia (R-06 - karta produkcyjna)</td>
+</tr>
+<tr>
+<td>Przed pakowaniem</td>
+<td>
+• Temperatura produktu &lt;+6°C<br/>
+• Kontrola wizualna (brak wad)<br/>
+• Czystość opakowań
+</td>
+<td>Wyrywkowo (co 10. opakowanie)</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">6. IDENTYFIKOWALNOŚĆ I OZNACZANIE PARTII</h2>
+
+<h3 style="color:#34495e;">System numeracji partii:</h3>
+
+<div style="background-color:#d1ecf1; padding:15px; border:2px solid #0c5460; margin:20px 0;">
+<strong>Format numeru partii:</strong><br/>
+<code style="font-size:18px; background:#fff; padding:5px;">RRMMDD-XX</code><br/><br/>
+<strong>Przykład:</strong> <code style="background:#fff; padding:5px;">251203-01</code><br/>
+• <strong>25</strong> = rok (2025)<br/>
+• <strong>12</strong> = miesiąc (grudzień)<br/>
+• <strong>03</strong> = dzień<br/>
+• <strong>01</strong> = numer partii w danym dniu (pierwsza partia)
+</div>
+
+<h3 style="color:#34495e;">Gdzie umieszczać numer partii:</h3>
+<ul style="line-height:1.8;">
+<li>📄 Na etykiecie produktu (widoczny dla konsumenta)</li>
+<li>📄 W karcie produkcyjnej (R-06)</li>
+<li>📄 W rejestrze surowców (R-01) - powiązanie surowca z produktem</li>
+<li>📄 Na opakowaniach zbiorczych (kartony)</li>
+</ul>
+
+<h3 style="color:#34495e;">Test identyfikowalności:</h3>
+<ul style="line-height:1.8;">
+<li>🔍 <strong>Częstotliwość:</strong> 1x w roku (obowiązkowy)</li>
+<li>🔍 <strong>Metoda:</strong><br/>
+  1. Wybrać losowo 1 produkt z magazynu<br/>
+  2. Odczytać numer partii z etykiety<br/>
+  3. Odszukać kartę produkcyjną (R-06) dla tej partii<br/>
+  4. Zidentyfikować surowce użyte w tej partii (R-01)<br/>
+  5. Zidentyfikować dostawców surowców<br/>
+  6. Sprawdzić dokumenty weterynaryjne<br/>
+  <strong>Czas wykonania testu:</strong> max 4 godziny (wymóg IFS/BRC)
+</li>
+<li>🔍 <strong>Raport:</strong> Protokół testu identyfikowalności (przechowywać 3 lata)</li>
+</ul>
+
+<h2 style="color:#2c3e50;">7. DOKUMENTY POWIĄZANE</h2>
+
+<ul style="line-height:1.8;">
+<li>📄 <strong>R-01</strong> - Rejestr przyjęcia surowca</li>
+<li>📄 <strong>R-06</strong> - Karta produkcyjna (dla każdej partii)</li>
+<li>📄 <strong>GMP-02</strong> - Przyjęcie surowców</li>
+<li>📄 <strong>GMP-03</strong> - Magazynowanie</li>
+<li>📄 <strong>HACCP-04</strong> - Schemat technologiczny (diagram przepływu)</li>
+<li>📄 <strong>Receptury produktów</strong> (segregator "Receptury")</li>
+</ul>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ ZATWIERDZENIE:</strong><br/>
+Kierownik ds. Jakości: __________ | Kierownik Produkcji: __________ | Prezes: __________
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- GMP-02: Przyjęcie surowców -->
+<note>
+<title>GMP-02 Przyjęcie surowców</title>
+<created>20251203T100000Z</created>
+<updated>20251203T100000Z</updated>
+<tag>02_GMP</tag>
+<tag>Warunki_Wstępne</tag>
+<tag>Zakład_Mięsny</tag>
+<tag>✅_Zatwierdzone</tag>
+<note-attributes>
+<author>INOVIT e-Segregator</author>
+</note-attributes>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+<h1 style="color:#2c3e50; border-bottom:3px solid #27ae60; padding-bottom:10px;">
+GMP-02: Przyjęcie surowców
+</h1>
+<div style="background-color:#e8f4f8; padding:15px; border-left:4px solid #27ae60; margin:20px 0;">
+<strong>Status:</strong> ✅ Zatwierdzone | <strong>Wersja:</strong> 1.0 | <strong>Data:</strong> 2025-12-03
+</div>
+
+<h2 style="color:#2c3e50;">1. CEL PROCEDURY</h2>
+<p style="line-height:1.6;">
+Zapewnienie, że do zakładu trafiają wyłącznie surowce spełniające wymagania jakościowe, zdrowotne i prawne, poprzez weryfikację dokumentów i kontrolę organoleptyczną przy odbiorze.
+</p>
+
+<h2 style="color:#2c3e50;">2. RODZAJE SUROWCÓW</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#27ae60; color:white;">
+<th style="width:25%;">Kategoria</th>
+<th style="width:40%;">Przykłady</th>
+<th style="width:35%;">Temperatura odbioru</th>
+</tr>
+<tr>
+<td><strong>Mięso świeże chłodzone</strong></td>
+<td>Wołowina, wieprzowina, drób (półtusze, elementy)</td>
+<td>0°C do +4°C</td>
+</tr>
+<tr>
+<td><strong>Mięso mrożone</strong></td>
+<td>Bloki mięsa, filet drobiowy mrożony</td>
+<td>-18°C lub niższa</td>
+</tr>
+<tr>
+<td><strong>Podroby jadalne</strong></td>
+<td>Wątroby, serca, języki</td>
+<td>0°C do +3°C</td>
+</tr>
+<tr>
+<td><strong>Tłuszcze zwierzęce</strong></td>
+<td>Słonina, smalec</td>
+<td>0°C do +4°C (chłodzone) lub -18°C (mrożone)</td>
+</tr>
+<tr>
+<td><strong>Dodatki</strong></td>
+<td>Przyprawy, peklowska, osłonki, opakowania</td>
+<td>Temperatura otoczenia (suche miejsce)</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">3. PROCEDURA PRZYJĘCIA SUROWCA</h2>
+
+<h3 style="background-color:#27ae60; color:white; padding:10px;">KROK 1: Weryfikacja dokumentów</h3>
+
+<p style="margin-left:20px;"><strong>Dokumenty wymagane przy dostawie mięsa:</strong></p>
+<ul style="line-height:1.8; margin-left:40px;">
+<li>✅ <strong>Świadectwo weterynaryjne (jeśli transport międzywojewódzki)</strong><br/>
+  - Wydane przez urzędowego lekarza weterynarii<br/>
+  - Ważność: na czas transportu<br/>
+  - Potwierdzenie: mięso pochodzi z zatwierdzonego zakładu
+</li>
+<li>✅ <strong>Dokument identyfikacji partii</strong><br/>
+  - Numer partii producenta<br/>
+  - Data produkcji/uboju<br/>
+  - Numer weterynaryjny zakładu producenta (np. PL 12345678 WE)
+</li>
+<li>✅ <strong>Dokument handlowy</strong><br/>
+  - Faktura VAT lub WZ<br/>
+  - Nazwa surowca, ilość (kg), cena
+</li>
+<li>✅ <strong>Certyfikat laboratoryjny</strong> (opcjonalnie, jeśli uzgodnione z dostawcą)<br/>
+  - Badania mikrobiologiczne: Salmonella, E.coli, TLO<br/>
+  - Ważność: max 3 miesiące
+</li>
+</ul>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>⚠️ BRAK DOKUMENTÓW = ODMOWA PRZYJĘCIA!</strong><br/>
+Mięso bez świadectwa weterynaryjnego (jeśli wymagane) lub numeru weterynaryjnego zakładu producenta NIE może być przyjęte.<br/>
+<strong>Konsekwencje:</strong> Grzywna do 20 000 zł (kontrola WIW W) + możliwa kwarantanna zakładu.
+</div>
+
+<h3 style="background-color:#27ae60; color:white; padding:10px;">KROK 2: Kontrola temperatury</h3>
+
+<ul style="line-height:1.8;">
+<li>🌡️ <strong>Urządzenie:</strong> Termometr wbijany (kalibrowany co 12 miesięcy!)</li>
+<li>🌡️ <strong>Miejsce pomiaru:</strong> Centrum produktu (najgrubsza część mięsa)</li>
+<li>🌡️ <strong>Normy:</strong><br/>
+  - Mięso świeże chłodzone: 0°C do +4°C<br/>
+  - Mięso mrożone: -18°C lub niższa<br/>
+  - Podroby: 0°C do +3°C
+</li>
+<li>🌡️ <strong>Tolerancja:</strong> +1°C (w trakcie rozładunku - krótkotrwałe ocieplenie dopuszczalne)</li>
+</ul>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid #ffc107; margin:20px 0;">
+<strong>⚠️ TEMPERATURA &gt; NORMA + 2°C:</strong><br/>
+• Mięso świeże &gt;+6°C → ODMOWA PRZYJĘCIA (ryzyko rozwoju bakterii)<br/>
+• Mięso mrożone &gt;-15°C → ODMOWA (rozmrożenie częściowe = utrata jakości)<br/><br/>
+<strong>Wyjątek:</strong> Jeśli temp. +4°C do +6°C (niewielkie przekroczenie) i dostawa w lecie (upał) + krótki transport:<br/>
+→ Można przyjąć z adnotacją "Do natychmiastowej obróbki" (użyć tego samego dnia!)
+</div>
+
+<h3 style="background-color:#27ae60; color:white; padding:10px;">KROK 3: Kontrola organoleptyczna (wzrokowo-zapachowa)</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#34495e; color:white;">
+<th style="width:25%;">Cecha</th>
+<th style="width:40%;">Wymagania (PRAWIDŁOWE)</th>
+<th style="width:35%;">Nieprawidłowości (ODMOWA!)</th>
+</tr>
+<tr>
+<td><strong>Wygląd</strong></td>
+<td>
+• Powierzchnia sucha lub lekko wilgotna<br/>
+• Barwa charakterystyczna:<br/>
+  - Wołowina: ciemnoczerwona<br/>
+  - Wieprzowina: jasnoróżowa<br/>
+  - Drób: jasnoróżowa/biaława
+</td>
+<td>
+❌ Śluzowata powierzchnia<br/>
+❌ Przebarwienia (zielonkawe, szare)<br/>
+❌ Widoczna pleśń<br/>
+❌ Nadmierna wilgoć (kałuże w opakowaniu)
+</td>
+</tr>
+<tr>
+<td><strong>Zapach</strong></td>
+<td>
+• Świeży, mięsny, lekko kwaśny (naturalny)<br/>
+• Brak obcych zapachów
+</td>
+<td>
+❌ Zapach kwaśny intensywny<br/>
+❌ Zapach gnilny, zjełczały<br/>
+❌ Zapach amoniaku (drób zepsuty!)<br/>
+❌ Zapach chemiczny, obcy
+</td>
+</tr>
+<tr>
+<td><strong>Konsystencja</strong></td>
+<td>
+• Jędrna, sprężysta<br/>
+• Po naciśnięciu palcem wgłębienie szybko się wypłaszcza
+</td>
+<td>
+❌ Miękka, wiotka<br/>
+❌ Wgłębienie po naciśnięciu pozostaje<br/>
+❌ Rozpadająca się struktura
+</td>
+</tr>
+<tr>
+<td><strong>Opakowanie</strong></td>
+<td>
+• Czyste, nieuszkodzone<br/>
+• Szczelne (próżniowe bez powietrza)<br/>
+• Etykiety czytelne
+</td>
+<td>
+❌ Uszkodzone, podarte<br/>
+❌ Napompowane (gaz w próżni = bakterie!)<br/>
+❌ Brudne, zakrwawione zewnętrznie
+</td>
+</tr>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>🚫 KRYTERIA ODRZUCENIA - NATYCHMIASTOWA ODMOWA:</strong><br/>
+1. Zapach gnilny lub kwaśny intensywny<br/>
+2. Śluzowata powierzchnia lub pleśń<br/>
+3. Temperatura &gt;+6°C (mięso świeże) lub &gt;-15°C (mrożone)<br/>
+4. Brak dokumentów weterynaryjnych<br/>
+5. Opakowanie napompowane (gazy z rozkładu bakteryjnego)<br/>
+6. Termin przydatności przekroczony
+</div>
+
+<h3 style="background-color:#27ae60; color:white; padding:10px;">KROK 4: Rejestracja odbioru</h3>
+
+<p style="margin-left:20px;"><strong>Wypełnienie rejestru R-01 (Rejestr przyjęcia surowca):</strong></p>
+<ul style="line-height:1.8; margin-left:40px;">
+<li>📝 Data i godzina dostawy</li>
+<li>📝 Dostawca (nazwa firmy, nr weterynaryjny zakładu)</li>
+<li>📝 Nazwa surowca (np. "Wołowina kl. I - ćwiartka przednia")</li>
+<li>📝 Ilość (kg)</li>
+<li>📝 Numer partii (producenta)</li>
+<li>📝 Temperatura zmierzona (°C)</li>
+<li>📝 Ocena organoleptyczna: ✅ PRZYJĘTO / ❌ ODRZUCONO</li>
+<li>📝 Uwagi (jeśli są nieprawidłowości drobne)</li>
+<li>📝 Podpis osoby odbierającej (Magazynier + Kierownik Produkcji)</li>
+</ul>
+
+<h3 style="background-color:#27ae60; color:white; padding:10px;">KROK 5: Umieszczenie w magazynie</h3>
+
+<ul style="line-height:1.8;">
+<li>🧊 Natychmiastowe przeniesienie do komory chłodniczej (max 15 min od rozładunku)</li>
+<li>🧊 Segregacja:<br/>
+  - Surowce różnych dostawców oddzielnie (identyfikowalność!)<br/>
+  - Mięso różnych gatunków oddzielnie (wołowina / wieprzowina / drób)
+</li>
+<li>🧊 Zasada FIFO (First In First Out) - wcześniej dostarczone zużyć wcześniej</li>
+<li>🧊 Oznaczenie palet/pojemników:<br/>
+  Etykieta: Dostawca | Data dostawy | Nr partii | "ZUŻYĆ DO: [data]"
+</li>
+</ul>
+
+<h2 style="color:#2c3e50;">4. POSTĘPOWANIE W RAZIE ODRZUCENIA</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#e74c3c; color:white;">
+<th style="width:15%;">Krok</th>
+<th style="width:85%;">Działanie</th>
+</tr>
+<tr>
+<td>1</td>
+<td><strong>Nie wyładowywać!</strong> Surowiec zostaje w samochodzie dostawcy</td>
+</tr>
+<tr>
+<td>2</td>
+<td><strong>Protokół odmowy przyjęcia:</strong><br/>
+• Sporządzić na miejscu (2 egzemplarze)<br/>
+• Podać przyczynę (np. "Temperatura +8°C, przekroczenie normy")<br/>
+• Podpisy: osoba odbierająca (my) + kierowca (dostawca)<br/>
+• 1 egzemplarz dla dostawcy, 1 dla nas (archiwum)
+</td>
+</tr>
+<tr>
+<td>3</td>
+<td><strong>Kontakt z dostawcą:</strong><br/>
+• Telefoniczny (natychmiast) + e-mail (tego samego dnia)<br/>
+• Poinformowanie o odmowie i przyczynie<br/>
+• Ustalenie: zwrot towaru lub wymiana na jakościowy (tego samego dnia!)
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td><strong>Reklamacja formalna:</strong><br/>
+• Jeśli dostawca nie reaguje → reklamacja pisemna (e-mail + list polecony)<br/>
+• Żądanie: zwrot kosztów + odszkodowanie (jeśli przestój produkcji)<br/>
+• Rozważenie zmiany dostawcy (jeśli powtarzające się problemy)
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td><strong>Dokumentacja:</strong><br/>
+• Protokół odmowy → segregator "Reklamacje dostawców" (5 lat)<br/>
+• Wpis do rejestru R-01 z adnotacją "ODRZUCONO"<br/>
+• Raport dla Kierownika ds. Jakości
+</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">5. ZARZĄDZANIE DOSTAWCAMI</h2>
+
+<h3 style="color:#34495e;">Wykaz zatwierdzonych dostawców:</h3>
+
+<p style="line-height:1.6;">Zakład może kupować surowce WYŁĄCZNIE od dostawców z "Wykazu zatwierdzonych dostawców" (Rejestr Dostawców).</p>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#3498db; color:white;">
+<th style="width:25%;">Dane dostawcy</th>
+<th style="width:25%;">Wymagane dokumenty</th>
+<th style="width:25%;">Częstotliwość oceny</th>
+<th style="width:25%;">Status</th>
+</tr>
+<tr>
+<td>
+<strong>Nazwa firmy:</strong> __________<br/>
+<strong>Nr wet.:</strong> PL ________ WE<br/>
+<strong>Adres:</strong> __________<br/>
+<strong>Tel.:</strong> __________
+</td>
+<td>
+✅ Numer weterynaryjny zakładu<br/>
+✅ Certyfikat systemu jakości (IFS/BRC - opcjonalnie)<br/>
+✅ Deklaracja zgodności (surowce bez GMO, antybiotyków)
+</td>
+<td>
+• Ocena po każdych 10 dostawach<br/>
+• Przegląd roczny (audyt u dostawcy - zalecany)
+</td>
+<td>
+🟢 Zatwierdzony<br/>
+🟡 Warunkowy<br/>
+🔴 Zawieszony
+</td>
+</tr>
+</table>
+
+<h3 style="color:#34495e;">Ocena dostawcy (punktowa):</h3>
+
+<ul style="line-height:1.8;">
+<li>✅ <strong>100 pkt:</strong> Wszystkie dostawy bez zastrzeżeń → Status: Zatwierdzony</li>
+<li>🟡 <strong>80-99 pkt:</strong> Drobne nieprawidłowości (np. 1x temperatura +5°C) → Status: Warunkowy (obserwacja)</li>
+<li>🔴 <strong>&lt;80 pkt:</strong> Poważne naruszenia (np. 2x odmowa przyjęcia) → Status: Zawieszony (zakaz zamówień!)</li>
+</ul>
+
+<p style="margin-left:20px;"><strong>Kryteria oceny (punkty ujemne):</strong></p>
+<ul style="line-height:1.8; margin-left:40px;">
+<li>-5 pkt: Przekroczenie temperatury o +1°C do +2°C</li>
+<li>-10 pkt: Brak dokumentów (opóźnienie w dostawie)</li>
+<li>-20 pkt: Odmowa przyjęcia (niezgodność jakościowa)</li>
+<li>-50 pkt: Salmonella w produkcie (wykryta w badaniach laboratoryjnych)</li>
+</ul>
+
+<h2 style="color:#2c3e50;">6. DODATKI I MATERIAŁY POMOCNICZE</h2>
+
+<h3 style="color:#34495e;">Kontrola przy odbiorze dodatków:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#f39c12; color:white;">
+<th style="width:30%;">Rodzaj dodatku</th>
+<th style="width:40%;">Co sprawdzać?</th>
+<th style="width:30%;">Wymagane dokumenty</th>
+</tr>
+<tr>
+<td>Przyprawy, peklowska</td>
+<td>
+• Termin przydatności<br/>
+• Opakowanie szczelne, czyste<br/>
+• Brak zbryleń (wilgoć)<br/>
+• Zapach charakterystyczny
+</td>
+<td>
+• Certyfikat jakości (od producenta)<br/>
+• Deklaracja zgodności (dopuszczone do żywności)
+</td>
+</tr>
+<tr>
+<td>Osłonki (naturalne/sztuczne)</td>
+<td>
+• Opakowanie szczelne<br/>
+• Brak uszkodzeń mechanicznych<br/>
+• Termin przydatności
+</td>
+<td>
+• Atest PZH (dla osłonek syntetycznych)<br/>
+• Deklaracja zgodności
+</td>
+</tr>
+<tr>
+<td>Opakowania (folie, kartony)</td>
+<td>
+• Czystość (brak brudu, kurzu)<br/>
+• Brak uszkodzeń<br/>
+• Zgodność z zamówieniem (rozmiar, typ)
+</td>
+<td>
+• Deklaracja zgodności (kontakt z żywnością)<br/>
+• Certyfikat producenta
+</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">7. DOKUMENTY POWIĄZANE</h2>
+
+<ul style="line-height:1.8;">
+<li>📄 <strong>R-01</strong> - Rejestr przyjęcia surowca (wypełnianie przy każdej dostawie)</li>
+<li>📄 <strong>Wykaz zatwierdzonych dostawców</strong> - (aktualizacja co 6 miesięcy)</li>
+<li>📄 <strong>Protokoły odmowy przyjęcia</strong> - segregator "Reklamacje" (5 lat)</li>
+<li>📄 <strong>GMP-03</strong> - Magazynowanie (po przyjęciu)</li>
+<li>📄 <strong>GMP-01</strong> - Organizacja procesu (identyfikowalność)</li>
+<li>📄 <strong>Świadectwa weterynaryjne</strong> - segregator "Dostawy" (2 lata)</li>
+</ul>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ ZATWIERDZENIE:</strong><br/>
+Kierownik ds. Jakości: __________ | Kierownik Produkcji: __________ | Prezes: __________
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+<!-- GMP-03: Magazynowanie -->
+<note>
+<title>GMP-03 Magazynowanie surowców i produktów</title>
+<created>20251203T100000Z</created>
+<updated>20251203T100000Z</updated>
+<tag>02_GMP</tag>
+<tag>Warunki_Wstępne</tag>
+<tag>Zakład_Mięsny</tag>
+<tag>✅_Zatwierdzone</tag>
+<note-attributes>
+<author>INOVIT e-Segregator</author>
+</note-attributes>
+<content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+<en-note>
+<div style="padding:20px; font-family:Arial,sans-serif;">
+<h1 style="color:#2c3e50; border-bottom:3px solid #8e44ad; padding-bottom:10px;">
+GMP-03: Magazynowanie surowców i produktów
+</h1>
+<div style="background-color:#e8f4f8; padding:15px; border-left:4px solid #8e44ad; margin:20px 0;">
+<strong>Status:</strong> ✅ Zatwierdzone | <strong>Wersja:</strong> 1.0 | <strong>Data:</strong> 2025-12-03
+</div>
+
+<h2 style="color:#2c3e50;">1. CEL PROCEDURY</h2>
+<p style="line-height:1.6;">
+Zapewnienie prawidłowych warunków przechowywania surowców i produktów gotowych, aby zachować ich jakość, bezpieczeństwo i trwałość zgodnie z wymaganiami.
+</p>
+
+<h2 style="color:#2c3e50;">2. WYMAGANIA TEMPERATUROWE</h2>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#8e44ad; color:white;">
+<th style="width:30%;">Rodzaj produktu</th>
+<th style="width:25%;">Temperatura</th>
+<th style="width:25%;">Max czas przechowywania</th>
+<th style="width:20%;">Kontrola</th>
+</tr>
+<tr>
+<td><strong>Mięso świeże chłodzone</strong></td>
+<td>0°C do +4°C</td>
+<td>3-5 dni</td>
+<td>2x dziennie (R-02)</td>
+</tr>
+<tr>
+<td><strong>Mięso mrożone</strong></td>
+<td>-18°C lub niższa</td>
+<td>6-12 miesięcy</td>
+<td>1x dziennie</td>
+</tr>
+<tr>
+<td><strong>Produkty gotowe ch łodzone</strong></td>
+<td>0°C do +6°C</td>
+<td>Wg etykiety (7-21 dni)</td>
+<td>2x dziennie (R-02)</td>
+</tr>
+<tr>
+<td><strong>Wędliny suszone</strong></td>
+<td>+12°C do +15°C (komora dojrzewania)</td>
+<td>30-90 dni</td>
+<td>1x dziennie</td>
+</tr>
+<tr>
+<td><strong>Dodatki suche (przyprawy)</strong></td>
+<td>Temperatura otoczenia (+15 do +25°C)</td>
+<td>Wg terminu (12-24 miesiące)</td>
+<td>-</td>
+</tr>
+</table>
+
+<div style="background-color:#f8d7da; padding:15px; border-left:4px solid #721c24; margin:20px 0;">
+<strong>⚠️ PRZEKROCZENIE TEMPERATURY = ALARM!</strong><br/>
+• Mięso świeże &gt;+6°C przez &gt;2h → Ocena przydatności (obróbka termiczna natychmiastowa lub wycofanie)<br/>
+• Produkty gotowe &gt;+8°C przez &gt;2h → Wycofanie (nie nadają się do spożycia!)<br/>
+• Mrożonki &gt;-15°C → Częściowe rozmrożenie (obniżenie jakości, skrócenie trwałości)
+</div>
+
+<h2 style="color:#2c3e50;">3. ORGANIZACJA MAGAZYNU</h2>
+
+<h3 style="background-color:#8e44ad; color:white; padding:10px;">Zasada segregacji:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#34495e; color:white;">
+<th style="width:30%;">Typ magazynu</th>
+<th style="width:70%;">Co przechowujemy?</th>
+</tr>
+<tr>
+<td><strong>Komora 1: Surowce</strong></td>
+<td>
+• Mięso świeże (wołowina, wieprzowina, drób)<br/>
+• Podroby<br/>
+• Tłuszcze zwierzęce<br/>
+<strong>⚠️ ZAKAZ:</strong> Mieszanie z produktami gotowymi!
+</td>
+</tr>
+<tr>
+<td><strong>Komora 2: Produkty gotowe</strong></td>
+<td>
+• Wędliny parzone<br/>
+• Produkty gotowe pakowane<br/>
+• Kiełbasy po obróbce termicznej<br/>
+<strong>⚠️ TYLKO</strong> produkty po pełnej obróbce termicznej (≥72°C)
+</td>
+</tr>
+<tr>
+<td><strong>Komora 3: Mrożonki</strong></td>
+<td>
+• Mięso mrożone<br/>
+• Półprodukty mrożone<br/>
+• Produkty gotowe mrożone
+</td>
+</tr>
+<tr>
+<td><strong>Magazyn suchych dodatków</strong></td>
+<td>
+• Przyprawy, peklowska<br/>
+• Osłonki (w opakowaniach)<br/>
+• Opakowania (folie, kartony)<br/>
+<strong>Wymagania:</strong> Sucho, wentylowane, temp. +15 do +25°C
+</td>
+</tr>
+</table>
+
+<h3 style="background-color:#8e44ad; color:white; padding:10px;">Zasady składowania w komorze:</h3>
+
+<ul style="line-height:1.8;">
+<li>✅ <strong>Regały/palety:</strong> Min. 15 cm od podłogi (łatwiejsze mycie, ochrona przed zalaniem)</li>
+<li>✅ <strong>Odległość od ścian:</strong> Min. 10 cm (cyrkulacja powietrza)</li>
+<li>✅ <strong>Wysokość układania:</strong> Max 1.5 m (stabilność, bezpieczeństwo pracowników)</li>
+<li>✅ <strong>Przejścia:</strong> Min. 80 cm szerokości (swobodny dostęp, wózki)</li>
+<li>✅ <strong>Oznaczenie:</strong> Każda paleta/regał z etykietą:<br/>
+  • Nazwa produktu<br/>
+  • Data przyjęcia<br/>
+  • Numer partii<br/>
+  • "ZUŻYĆ DO: [data]"
+</li>
+</ul>
+
+<h2 style="color:#2c3e50;">4. ZASADA FIFO (First In First Out)</h2>
+
+<div style="background-color:#d4edda; padding:15px; border-left:4px solid #28a745; margin:20px 0;">
+<strong>✅ FIFO = "PIERWSZE WESZŁO, PIERWSZE WYSZŁO"</strong><br/>
+Surowce/produkty dostarczone wcześniej muszą być zużyte/wydane wcześniej niż te dostarczone później.
+</div>
+
+<h3 style="color:#34495e;">Wdrożenie FIFO w praktyce:</h3>
+
+<ol style="line-height:1.8;">
+<li><strong>Przy przyjęciu:</strong> Nowa dostawa układana z TYŁU regału (stare partie z przodu)</li>
+<li><strong>Przy pobieraniu:</strong> Pracownik bierze produkty z PRZODU (najstarsze)</li>
+<li><strong>Oznaczenie:</strong> Etykiety z datami dostawy dobrze widoczne</li>
+<li><strong>Kontrola:</strong> Magazynier sprawdza 1x w tygodniu czy FIFO przestrzegane</li>
+</ol>
+
+<p style="margin-left:20px;"><strong>Przykład:</strong></p>
+<ul style="line-height:1.8; margin-left:40px;">
+<li>01.12.2025 - Dostawa wołowiny (partia A) → umieszczona z przodu</li>
+<li>03.12.2025 - Dostawa wołowiny (partia B) → umieszczona z tyłu</li>
+<li>05.12.2025 - Produkcja → pobieramy partię A (starsza!), partia B zostaje</li>
+<li>07.12.2025 - Produkcja → pobieramy partię B</li>
+</ul>
+
+<div style="background-color:#fff3cd; padding:15px; border-left:4px solid #ffc107; margin:20px 0;">
+<strong>⚠️ Naruszenie FIFO:</strong><br/>
+Jeśli pracownik pobiera nowsze produkty (z tyłu), stare pozostają i mogą przekroczyć termin!<br/>
+<strong>Konsekwencja:</strong> Straty (wycofanie przeterminowanych) + ryzyko użycia niezgodnego surowca.
+</div>
+
+<h2 style="color:#2c3e50;">5. KONTROLA STANÓW MAGAZYNOWYCH</h2>
+
+<h3 style="background-color:#3498db; color:white; padding:10px;">Inwentaryzacja:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#2c3e50; color:white;">
+<th style="width:30%;">Typ inwentaryzacji</th>
+<th style="width:30%;">Częstotliwość</th>
+<th style="width:40%;">Zakres</th>
+</tr>
+<tr>
+<td>Codzienna (wizualna)</td>
+<td>Codziennie rano</td>
+<td>
+• Sprawdzenie terminów (czy nie ma bliskich wygaśnięcia)<br/>
+• Kontrola temp. w komorach<br/>
+• Ocena wizualna (brak uszkodzeń opakowań)
+</td>
+</tr>
+<tr>
+<td>Tygodniowa</td>
+<td>1x w tygodniu (piątek)</td>
+<td>
+• Spis wszystkich pozycji (nazwa, ilość)<br/>
+• Kontrola FIFO (czy przestrzegane)<br/>
+• Identyfikacja produktów bliskich terminu (do użycia w przyszłym tygodniu)
+</td>
+</tr>
+<tr>
+<td>Pełna (roczna)</td>
+<td>1x w roku (31 grudnia)</td>
+<td>
+• Szczegółowy spis z wagą (kg)<br/>
+• Weryfikacja zgodności z systemem komputerowym<br/>
+• Raport dla księgowości (wartość zapasów)
+</td>
+</tr>
+</table>
+
+<h3 style="background-color:#e74c3c; color:white; padding:10px;">Postępowanie z produktami bliskimi terminu:</h3>
+
+<ul style="line-height:1.8;">
+<li>🟡 <strong>7 dni do wygaśnięcia:</strong> Oznaczenie etykietą "PRIORYTET - użyć w pierwszej kolejności"</li>
+<li>🟠 <strong>3 dni do wygaśnięcia:</strong> Informacja do Kierownika Produkcji → zaplanować produkcję z użyciem tego surowca</li>
+<li>🔴 <strong>1 dzień do wygaśnięcia:</strong><br/>
+  - Jeśli surowiec: użyć natychmiast (tego dnia) lub obniżyć cenę i sprzedać jako "promocja"<br/>
+  - Jeśli nie da się użyć → wycofać, utylizować (kat. 3), wpis do rejestru strat
+</li>
+<li>⛔ <strong>Po terminie:</strong> ZAKAZ UŻYCIA! Wycofanie, utylizacja (GHP-03), dokumentacja (protokół wycofania)</li>
+</ul>
+
+<h2 style="color:#2c3e50;">6. UTRZYMANIE CZYSTOŚCI MAGAZYNU</h2>
+
+<h3 style="color:#34495e;">Mycie i dezynfekcja:</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse; margin:20px 0;">
+<tr style="background-color:#27ae60; color:white;">
+<th style="width:40%;">Czynność</th>
+<th style="width:30%;">Częstotliwość</th>
+<th style="width:30%;">Odpowiedzialny</th>
+</tr>
+<tr>
+<td>Mycie posadzki (zamiecenie + mop)</td>
+<td>Codziennie</td>
+<td>Pracownik porządkowy</td>
+</tr>
+<tr>
+<td>Mycie regałów/palet</td>
+<td>1x w tygodniu</td>
+<td>Magazynier</td>
+</tr>
+<tr>
+<td>Dezynfekcja komory (pełna)</td>
+<td>1x w miesiącu</td>
+<td>Zespół (GHP-01)</td>
+</tr>
+<tr>
+<td>Rozmrażanie komory mrożonki</td>
+<td>Co 3 miesiące (lub wcześniej jeśli szron &gt;5mm)</td>
+<td>Magazynier + Elektryk</td>
+</tr>
+<tr>
+<td>Kontrola DDD (pułapki)</td>
+<td>1x w tygodniu</td>
+<td>Magazynier (GHP-05)</td>
+</tr>
+</table>
+
+<h2 style="color:#2c3e50;">7. MONITORING TEMPERATURY</h2>
+
+<h3 style="color:#34495e;">System monitoringu:</h3>
+
+<ul style="line-height:1.8;">
+<li>🌡️ <strong>Termometry:</strong><br/>
+  - Każda komora: min. 1 termometr naścienny (widoczny przez szybkę w drzwiach)<br/>
+  - Opcjonalnie: rejestrator elektroniczny z alarmem (zalecane!)
+</li>
+<li>🌡️ <strong>Pomiar:</strong> 2x dziennie (rano + wieczorem)<br/>
+  - Odczyt z termometru<br/>
+  - Wpis do rejestru R-02<br/>
+  - Jeśli przekroczenie → natychmiastowa reakcja (GHP-08 - awarie)
+</li>
+<li>🌡️ <strong>Alarm:</strong> Jeśli system elektroniczny:<br/>
+  - Ustawienie alarmu: +6°C (chłodnie), -15°C (mrożonki)<br/>
+  - Alarm dźwiękowy + SMS do Kierownika Produkcji<br/>
+  - Test alarmu: 1x w miesiącu
+</li>
+</ul>
+
+<h2 style="color:#2c3e50;">8. TRANSPORT WEWNĘTRZNY</h2>
+
+<h3 style="color:#34495e;">Zasady przemieszczania produktów:</h3>
+
+<ul style="line-height:1.8;">
+<li>🚚 <strong>Wózki transportowe:</strong> Dedykowane (czyszczone codziennie!)</li>
+<li>🚚 <strong>Trasy:</strong> Najkrótsze możliwe, unikać przecinania stref (brudna → czysta)</li>
+<li>🚚 <strong>Czas:</strong> Max 15 minut poza chłodnią (produkty chłodzone)</li>
+<li>🚚 <strong>Zabezpieczenie:</strong> Produkty przykryte folią (ochrona przed kurzem, zanieczyszczeniem)</li>
+<li>🚚 <strong>Zakaz:</strong> Mieszanie surowców i produktów gotowych na tym samym wózku!</li>
+</ul>
+
+<h2 style="color:#2c3e50;">9. DOKUMENTY POWIĄZANE</h2>
+
+<ul style="line-height:1.8;">
+<li>📄 <strong>R-02</strong> - Rejestr kontroli temperatur (pomiary 2x dziennie)</li>
+<li>📄 <strong>Karty magazynowe</strong> - dla każdej komory (ewidencja WZ/PZ)</li>
+<li>📄 <strong>GMP-02</strong> - Przyjęcie surowców (oznaczanie partii)</li>
+<li>📄 <strong>GMP-04</strong> - Transport wewnętrzny</li>
+<li>📄 <strong>GHP-01</strong> - Mycie i dezynfekcja (komór chłodniczych)</li>
+<li>📄 <strong>GHP-08</strong> - Postępowanie w razie awarii (awaria chłodnictwa)</li>
+</ul>
+
+<div style="background-color:#d4edda; padding:15px; margin:30px 0;">
+<strong>✅ ZATWIERDZENIE:</strong><br/>
+Kierownik ds. Jakości: __________ | Kierownik Produkcji: __________ | Prezes: __________
+</div>
+
+</div>
+</en-note>]]></content>
+</note>
+
+</en-export>
