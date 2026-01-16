@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export3.dtd">
+<en-export export-date="20260116T000000Z" application="INOVIT e-Segregator HACCP" version="2.0">
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- e-SEGREGATOR HACCP - OPIS STRUKTURY SYSTEMU                        -->
+<!-- Autor: INOVIT - Krzysztof Klebaniuk                                 -->
+<!-- Data: 2026-01-16                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+    <!-- NOTATKA 1: WPROWADZENIE DO SYSTEMU -->
+    <note>
+        <title>00. e-Segregator HACCP - Wprowadzenie do systemu</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="text-align:center; padding:30px 20px; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); color:white; margin:-10px -10px 20px -10px;">
+                <h1 style="font-size:28px; margin-bottom:10px;">e-SEGREGATOR HACCP</h1>
+                <p style="font-size:16px; color:#94a3b8;">Cyfrowa Ksiega HACCP dla Evernote</p>
+                <p style="font-size:12px; color:#64748b; margin-top:20px;">by INOVIT | www.inovit.com.pl</p>
+            </div>
+
+            <h2>Czym jest e-Segregator HACCP?</h2>
+            <p><b>e-Segregator HACCP dla Evernote</b> to nowoczesny, cyfrowy system zarzadzania dokumentacja HACCP dla zakladow produkcji zywnosci, oparty na platformie Evernote.</p>
+
+            <p>Jest to <b>pierwsza w Polsce kompletna Ksiega HACCP</b> dostosowana do pracy w chmurze, laczaca tradycyjna strukture papierowej dokumentacji z mozliwosciami cyfrowej wspolpracy i mobilnosci.</p>
+
+            <hr/>
+
+            <h2>Dla kogo?</h2>
+            <ul>
+                <li><b>Zaklady produkcji zywnosci</b> (miesne, mleczarskie, piekarnicze, cukiernicze)</li>
+                <li><b>Gastronomia</b> (restauracje, hotele, catering)</li>
+                <li><b>Handel detaliczny</b> (sklepy spozywcze, hipermarkety)</li>
+                <li><b>Firmy cateringowe</b> i kuchnie zbiorowego zywienia</li>
+                <li><b>Konsultanci HACCP</b> obslugujacy wielu klientow</li>
+            </ul>
+
+            <hr/>
+
+            <h2>Kluczowe zalety</h2>
+            <table border="1" cellpadding="10" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#00a82d; color:white;">
+                    <th>Zaleta</th>
+                    <th>Opis</th>
+                </tr>
+                <tr>
+                    <td><b>Mobilnosc</b></td>
+                    <td>Dostep z telefonu, tabletu, laptopa - wszedzie</td>
+                </tr>
+                <tr style="background-color:#f0fdf4;">
+                    <td><b>Wyszukiwanie</b></td>
+                    <td>Znajdz dowolny dokument w 3 sekundy</td>
+                </tr>
+                <tr>
+                    <td><b>Wspolpraca</b></td>
+                    <td>Konsultant widzi rejestry online</td>
+                </tr>
+                <tr style="background-color:#f0fdf4;">
+                    <td><b>Bezpieczenstwo</b></td>
+                    <td>Automatyczny backup w chmurze</td>
+                </tr>
+                <tr>
+                    <td><b>Oszczednosc</b></td>
+                    <td>Zero papieru, zero segregatorow</td>
+                </tr>
+            </table>
+
+            <hr/>
+
+            <h2>Architektura systemu</h2>
+            <p>System sklada sie z <b>4 poziomow hierarchii</b>:</p>
+            <ol>
+                <li><b>SPACE</b> - Obszar dla kazdego klienta/zakladu</li>
+                <li><b>STACK</b> - 10 glownych dzialow Ksiegi HACCP</li>
+                <li><b>NOTATNIK</b> - 28 notatnikow grupujacych dokumenty</li>
+                <li><b>NOTATKA</b> - ~150 notatek z procedurami i rejestrami</li>
+            </ol>
+
+            <div style="background-color:#e0f2fe; padding:15px; border-left:5px solid #0284c7; margin:20px 0;">
+                <p><b>Przejdz do kolejnych notatek</b>, aby poznac szczegolowa strukture kazdego Stack'a.</p>
+            </div>
+
+            <p style="font-size:10px; color:#94a3b8; margin-top:30px;"><i>Wersja dokumentu: 2.0 | Data: 2026-01-16 | INOVIT e-Segregator HACCP</i></p>
+        </en-note>]]>
+        </content>
+        <created>20260116T100000Z</created>
+        <updated>20260116T100000Z</updated>
+        <tag>00_Struktura_Systemu</tag>
+        <tag>Wprowadzenie</tag>
+        <tag>e-Segregator</tag>
+    </note>
+
+    <!-- NOTATKA 2: STACK 0 - STRONA TYTULOWA -->
+    <note>
+        <title>01. STACK 0: Strona tytulowa i dane zakladu</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="background-color:#0f172a; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+                <h1 style="margin:0;">STACK 0: STRONA TYTULOWA I DANE ZAKLADU</h1>
+            </div>
+
+            <h2>Notatnik: 00_STRONA_TYTULOWA</h2>
+
+            <p>Ten Stack zawiera podstawowe informacje identyfikujace zaklad i Ksiege HACCP.</p>
+
+            <h3>Zawartosc:</h3>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#e2e8f0;">
+                    <th>Dokument</th>
+                    <th>Opis</th>
+                </tr>
+                <tr>
+                    <td>Strona tytulowa Ksiegi HACCP</td>
+                    <td>Oficjalna strona tytulowa z nazwa zakladu i wersja</td>
+                </tr>
+                <tr style="background-color:#f8fafc;">
+                    <td>Dane zakladu</td>
+                    <td>Pelne dane identyfikacyjne, nr weterynaryjny, NIP, REGON</td>
+                </tr>
+                <tr>
+                    <td>Zespol HACCP - sklad i uprawnienia</td>
+                    <td>Lista czlonkow zespolu z funkcjami i odpowiedzialnosciami</td>
+                </tr>
+                <tr style="background-color:#f8fafc;">
+                    <td>Historia zmian i rewizji Ksiegi</td>
+                    <td>Rejestr wszystkich zmian w dokumentacji</td>
+                </tr>
+                <tr>
+                    <td>Polityka bezpieczenstwa zywnosci</td>
+                    <td>Deklaracja kierownictwa dotyczaca bezpieczenstwa</td>
+                </tr>
+                <tr style="background-color:#f8fafc;">
+                    <td>Zakres systemu HACCP</td>
+                    <td>Definicja zakresu stosowania systemu</td>
+                </tr>
+            </table>
+
+            <h3>Tagi:</h3>
+            <p><code>00_Dane_Zakladu</code> | <code>Strona_Tytulowa</code> | <code>Zespol_HACCP</code></p>
+
+            <p style="font-size:10px; color:#94a3b8; margin-top:30px;"><i>INOVIT e-Segregator HACCP | Stack 0</i></p>
+        </en-note>]]>
+        </content>
+        <created>20260116T100100Z</created>
+        <updated>20260116T100100Z</updated>
+        <tag>00_Struktura_Systemu</tag>
+        <tag>Stack_0</tag>
+        <tag>e-Segregator</tag>
+    </note>
+
+    <!-- NOTATKA 3: STACK I - GHP/GMP -->
+    <note>
+        <title>02. STACK I: Warunki wstepne (GHP/GMP)</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="background-color:#166534; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+                <h1 style="margin:0;">STACK I: WARUNKI WSTEPNE (GHP/GMP)</h1>
+            </div>
+
+            <h2>Notatnik: 01_GHP - Dobra Praktyka Higieniczna</h2>
+
+            <h3>Procedury GHP:</h3>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#dcfce7;">
+                    <th>Nr</th>
+                    <th>Procedura</th>
+                    <th>Zawartosc</th>
+                </tr>
+                <tr>
+                    <td><b>GHP-01</b></td>
+                    <td>Mycie i dezynfekcja</td>
+                    <td>Zasady, harmonogram, wykaz srodkow chemicznych</td>
+                </tr>
+                <tr style="background-color:#f0fdf4;">
+                    <td><b>GHP-02</b></td>
+                    <td>Higiena osobista pracownikow</td>
+                    <td>Zasady higieny, odziez ochronna, kontrola zdrowia</td>
+                </tr>
+                <tr>
+                    <td><b>GHP-03</b></td>
+                    <td>Gospodarka odpadami</td>
+                    <td>Segregacja, odpady kat. 2 i 3</td>
+                </tr>
+                <tr style="background-color:#f0fdf4;">
+                    <td><b>GHP-04</b></td>
+                    <td>Woda i para technologiczna</td>
+                    <td>Zrodla wody, kontrola jakosci</td>
+                </tr>
+                <tr>
+                    <td><b>GHP-05</b></td>
+                    <td>Kontrola szkodnikow (DDD)</td>
+                    <td>Program DDD, mapa pulapek</td>
+                </tr>
+                <tr style="background-color:#f0fdf4;">
+                    <td><b>GHP-06</b></td>
+                    <td>Utrzymanie pomieszczen i sprzetu</td>
+                    <td>Wymagania, stan techniczny</td>
+                </tr>
+                <tr>
+                    <td><b>GHP-07</b></td>
+                    <td>Zasady przyjmowania gosci</td>
+                    <td>Procedura wstepu, wymogi sanitarne</td>
+                </tr>
+                <tr style="background-color:#f0fdf4;">
+                    <td><b>GHP-08</b></td>
+                    <td>Postepowanie w razie awarii</td>
+                    <td>Scenariusze awaryjne, plan awaryjny</td>
+                </tr>
+            </table>
+
+            <hr/>
+
+            <h2>Notatnik: 02_GMP - Dobra Praktyka Produkcyjna</h2>
+
+            <h3>Procedury GMP:</h3>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#dbeafe;">
+                    <th>Nr</th>
+                    <th>Procedura</th>
+                    <th>Zawartosc</th>
+                </tr>
+                <tr>
+                    <td><b>GMP-01</b></td>
+                    <td>Organizacja procesu produkcyjnego</td>
+                    <td>Schemat przeplywu, zasada "brudne-czyste"</td>
+                </tr>
+                <tr style="background-color:#eff6ff;">
+                    <td><b>GMP-02</b></td>
+                    <td>Przyjecie surowcow</td>
+                    <td>Wymagania dla dostawcow, kryteria akceptacji</td>
+                </tr>
+                <tr>
+                    <td><b>GMP-03</b></td>
+                    <td>Magazynowanie</td>
+                    <td>Zasady FIFO/FEFO, warunki przechowywania</td>
+                </tr>
+                <tr style="background-color:#eff6ff;">
+                    <td><b>GMP-04</b></td>
+                    <td>Transport wewnetrzny</td>
+                    <td>Zasady transportu, oznakowanie</td>
+                </tr>
+                <tr>
+                    <td><b>GMP-05</b></td>
+                    <td>Materialy opakowaniowe</td>
+                    <td>Wymagania, przechowywanie, kontrola</td>
+                </tr>
+                <tr style="background-color:#eff6ff;">
+                    <td><b>GMP-06</b></td>
+                    <td>Zapobieganie zanieczyszczeniom krzyzowym</td>
+                    <td>Kontrola alergenow, separacja procesow</td>
+                </tr>
+                <tr>
+                    <td><b>GMP-07</b></td>
+                    <td>Utrzymanie urzadzen produkcyjnych</td>
+                    <td>Lista urzadzen, harmonogram przegladow, kalibracja</td>
+                </tr>
+            </table>
+
+            <hr/>
+
+            <h2>Notatnik: 03_ZALACZNIKI_GHP_GMP</h2>
+            <ul>
+                <li>Wykaz srodkow myjacych i dezynfekujacych (karty charakterystyki)</li>
+                <li>Wyniki badan wody</li>
+                <li>Raporty z przegladow DDD</li>
+                <li>Certyfikaty kalibracji urzadzen</li>
+            </ul>
+
+            <h3>Tagi:</h3>
+            <p><code>01_GHP</code> | <code>02_GMP</code> | <code>Procedury</code> | <code>Warunki_Wstepne</code></p>
+
+            <p style="font-size:10px; color:#94a3b8; margin-top:30px;"><i>INOVIT e-Segregator HACCP | Stack I</i></p>
+        </en-note>]]>
+        </content>
+        <created>20260116T100200Z</created>
+        <updated>20260116T100200Z</updated>
+        <tag>00_Struktura_Systemu</tag>
+        <tag>Stack_I</tag>
+        <tag>GHP</tag>
+        <tag>GMP</tag>
+        <tag>e-Segregator</tag>
+    </note>
+
+    <!-- NOTATKA 4: STACK II - SYSTEM HACCP -->
+    <note>
+        <title>03. STACK II: System HACCP (12 krokow)</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="background-color:#dc2626; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+                <h1 style="margin:0;">STACK II: SYSTEM HACCP (12 KROKOW)</h1>
+                <p style="margin:5px 0 0 0; font-size:14px;">Serce systemu - Analiza zagrozen i CCP</p>
+            </div>
+
+            <h2>Notatnik: 04_HACCP - Analiza zagrozen i CCP</h2>
+
+            <p><b>12 krokow wdrozenia HACCP zgodnie z Codex Alimentarius:</b></p>
+
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#fef2f2;">
+                    <th>Krok</th>
+                    <th>Nazwa</th>
+                    <th>Opis</th>
+                </tr>
+                <tr>
+                    <td><b>0</b></td>
+                    <td>Przygotowanie</td>
+                    <td>Opis zakladu i asortymentu</td>
+                </tr>
+                <tr style="background-color:#fff5f5;">
+                    <td><b>1</b></td>
+                    <td>Zespol HACCP</td>
+                    <td>Sklad zespolu, odpowiedzialnosci, harmonogram spotkan</td>
+                </tr>
+                <tr>
+                    <td><b>2</b></td>
+                    <td>Opis produktu</td>
+                    <td>Karty produktow, specyfikacje, warunki przechowywania</td>
+                </tr>
+                <tr style="background-color:#fff5f5;">
+                    <td><b>3</b></td>
+                    <td>Przeznaczenie produktu</td>
+                    <td>Grupy konsumentow, sposob uzycia, grupy wrazliwe</td>
+                </tr>
+                <tr>
+                    <td><b>4</b></td>
+                    <td>Schemat technologiczny</td>
+                    <td>Diagram przeplywu produkcji, parametry procesu</td>
+                </tr>
+                <tr style="background-color:#fff5f5;">
+                    <td><b>5</b></td>
+                    <td>Weryfikacja schematu</td>
+                    <td>Protokol z weryfikacji na miejscu</td>
+                </tr>
+                <tr style="background-color:#fecaca;">
+                    <td><b>6</b></td>
+                    <td><b>ZASADA 1: Analiza zagrozen</b></td>
+                    <td>Tabela zagrozen (B, C, F), ocena ryzyka, srodki zapobiegawcze</td>
+                </tr>
+                <tr style="background-color:#fecaca;">
+                    <td><b>7</b></td>
+                    <td><b>ZASADA 2: Wyznaczenie CCP</b></td>
+                    <td>Drzewo decyzyjne, lista CCP, uzasadnienie</td>
+                </tr>
+                <tr style="background-color:#fecaca;">
+                    <td><b>8</b></td>
+                    <td><b>ZASADA 3: Limity krytyczne</b></td>
+                    <td>Tabela limitow dla kazdego CCP</td>
+                </tr>
+                <tr style="background-color:#fecaca;">
+                    <td><b>9</b></td>
+                    <td><b>ZASADA 4: System monitoringu</b></td>
+                    <td>Co, jak, kiedy i kto monitoruje</td>
+                </tr>
+                <tr style="background-color:#fecaca;">
+                    <td><b>10</b></td>
+                    <td><b>ZASADA 5: Dzialania korygujace</b></td>
+                    <td>Procedura w przypadku przekroczenia limitu</td>
+                </tr>
+                <tr style="background-color:#fecaca;">
+                    <td><b>11</b></td>
+                    <td><b>ZASADA 6: Weryfikacja</b></td>
+                    <td>Audyty wewnetrzne, badania lab., przeglad zarzadzania</td>
+                </tr>
+                <tr style="background-color:#fecaca;">
+                    <td><b>12</b></td>
+                    <td><b>ZASADA 7: Dokumentacja</b></td>
+                    <td>Struktura dokumentacji, zasady prowadzenia zapisow</td>
+                </tr>
+            </table>
+
+            <hr/>
+
+            <h2>Notatnik: 05_PLAN_HACCP_PODSUMOWANIE</h2>
+            <p><b>Plan HACCP - Tabela zbiorcza wszystkich CCP:</b></p>
+            <ul>
+                <li>Lista wszystkich CCP</li>
+                <li>Limity krytyczne</li>
+                <li>Monitoring</li>
+                <li>Dzialania korygujace</li>
+                <li>Weryfikacja</li>
+            </ul>
+
+            <div style="background-color:#fef2f2; padding:15px; border-left:5px solid #dc2626; margin:20px 0;">
+                <p><b>UWAGA:</b> Stack II jest sercem systemu HACCP. Analiza zagrozen i wyznaczenie CCP musza byc wykonane indywidualnie dla kazdego zakladu!</p>
+            </div>
+
+            <h3>Tagi:</h3>
+            <p><code>03_HACCP</code> | <code>CCP</code> | <code>Analiza_Zagrozen</code> | <code>Plan_HACCP</code></p>
+
+            <p style="font-size:10px; color:#94a3b8; margin-top:30px;"><i>INOVIT e-Segregator HACCP | Stack II</i></p>
+        </en-note>]]>
+        </content>
+        <created>20260116T100300Z</created>
+        <updated>20260116T100300Z</updated>
+        <tag>00_Struktura_Systemu</tag>
+        <tag>Stack_II</tag>
+        <tag>HACCP</tag>
+        <tag>CCP</tag>
+        <tag>e-Segregator</tag>
+    </note>
+
+    <!-- NOTATKA 5: STACK III - PROCEDURY I INSTRUKCJE -->
+    <note>
+        <title>04. STACK III: Procedury i instrukcje</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="background-color:#7c3aed; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+                <h1 style="margin:0;">STACK III: PROCEDURY I INSTRUKCJE</h1>
+            </div>
+
+            <h2>Notatnik: 06_PROCEDURY_OGOLNE</h2>
+            <ul>
+                <li>Procedura nadzoru nad dokumentami</li>
+                <li>Procedura nadzoru nad zapisami</li>
+                <li>Procedura postepowania z wyrobem niezgodnym</li>
+                <li><b>Procedura wycofania produktu z rynku (RECALL)</b></li>
+                <li>Procedura komunikacji wewnetrznej i zewnetrznej</li>
+                <li>Procedura zglaszania do organow nadzoru (WIWW, Sanepid)</li>
+                <li>Procedura zarzadzania kryzysowego</li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 07_INSTRUKCJE_STANOWISKOWE</h2>
+            <ul>
+                <li>Instrukcja stanowiskowa - Magazynier</li>
+                <li>Instrukcja stanowiskowa - Pracownik produkcji</li>
+                <li>Instrukcja stanowiskowa - Brygadzista</li>
+                <li>Instrukcja stanowiskowa - Kontrola jakosci</li>
+                <li>Instrukcja stanowiskowa - Kierownik produkcji</li>
+                <li>Instrukcja obslugi urzadzen produkcyjnych (wykaz)</li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 08_RECEPTURY_I_SPECYFIKACJE</h2>
+            <ul>
+                <li>Receptury produkcyjne (dla kazdego produktu)</li>
+                <li>Specyfikacje techniczne produktow</li>
+                <li>Specyfikacje surowcow</li>
+                <li>Instrukcje technologiczne</li>
+            </ul>
+
+            <h3>Tagi:</h3>
+            <p><code>04_Procedury</code> | <code>Instrukcje</code> | <code>Receptury</code></p>
+
+            <p style="font-size:10px; color:#94a3b8; margin-top:30px;"><i>INOVIT e-Segregator HACCP | Stack III</i></p>
+        </en-note>]]>
+        </content>
+        <created>20260116T100400Z</created>
+        <updated>20260116T100400Z</updated>
+        <tag>00_Struktura_Systemu</tag>
+        <tag>Stack_III</tag>
+        <tag>Procedury</tag>
+        <tag>Instrukcje</tag>
+        <tag>e-Segregator</tag>
+    </note>
+
+    <!-- NOTATKA 6: STACK IV - FORMULARZE I ZAPISY -->
+    <note>
+        <title>05. STACK IV: Formularze i zapisy biezace</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="background-color:#ea580c; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+                <h1 style="margin:0;">STACK IV: FORMULARZE I ZAPISY BIEZACE</h1>
+                <p style="margin:5px 0 0 0; font-size:14px;">Rejestry do codziennego wypelniania</p>
+            </div>
+
+            <h2>Notatnik: 09_REJESTRY_BIEZACE</h2>
+            <p><i>Wypelniane codziennie/regularnie:</i></p>
+
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#fed7aa;">
+                    <th>Nr</th>
+                    <th>Rejestr</th>
+                    <th>CCP?</th>
+                </tr>
+                <tr>
+                    <td><b>R-01</b></td>
+                    <td>Rejestr przyjecia surowca</td>
+                    <td></td>
+                </tr>
+                <tr style="background-color:#ffedd5;">
+                    <td><b>R-02</b></td>
+                    <td>Kontrola temperatur (chlodnie, magazyny)</td>
+                    <td style="color:#dc2626;"><b>[CCP]</b></td>
+                </tr>
+                <tr>
+                    <td><b>R-03</b></td>
+                    <td>Mycie i dezynfekcja - karta wykonania</td>
+                    <td></td>
+                </tr>
+                <tr style="background-color:#ffedd5;">
+                    <td><b>R-04</b></td>
+                    <td>Kontrola DDD (szkodniki)</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td><b>R-05</b></td>
+                    <td>Kontrola jakosci surowca</td>
+                    <td></td>
+                </tr>
+                <tr style="background-color:#ffedd5;">
+                    <td><b>R-06</b></td>
+                    <td>Karta produkcyjna (dla kazdej partii)</td>
+                    <td style="color:#dc2626;"><b>[CCP]</b></td>
+                </tr>
+                <tr>
+                    <td><b>R-07</b></td>
+                    <td>Kontrola obrobki termicznej</td>
+                    <td style="color:#dc2626;"><b>[CCP]</b></td>
+                </tr>
+                <tr style="background-color:#ffedd5;">
+                    <td><b>R-08</b></td>
+                    <td>Kontrola wykrywacza metali</td>
+                    <td style="color:#dc2626;"><b>[CCP - jesli dotyczy]</b></td>
+                </tr>
+                <tr>
+                    <td><b>R-09</b></td>
+                    <td>Kontrola produktu gotowego</td>
+                    <td></td>
+                </tr>
+                <tr style="background-color:#ffedd5;">
+                    <td><b>R-10</b></td>
+                    <td>Identyfikowalnosc partii (krok wstecz - krok do przodu)</td>
+                    <td></td>
+                </tr>
+            </table>
+
+            <hr/>
+
+            <h2>Notatnik: 10_REJESTRY_OKRESOWE</h2>
+            <p><i>Miesieczne/kwartalne/roczne:</i></p>
+            <ul>
+                <li><b>R-11</b> Rejestr szkolen pracownikow</li>
+                <li><b>R-12</b> Przeglady urzadzen i konserwacja</li>
+                <li><b>R-13</b> Kalibracja urzadzen pomiarowych</li>
+                <li><b>R-14</b> Rejestr niezgodnosci i dzialan korygujacych</li>
+                <li><b>R-15</b> Zgloszenia i reklamacje klientow</li>
+                <li><b>R-16</b> Rejestr odpadow</li>
+                <li><b>R-17</b> Rejestr dostawcow - ocena i monitoring</li>
+                <li><b>R-18</b> Badania laboratoryjne (produkty, powierzchnie, woda)</li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 11_WZORY_FORMULARZY</h2>
+            <p><i>Szablony do druku/kopiowania:</i></p>
+            <ul>
+                <li>Wzor - Protokol przyjecia surowca</li>
+                <li>Wzor - Karta kontroli temperatury</li>
+                <li>Wzor - Protokol z mycia i dezynfekcji</li>
+                <li>Wzor - Karta produkcyjna</li>
+                <li>Wzor - Protokol z audytu wewnetrznego</li>
+                <li>Wzor - Protokol niezgodnosci</li>
+            </ul>
+
+            <h3>Tagi:</h3>
+            <p><code>05_Formularze_i_Zapisy</code> | <code>Do_Wypelniania</code> | <code>CCP</code> | <code>Szablon</code></p>
+
+            <p style="font-size:10px; color:#94a3b8; margin-top:30px;"><i>INOVIT e-Segregator HACCP | Stack IV</i></p>
+        </en-note>]]>
+        </content>
+        <created>20260116T100500Z</created>
+        <updated>20260116T100500Z</updated>
+        <tag>00_Struktura_Systemu</tag>
+        <tag>Stack_IV</tag>
+        <tag>Rejestry</tag>
+        <tag>Formularze</tag>
+        <tag>e-Segregator</tag>
+    </note>
+
+    <!-- NOTATKA 7: STACK V - SZKOLENIA -->
+    <note>
+        <title>06. STACK V: Szkolenia i personel</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="background-color:#0891b2; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+                <h1 style="margin:0;">STACK V: SZKOLENIA I PERSONEL</h1>
+            </div>
+
+            <h2>Notatnik: 12_SZKOLENIA</h2>
+            <ul>
+                <li>Program szkolenia wstepnego (dla nowych pracownikow)</li>
+                <li>Program szkolenia okresowego (roczne)</li>
+                <li>Tematyka szkolen obowiazkowych</li>
+                <li><b>Materialy szkoleniowe:</b>
+                    <ul>
+                        <li>Higiena osobista</li>
+                        <li>Podstawy HACCP</li>
+                        <li>Mycie i dezynfekcja</li>
+                        <li>Kontrola temperatur</li>
+                        <li>Alergeny</li>
+                    </ul>
+                </li>
+                <li>Test wiedzy (wzor)</li>
+                <li>Lista obecnosci (wzor)</li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 13_KARTY_PRACOWNIKOW</h2>
+            <p>Dla kazdego pracownika osobna notatka:</p>
+            <ul>
+                <li>[Imie Nazwisko] - Karta indywidualna pracownika
+                    <ul>
+                        <li>Stanowisko</li>
+                        <li>Odbyte szkolenia</li>
+                        <li>Badania sanitarne (waznosc ksiazeczki)</li>
+                        <li>Uprawnienia i certyfikaty</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 14_MATERIALY_WIELOJEZYCZNE</h2>
+            <p><i>Dla pracownikow obcojezycznych:</i></p>
+            <ul>
+                <li>Higiena osobista - PL/EN/UK/ES</li>
+                <li>Podstawowe zasady GHP - PL/EN/UK/ES</li>
+                <li>Instrukcje mycia rak - PL/EN/UK/ES (z grafikami)</li>
+                <li>Oznaczenia i piktogramy - uniwersalne</li>
+            </ul>
+
+            <h3>Tagi:</h3>
+            <p><code>06_Szkolenia</code> | <code>Personel</code> | <code>Karty_Pracownikow</code></p>
+
+            <p style="font-size:10px; color:#94a3b8; margin-top:30px;"><i>INOVIT e-Segregator HACCP | Stack V</i></p>
+        </en-note>]]>
+        </content>
+        <created>20260116T100600Z</created>
+        <updated>20260116T100600Z</updated>
+        <tag>00_Struktura_Systemu</tag>
+        <tag>Stack_V</tag>
+        <tag>Szkolenia</tag>
+        <tag>Personel</tag>
+        <tag>e-Segregator</tag>
+    </note>
+
+    <!-- NOTATKA 8: STACK VI - AUDYTY -->
+    <note>
+        <title>07. STACK VI: Audyty i przeglady</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="background-color:#4f46e5; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+                <h1 style="margin:0;">STACK VI: AUDYTY I PRZEGLADY</h1>
+            </div>
+
+            <h2>Notatnik: 15_AUDYTY_WEWNETRZNE</h2>
+            <ul>
+                <li>Plan audytow wewnetrznych 2026</li>
+                <li>Harmonogram audytow (kalendarz)</li>
+                <li>Lista kontrolna audytu HACCP</li>
+                <li>Lista kontrolna audytu GHP</li>
+                <li>Lista kontrolna audytu GMP</li>
+                <li>Protokol z audytu - wzor</li>
+                <li>[DATA] Audyt wewnetrzny - raport</li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 16_AUDYTY_ZEWNETRZNE</h2>
+            <ul>
+                <li>[DATA] Kontrola WIWW - protokol i zalecenia</li>
+                <li>[DATA] Kontrola Sanepidu - protokol</li>
+                <li>[DATA] Audyt klienta - raport</li>
+                <li>[DATA] Audyt certyfikacyjny (IFS/BRC) - raport</li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 17_PRZEGLADY_ZARZADZANIA</h2>
+            <ul>
+                <li>Protokol z przegladu zarzadzania - wzor</li>
+                <li>[DATA] Przeglad zarzadzania - Q1/2026</li>
+                <li>[DATA] Przeglad zarzadzania - Q2/2026</li>
+                <li>[DATA] Przeglad zarzadzania - Q3/2026</li>
+                <li>[DATA] Przeglad zarzadzania - Q4/2026</li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 18_DZIALANIA_NAPRAWCZE</h2>
+            <ul>
+                <li>Rejestr CAPA (Corrective and Preventive Actions)</li>
+                <li>Plan wdrozenia dzialan naprawczych</li>
+                <li>Monitoring skutecznosci dzialan</li>
+            </ul>
+
+            <h3>Tagi:</h3>
+            <p><code>07_Audyty</code> | <code>Przeglady</code> | <code>CAPA</code></p>
+
+            <p style="font-size:10px; color:#94a3b8; margin-top:30px;"><i>INOVIT e-Segregator HACCP | Stack VI</i></p>
+        </en-note>]]>
+        </content>
+        <created>20260116T100700Z</created>
+        <updated>20260116T100700Z</updated>
+        <tag>00_Struktura_Systemu</tag>
+        <tag>Stack_VI</tag>
+        <tag>Audyty</tag>
+        <tag>e-Segregator</tag>
+    </note>
+
+    <!-- NOTATKA 9: STACK VII - DOSTAWCY I KLIENCI -->
+    <note>
+        <title>08. STACK VII: Dostawcy i klienci</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="background-color:#059669; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+                <h1 style="margin:0;">STACK VII: DOSTAWCY I KLIENCI</h1>
+            </div>
+
+            <h2>Notatnik: 19_WYKAZ_DOSTAWCOW</h2>
+            <ul>
+                <li>Lista zatwierdzonych dostawcow</li>
+                <li>[Nazwa dostawcy] - Karta dostawcy:
+                    <ul>
+                        <li>Dane kontaktowe</li>
+                        <li>Asortyment</li>
+                        <li>Certyfikaty (kopia)</li>
+                        <li>Historia dostaw</li>
+                        <li>Ocena roczna</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 20_WYKAZ_KLIENTOW</h2>
+            <ul>
+                <li>Lista klientow / odbiorcow</li>
+                <li>[Nazwa klienta] - Karta klienta:
+                    <ul>
+                        <li>Wymagania specyficzne</li>
+                        <li>Historia wspolpracy</li>
+                        <li>Reklamacje</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 21_SPECYFIKACJE_I_CERTYFIKATY</h2>
+            <ul>
+                <li>Certyfikaty surowcow (od dostawcow)</li>
+                <li>Wyniki badan laboratoryjnych surowcow</li>
+                <li>Specyfikacje jakosciowe surowcow</li>
+            </ul>
+
+            <h3>Tagi:</h3>
+            <p><code>Dostawcy</code> | <code>Klienci</code> | <code>Certyfikaty</code></p>
+
+            <p style="font-size:10px; color:#94a3b8; margin-top:30px;"><i>INOVIT e-Segregator HACCP | Stack VII</i></p>
+        </en-note>]]>
+        </content>
+        <created>20260116T100800Z</created>
+        <updated>20260116T100800Z</updated>
+        <tag>00_Struktura_Systemu</tag>
+        <tag>Stack_VII</tag>
+        <tag>Dostawcy</tag>
+        <tag>Klienci</tag>
+        <tag>e-Segregator</tag>
+    </note>
+
+    <!-- NOTATKA 10: STACK VIII - INFRASTRUKTURA -->
+    <note>
+        <title>09. STACK VIII: Infrastruktura i urzadzenia</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="background-color:#78716c; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+                <h1 style="margin:0;">STACK VIII: INFRASTRUKTURA I URZADZENIA</h1>
+            </div>
+
+            <h2>Notatnik: 22_WYKAZ_URZADZEN</h2>
+            <ul>
+                <li>Lista wszystkich urzadzen produkcyjnych</li>
+                <li>[Nazwa urzadzenia] - Karta urzadzenia:
+                    <ul>
+                        <li>Nr inwentarzowy</li>
+                        <li>Producent, model</li>
+                        <li>Instrukcja obslugi (zalacznik)</li>
+                        <li>Harmonogram przegladow</li>
+                        <li>Historia napraw i konserwacji</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 23_PLANY_I_SCHEMATY</h2>
+            <ul>
+                <li>Plan zakladu produkcyjnego (schemat pomieszczen)</li>
+                <li>Schemat przeplywu produkcji</li>
+                <li>Mapa rozmieszczenia pulapek DDD</li>
+                <li>Schemat odprowadzania sciekow</li>
+                <li>Schemat wentylacji i klimatyzacji</li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 24_INSTRUKCJE_OBSLUGI</h2>
+            <ul>
+                <li>Instrukcja obslugi - [Urzadzenie 1]</li>
+                <li>Instrukcja obslugi - [Urzadzenie 2]</li>
+                <li>Instrukcja BHP - stanowisko produkcyjne</li>
+                <li>Instrukcja ppoz - zaklad</li>
+            </ul>
+
+            <h3>Tagi:</h3>
+            <p><code>08_Infrastruktura</code> | <code>Urzadzenia</code> | <code>Plany</code></p>
+
+            <p style="font-size:10px; color:#94a3b8; margin-top:30px;"><i>INOVIT e-Segregator HACCP | Stack VIII</i></p>
+        </en-note>]]>
+        </content>
+        <created>20260116T100900Z</created>
+        <updated>20260116T100900Z</updated>
+        <tag>00_Struktura_Systemu</tag>
+        <tag>Stack_VIII</tag>
+        <tag>Infrastruktura</tag>
+        <tag>Urzadzenia</tag>
+        <tag>e-Segregator</tag>
+    </note>
+
+    <!-- NOTATKA 11: STACK IX - PRZEPISY PRAWNE -->
+    <note>
+        <title>10. STACK IX: Aktualizacje prawne i baza wiedzy</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="background-color:#0369a1; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+                <h1 style="margin:0;">STACK IX: AKTUALIZACJE PRAWNE I BAZA WIEDZY</h1>
+            </div>
+
+            <h2>Notatnik: 25_PRZEPISY_PRAWNE</h2>
+            <ul>
+                <li>Rozporzadzenie (WE) 852/2004 - higiena zywnosci (wyciag)</li>
+                <li>Rozporzadzenie (WE) 853/2004 - higiena produktow pochodzenia zwierzecego (wyciag)</li>
+                <li>Rozporzadzenie (WE) 2073/2005 - kryteria mikrobiologiczne (wyciag)</li>
+                <li>Rozporzadzenie (UE) 1169/2011 - etykietowanie (wyciag)</li>
+                <li>Przepisy krajowe - ustawa o bezpieczenstwie zywnosci</li>
+                <li>Aktualne zmiany prawne - 2026</li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 26_INTERPRETACJE_I_WYTYCZNE</h2>
+            <ul>
+                <li>Wytyczne GIS/WIWW</li>
+                <li>Interpretacje prawne dotyczace zakladu</li>
+                <li>Standardy branzowe (PFPZ, Codex Alimentarius)</li>
+                <li>FAQ - najczesciej zadawane pytania HACCP</li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 27_BAZA_WIEDZY</h2>
+            <ul>
+                <li>Slownik pojec HACCP/GHP/GMP</li>
+                <li>Limity mikrobiologiczne dla produktow miesnych</li>
+                <li>Limity czasu i temperatury dla obrobki termicznej</li>
+                <li>Charakterystyka zagrozen biologicznych (Salmonella, Listeria, E.coli)</li>
+                <li>Charakterystyka zagrozen chemicznych (alergeny, pestycydy)</li>
+                <li>Charakterystyka zagrozen fizycznych (obce ciala)</li>
+                <li>Tabela okresow przechowywania dokumentacji</li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 28_DO_WDROZENIA</h2>
+            <ul>
+                <li>Lista zadan do zrealizowania</li>
+                <li>Plan doskonalenia systemu HACCP</li>
+                <li>Wnioski z audytow - akcje do wdrozenia</li>
+                <li>Pomysly na ulepszenia od pracownikow</li>
+            </ul>
+
+            <h3>Tagi:</h3>
+            <p><code>09_Przepisy_Prawne</code> | <code>Baza_Wiedzy</code> | <code>FAQ</code></p>
+
+            <p style="font-size:10px; color:#94a3b8; margin-top:30px;"><i>INOVIT e-Segregator HACCP | Stack IX</i></p>
+        </en-note>]]>
+        </content>
+        <created>20260116T101000Z</created>
+        <updated>20260116T101000Z</updated>
+        <tag>00_Struktura_Systemu</tag>
+        <tag>Stack_IX</tag>
+        <tag>Przepisy</tag>
+        <tag>Baza_Wiedzy</tag>
+        <tag>e-Segregator</tag>
+    </note>
+
+    <!-- NOTATKA 12: STACK X - ARCHIWUM -->
+    <note>
+        <title>11. STACK X: Archiwum</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="background-color:#6b7280; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+                <h1 style="margin:0;">STACK X: ARCHIWUM</h1>
+            </div>
+
+            <h2>Notatnik: 99_ARCHIWUM_AUDYTOW</h2>
+            <ul>
+                <li>Archiwum audytow 2025</li>
+                <li>Archiwum audytow 2024</li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 99_ARCHIWUM_PRZEGLADOW</h2>
+            <ul>
+                <li>Archiwum przegladow zarzadzania 2025</li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 99_ARCHIWUM_REJESTROW</h2>
+            <ul>
+                <li>Rejestry 2025 - Styczen</li>
+                <li>Rejestry 2025 - Luty</li>
+                <li>Rejestry 2025 - Marzec</li>
+                <li><i>(itd. - miesieczne archiwum)</i></li>
+            </ul>
+
+            <hr/>
+
+            <h2>Notatnik: 99_ARCHIWUM_WERSJI_DOKUMENTOW</h2>
+            <ul>
+                <li>Ksiega HACCP - wersja 1.0 (2024)</li>
+                <li>Ksiega HACCP - wersja 2.0 (2025)</li>
+            </ul>
+
+            <div style="background-color:#fef3c7; padding:15px; border-left:5px solid #f59e0b; margin:20px 0;">
+                <p><b>Uwaga:</b> Zgodnie z przepisami dokumentacja HACCP musi byc przechowywana przez okres okreslony w przepisach (min. 2 lata dla rejestrow, 5 lat dla pozostalych dokumentow).</p>
+            </div>
+
+            <h3>Tagi:</h3>
+            <p><code>99_Archiwum</code></p>
+
+            <p style="font-size:10px; color:#94a3b8; margin-top:30px;"><i>INOVIT e-Segregator HACCP | Stack X</i></p>
+        </en-note>]]>
+        </content>
+        <created>20260116T101100Z</created>
+        <updated>20260116T101100Z</updated>
+        <tag>00_Struktura_Systemu</tag>
+        <tag>Stack_X</tag>
+        <tag>Archiwum</tag>
+        <tag>e-Segregator</tag>
+    </note>
+
+    <!-- NOTATKA 13: SYSTEM TAGOWANIA -->
+    <note>
+        <title>12. System tagowania e-Segregator HACCP</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="background-color:#00a82d; color:white; padding:15px; margin:-10px -10px 20px -10px;">
+                <h1 style="margin:0;">SYSTEM TAGOWANIA</h1>
+                <p style="margin:5px 0 0 0; font-size:14px;">Szybkie wyszukiwanie i kategoryzacja</p>
+            </div>
+
+            <h2>Tagi glowne (kategorie):</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#dcfce7;">
+                    <th>Tag</th>
+                    <th>Opis</th>
+                </tr>
+                <tr><td><code>00_Dane_Zakladu</code></td><td>Informacje o zakladzie</td></tr>
+                <tr style="background-color:#f0fdf4;"><td><code>01_GHP</code></td><td>Dobra Praktyka Higieniczna</td></tr>
+                <tr><td><code>02_GMP</code></td><td>Dobra Praktyka Produkcyjna</td></tr>
+                <tr style="background-color:#f0fdf4;"><td><code>03_HACCP</code></td><td>System HACCP, analiza zagrozen</td></tr>
+                <tr><td><code>04_Procedury</code></td><td>Procedury ogolne i instrukcje</td></tr>
+                <tr style="background-color:#f0fdf4;"><td><code>05_Formularze_i_Zapisy</code></td><td>Rejestry i formularze</td></tr>
+                <tr><td><code>06_Szkolenia</code></td><td>Materialy szkoleniowe i personel</td></tr>
+                <tr style="background-color:#f0fdf4;"><td><code>07_Audyty</code></td><td>Audyty i przeglady</td></tr>
+                <tr><td><code>08_Infrastruktura</code></td><td>Urzadzenia i plany zakladu</td></tr>
+                <tr style="background-color:#f0fdf4;"><td><code>09_Przepisy_Prawne</code></td><td>Akty prawne i interpretacje</td></tr>
+                <tr><td><code>99_Archiwum</code></td><td>Dokumenty archiwalne</td></tr>
+            </table>
+
+            <hr/>
+
+            <h2>Tagi funkcjonalne:</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#fef9c3;">
+                    <th>Tag</th>
+                    <th>Znaczenie</th>
+                </tr>
+                <tr><td><code>Do_Wypelniania</code></td><td>Rejestry biezace do codziennego uzywania</td></tr>
+                <tr style="background-color:#fefce8;"><td><code>Szablon</code></td><td>Wzory formularzy do kopiowania</td></tr>
+                <tr><td style="color:#dc2626;"><code>CCP</code></td><td>Krytyczne Punkty Kontroli</td></tr>
+                <tr style="background-color:#fefce8;"><td style="color:#dc2626;"><code>Pilne</code></td><td>Wymagajace natychmiastowej akcji</td></tr>
+                <tr><td style="color:#16a34a;"><code>Zatwierdzone</code></td><td>Dokumenty zatwierdzone przez kierownictwo</td></tr>
+                <tr style="background-color:#fefce8;"><td><code>Do_Aktualizacji</code></td><td>Wymagajace przegladu</td></tr>
+            </table>
+
+            <hr/>
+
+            <h2>Tagi specyficzne dla zakladu:</h2>
+            <ul>
+                <li><code>Zaklad_Miesny</code></li>
+                <li><code>Produkcja_Kielbas</code></li>
+                <li><code>Rok_2026</code></li>
+            </ul>
+
+            <div style="background-color:#e0f2fe; padding:15px; border-left:5px solid #0284c7; margin:20px 0;">
+                <p><b>Wskazowka:</b> Uzywaj tagow konsekwentnie! Dzieki nim znajdziesz dowolny dokument w kilka sekund.</p>
+            </div>
+
+            <p style="font-size:10px; color:#94a3b8; margin-top:30px;"><i>INOVIT e-Segregator HACCP | System tagowania</i></p>
+        </en-note>]]>
+        </content>
+        <created>20260116T101200Z</created>
+        <updated>20260116T101200Z</updated>
+        <tag>00_Struktura_Systemu</tag>
+        <tag>Tagowanie</tag>
+        <tag>Instrukcja</tag>
+        <tag>e-Segregator</tag>
+    </note>
+
+    <!-- NOTATKA 14: PULPIT KONTROLNY -->
+    <note>
+        <title>13. PULPIT KONTROLNY - Dashboard</title>
+        <content><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
+        <en-note>
+            <div style="background-color:#1e293b; color:white; padding:20px; margin:-10px -10px 20px -10px; text-align:center;">
+                <h1 style="margin:0; font-size:24px;">KSIEGA HACCP</h1>
+                <p style="margin:10px 0 0 0; font-size:16px; color:#94a3b8;">[Nazwa zakladu]</p>
+            </div>
+
+            <h2>Dzisiaj do zrobienia:</h2>
+            <div style="background-color:#fef2f2; padding:15px; border-radius:8px; margin-bottom:20px;">
+                <ul style="margin:0;">
+                    <li>R-02 Kontrola temperatur (2x dziennie)</li>
+                    <li>R-03 Mycie i dezynfekcja (po produkcji)</li>
+                    <li>R-06 Karta produkcyjna (dla kazdej partii)</li>
+                </ul>
+            </div>
+
+            <hr/>
+
+            <h2>Szybki dostep:</h2>
+            <table border="0" cellpadding="10" cellspacing="5" style="width:100%;">
+                <tr>
+                    <td style="background-color:#dcfce7; border-radius:8px; text-align:center;">
+                        <b>Rejestry biezace</b><br/><span style="font-size:12px;">Stack IV</span>
+                    </td>
+                    <td style="background-color:#fef3c7; border-radius:8px; text-align:center;">
+                        <b>Plan HACCP</b><br/><span style="font-size:12px;">Tabela CCP</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="background-color:#fee2e2; border-radius:8px; text-align:center;">
+                        <b>Procedury awaryjne</b><br/><span style="font-size:12px;">GHP-08</span>
+                    </td>
+                    <td style="background-color:#e0f2fe; border-radius:8px; text-align:center;">
+                        <b>Kontakty</b><br/><span style="font-size:12px;">WIWW, DDD, Serwis</span>
+                    </td>
+                </tr>
+            </table>
+
+            <hr/>
+
+            <h2>Przypomnienia:</h2>
+            <ul>
+                <li>15.03.2026 - Przeglad zarzadzania Q1</li>
+                <li>20.03.2026 - Kontrola DDD (firma zewnetrzna)</li>
+                <li>31.03.2026 - Archiwizacja rejestrow Q1</li>
+            </ul>
+
+            <hr/>
+
+            <h2>Statystyki biezace:</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr>
+                    <td>Reklamacje w tym miesiacu:</td>
+                    <td style="text-align:center;"><b>0</b></td>
+                </tr>
+                <tr style="background-color:#f8fafc;">
+                    <td>Niezgodnosci w tym miesiacu:</td>
+                    <td style="text-align:center;"><b>0</b></td>
+                </tr>
+                <tr>
+                    <td>Dni bez niezgodnosci CCP:</td>
+                    <td style="text-align:center; color:#16a34a;"><b>___</b></td>
+                </tr>
+            </table>
+
+            <hr/>
+
+            <h2>Kontakty awaryjne:</h2>
+            <table border="1" cellpadding="8" cellspacing="0" style="width:100%; border-collapse:collapse;">
+                <tr style="background-color:#fef2f2;">
+                    <td><b>WIWW:</b></td>
+                    <td>_______________</td>
+                </tr>
+                <tr>
+                    <td><b>Firma DDD:</b></td>
+                    <td>_______________</td>
+                </tr>
+                <tr style="background-color:#fef2f2;">
+                    <td><b>Serwis chlodniczy:</b></td>
+                    <td>_______________</td>
+                </tr>
+                <tr>
+                    <td><b>Laboratorium:</b></td>
+                    <td>_______________</td>
+                </tr>
+            </table>
+
+            <div style="background-color:#e0f2fe; padding:15px; border-left:5px solid #0284c7; margin:20px 0;">
+                <p><b>Wskazowka:</b> Przytnij te notatke na gore Space, aby miec szybki dostep do najwazniejszych informacji!</p>
+            </div>
+
+            <p style="font-size:10px; color:#94a3b8; margin-top:30px;"><i>INOVIT e-Segregator HACCP | Pulpit kontrolny</i></p>
+        </en-note>]]>
+        </content>
+        <created>20260116T101300Z</created>
+        <updated>20260116T101300Z</updated>
+        <tag>00_Struktura_Systemu</tag>
+        <tag>Dashboard</tag>
+        <tag>Pulpit</tag>
+        <tag>e-Segregator</tag>
+    </note>
+
+</en-export>
