@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>e-Segregator HACCP by INOVIT | Cyfrowa Dokumentacja dla Branży Spożywczej</title>
+    <meta name="description" content="Pierwsza w Polsce kompletna dokumentacja HACCP w chmurze Evernote. Stworzona przez praktyka dla Twojego spokoju podczas kontroli.">
+    
+    <!-- Tailwind CSS (via CDN for standalone file) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Font Awesome (Icons) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Google Fonts: Inter -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        inovit: {
+                            dark: '#0f172a', // Slate 900 - Główny kolor marki (Ciemny)
+                            primary: '#1e293b', // Slate 800 - Drugorzędny
+                            accent: '#3b82f6', // Niebieski akcent
+                        },
+                        evernote: {
+                            green: '#00a82d', // Evernote Green
+                            dark: '#008f26',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        /* Smooth Scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+        /* Custom Utilities */
+        .glass-effect {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+        }
+        .hero-gradient {
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+        }
+        
+        /* --- MODAL STYLES (DODANE) --- */
+        .modal {
+            transition: opacity 0.3s ease, visibility 0.3s ease;
+        }
+        .modal.hidden-modal {
+            opacity: 0;
+            visibility: hidden;
+            pointer-events: none;
+        }
+        .modal.visible-modal {
+            opacity: 1;
+            visibility: visible;
+            pointer-events: auto;
+        }
+    </style>
+</head>
+<body class="font-sans text-gray-700 antialiased bg-gray-50">
+
+    <!-- NAVIGATION -->
+    <nav class="fixed w-full z-40 transition-all duration-300 glass-effect border-b border-gray-100" id="navbar">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-20 items-center">
+                <!-- Logo -->
+                <div class="flex-shrink-0 flex items-center gap-2">
+                    <!-- Simple CSS Logo placeholder imitating INOVIT style -->
+                    <div class="text-2xl font-bold tracking-tighter text-inovit-dark">
+                        INOVIT<span class="text-evernote-green">.</span>
+                    </div>
+                </div>
+
+                <!-- Desktop Menu -->
+                <div class="hidden md:flex space-x-8 items-center">
+                    <a href="#dlaczego-evernote" class="text-gray-600 hover:text-inovit-dark font-medium transition">Dlaczego Evernote?</a>
+                    <a href="#pakiety" class="text-gray-600 hover:text-inovit-dark font-medium transition">Pakiety i Ceny</a>
+                    <a href="#o-autorze" class="text-gray-600 hover:text-inovit-dark font-medium transition">O autorze</a>
+                    
+                    <!-- ZMIANA: PRZYCISK OTWIERA MODAL -->
+                    <button onclick="toggleModal(true)" class="bg-inovit-dark text-white px-5 py-2.5 rounded-lg font-semibold hover:bg-slate-700 transition shadow-lg shadow-slate-900/20 transform hover:scale-105 active:scale-95">
+                        Zamów wycenę
+                    </button>
+                </div>
+
+                <!-- Mobile menu button -->
+                <div class="md:hidden flex items-center">
+                    <button id="mobile-menu-btn" class="text-gray-600 hover:text-gray-900 focus:outline-none">
+                        <i class="fas fa-bars text-2xl"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <!-- Mobile Menu Panel -->
+        <div id="mobile-menu" class="hidden md:hidden bg-white border-t border-gray-100 absolute w-full z-40">
+            <div class="px-4 pt-2 pb-6 space-y-2">
+                <a href="#dlaczego-evernote" class="block py-2 text-gray-600 font-medium">Dlaczego Evernote?</a>
+                <a href="#pakiety" class="block py-2 text-gray-600 font-medium">Pakiety i Ceny</a>
+                <a href="#o-autorze" class="block py-2 text-gray-600 font-medium">O autorze</a>
+                <!-- ZMIANA: PRZYCISK MOBILNY OTWIERA MODAL -->
+                <button onclick="toggleModal(true)" class="block w-full text-left py-2 text-evernote-green font-bold">Zamów wycenę</button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- HERO SECTION -->
+    <section class="relative pt-32 pb-20 lg:pt-48 lg:pb-32 hero-gradient overflow-hidden">
+        <!-- Abstract Background Shapes -->
+        <div class="absolute top-0 right-0 -mr-20 -mt-20 w-96 h-96 bg-evernote-green opacity-10 rounded-full blur-3xl"></div>
+        <div class="absolute bottom-0 left-0 -ml-20 -mb-20 w-72 h-72 bg-blue-500 opacity-10 rounded-full blur-3xl"></div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+                <!-- Text Content -->
+                <div class="text-center lg:text-left">
+                    <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-slate-800 border border-slate-700 text-green-400 text-sm font-medium mb-6">
+                        <i class="fas fa-check-circle"></i> Nowość na rynku
+                    </div>
+                    <h1 class="text-4xl lg:text-6xl font-extrabold text-white leading-tight mb-6">
+                        Koniec z erą <br>
+                        <span class="text-gray-400">papierowych segregatorów.</span>
+                    </h1>
+                    <p class="text-lg text-gray-300 mb-8 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
+                        Poznaj <strong>e-Segregator HACCP</strong>. Pierwsza w Polsce kompletna dokumentacja w chmurze Evernote. Stworzona przez praktyka z 11-letnim doświadczeniem, dla Twojego spokoju podczas kontroli.
+                    </p>
+                    <div class="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
+                        <a href="#pakiety" class="bg-evernote-green text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-evernote-dark transition shadow-lg shadow-green-900/20 flex items-center justify-center gap-2">
+                            Wybierz Pakiet <i class="fas fa-arrow-right"></i>
+                        </a>
+                        <a href="#video-demo" class="bg-transparent border border-gray-600 text-white px-8 py-4 rounded-lg font-medium hover:bg-white/5 transition flex items-center justify-center gap-2">
+                            <i class="fas fa-play"></i> Zobacz Demo
+                        </a>
+                    </div>
+                </div>
+                
+                <!-- Hero Image (Mockup) -->
+                <div class="relative">
+                    <div class="rounded-2xl overflow-hidden shadow-2xl border border-slate-700 bg-slate-800 relative group">
+                        <!-- Placeholder for the Tablet/Phone Image generated by prompt -->
+                        <div class="aspect-video bg-slate-700 flex items-center justify-center relative overflow-hidden">
+                             <!-- Simulate Image -->
+                             <img src="tablet.png" alt="Tablet z Evernote e-Segregator na stole w zakładzie" class="object-cover w-full h-full opacity-80 group-hover:scale-105 transition duration-700">
+                             
+                             <!-- UI Overlay Mockup -->
+                             <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-transparent to-transparent opacity-60"></div>
+                        </div>
+                        <!-- Floating Badge -->
+                        <div class="absolute bottom-6 left-6 bg-white/10 backdrop-blur-md border border-white/20 p-4 rounded-xl text-white max-w-xs hidden sm:block">
+                            <div class="flex items-center gap-3">
+                                <div class="bg-green-500 rounded-full p-2">
+                                    <i class="fas fa-check text-white"></i>
+                                </div>
+                                <div>
+                                    <p class="text-xs text-gray-300">Status kontroli</p>
+                                    <p class="font-bold">Gotowy do audytu</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- PROBLEM / SOLUTION SECTION -->
+    <section class="py-20 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl font-bold text-inovit-dark mb-4">Czy Twoja dokumentacja przejdzie kontrolę w 5 minut?</h2>
+                <p class="text-gray-600 max-w-2xl mx-auto">Inspektor nie lubi czekać. Zobacz, jak e-Segregator zmienia zasady gry.</p>
+            </div>
+
+            <div class="grid md:grid-cols-2 gap-8 lg:gap-12">
+                <!-- Old Way -->
+                <div class="bg-gray-50 rounded-2xl p-8 border border-gray-100 relative overflow-hidden group hover:shadow-lg transition">
+                    <div class="absolute top-0 right-0 bg-red-100 text-red-600 px-4 py-1 rounded-bl-xl text-sm font-bold">CHAOS</div>
+                    <div class="mb-6 text-red-500 text-4xl"><i class="fas fa-file-excel"></i></div>
+                    <h3 class="text-xl font-bold text-gray-800 mb-4">Tradycyjny Segregator</h3>
+                    <ul class="space-y-4">
+                        <li class="flex items-start gap-3 text-gray-600">
+                            <i class="fas fa-times text-red-400 mt-1"></i>
+                            <span>Nerwowe szukanie wpisów przy inspektorze.</span>
+                        </li>
+                        <li class="flex items-start gap-3 text-gray-600">
+                            <i class="fas fa-times text-red-400 mt-1"></i>
+                            <span>Ryzyko zgubienia lub zalania kart kontrolnych na kuchni.</span>
+                        </li>
+                        <li class="flex items-start gap-3 text-gray-600">
+                            <i class="fas fa-times text-red-400 mt-1"></i>
+                            <span>Mozolne, ręczne przepisywanie danych i archiwizacja.</span>
+                        </li>
+                        <li class="flex items-start gap-3 text-gray-600">
+                            <i class="fas fa-times text-red-400 mt-1"></i>
+                            <span>Segregator leży w biurze, a życie toczy się na produkcji.</span>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- New Way -->
+                <div class="bg-slate-900 rounded-2xl p-8 border border-slate-700 relative overflow-hidden group hover:shadow-2xl transition transform md:-translate-y-4">
+                    <div class="absolute top-0 right-0 bg-evernote-green text-white px-4 py-1 rounded-bl-xl text-sm font-bold">INOVIT</div>
+                    <div class="mb-6 text-evernote-green text-4xl"><i class="fas fa-cloud-check"></i></div>
+                    <h3 class="text-xl font-bold text-white mb-4">e-Segregator HACCP</h3>
+                    <ul class="space-y-4">
+                        <li class="flex items-start gap-3 text-gray-300">
+                            <i class="fas fa-check text-evernote-green mt-1"></i>
+                            <span>Błyskawiczna wyszukiwarka w telefonie (znajdź wpis w 3 sekundy).</span>
+                        </li>
+                        <li class="flex items-start gap-3 text-gray-300">
+                            <i class="fas fa-check text-evernote-green mt-1"></i>
+                            <span>Bezpieczna kopia w chmurze Evernote - niezniszczalna.</span>
+                        </li>
+                        <li class="flex items-start gap-3 text-gray-300">
+                            <i class="fas fa-check text-evernote-green mt-1"></i>
+                            <span>Rejestry wypełniane "jednym kliknięciem" + zdjęcia jako dowód.</span>
+                        </li>
+                        <li class="flex items-start gap-3 text-gray-300">
+                            <i class="fas fa-check text-evernote-green mt-1"></i>
+                            <span>System, który żyje i jest zawsze tam, gdzie Ty.</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- WHY EVERNOTE SECTION -->
+    <section id="dlaczego-evernote" class="py-20 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+                <span class="text-evernote-green font-bold tracking-wider uppercase text-sm">Technologia</span>
+                <h2 class="text-3xl lg:text-4xl font-bold text-inovit-dark mt-2 mb-4">Dlaczego Evernote?</h2>
+                <p class="text-gray-600 max-w-2xl mx-auto">Nie sprzedaję Ci drogiego oprogramowania. Daję Ci system zbudowany na najlepszej aplikacji do notatek na świecie.</p>
+            </div>
+
+            <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-8">
+                <!-- Feature 1 -->
+                <div class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition text-center">
+                    <div class="w-14 h-14 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4 text-evernote-dark text-xl">
+                        <i class="fas fa-rocket"></i>
+                    </div>
+                    <h4 class="font-bold text-lg mb-2">Wdrożenie w 1 dzień</h4>
+                    <p class="text-sm text-gray-500">Importujesz dostarczone pliki .enex i system jest gotowy. Bez konfiguracji serwerów.</p>
+                </div>
+
+                <!-- Feature 2 -->
+                <div class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition text-center">
+                    <div class="w-14 h-14 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4 text-evernote-dark text-xl">
+                        <i class="fas fa-mobile-alt"></i>
+                    </div>
+                    <h4 class="font-bold text-lg mb-2">Pełna Mobilność</h4>
+                    <p class="text-sm text-gray-500">Działa na iOS, Android, Windows i Mac. Laptop w biurze, telefon na hali.</p>
+                </div>
+
+                <!-- Feature 3 -->
+                <div class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition text-center">
+                    <div class="w-14 h-14 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4 text-evernote-dark text-xl">
+                        <i class="fas fa-wifi"></i>
+                    </div>
+                    <h4 class="font-bold text-lg mb-2">Tryb Offline</h4>
+                    <p class="text-sm text-gray-500">Brak internetu w chłodni? Żaden problem. Dane zsynchronizują się po powrocie do biura.</p>
+                </div>
+
+                <!-- Feature 4 -->
+                <div class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition text-center">
+                    <div class="w-14 h-14 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4 text-evernote-dark text-xl">
+                        <i class="fas fa-wallet"></i>
+                    </div>
+                    <h4 class="font-bold text-lg mb-2">Niski Koszt</h4>
+                    <p class="text-sm text-gray-500">Korzystasz z darmowej lub taniej wersji Evernote. Płacisz raz za wiedzę INOVIT.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- WHAT'S INSIDE SECTION -->
+    <section class="py-20 bg-white border-y border-gray-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid lg:grid-cols-2 gap-16 items-center">
+                
+                <!-- Content List -->
+                <div>
+                    <h2 class="text-3xl font-bold text-inovit-dark mb-6">Kompletny ekosystem bezpieczeństwa żywności</h2>
+                    <p class="text-gray-600 mb-8">To nie są puste szablony. Otrzymujesz wypełnioną wiedzą strukturę, gotową do personalizacji pod Twój zakład.</p>
+                    
+                    <div class="space-y-6">
+                        <!-- Item -->
+                        <div class="flex gap-4">
+                            <div class="flex-shrink-0 w-10 h-10 rounded-full bg-slate-100 flex items-center justify-center text-inovit-primary font-bold">1</div>
+                            <div>
+                                <h4 class="font-bold text-gray-900">Księga HACCP</h4>
+                                <p class="text-sm text-gray-500">Pełna analiza zagrożeń, wyznaczenie CCP/CP, schematy technologiczne.</p>
+                            </div>
+                        </div>
+                        <!-- Item -->
+                        <div class="flex gap-4">
+                            <div class="flex-shrink-0 w-10 h-10 rounded-full bg-slate-100 flex items-center justify-center text-inovit-primary font-bold">2</div>
+                            <div>
+                                <h4 class="font-bold text-gray-900">15 Procedur GHP/GMP</h4>
+                                <p class="text-sm text-gray-500">Gotowe instrukcje: od mycia i dezynfekcji, przez higienę personelu, aż po kontrolę szkodników.</p>
+                            </div>
+                        </div>
+                        <!-- Item -->
+                        <div class="flex gap-4">
+                            <div class="flex-shrink-0 w-10 h-10 rounded-full bg-slate-100 flex items-center justify-center text-inovit-primary font-bold">3</div>
+                            <div>
+                                <h4 class="font-bold text-gray-900">10 Interaktywnych Rejestrów</h4>
+                                <p class="text-sm text-gray-500">Cyfrowe formularze do codziennych zapisów (temperatury, przyjęcie towaru, mycie).</p>
+                            </div>
+                        </div>
+                         <!-- Item -->
+                         <div class="flex gap-4">
+                            <div class="flex-shrink-0 w-10 h-10 rounded-full bg-slate-100 flex items-center justify-center text-inovit-primary font-bold">4</div>
+                            <div>
+                                <h4 class="font-bold text-gray-900">Struktura 10 Stack'ów</h4>
+                                <p class="text-sm text-gray-500">Logiczny podział dokumentacji w Evernote, który zrozumie każdy audytor.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Visual Representation -->
+                <div class="relative">
+                    <div class="bg-gray-100 rounded-xl p-6 rotate-2 transform hover:rotate-0 transition duration-500 border border-gray-200 shadow-xl">
+                        <!-- Abstract representation of files -->
+                        <div class="flex flex-col gap-3">
+                            <div class="bg-white p-4 rounded shadow-sm border-l-4 border-evernote-green flex justify-between items-center">
+                                <span class="font-medium text-gray-700"><i class="fas fa-book mr-2 text-green-600"></i> I. Księga HACCP</span>
+                                <i class="fas fa-chevron-right text-gray-300"></i>
+                            </div>
+                            <div class="bg-white p-4 rounded shadow-sm border-l-4 border-blue-500 flex justify-between items-center">
+                                <span class="font-medium text-gray-700"><i class="fas fa-list-check mr-2 text-blue-500"></i> II. Procedury GHP/GMP</span>
+                                <i class="fas fa-chevron-right text-gray-300"></i>
+                            </div>
+                            <div class="bg-white p-4 rounded shadow-sm border-l-4 border-orange-500 flex justify-between items-center">
+                                <span class="font-medium text-gray-700"><i class="fas fa-clipboard-list mr-2 text-orange-500"></i> III. Rejestry Operacyjne</span>
+                                <i class="fas fa-chevron-right text-gray-300"></i>
+                            </div>
+                            <div class="bg-white p-4 rounded shadow-sm border-l-4 border-purple-500 flex justify-between items-center">
+                                <span class="font-medium text-gray-700"><i class="fas fa-vial mr-2 text-purple-500"></i> IV. Badania Laboratoryjne</span>
+                                <i class="fas fa-chevron-right text-gray-300"></i>
+                            </div>
+                            <div class="mt-4 p-4 bg-slate-800 rounded text-white text-center text-sm">
+                                <i class="fas fa-sync fa-spin mr-2"></i> Synchronizacja z chmurą...
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- PRICING SECTION -->
+    <section id="pakiety" class="py-20 bg-slate-900 text-white relative">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+            <div class="text-center mb-16">
+                <h2 class="text-3xl lg:text-4xl font-bold mb-4">Wybierz wariant dla siebie</h2>
+                <p class="text-gray-400 max-w-xl mx-auto">Przejrzyste zasady. Jednorazowa płatność za wdrożenie systemu.</p>
+            </div>
+
+            <div class="grid lg:grid-cols-2 gap-8 max-w-4xl mx-auto">
+                
+                <!-- Package B -->
+                <div class="bg-slate-800 rounded-2xl p-8 border border-slate-700 flex flex-col hover:border-slate-500 transition">
+                    <div class="mb-4">
+                        <span class="bg-slate-700 text-gray-300 px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wide">Dla Samodzielnych</span>
+                    </div>
+                    <h3 class="text-2xl font-bold mb-2">Pakiet B: Fundament</h3>
+                    <p class="text-gray-400 text-sm mb-6">Solidna baza do dalszej pracy własnej.</p>
+                    <div class="text-4xl font-bold mb-1">1 499 zł <span class="text-lg text-gray-500 font-normal">netto</span></div>
+                    <div class="text-xs text-gray-500 mb-8">Faktura VAT</div>
+
+                    <ul class="space-y-4 mb-8 flex-1">
+                        <li class="flex items-start gap-3">
+                            <i class="fas fa-check text-green-500 mt-1"></i>
+                            <span class="text-sm">26 gotowych dokumentów (GHP/GMP + Rejestry)</span>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <i class="fas fa-check text-green-500 mt-1"></i>
+                            <span class="text-sm">Struktura folderów w Evernote</span>
+                        </li>
+                        <li class="flex items-start gap-3 opacity-50">
+                            <i class="fas fa-minus text-gray-500 mt-1"></i>
+                            <span class="text-sm text-gray-500">Samodzielne opracowanie Analizy Zagrożeń (Stack II/III)</span>
+                        </li>
+                         <li class="flex items-start gap-3 opacity-50">
+                            <i class="fas fa-minus text-gray-500 mt-1"></i>
+                            <span class="text-sm text-gray-500">Opcja: Wsparcie konsultanta (500 zł/mies)</span>
+                        </li>
+                    </ul>
+
+                    <!-- ZMIANA: PRZYCISK PAKIET B -->
+                    <button onclick="openModalWithPackage('Pakiet B')" class="block w-full py-3 px-6 rounded-lg border border-slate-600 hover:bg-slate-700 text-center font-semibold transition cursor-pointer">
+                        Wybieram Fundament
+                    </button>
+                </div>
+
+                <!-- Package A (Featured) -->
+                <div class="bg-white rounded-2xl p-8 border-2 border-evernote-green flex flex-col relative transform lg:-translate-y-4 shadow-2xl shadow-green-900/20">
+                    <div class="absolute top-0 center bg-evernote-green text-white px-6 py-1 rounded-b-lg text-sm font-bold tracking-wide left-1/2 transform -translate-x-1/2">
+                        NAJCZĘŚCIEJ WYBIERANY
+                    </div>
+                    <div class="mt-6 mb-4">
+                        <span class="bg-green-100 text-green-800 px-3 py-1 rounded-full text-xs font-bold uppercase tracking-wide">Kompletny System</span>
+                    </div>
+                    <h3 class="text-2xl font-bold text-gray-900 mb-2">Pakiet A: Pełna Księga</h3>
+                    <p class="text-gray-500 text-sm mb-6">Wszystko robię za Ciebie. Gotowość do audytu.</p>
+                    <div class="text-4xl font-bold text-gray-900 mb-1">3 399 zł <span class="text-lg text-gray-500 font-normal">netto</span></div>
+                    <div class="text-xs text-gray-400 mb-8">Faktura VAT</div>
+
+                    <ul class="space-y-4 mb-8 flex-1">
+                        <li class="flex items-start gap-3">
+                            <i class="fas fa-check text-evernote-green mt-1"></i>
+                            <span class="text-sm text-gray-700 font-medium">Pełne ~46 dokumentów</span>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <i class="fas fa-check text-evernote-green mt-1"></i>
+                            <span class="text-sm text-gray-700 font-medium">Indywidualna Analiza Zagrożeń i CCP</span>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <i class="fas fa-check text-evernote-green mt-1"></i>
+                            <span class="text-sm text-gray-700 font-medium">Dostosowanie do technologii Twojego zakładu</span>
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <i class="fas fa-check text-evernote-green mt-1"></i>
+                            <span class="text-sm text-gray-700 font-medium">Opcja: "Żywa dokumentacja" (stała opieka)</span>
+                        </li>
+                    </ul>
+
+                    <!-- ZMIANA: PRZYCISK PAKIET A -->
+                    <button onclick="openModalWithPackage('Pakiet A')" class="block w-full py-4 px-6 rounded-lg bg-evernote-green hover:bg-evernote-dark text-white text-center font-bold transition shadow-lg cursor-pointer">
+                        Zamawiam Pełną Księgę
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- AUTHOR SECTION -->
+    <section id="o-autorze" class="py-20 bg-white">
+        <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="bg-gray-50 rounded-3xl p-8 lg:p-12 border border-gray-100 flex flex-col md:flex-row items-center gap-10">
+                <!-- Author Image Placeholder -->
+                <div class="w-40 h-40 md:w-56 md:h-56 flex-shrink-0 relative">
+                    <div class="absolute inset-0 bg-blue-200 rounded-full blur-2xl opacity-50"></div>
+                     <img src="autor.png" alt="Krzysztof Klebaniuk" class="rounded-full w-full h-full object-cover border-4 border-white shadow-lg relative z-10">
+                </div>
+                
+                <div>
+                    <h2 class="text-2xl font-bold text-inovit-dark mb-4">O autorze</h2>
+                    <h3 class="text-xl text-gray-700 font-medium mb-4">mgr inż. Krzysztof Klebaniuk</h3>
+                    <p class="text-gray-600 mb-6 leading-relaxed">
+Od lat mam do czynienia z produkcją żywności i nadzoruję systemy bezpieczeństwa żywności. Jako założyciel marki INOVIT, pomagam przedsiębiorcom z branży spożywczej przekształcać skomplikowane wymogi prawne w prosty i skuteczny system, który realnie działa. E-Segregator HACCP to esencja mojego praktycznego doświadczenia.
+                    </p>
+                    <p class="text-gray-600 mb-6 leading-relaxed">
+                        Daję Ci narzędzie, które sam stosuję na co dzień. Wiem, czego szuka inspektor i jak przygotować dokumentację, by kontrola była formalnością, a nie stresującym przeżyciem. Mój system działa, a nie tylko jest!
+                    </p>
+                    <div class="flex gap-4">
+                        <a href="https://www.linkedin.com/in/krzysztof-klebaniuk-inovit" target="_blank" class="text-blue-600 hover:text-blue-800 font-medium flex items-center gap-2">
+                            <i class="fab fa-linkedin"></i> Zobacz mój profil
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CONTACT / FOOTER -->
+    <section id="kontakt" class="bg-inovit-dark text-white pt-20 pb-10 border-t border-slate-800">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            
+            <div class="grid md:grid-cols-3 gap-12 mb-16">
+                <!-- Brand -->
+                <div>
+                    <div class="text-2xl font-bold tracking-tighter text-white mb-6">
+                        INOVIT<span class="text-evernote-green">.</span>
+                    </div>
+                    <p class="text-gray-400 text-sm leading-relaxed">
+                        Nowoczesny consulting dla branży spożywczej. INOVIT łączy wiedzę technologiczną z zaawansowanymi narzędziami cyfrowymi.
+                    </p>
+                </div>
+
+                <!-- Contact -->
+                <div>
+                    <h4 class="text-lg font-bold mb-6">Kontakt</h4>
+                    <ul class="space-y-4 text-gray-400">
+                        <li>
+                            <a href="mailto:kontakt@inovit.com.pl" class="hover:text-white transition flex items-center gap-3">
+                                <i class="fas fa-envelope text-evernote-green"></i> kontakt@inovit.com.pl
+                            </a>
+                        </li>
+                        <li>
+                            <span class="flex items-center gap-3">
+                                <i class="fas fa-phone text-evernote-green"></i> +48 575 757 638
+                            </span>
+                        </li>
+                        <li>
+                            <span class="flex items-center gap-3">
+                                <i class="fas fa-map-marker-alt text-evernote-green"></i> Biała Podlaska, Polska
+                            </span>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Links -->
+                <div>
+                    <h4 class="text-lg font-bold mb-6">Linki</h4>
+                    <ul class="space-y-4 text-gray-400">
+                        <li><a href="https://inovit.com.pl/formularz" class="hover:text-white transition">Formularz kontaktowy</a></li>
+                        <li><a href="oferta_esegregator.html" class="hover:text-white transition">Oferta e-Segregator</a></li>
+                        <li><a href="#" class="hover:text-white transition">Polityka Prywatności</a></li>
+                        <li><a href="#" class="hover:text-white transition">Regulamin</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
+                <p>&copy; 2025 INOVIT Krzysztof Klebaniuk. Wszelkie prawa zastrzeżone.</p>
+                <p class="mt-2 md:mt-0">Więcej informacji na <a href="https://inovit.com.pl" class="text-gray-400 hover:text-white">inovit.com.pl</a></p>
+            </div>
+        </div>
+    </section>
+
+    <!-- === MODAL (POP-UP) START (DODANE) === -->
+    <div id="quote-modal" class="modal hidden-modal fixed inset-0 z-[100] flex items-center justify-center p-4">
+        <!-- Backdrop -->
+        <div class="absolute inset-0 bg-slate-900/80 backdrop-blur-sm transition-opacity" onclick="toggleModal(false)"></div>
+        
+        <!-- Modal Content -->
+        <div class="bg-white rounded-2xl shadow-2xl w-full max-w-lg relative z-10 overflow-hidden transform transition-all scale-100">
+            <!-- Header -->
+            <div class="bg-inovit-dark p-6 flex justify-between items-center">
+                <div>
+                    <h3 class="text-xl font-bold text-white">Zamów wycenę / Demo</h3>
+                    <p class="text-sm text-gray-400 mt-1">Porozmawiajmy o e-Segregatorze dla Twojej firmy.</p>
+                </div>
+                <button onclick="toggleModal(false)" class="text-gray-400 hover:text-white transition">
+                    <i class="fas fa-times text-2xl"></i>
+                </button>
+            </div>
+
+            <!-- Form -->
+            <div class="p-8">
+                <form id="contact-form" action="send-mail.php" method="POST" class="space-y-4">
+
+                    <!-- Input: Name -->
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700 mb-1">Imię i Nazwisko</label>
+                        <input type="text" name="imie" required placeholder="np. Jan Kowalski" class="w-full rounded-lg border-gray-300 border p-3 focus:ring-2 focus:ring-evernote-green focus:border-transparent outline-none transition">
+                    </div>
+
+                    <!-- Input: Email & Phone -->
+                    <div class="grid grid-cols-2 gap-4">
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">E-mail</label>
+                            <input type="email" name="email" required placeholder="jan@firma.pl" class="w-full rounded-lg border-gray-300 border p-3 focus:ring-2 focus:ring-evernote-green outline-none">
+                        </div>
+                        <div>
+                            <label class="block text-sm font-medium text-gray-700 mb-1">Telefon</label>
+                            <input type="tel" name="telefon" placeholder="123 456 789" class="w-full rounded-lg border-gray-300 border p-3 focus:ring-2 focus:ring-evernote-green outline-none">
+                        </div>
+                    </div>
+
+                    <!-- Select: Industry -->
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700 mb-1">Branża</label>
+                        <select name="branza" class="w-full rounded-lg border-gray-300 border p-3 focus:ring-2 focus:ring-evernote-green outline-none bg-white">
+                            <option value="miesna">Zakład Mięsny / Wędliniarski</option>
+                            <option value="rybna">Przetwórstwo Rybne</option>
+                            <option value="gastronomia">Gastronomia / Restauracja</option>
+                            <option value="sklep">Sklep Spożywczy</option>
+                            <option value="inna">Inna</option>
+                        </select>
+                    </div>
+
+                    <!-- Select: Package (ID used for JS pre-selection) -->
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700 mb-1">Interesuje mnie</label>
+                        <select name="pakiet" id="package-select" class="w-full rounded-lg border-gray-300 border p-3 focus:ring-2 focus:ring-evernote-green outline-none bg-white">
+                            <option value="pakiet_a">Pakiet A: Pełna Księga (3399 zł)</option>
+                            <option value="pakiet_b">Pakiet B: Fundament (1499 zł)</option>
+                            <option value="demo">Demo Systemu / Pytanie</option>
+                        </select>
+                    </div>
+
+                    <!-- Textarea: Message -->
+                    <div>
+                        <label class="block text-sm font-medium text-gray-700 mb-1">Dodatkowe informacje (opcjonalnie)</label>
+                        <textarea name="wiadomosc" rows="3" placeholder="Opisz krótko specyfikę swojego zakładu..." class="w-full rounded-lg border-gray-300 border p-3 focus:ring-2 focus:ring-evernote-green outline-none resize-none"></textarea>
+                    </div>
+
+                    <!-- Hidden field for source tracking -->
+                    <input type="hidden" name="source" value="e-Segregator Landing Page">
+                    <input type="hidden" name="recipient" value="kontakt@inovit.com.pl">
+
+                    <!-- Submit -->
+                    <div class="pt-2">
+                        <button type="submit" id="submit-btn" class="w-full bg-evernote-green text-white font-bold py-3 rounded-lg hover:bg-evernote-dark transition shadow-lg">
+                            Wyślij Zapytanie
+                        </button>
+                    </div>
+
+                    <!-- Success/Error Messages -->
+                    <div id="form-message" class="hidden text-center text-sm font-medium"></div>
+
+                    <p class="text-xs text-gray-500 text-center mt-4">
+                        Wysyłając formularz, zgadzasz się na kontakt w celu przedstawienia oferty.
+                    </p>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- === MODAL END === -->
+
+    <!-- Scripts -->
+    <script>
+        // Mobile Menu Toggle
+        const btn = document.getElementById('mobile-menu-btn');
+        const menu = document.getElementById('mobile-menu');
+
+        btn.addEventListener('click', () => {
+            menu.classList.toggle('hidden');
+        });
+
+        // Sticky Navbar effect
+        window.addEventListener('scroll', () => {
+            const navbar = document.getElementById('navbar');
+            if (window.scrollY > 20) {
+                navbar.classList.add('shadow-lg');
+                navbar.classList.add('bg-white/95');
+                navbar.classList.remove('bg-white/80'); // Adjust as needed
+            } else {
+                navbar.classList.remove('shadow-lg');
+            }
+        });
+
+        // --- MODAL LOGIC (DODANE) ---
+        function toggleModal(show) {
+            const modal = document.getElementById('quote-modal');
+            if (show) {
+                modal.classList.remove('hidden-modal');
+                modal.classList.add('visible-modal');
+                document.body.style.overflow = 'hidden'; // Prevent scrolling background
+            } else {
+                modal.classList.remove('visible-modal');
+                modal.classList.add('hidden-modal');
+                document.body.style.overflow = '';
+            }
+        }
+
+        // Helper to open modal and select the correct package
+        function openModalWithPackage(pkgName) {
+            const select = document.getElementById('package-select');
+
+            if(pkgName === 'Pakiet A') {
+                select.value = 'pakiet_a';
+            } else if (pkgName === 'Pakiet B') {
+                select.value = 'pakiet_b';
+            } else {
+                select.value = 'demo';
+            }
+
+            toggleModal(true);
+        }
+
+        // --- AJAX FORM SUBMISSION (DODANE) ---
+        document.getElementById('contact-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            const form = e.target;
+            const submitBtn = document.getElementById('submit-btn');
+            const formMessage = document.getElementById('form-message');
+            const formData = new FormData(form);
+
+            // Disable button during submission
+            submitBtn.disabled = true;
+            submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i> Wysyłanie...';
+            formMessage.classList.add('hidden');
+
+            // Send via fetch
+            fetch(form.action, {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    // Success
+                    formMessage.textContent = '✓ Wiadomość wysłana! Odezwiemy się wkrótce.';
+                    formMessage.classList.remove('hidden', 'text-red-600');
+                    formMessage.classList.add('text-green-600');
+                    form.reset();
+
+                    // Close modal after 2 seconds
+                    setTimeout(() => {
+                        toggleModal(false);
+                        formMessage.classList.add('hidden');
+                    }, 2000);
+                } else {
+                    // Error
+                    formMessage.textContent = '✗ Błąd: ' + (data.message || 'Spróbuj ponownie.');
+                    formMessage.classList.remove('hidden', 'text-green-600');
+                    formMessage.classList.add('text-red-600');
+                }
+            })
+            .catch(error => {
+                // Network error
+                formMessage.textContent = '✗ Błąd połączenia. Spróbuj ponownie lub zadzwoń: +48 575 757 638';
+                formMessage.classList.remove('hidden', 'text-green-600');
+                formMessage.classList.add('text-red-600');
+            })
+            .finally(() => {
+                // Re-enable button
+                submitBtn.disabled = false;
+                submitBtn.innerHTML = 'Wyślij Zapytanie';
+            });
+        });
+    </script>
+</body>
+</html>
